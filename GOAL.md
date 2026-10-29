@@ -21,4 +21,4 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 - Source files for the encrypted liturgical books (see INVENTORY.md).
 
 ## Next step
-Receive the package link, run the inventory, then write the stack comparison.
+Find sources for the missing books (INVENTORY.md), then write the stack comparison.

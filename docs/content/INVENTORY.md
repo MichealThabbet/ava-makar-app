@@ -27,3 +27,22 @@ Date: 2026-10-29. Method: unzip each part, count files per folder and type, samp
 1. The owner's own Katameros working files (made with Fr. Ignatius of Anba Bishoy).
 2. The monastery's printed editions (also match the Old Bohairic pronunciation, DEC-P0-06).
 3. A written license from the Orsozoxi developer for the decrypted content.
+
+---
+
+# Package 2 — Katamaras 2.0.1 (`coptic.avabishoy.katamars`), owner's own work
+Date: 2026-10-29. 1,947 files. All text files are **plain UTF-8** (random sample of 40: 40 Arabic, 0 encrypted).
+
+| Content | Files | Notes | Usable |
+|---|---|---|---|
+| Katameros reading table: weekdays per Coptic month 1–13, Sundays, Great Lent, Pentecost (50 days), Holy Week, plus psalm tables | 24 + 10 | One line per day: `[day/month][book_chapter:verses]×9[title]`. References only; text resolved from the Bible | Yes — primary Katameros source |
+| Synaxarium, 13 months + special days | 370 | Plain Arabic | Yes — replaces the encrypted Orsozoxi Synaxarium |
+| Arabic Bible, 73 books | 1,335 | Van Dyck wording, without tashkeel | Yes |
+| Qisma (fractions) | 40 | Plain Arabic | Yes |
+| Taks (rite notes) | 20 | Plain Arabic | Yes |
+| Kandil | 8 | Plain Arabic | Yes |
+| Laqqan and Sagda | 8 | Plain Arabic | Yes |
+
+## Coverage after both packages
+- Covered: Bible (Arabic), Katameros (references + Bible text), Synaxarium, Qisma, Taks, Kandil, Laqqan, Sagda, Madayeh, Holy Week readings.
+- Still missing (needs a source): Agpeya, Kholagy (liturgy texts), Annual and Kiahk Psalmody, Difnar, Pascha book texts beyond the readings, all Coptic and Arabized Coptic columns.
