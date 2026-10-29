@@ -46,3 +46,23 @@ Date: 2026-10-29. 1,947 files. All text files are **plain UTF-8** (random sample
 ## Coverage after both packages
 - Covered: Bible (Arabic), Katameros (references + Bible text), Synaxarium, Qisma, Taks, Kandil, Laqqan, Sagda, Madayeh, Holy Week readings.
 - Still missing (needs a source): Agpeya, Kholagy (liturgy texts), Annual and Kiahk Psalmody, Difnar, Pascha book texts beyond the readings, all Coptic and Arabized Coptic columns.
+
+---
+
+# Package 3 — `churchbooks*.doc` (6 Word files from the owner)
+Date: 2026-10-29. Converted to UTF-8 text with LibreOffice; profiled by character ranges and key headings. Edition and publisher are not stated in the files (to be recorded when known).
+
+| File | Book | Lines | Script | Notes |
+|---|---|---|---|---|
+| churchbooks3 | Annual Psalmody / Tasbeha, with an introduction | 4,806 | Arabic | |
+| churchbooks4 | Kiahk Psalmody | 4,189 | Arabic | Near-duplicate of churchbooks5 (3,861 shared lines) |
+| churchbooks5 | Kiahk Psalmody | 4,186 | Arabic | Kept as the working copy; churchbooks4 used for comparison only |
+| churchbooks7 | Agpeya | 678 | Arabic | |
+| churchbooks23 | Kholagy: raising of incense, Basil, Gregory, Cyril liturgies | 9,823 | Arabic + Arabized responses | |
+| churchbooks24 | Lazarus Saturday, Palm Sunday, Holy Week (Pascha) services | 1,623 | Arabic | |
+
+No Unicode Coptic and no legacy-font Coptic text in any of the six files.
+
+## Coverage after packages 1–3
+- Covered (Arabic): Bible, Katameros, Synaxarium, Agpeya, Kholagy, Annual Psalmody, Kiahk Psalmody, Holy Week services, Qisma, Taks, Kandil, Laqqan, Sagda, Madayeh.
+- Still missing: Difnar; the Coptic column of every book; a complete Arabized Coptic column (DEC-P0-03, DEC-P0-09).
