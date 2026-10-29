@@ -12,6 +12,9 @@ Full wording and reasons: `docs/plan/P0_ADDENDUM.md` §1.
 | DEC-P0-06 | Bohairic Coptic; Old Bohairic pronunciation of St. Macarius Monastery; liturgical Greek tagged separately | 2026-10-29 | Owner |
 | DEC-P0-07 | Owner is the monastery's delegated approver (`approved-by-monastery`) | 2026-10-29 | Owner |
 | DEC-P0-08 | Text source: the owner's files (texts currently approved in the Church); Katameros by the owner with Fr. Ignatius of Anba Bishoy | 2026-10-29 | Owner |
+| DEC-P0-10 | English Bible: KJV (public domain outside the UK; verify the UK Crown rights before UK store release). The NKJV found in the package is not used | 2026-10-29 | Owner |
+| DEC-P0-11 | Latin UI font: Arimo (Apache 2.0), metric-compatible with Arial. `arial.ttf` from the package is not shipped (Microsoft license). Coptic fonts in the package (Avva Shenouda, Athanasius, Abraam): license to be verified before use | 2026-10-29 | Owner |
+| DEC-P0-12 | Coptic font: Noto Sans Coptic (OFL, Unicode) for the first release; request written permission for CS Ava Veni (© 2023 Ashraf Joseph, Beshoy Magdy) to make it the primary font if granted. Legacy (non-Unicode) Coptic fonts are not shipped; Coptic text in the package is converted to Unicode with a fixed, tested mapping | 2026-10-29 | Owner |
 | DEC-P0-09 | Arabized Coptic in two pronunciations, user-selectable: modern first, Old Bohairic when available | 2026-10-29 | Owner |
 
 ## Open architecture decisions
