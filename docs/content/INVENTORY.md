@@ -136,4 +136,4 @@ Reference value for P5 «بيت الخلوة» — fields and states found in th
 - Booking: «جدول بيت الخلوة», booking date, start/end date, departure date, booking status, «حجوزاتي», cancel booking, personal items list («المستلزمات الشخصية»).
 - Monastery label: «دير القديس مكاريوس الكبير».
 
-Open point (owner): is this the monastery's current official retreat system? Ava-Makar either integrates with its backend or replaces it (affects P5 design).
+Owner decision 2026-10-30 (DEC-P0-16): rarely used; reference only. Ava-Makar builds its own retreat system to a much higher standard; no integration with this backend.
