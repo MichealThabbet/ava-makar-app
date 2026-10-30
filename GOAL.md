@@ -18,7 +18,7 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 - No durations are set until the stack is decided.
 
 ## Blockers
-- Source files for the encrypted liturgical books (see INVENTORY.md).
+- Difnar: no source yet.
 
 ## Next step
-Find sources for the missing books (INVENTORY.md), then write the stack comparison.
+Write the stack comparison (ADR-001). Difnar source in parallel.

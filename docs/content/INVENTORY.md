@@ -87,7 +87,7 @@ Files by language: Arabic 399+, Arabized Coptic 140, Coptic 314.
 
 **Coptic encoding:** the `coptic.txt` files use the legacy Latin-mapped Coptic font encoding (e.g. `)wk te 5gom nem piwov`), not Unicode. Conversion to Unicode with a fixed, tested mapping is required (DEC-P0-12).
 **Pronunciation of the Arabized Coptic:** to be classified (modern vs Old Bohairic) during import (DEC-P0-09).
-**Provenance:** to be recorded (source not stated in the files).
+**Provenance:** the owner's own work (about six months), declared 2026-10-30 (DEC-P0-15).
 
 ## Coverage after packages 1–4
 - Coptic + Arabized Coptic columns now exist for: Holy Week, Psalmody, Basil and Gregory liturgies, Fractions, Raising of incense.
