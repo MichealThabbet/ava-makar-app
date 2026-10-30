@@ -148,3 +148,23 @@ Owner decision 2026-10-30 (DEC-P0-16): rarely used; reference only. Ava-Makar bu
 | 03 Colored Kholagy | Audit only: 0 content files in the APK | — | None |
 
 Not imported. Use as cross-check/reference only unless the owner decides otherwise.
+
+---
+
+# Package 11 — Kaneesty (Flutter app), 7-part archive
+Date: 2026-10-30. 1,988 files, plain data in `assets/flutter_assets/assets/`. Each data file states its own sources:
+
+| Content | Form | Languages | Stated source |
+|---|---|---|---|
+| Kholagy: incense, Basil, Gregory, **Cyril**, fractions | JSON (1 MB) | Arabic, Arabized Coptic, **Unicode Coptic** (57,633 Coptic chars), English | Coptic from st-takla.org; English from Anba Bishoy Church Canada books (Fr. Jacob Nadian), copticchurch.net, St-Takla |
+| Agpeya | JSON ×2 | Arabic (some Unicode Coptic), **English** | st-takla.org (corrections from orsozox.org) |
+| Holy Week (Pascha) | JSON (2.7 MB) | Arabic, English | Arabic from an app DB; English from «The Rite of Holy Week» (St Damiana & St Athanasius, Sydney) |
+| Synaxarium | JSON + SQLite (867 events) | **English** (+ Arabic DB) | katameros.app |
+| English Bible | SQLite, 35,448 verses | English | WEBBE + KJV fill, both public domain (eBible.org) |
+| Arabic Bible | SQLite, 73 books / 35,784 verses | Arabic | — |
+| Church feasts | JSON | — | Useful as a calendar cross-check |
+| Kids content, games | JSON | Arabic, English | Not in scope (no gamification of worship, vision §7) |
+
+**Security note:** the archive contains `assets/flutter_assets/.env` with the original developer's live API keys. Not opened, not used; the archive must not be published.
+
+**Value:** fills the Coptic column for the Cyril liturgy and the English column for Kholagy, Agpeya, Pascha and Synaxarium. These are third-party compilations of other sites' texts: use requires the owner's decision, with attribution to each stated source.
