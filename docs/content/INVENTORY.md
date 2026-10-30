@@ -92,3 +92,19 @@ Files by language: Arabic 399+, Arabized Coptic 140, Coptic 314.
 ## Coverage after packages 1–4
 - Coptic + Arabized Coptic columns now exist for: Holy Week, Psalmody, Basil and Gregory liturgies, Fractions, Raising of incense.
 - Still missing: Difnar; Coptic columns for Agpeya, Cyril liturgy, Kiahk Psalmody (to be confirmed inside the Psalmody folder).
+
+---
+
+# Package 5 — `apk-katamaras-mishel.zip` («قطمارس ميشيل»)
+Date: 2026-10-30. 1,522 files in 15 folders. A merged library of earlier sources.
+
+| Folder | Files | Finding | Decision |
+|---|---|---|---|
+| القطمارس, السنكسار, الكتاب المقدس, القسمة, اللقان, السجدة, القنديل, الطقوس, القراءات اليومية, الأجندة | ~970 | Same content as packages 1–2 (plain) | Already covered; no new import |
+| المدائح | 281 | Same as package 1 madayeh (plain html) | Already covered |
+| الإبصلمودية | 214 | Orsozoxi xls, cell-encrypted | Not usable |
+| الأجبية (`agypa.txt`, 486 KB, with tashkeel) | 1 | Plain text whose name matches the encrypted Orsozoxi asset `agypa.orso` | **Excluded**: decrypted third-party content |
+| دلال أسبوع الآلام | 62 | 51 of 56 text files share names with encrypted Orsozoxi `dallal/*.orso` | **Excluded**: decrypted third-party content |
+| التفاسير (`1.txt`, Windows-1256) | 1 | Commentary; Orsozoxi's Lent commentary was encrypted | **Excluded** unless its origin is shown to be different |
+
+Excluded items can be used only with the Orsozoxi developer's written permission (see the license request drafted on 2026-10-29). Agpeya (Arabic) remains covered by package 3 (`churchbooks7`).
