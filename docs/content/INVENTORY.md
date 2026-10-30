@@ -167,4 +167,4 @@ Date: 2026-10-30. 1,988 files, plain data in `assets/flutter_assets/assets/`. Ea
 
 **Security note:** the archive contains `assets/flutter_assets/.env` with the original developer's live API keys. Not opened, not used; the archive must not be published.
 
-**Value:** fills the Coptic column for the Cyril liturgy and the English column for Kholagy, Agpeya, Pascha and Synaxarium. These are third-party compilations of other sites' texts: use requires the owner's decision, with attribution to each stated source.
+**Value:** fills the Coptic column for the Cyril liturgy and the English column for Kholagy, Agpeya, Pascha and Synaxarium. These are third-party compilations of other sites' texts: approved by the owner (DEC-P0-17), with attribution to each stated source.
