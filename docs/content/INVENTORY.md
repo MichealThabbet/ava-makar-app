@@ -90,7 +90,8 @@ Files by language: Arabic 399+, Arabized Coptic 140, Coptic 314.
 **Provenance:** the owner's own work (about six months), declared 2026-10-30 (DEC-P0-15).
 
 ## Coverage after packages 1–4
-- Coptic + Arabized Coptic columns now exist for: Holy Week, Psalmody, Basil and Gregory liturgies, Fractions, Raising of incense.
+- Coptic column now exists for: Holy Week (314 units), Psalmody (148), Basil (79), Gregory (23), Raising of incense (27).
+- Arabized Coptic exists only for Holy Week (140 of 314 units). *(Corrected 2026-10-30; the earlier line overstated Arabized coverage.)*
 - Still missing: Difnar; Coptic columns for Agpeya, Cyril liturgy, Kiahk Psalmody (to be confirmed inside the Psalmody folder).
 
 ---
@@ -190,3 +191,17 @@ Languages across all documents (paragraph counts): English 95,026 · Arabic 93,3
 
 **Value:** closes the last content gap — the Difnar — and gives Unicode Coptic (no font conversion) plus English for most books; also adds rite books not held before (sacraments, funeral, consecrations).
 **Provenance:** approved by the owner under DEC-P0-17; source attribution: Coptic Reader / suscopts.org.
+
+---
+
+# Arabized Coptic coverage (all packages, 2026-10-30)
+| Book | Arabized source | State |
+|---|---|---|
+| Kholagy: incense, Basil, Gregory, Cyril, fractions | Kaneesty `kholagy_ar.json` field `cp` (467 segments); churchbooks23 (responses) | Covered |
+| Holy Week | Archive (140 of 314 Coptic units) | Partial |
+| Madayeh | Madayeh html | Covered |
+| Difnar | — | Missing |
+| Annual Psalmody / Tasbeha | — | Missing |
+| Kiahk Psalmody | — | Missing |
+| Agpeya (Coptic parts) | — | Missing |
+| Rites and sacraments, hymns (Coptic Reader) | — | Missing |
