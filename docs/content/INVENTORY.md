@@ -108,3 +108,20 @@ Date: 2026-10-30. 1,522 files in 15 folders. A merged library of earlier sources
 | التفاسير (`1.txt`, Windows-1256) | 1 | Commentary; Orsozoxi's Lent commentary was encrypted | **Excluded** unless its origin is shown to be different |
 
 **Update 2026-10-30 (DEC-P0-14):** the owner declared that this package is his own work with Fr. Ignatius of Anba Bishoy, and approved its use. The three items above are reinstated as usable, with provenance recorded as «owner's declaration». The file-name overlap with Orsozoxi assets is kept on record. Commentary `1.txt` is Windows-1256 and must be converted to UTF-8 on import.
+
+---
+
+# Package 6 — `com.Fr_matta_meskin` (app about Fr. Matta El-Meskin)
+Date: 2026-10-30. Plain content in `assets/` (HTML, SQLite `som.sqlite`). New material for 04.06 «مؤلفات وعظات آباء الدير» and 03.11 «قديسو الدير وآباؤه».
+
+| Content | Count | Form | Note |
+|---|---|---|---|
+| Biography (`nabza.htm`) | 1 | Arabic HTML | Usable after review |
+| Articles (`maqal1..26`) | 26 | Arabic HTML | Usable after review |
+| Sayings (`aqwal`) | 100 | SQLite text | Usable after review |
+| Sermons (audio) | 186 | Links to mp3 on a third-party site (music.beinlive24.com) | Titles usable as a catalogue; audio should come from the monastery's own copies, not hot-linked |
+| Videos | 100 | YouTube IDs | Can be embedded through YouTube's player |
+| Books (PDF) | 130 | Google Drive file IDs of an unknown owner | Titles usable as a catalogue; files should come from the monastery |
+| `som - Copy.sqlite` | 1 | Duplicate of `som.sqlite` | Ignored |
+
+Rights: Fr. Matta El-Meskin's writings are published by St Macarius Monastery; under DEC-P0-07 the owner approves their use.
