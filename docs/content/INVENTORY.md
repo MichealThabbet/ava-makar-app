@@ -107,4 +107,4 @@ Date: 2026-10-30. 1,522 files in 15 folders. A merged library of earlier sources
 | دلال أسبوع الآلام | 62 | 51 of 56 text files share names with encrypted Orsozoxi `dallal/*.orso` | **Excluded**: decrypted third-party content |
 | التفاسير (`1.txt`, Windows-1256) | 1 | Commentary; Orsozoxi's Lent commentary was encrypted | **Excluded** unless its origin is shown to be different |
 
-Excluded items can be used only with the Orsozoxi developer's written permission (see the license request drafted on 2026-10-29). Agpeya (Arabic) remains covered by package 3 (`churchbooks7`).
+**Update 2026-10-30 (DEC-P0-14):** the owner declared that this package is his own work with Fr. Ignatius of Anba Bishoy, and approved its use. The three items above are reinstated as usable, with provenance recorded as «owner's declaration». The file-name overlap with Orsozoxi assets is kept on record. Commentary `1.txt` is Windows-1256 and must be converted to UTF-8 on import.
