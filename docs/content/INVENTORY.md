@@ -66,3 +66,29 @@ No Unicode Coptic and no legacy-font Coptic text in any of the six files.
 ## Coverage after packages 1–3
 - Covered (Arabic): Bible, Katameros, Synaxarium, Agpeya, Kholagy, Annual Psalmody, Kiahk Psalmody, Holy Week services, Qisma, Taks, Kandil, Laqqan, Sagda, Madayeh.
 - Still missing: Difnar; the Coptic column of every book; a complete Arabized Coptic column (DEC-P0-03, DEC-P0-09).
+
+---
+
+# Package 4 — `Archive.zip` (owner), trilingual
+Date: 2026-10-30. 2,379 plain UTF-8 text files. Each text unit is a folder holding up to three parallel files: `N_arabic.txt`, `N_arabic_coptic.txt` (Arabized Coptic), `N_coptic.txt`.
+
+| Folder | Files | Content |
+|---|---|---|
+| holyweek | 853 | Holy Week (Pascha) by day and hour: prophecies, psalms, gospels, homilies, hymns |
+| السنكسار | 872 | Synaxarium, 13 months |
+| الإبصلمودية المقدسة | 251 | Psalmody, 103 units |
+| القداس الباسيلى | 130 | Liturgy of St Basil, 51 units |
+| Prayers | 134 | Prayers (`prayer_N.txt`) |
+| القداس الغريغوري | 49 | Liturgy of St Gregory, 26 units |
+| القسمة | 47 | Fractions |
+| رفع بخور عشية و رفع بخور باكر | 43 | Raising of incense, 16 units |
+
+Files by language: Arabic 399+, Arabized Coptic 140, Coptic 314.
+
+**Coptic encoding:** the `coptic.txt` files use the legacy Latin-mapped Coptic font encoding (e.g. `)wk te 5gom nem piwov`), not Unicode. Conversion to Unicode with a fixed, tested mapping is required (DEC-P0-12).
+**Pronunciation of the Arabized Coptic:** to be classified (modern vs Old Bohairic) during import (DEC-P0-09).
+**Provenance:** to be recorded (source not stated in the files).
+
+## Coverage after packages 1–4
+- Coptic + Arabized Coptic columns now exist for: Holy Week, Psalmody, Basil and Gregory liturgies, Fractions, Raising of incense.
+- Still missing: Difnar; Coptic columns for Agpeya, Cyril liturgy, Kiahk Psalmody (to be confirmed inside the Psalmody folder).
