@@ -125,3 +125,15 @@ Date: 2026-10-30. Plain content in `assets/` (HTML, SQLite `som.sqlite`). New ma
 | `som - Copy.sqlite` | 1 | Duplicate of `som.sqlite` | Ignored |
 
 Rights: Fr. Matta El-Meskin's writings are published by St Macarius Monastery; under DEC-P0-07 the owner approves their use.
+
+---
+
+# Package 7 — `com.stmacarius.khelwa` (existing St Macarius retreat-house app)
+Date: 2026-10-30. 1,024 files. **No liturgical content.** A booking client (Kotlin, Firebase, OkHttp) whose backend URL is `https://api.test.baramous.com/`; UI fonts: Cairo (OFL), Roboto.
+
+Reference value for P5 «بيت الخلوة» — fields and states found in the app's labels:
+- Applicant: full four-part name, national ID, birth date, address, email, job, education, own church, confession father, confession father's church, username/password.
+- Booking: «جدول بيت الخلوة», booking date, start/end date, departure date, booking status, «حجوزاتي», cancel booking, personal items list («المستلزمات الشخصية»).
+- Monastery label: «دير القديس مكاريوس الكبير».
+
+Open point (owner): is this the monastery's current official retreat system? Ava-Makar either integrates with its backend or replaces it (affects P5 design).
