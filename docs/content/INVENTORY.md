@@ -137,3 +137,14 @@ Reference value for P5 «بيت الخلوة» — fields and states found in th
 - Monastery label: «دير القديس مكاريوس الكبير».
 
 Owner decision 2026-10-30 (DEC-P0-16): rarely used; reference only. Ava-Makar builds its own retreat system to a much higher standard; no integration with this backend.
+
+---
+
+# Packages 8–10 (2026-10-30) — content extracted from three third-party apps
+| Package | Content | Coptic | Value |
+|---|---|---|---|
+| 01 Coptic Prayers Swedish | CSV: Agpeya 357 sentences, Dallal 1,216, Kholagy 1,680, Katameros tables (days, Sundays, Lent, Pentecost, psalms 507), Bible 35,780 verses + 74 book names; Arabic + Swedish | None (Kholagy `coptic` column empty) | Low for content (Swedish is not a UI language; Arabic duplicates sources already held). High as a data-model reference: `sentences` + `prays_relations` ordering tables |
+| 02 Holy Week Dallal | CSV: 1,216 sentences, 1,046 reading lines, 22 days, relations; Arabic | None (`hasCoptic` never set) | Second, independent Dallal source: cross-check for the Dallal approved under DEC-P0-14 |
+| 03 Colored Kholagy | Audit only: 0 content files in the APK | — | None |
+
+Not imported. Use as cross-check/reference only unless the owner decides otherwise.
