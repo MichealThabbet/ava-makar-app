@@ -20,6 +20,7 @@ Full wording and reasons: `docs/plan/P0_ADDENDUM.md` §1.
 | DEC-P0-15 | `Archive.zip` (trilingual Arabic / Arabized Coptic / Coptic) is the owner's own work (about six months); canonical source for the Coptic and Arabized Coptic columns of the books it covers | 2026-10-30 | Owner |
 | DEC-P0-16 | Existing app `com.stmacarius.khelwa` is reference only (rarely used). Ava-Makar builds its own retreat-house system, no integration with its backend | 2026-10-30 | Owner |
 | DEC-P0-17 | Kaneesty content approved for use, with each text attributed to its stated source. Standing rule: every file the owner sends is approved by the owner for use; provenance = owner's declaration plus the source named in the file. Limits that stay: no decryption of protected content, no use of credentials/secrets found in files | 2026-10-30 | Owner |
+| DEC-P0-18 | Rites and services (sacraments, funerals, consecrations and ordinations, papal, Laqqan, prostration, priest prayers) are shown to all users without restriction; they sit in 02.10 «كتب وخدمات طقسية أخرى» | 2026-10-30 | Owner |
 | DEC-P0-09 | Arabized Coptic in two pronunciations, user-selectable: modern first, Old Bohairic when available | 2026-10-29 | Owner |
 
 ## Open architecture decisions
