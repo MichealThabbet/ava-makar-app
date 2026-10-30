@@ -205,3 +205,12 @@ Languages across all documents (paragraph counts): English 95,026 · Arabic 93,3
 | Kiahk Psalmody | — | Missing |
 | Agpeya (Coptic parts) | — | Missing |
 | Rites and sacraments, hymns (Coptic Reader) | — | Missing |
+
+---
+
+# Package 13 — `defnar/bostan_al_rohban` (owner, added 2026-10-30, commit 8b806db)
+**بستان الرهبان** (sayings of the Desert Fathers): 1,226 paragraphs in 114 sections, Arabic **with and without tashkeel**. Data as JSON, CSV and an open SQLite file; one Markdown + JSON file per section.
+- Sections 002 «القديس مقاريوس الكبير» and 003 «انبا مقار» belong directly to the monastery's patron saint (01.05).
+- Fonts in the package: Amiri, Lateef, Scheherazade New, Noto Naskh Arabic, Tajawal (all OFL) — usable candidates for the Arabic reading font.
+- UI images (222) belong to the original app: not used.
+- Approved by the owner under DEC-P0-17.
