@@ -18,7 +18,7 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 - No durations are set until the stack is decided.
 
 ## Blockers
-- Difnar: no source yet.
+- None for content (Difnar found in package 12).
 
 ## Next step
-Write the stack comparison (ADR-001). Difnar source in parallel.
+Write the stack comparison (ADR-001).

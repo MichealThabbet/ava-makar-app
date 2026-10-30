@@ -168,3 +168,25 @@ Date: 2026-10-30. 1,988 files, plain data in `assets/flutter_assets/assets/`. Ea
 **Security note:** the archive contains `assets/flutter_assets/.env` with the original developer's live API keys. Not opened, not used; the archive must not be published.
 
 **Value:** fills the Coptic column for the Cyril liturgy and the English column for Kholagy, Agpeya, Pascha and Synaxarium. These are third-party compilations of other sites' texts: approved by the owner (DEC-P0-17), with attribution to each stated source.
+
+---
+
+# Package 12 — GitHub `MichealThabbet/defnar` (owner)
+Date: 2026-10-30. 6,073 files, 170 MB: 5,764 XML documents, images, fonts, gzip search indexes. XML namespace `http://www.suscopts.org/CopticReader` — the data set of the **Coptic Reader** app (Coptic Orthodox Diocese of the Southern United States). All text is plain, **Unicode Coptic**.
+
+Languages across all documents (paragraph counts): English 95,026 · Arabic 93,371 · Coptic 24,512 · CopticReading 18,429 (Coptic-script scripture readings). **No Arabized Coptic.**
+
+| Folder | XML | Notes |
+|---|---|---|
+| antiphonary | 22 | **Difnar: all 13 months** (Thoout … Nesi), Adam and Watos tunes, introduction. Coptic + English + Arabic |
+| readings | 3,043 | Readings |
+| include | 1,928 | Shared blocks used by other documents |
+| pascha | 204 | Holy Week |
+| liturgies | 168 | Liturgies |
+| melodies | 142 | Hymns |
+| bible | 74 | Bible |
+| consecrations, funeral, papal, clergy, crowning, baptism, unction, lakkan, prostration, veneration, praises, raisingOfIncense | 168 | Rites and services |
+| agpeya | 14 | Agpeya |
+
+**Value:** closes the last content gap — the Difnar — and gives Unicode Coptic (no font conversion) plus English for most books; also adds rite books not held before (sacraments, funeral, consecrations).
+**Provenance:** approved by the owner under DEC-P0-17; source attribution: Coptic Reader / suscopts.org.
