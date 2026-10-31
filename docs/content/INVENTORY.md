@@ -214,3 +214,23 @@ Languages across all documents (paragraph counts): English 95,026 · Arabic 93,3
 - Fonts in the package: Amiri, Lateef, Scheherazade New, Noto Naskh Arabic, Tajawal (all OFL) — usable candidates for the Arabic reading font.
 - UI images (222) belong to the original app: not used.
 - Approved by the owner under DEC-P0-17.
+
+---
+
+# Package 14 — `defnar/orsozox` (owner, commit bfbf735, 2026-10-31)
+7,007 files: Orsozoxi content reorganised by subject (TXT/CSV). Its own README states: 35,784 Bible verses (73 books, with/without tashkeel), 544 open documents, 1,750 originally unencrypted text files, and **2,229 spreadsheet groups whose encrypted cells were decrypted**.
+
+| Section | Files |
+|---|---|
+| الخولاجي | 2,094 |
+| الكتاب المقدس | 1,594 |
+| القطمارس | 1,150 |
+| الإبصلمودية | 1,010 |
+| السنكسار | 397 |
+| المدائح | 282 |
+| الصلوات والطقوس | 206 |
+| الشواهد | 135 |
+| الدلال | 94 |
+| الأجندة / آيات وتأملات / البصخة / ملحق الخطوط | 40 |
+
+**Handling:** the originally plain parts follow DEC-P0-17. The decrypted parts are kept as a **cross-check reference only**: every one of these books is already held from approved sources (packages 2, 3, 4, 11, 12), so the app does not need to publish Orsozoxi's decrypted text. Publishing it would need the Orsozoxi developer's permission (request drafted 2026-10-29).
