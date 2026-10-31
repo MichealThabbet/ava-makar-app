@@ -233,4 +233,6 @@ Languages across all documents (paragraph counts): English 95,026 · Arabic 93,3
 | الدلال | 94 |
 | الأجندة / آيات وتأملات / البصخة / ملحق الخطوط | 40 |
 
-**Handling:** the originally plain parts follow DEC-P0-17. The decrypted parts are kept as a **cross-check reference only**: every one of these books is already held from approved sources (packages 2, 3, 4, 11, 12), so the app does not need to publish Orsozoxi's decrypted text. Publishing it would need the Orsozoxi developer's permission (request drafted 2026-10-29).
+**Update 2026-10-31 (DEC-P0-19):** the owner states that the Orsozoxi developer agreed and provided the files and key; the whole library is approved for use, attributed to Orsozoxi. A written copy of the permission is to be kept on file.
+
+**Earlier handling (superseded):** the originally plain parts follow DEC-P0-17. The decrypted parts are kept as a **cross-check reference only**: every one of these books is already held from approved sources (packages 2, 3, 4, 11, 12), so the app does not need to publish Orsozoxi's decrypted text. Publishing it would need the Orsozoxi developer's permission (request drafted 2026-10-29).
