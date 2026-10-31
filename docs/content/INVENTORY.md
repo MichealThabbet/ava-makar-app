@@ -236,3 +236,21 @@ Languages across all documents (paragraph counts): English 95,026 · Arabic 93,3
 **Update 2026-10-31 (DEC-P0-19):** the owner states that the Orsozoxi developer agreed and provided the files and key; the whole library is approved for use, attributed to Orsozoxi. A written copy of the permission is to be kept on file.
 
 **Earlier handling (superseded):** the originally plain parts follow DEC-P0-17. The decrypted parts are kept as a **cross-check reference only**: every one of these books is already held from approved sources (packages 2, 3, 4, 11, 12), so the app does not need to publish Orsozoxi's decrypted text. Publishing it would need the Orsozoxi developer's permission (request drafted 2026-10-29).
+
+---
+
+# Coptic and Arabized Coptic coverage by book (all packages, 2026-10-31)
+Arabized share for Orsozoxi = files containing Arabized Coptic markers / all files in that book (some files are Arabic-only by nature).
+
+| Book | Coptic (Unicode or convertible) | Arabized Coptic (modern) |
+|---|---|---|
+| Kholagy (incense, Basil, Gregory, Cyril, fractions) | Yes — Kaneesty (Unicode), Archive, Coptic Reader | Yes — Kaneesty (467 segments), Orsozoxi |
+| Annual Psalmody / Tasbeha | Yes — Archive (148), Coptic Reader | Partial — Orsozoxi `psalmodySanawy` 133/286 |
+| Kiahk Psalmody | Yes — Coptic Reader (Kiahk blocks), Orsozoxi | Partial — Orsozoxi `absalmody` 69/213 |
+| Difnar | Yes — Coptic Reader, 13 months | **None** |
+| Holy Week (Pascha) | Yes — Coptic Reader (2,601 paragraphs), Archive (314) | Partial — Archive 140/314 |
+| Holy Week Dallal | — | Mostly — Orsozoxi 76/92 |
+| Agpeya (Coptic parts only) | Yes — Kaneesty (Unicode) | To be checked at import |
+| Rites and sacraments | Yes — Coptic Reader | Partial — Orsozoxi 48/104 |
+| Madayeh | — | Yes |
+| Old Bohairic pronunciation (DEC-P0-06/09) | — | **None for any book** |

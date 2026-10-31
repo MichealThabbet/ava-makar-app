@@ -22,6 +22,7 @@ Full wording and reasons: `docs/plan/P0_ADDENDUM.md` §1.
 | DEC-P0-17 | Kaneesty content approved for use, with each text attributed to its stated source. Standing rule: every file the owner sends is approved by the owner for use; provenance = owner's declaration plus the source named in the file. Limits that stay: no decryption of protected content, no use of credentials/secrets found in files | 2026-10-30 | Owner |
 | DEC-P0-18 | Rites and services (sacraments, funerals, consecrations and ordinations, papal, Laqqan, prostration, priest prayers) are shown to all users without restriction; they sit in 02.10 «كتب وخدمات طقسية أخرى» | 2026-10-30 | Owner |
 | DEC-P0-19 | Orsozoxi library (`defnar/orsozox`) approved for use in full: the owner states the Orsozoxi developer agreed and provided the files. Attribution: Orsozoxi. Keep a written copy of the permission (store review and future disputes) | 2026-10-31 | Owner |
+| DEC-P0-20 | Orsozoxi developer donated the content to the monastery (per owner). Store accounts (Google Play, Apple) will be opened in the monastery's name with a dedicated Google e-mail | 2026-10-31 | Owner |
 | DEC-P0-09 | Arabized Coptic in two pronunciations, user-selectable: modern first, Old Bohairic when available | 2026-10-29 | Owner |
 
 ## Open architecture decisions
