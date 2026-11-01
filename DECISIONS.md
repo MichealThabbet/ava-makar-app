@@ -24,6 +24,7 @@ Full wording and reasons: `docs/plan/P0_ADDENDUM.md` §1.
 | DEC-P0-19 | Orsozoxi library (`defnar/orsozox`) approved for use in full: the owner states the Orsozoxi developer agreed and provided the files. Attribution: Orsozoxi. Keep a written copy of the permission (store review and future disputes) | 2026-10-31 | Owner |
 | DEC-P0-20 | Orsozoxi developer donated the content to the monastery (per owner). Store accounts (Google Play, Apple) will be opened in the monastery's name with a dedicated Google e-mail | 2026-10-31 | Owner |
 | DEC-P0-21 | ADR-001 stack approved. Design direction «Old Coptic Luxury»: monastic, archaeological, premium; see `docs/design/DESIGN_DIRECTION.md` | 2026-11-01 | Owner |
+| DEC-P0-22 | Delivery order: web app first, published from GitHub (GitHub Pages, `gh-pages` branch) for the owner to view and test; the same Flutter code is then built for Android and iOS. Flutter pinned to stable 3.47.9 (installed 2026-11-01) | 2026-11-01 | Owner |
 | DEC-P0-09 | Arabized Coptic in two pronunciations, user-selectable: modern first, Old Bohairic when available | 2026-10-29 | Owner |
 
 ## Open architecture decisions
