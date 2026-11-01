@@ -254,3 +254,20 @@ Arabized share for Orsozoxi = files containing Arabized Coptic markers / all fil
 | Rites and sacraments | Yes — Coptic Reader | Partial — Orsozoxi 48/104 |
 | Madayeh | — | Yes |
 | Old Bohairic pronunciation (DEC-P0-06/09) | — | **None for any book** |
+
+---
+
+# Package 15 — `jonathanslote/psalmody` (public GitHub, shared by the owner's friend), 2026-11-01
+«New English Translation of the Coptic Orthodox Psalmody». License file: **GNU GPL v2**. 1,958 files, 685 MB (Word, PDF, audio, fonts and installers).
+
+| Content | Languages | Note |
+|---|---|---|
+| Psalmody (working volumes 1–2, intro, TOC) | **English + Unicode Coptic** (69,349 Coptic chars in `Psalmody.docx`) | Alternative English translation; no Arabic |
+| Doxologies (43) and saints' doxologies, Psalis | English + Coptic | |
+| Euchologion (English, «Ottawa 2025» edition) | English | Patriarchate edition text; rights not covered by the repo's GPL by itself |
+| Agpeya / Psalter sources | English | |
+| Audio: 793 WAV in `katamarous source/Coptic` | Coptic readings audio | Possible source for «اسمع النطق» (modern pronunciation); origin of recordings not stated |
+| Fonts, `.EXE`, `.DLL` | — | Not used |
+
+**Arabized Coptic: none.** Does not close the Arabized gap.
+**Value:** a second English translation for Psalmody and Doxologies (alongside Coptic Reader), and Coptic readings audio. GPL v2 texts must keep their license notice and attribution if shipped.
