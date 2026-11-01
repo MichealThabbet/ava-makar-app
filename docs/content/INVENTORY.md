@@ -271,3 +271,8 @@ Arabized share for Orsozoxi = files containing Arabized Coptic markers / all fil
 
 **Arabized Coptic: none.** Does not close the Arabized gap.
 **Value:** a second English translation for Psalmody and Doxologies (alongside Coptic Reader), and Coptic readings audio. GPL v2 texts must keep their license notice and attribution if shipped.
+
+---
+
+# Package 16 — `coptic-orthodox-ministry-main.zip`, 2026-11-01
+An open-source **AI toolkit** (220 Markdown files): prompts and «skills» for AI assistants to prepare lessons, deacon guides, iconography notes and outreach material, in English. **No liturgical texts.** Not used as app content: AI-prepared religious text conflicts with AGENTS.md §2. Its `shared-references/` (source-discovery notes) may help later research only. Scripts not run.
