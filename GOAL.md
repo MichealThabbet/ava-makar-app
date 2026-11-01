@@ -9,7 +9,7 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 | 1 | Master plan | Approved by owner 2026-10-29 | `docs/plan/MASTER_PLAN.md` |
 | 2 | P0 addendum (Orsozoxi merge, languages, Tour Guide, store, ideas) | Approved by owner 2026-10-29 | `docs/plan/P0_ADDENDUM.md` |
 | 3 | Inventory of the owner's content package | Done 2026-10-29 | `docs/content/INVENTORY.md` |
-| 4 | Stack comparison (2–3 options) recorded in `DECISIONS.md` | Pending | — |
+| 4 | Stack comparison (ADR-001) | Proposed, awaiting approval | `docs/adr/ADR-001-stack.md` |
 | 5 | Visual identity (official, or 2–3 proposals) | Pending — waiting for monastery identity files | — |
 | 6 | Payment gateway research (Egypt + international) | Pending | — |
 

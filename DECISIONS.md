@@ -26,4 +26,4 @@ Full wording and reasons: `docs/plan/P0_ADDENDUM.md` §1.
 | DEC-P0-09 | Arabized Coptic in two pronunciations, user-selectable: modern first, Old Bohairic when available | 2026-10-29 | Owner |
 
 ## Open architecture decisions
-- ADR-001 Stack (app, backend, database, search, CMS, hosting): pending comparison. Initial recommendation: Flutter + API + PostgreSQL + on-device SQLite FTS5.
+- ADR-001 Stack: proposed in `docs/adr/ADR-001-stack.md` (Flutter; PostgreSQL + Directus + NestJS; Dart calendar engine; signed SQLite FTS5 packs). Awaiting owner approval.
