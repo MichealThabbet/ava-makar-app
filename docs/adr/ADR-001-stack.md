@@ -1,5 +1,5 @@
 # ADR-001 — Technology stack
-Status: **Proposed** (2026-11-01). Decision owner: Eng. Mishel Thabet.
+Status: **Approved** (2026-11-01, DEC-P0-21). Decision owner: Eng. Mishel Thabet.
 Goal set by the owner: a world-class, luxurious, innovative app worthy of a monastery of global archaeological value; features no other Coptic app has.
 Exact library versions are fixed at the start of P1 from official documentation (AGENTS.md §5); none are stated here from memory.
 
