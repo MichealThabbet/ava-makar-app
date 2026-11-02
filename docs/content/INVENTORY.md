@@ -276,3 +276,19 @@ Arabized share for Orsozoxi = files containing Arabized Coptic markers / all fil
 
 # Package 16 — `coptic-orthodox-ministry-main.zip`, 2026-11-01
 An open-source **AI toolkit** (220 Markdown files): prompts and «skills» for AI assistants to prepare lessons, deacon guides, iconography notes and outreach material, in English. **No liturgical texts.** Not used as app content: AI-prepared religious text conflicts with AGENTS.md §2. Its `shared-references/` (source-discovery notes) may help later research only. Scripts not run.
+
+---
+
+# Package 17 — `abanobmikaeel/coptic.io` (public GitHub, MIT), 2026-11-02
+TypeScript monorepo: calendar/liturgy logic (`packages/core`) and an offline data bundle (`packages/data`). Code under MIT; each data set states its own source and license.
+
+| Data | Size | Source / license (as stated in the repo) | Value for Ava-Makar |
+|---|---|---|---|
+| **Coptic Bible — Bohairic** (+ Sahidic) | 4.2 MB (+0.5 MB) | Coptic SCRIPTORIUM, CC BY 4.0; Psalms 1–151 from Marcion / Hany Takla, CC BY 4.0 | **New:** Coptic text of the readings (Katameros Coptic column), openly licensed |
+| Arabic Bible | 9.1 MB | to be checked | Cross-check of verse numbering |
+| English / Spanish Bible | 5.7 / 5.6 MB | to be checked | Spanish not in scope |
+| Synaxarium (ar, en) | 1.8 / 1.5 MB | to be checked | Cross-check |
+| Liturgy St Basil, Raising of incense, Tasbeha, Agpeya (cop/ar/en, aligned rows) | 0.04–0.13 MB each | Tasbeha.org and others; repo notes reuse terms «still need confirming» | Cross-check of alignment |
+| Logic: Coptic conversion, Easter, movable days, seasons, fasting, festive days, reading cycle | — | MIT | **Third independent Easter implementation** and a reference for fixed feasts/fasting rules (P1 item 6) |
+
+Handling: Coptic Bible imported with CC BY 4.0 attribution; other data sets used as cross-checks unless their licenses are confirmed (DEC-P0-17 covers the owner's own files; this is a public third-party repo).
