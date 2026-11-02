@@ -27,14 +27,18 @@ class FixedFeast {
 const fixedFeasts = <FixedFeast>[
   FixedFeast('nayrouz', 'عيد النيروز (رأس السنة القبطية)', 1, 1),
   FixedFeast('cross', 'عيد الصليب', 1, 17),
+  FixedFeast('nativity_fast_start', 'بدء صوم الميلاد', 3, 16),
   FixedFeast('nativity', 'عيد الميلاد المجيد', 4, 29, dayAfterLeap: 28),
   FixedFeast('circumcision', 'عيد الختان', 5, 6),
   FixedFeast('epiphany', 'عيد الغطاس', 5, 11),
   FixedFeast('cana', 'عرس قانا الجليل', 5, 13),
   FixedFeast('presentation', 'دخول السيد المسيح الهيكل', 6, 8),
+  FixedFeast('cross_apparition', 'عيد ظهور الصليب المقدس', 7, 10),
   FixedFeast('annunciation', 'عيد البشارة المجيد', 7, 29),
+  FixedFeast('st_mark_martyrdom', 'استشهاد القديس مرقس الرسول', 8, 30),
   FixedFeast('entry_into_egypt', 'عيد دخول السيد المسيح أرض مصر', 9, 24),
   FixedFeast('apostles_martyrdom', 'عيد استشهاد القديسين بطرس وبولس', 11, 5),
+  FixedFeast('virgin_fast_start', 'بدء صوم السيدة العذراء', 12, 1),
   FixedFeast('transfiguration', 'عيد التجلي', 12, 13),
   FixedFeast('assumption', 'عيد صعود جسد السيدة العذراء', 12, 16),
 ];

@@ -24,6 +24,7 @@ const movableDays = <MovableDay>[
   MovableDay('great_lent_end', 'ختام الصوم الأربعيني المقدس', -9),
   MovableDay('lazarus_saturday', 'سبت لعازر', -8),
   MovableDay('palm_sunday', 'أحد الشعانين', -7),
+  MovableDay('pascha_start', 'بدء البصخة المقدسة (الاثنين)', -6),
   MovableDay('covenant_thursday', 'خميس العهد', -3),
   MovableDay('good_friday', 'الجمعة العظيمة', -2),
   MovableDay('joyous_saturday', 'سبت الفرح', -1),

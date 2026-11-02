@@ -355,4 +355,84 @@ void main() {
       });
     });
   });
+
+  group('Published calendar — Diocese of the Southern US deacons, 2020–2100 (ICS)', () {
+    const movable = {
+      "Jonah's (Nineveh) Fast Begins": 'nineveh_fast_start',
+      "Jonah's (Nineveh) Feast": 'nineveh_passover',
+      'Holy Great Fast Begins': 'great_lent_start',
+      'Lazarus Saturday': 'lazarus_saturday',
+      'Entry of our Lord into Jerusalem (Hosanna Sunday)': 'palm_sunday',
+      'Holy Pascha Begins': 'pascha_start',
+      'Holy Pascha': 'pascha_start',
+      'Covenant Thursday': 'covenant_thursday',
+      'Good Friday': 'good_friday',
+      'Glorious Feast of the Resurrection': 'easter',
+      'Thomas’ Sunday': 'thomas_sunday',
+      'The Holy Feast of Ascension': 'ascension',
+      'The Holy Pentecost Feast': 'pentecost',
+      "The Apostles' Fast Begins": 'apostles_fast_start',
+    };
+    const fixed = {
+      'The Nayrouz Feast (Coptic New Year)': 'nayrouz',
+      'The Feast of the Cross (Three days)': 'cross',
+      'The Holy Nativity Fast Begins': 'nativity_fast_start',
+      'The Holy Nativity Feast': 'nativity',
+      'The Circumcision Feast': 'circumcision',
+      'The Holy Epiphany': 'epiphany',
+      'Feast of the Wedding of Cana of Galilee': 'cana',
+      'Presentation of the Lord into the Temple': 'presentation',
+      'The Feast of the Cross': 'cross_apparition',
+      'Annunciation Feast': 'annunciation',
+      'Annunciation Feast (Not celebrated this year)': 'annunciation',
+      'Martyrdom of St. Mark the Evangelist': 'st_mark_martyrdom',
+      'Entry of the Lord into Egypt': 'entry_into_egypt',
+      "The Apostles' Feast (Martyrdom of St. Peter & St. Paul)": 'apostles_martyrdom',
+      "St. Mary's Fast Begins": 'virgin_fast_start',
+      'Transfiguration Feast': 'transfiguration',
+      "Assumption of St. Mary's Body": 'assumption',
+    };
+
+    test('2,343 events: every movable and fixed date matches except documented calendar errata', () {
+      final lines = File('test/fixtures/suscopts_deacons_2020_2100.csv').readAsLinesSync().skip(1).where((l) => l.trim().isNotEmpty);
+      var checked = 0;
+      final bad = <String>[];
+      for (final l in lines) {
+        final i = l.indexOf(',');
+        final p = l.substring(0, i).split('-').map(int.parse).toList();
+        var summary = l.substring(i + 1);
+        if (summary.startsWith('"')) summary = summary.substring(1, summary.length - 1).replaceAll('""', '"');
+        final date = CalendarDate(p[0], p[1], p[2]);
+        CalendarDate? expected;
+        if (movable.containsKey(summary)) {
+          expected = movableDaysFor(date.year)[movable[summary]];
+        } else if (fixed.containsKey(summary)) {
+          expected = fixedFeastIn(fixedFeasts.firstWhere((f) => f.id == fixed[summary]), date.year);
+        }
+        expect(expected, isNotNull, reason: 'unmapped: $summary');
+        checked++;
+        if (expected != date) bad.add('$date $summary (engine $expected)');
+      }
+      expect(checked, 2343);
+      // Calendar errata, all explained (33 of 2,343):
+      //  • Coptic year 1800 (Sep 2083 – Sep 2084): the calendar starts it on 11 Sep 2083, but
+      //    AM 1799 is a 6-day-Nasie year so 1 Thout 1800 is 12 Sep 2083 (13 fixed days, all 1 day early);
+      //  • 2100: the calendar keeps the 13-day Julian offset after 28 Feb 2100; Gregorian 2100 is not a
+      //    leap year, so the offset becomes 14 days (18 events from March 2100 on, all 1 day early);
+      //  • two isolated typos: 2069 Cross (three days) on 29 Sep; 2095 «Holy Pascha Begins» on Wednesday.
+      final yearShift1800 = bad.where((b) => b.startsWith('2083-') || b.startsWith('2084-')).length;
+      final century2100 = bad.where((b) => b.startsWith('2100-')).length;
+      final isolated = bad.where((b) => !b.startsWith('2083-') && !b.startsWith('2084-') && !b.startsWith('2100-')).toList();
+      expect([yearShift1800, century2100], [13, 18], reason: bad.where((b) => b.startsWith('2100-')).join('\n'));
+      expect(isolated, [
+        '2069-09-29 The Feast of the Cross (Three days) (engine 2069-09-27)',
+        '2095-04-20 Holy Pascha Begins (engine 2095-04-18)',
+      ]);
+      for (final b in bad.where((b) => !isolated.contains(b))) {
+        final dates = RegExp(r'(\d{4})-(\d\d)-(\d\d)').allMatches(b).toList();
+        DateTime d(RegExpMatch m) => DateTime.utc(int.parse(m[1]!), int.parse(m[2]!), int.parse(m[3]!));
+        expect(d(dates[1]).difference(d(dates[0])).inDays, 1, reason: b);
+      }
+    });
+  });
 }

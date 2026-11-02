@@ -6,6 +6,7 @@
 | `easter_eastern_2020_2070.csv` | Eastern (Julian computus) Easter 2020–2070, 51 years | «new-coptic-calendar» project, `easter_2020-2070.csv`, column «Eastern Easter» |
 | `epact_1997_2056.csv` | Solar/lunar cycles and epacts, Easter, movable days and Coptic date of Easter, 60 years | Owner's research package «Coptic_Research_v2» (`traditional_tables/combined_60_years.csv`); epact rules from Roshdy Wasef Bahman (St-Takla.org) |
 | `midlands_diocese_2022_2027.csv` | **Published church table**: Nineveh, Great Lent, Easter, Ascension, Pentecost, Apostles' fast, 2022–2027 | Coptic Orthodox Diocese of the Midlands (UK), ukmidcopts.org/coptic/calendar, transcribed in the owner's research «Coptic_Official_Tables_Research_1997_2056» |
+| `suscopts_deacons_2020_2100.csv` | **Published church calendar**, 2,343 events, 2020–2100 (31 feast/fast types) | «Coptic Fasts and Feasts» Google calendar of the Diocese of the Southern US deacons (deacons.suscopts.org), ICS exported to PDF by the owner, parsed verbatim |
 | `kiahk_test_vectors.json` | Conversions, Easter 2025–2037, movable and fixed feasts, invalid dates | «kiahk» project (MIT), `test-vectors.json` |
 
 A first published church table (Midlands diocese, 6 years) is now in the tests; a longer official series remains welcome.
@@ -18,3 +19,5 @@ Findings from the tests:
 - Epact table 1997–2056: all 60 rows match (epacts, Easter, 8 movable days, Coptic date of Easter — the last column was marked «not independently verified» in the package; it is now verified by the engine).
 - Easter methods A, B and C agree for every year tested (A/B: 1–4000; C: 1583–4099).
 - Midlands diocese 2022–2027: 31 of 36 dates match; the 5 others are diocese errata (2025 row one day early from Easter on — Saturday 19 April; 2022 Nineveh listed as Sunday 13 Feb).
+- Southern US deacons calendar 2020–2100: 2,310 of 2,343 events match. The 33 others are calendar errata, each exactly one day off and explained: the whole Coptic year 1800 starts on 11 Sep 2083 instead of 12 Sep (13 events); after 28 Feb 2100 the calendar keeps a 13-day Julian offset instead of 14 (18 events); two isolated typos (2069, 2095). The engine is right in all 33.
+- Observation (not yet a rule): the same calendar marks the Annunciation «not celebrated» when 29 Baramhat falls between the Friday ending Lent (Easter −9) and Easter; one year (2058, Palm Sunday) is marked celebrated while 2069 and 2080 (also Palm Sunday) are not. To be confirmed by the monastery before it becomes a rule.
