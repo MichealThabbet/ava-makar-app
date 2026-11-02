@@ -449,9 +449,10 @@ void main() {
           differ.add('$y offset ${gregorianToJdn(a.year, a.month, a.day) - copticEasterJdn(y)}');
         }
       }
-      // Differences are outside the ruling's window or contradict the calendar itself:
-      //  −9 (Friday ending Lent) and 0 (Easter Day): calendar «not celebrated», ruling silent → open question;
-      //  2058 at −7 (Palm Sunday): calendar «celebrated», ruling and the same calendar in 2069/2080 say not.
+      // All five are calendar errata under DEC-P0-23:
+      //  −9 (Friday ending Lent) and 0 (Easter Day): celebrated — the suppression window is
+      //  Lazarus Saturday … Joyous Saturday only, and the Coptic rite does not transfer feasts;
+      //  2058 at −7 (Palm Sunday): not celebrated, as the same calendar has it in 2069/2080.
       expect(differ.toSet(), {
         '2023 offset -9', '2028 offset -9', '2075 offset 0', '2086 offset 0', '2058 offset -7',
       });

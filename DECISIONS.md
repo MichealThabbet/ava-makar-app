@@ -25,7 +25,7 @@ Full wording and reasons: `docs/plan/P0_ADDENDUM.md` §1.
 | DEC-P0-20 | Orsozoxi developer donated the content to the monastery (per owner). Store accounts (Google Play, Apple) will be opened in the monastery's name with a dedicated Google e-mail | 2026-10-31 | Owner |
 | DEC-P0-21 | ADR-001 stack approved. Design direction «Old Coptic Luxury»: monastic, archaeological, premium; see `docs/design/DESIGN_DIRECTION.md` | 2026-11-01 | Owner |
 | DEC-P0-22 | Delivery order: web app first, published from GitHub (GitHub Pages, `gh-pages` branch) for the owner to view and test; the same Flutter code is then built for Android and iOS. Flutter pinned to stable 3.47.9 (installed 2026-11-01) | 2026-11-01 | Owner |
-| DEC-P0-23 | Annunciation (29 Baramhat) is not celebrated and not moved when it falls on Palm Sunday or in Holy Week (Lazarus Saturday … Joyous Saturday, Easter −8 … −1). Open: Friday ending Lent (−9) and Easter Day (0), which the Southern US calendar also marks «not celebrated» | 2026-11-02 | Owner |
+| DEC-P0-23 | Annunciation (29 Baramhat) is not celebrated and not moved when it falls on Palm Sunday or in Holy Week (Lazarus Saturday … Joyous Saturday, Easter −8 … −1). Friday ending Lent (−9) and Easter Day (0): celebrated (owner's ruling 2026-11-02; the Southern US calendar is wrong in those years) | 2026-11-02 | Owner |
 | DEC-P0-09 | Arabized Coptic in two pronunciations, user-selectable: modern first, Old Bohairic when available | 2026-10-29 | Owner |
 
 ## Open architecture decisions

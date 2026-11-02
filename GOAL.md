@@ -26,7 +26,7 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 | 5c | Published church tables | Midlands diocese 2022–2027: 31/36 (5 diocese errata). Southern US deacons calendar 2020–2100: 2,310/2,343, the 33 others explained calendar errata (year-1800 shift, 2100 century rule, 2 typos) | `test/fixtures/` |
 | 6 | Fixed feasts as data (16) with the Nativity 28/29 Koiak rule | Done; Nativity = 7 Jan for 1901–2099; matches agenda and vectors | `lib/src/fixed.dart` |
 | 6b | Fasts (Advent, Apostles' end, Virgin, Wednesdays/Fridays, fast-free periods); day-rollover rule| Next | — |
-| 6c | Annunciation not celebrated on Palm Sunday / Holy Week (DEC-P0-23) | Done; open: Easter −9 and Easter Day | `lib/src/fixed.dart` |
+| 6c | Annunciation not celebrated on Palm Sunday / Holy Week (DEC-P0-23) | Done; −9 and Easter Day celebrated (owner) | `lib/src/fixed.dart` |
 | 7 | Content import pipeline (provenance, checksums, approval states) | Pending | — |
 
 ## Assumptions
