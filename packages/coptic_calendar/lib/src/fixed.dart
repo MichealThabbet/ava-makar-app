@@ -52,3 +52,16 @@ CalendarDate fixedFeastIn(FixedFeast feast, int gregorianYear) {
   }
   throw StateError('${feast.id} not found in $gregorianYear');
 }
+
+/// Annunciation (29 Baramhat) is not celebrated, and not moved, when it falls
+/// from Lazarus Saturday (Easter − 8) through Joyous Saturday (Easter − 1):
+/// Palm Sunday and Holy Week. Owner's ruling as delegated approver,
+/// 2026-11-02 (DEC-P0-23).
+const annunciationSuppressedFrom = -8;
+const annunciationSuppressedTo = -1;
+
+bool annunciationCelebrated(int gregorianYear, int easterJdn) {
+  final a = fixedFeastIn(fixedFeasts.firstWhere((f) => f.id == 'annunciation'), gregorianYear);
+  final offset = gregorianToJdn(a.year, a.month, a.day) - easterJdn;
+  return offset < annunciationSuppressedFrom || offset > annunciationSuppressedTo;
+}
