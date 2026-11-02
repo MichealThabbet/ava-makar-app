@@ -17,7 +17,7 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 ## P1 — Foundation (started 2026-11-02)
 | # | Item | Status | Evidence |
 |---|---|---|---|
-| 1 | Calendar engine: Gregorian / Julian / Coptic conversions via JDN | Done; checked against `DateTime` for every day 1900–2100, Coptic round-trip 1600–1900 AM, Nayrouz 1901–2099 | `packages/coptic_calendar`, 32 tests passing |
+| 1 | Calendar engine: Gregorian / Julian / Coptic conversions via JDN | Done; checked against `DateTime` for every day 1900–2100, Coptic round-trip 1600–1900 AM, Nayrouz 1901–2099 | `packages/coptic_calendar` |
 | 2 | Easter, four independent methods (A Meeus, B Gauss, C Tøndering, D traditional epact) | Done; A/B agree 1–4000, C and D agree 1584–4099; matches Eastern Easter table 2020–2070 (51 years) | same |
 | 3 | Movable days (15) as data | Done; all match the 2016–2030 agenda | same |
 | 4 | Cross-checks: agenda 2016–2030, Easter 2020–2070, kiahk vectors | 444/446 agenda pairs (2 agenda typos); all Easter and feast dates match | `test/fixtures/README.md` |
@@ -27,7 +27,7 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 | 6 | Fixed feasts as data (16) with the Nativity 28/29 Koiak rule | Done; Nativity = 7 Jan for 1901–2099; matches agenda and vectors | `lib/src/fixed.dart` |
 | 6b | Fasts: Nativity, paramoun (1/2/3-day rule), Nineveh, Great Lent, Apostles, Virgin, Wednesday/Friday with Holy Fifty and Nativity/Epiphany exceptions | Done per the official rites page; lengths checked 1990–2100 | `lib/src/fasts.dart` |
 | 6d | Liturgical day from sunset (DEC-P0-24) | Done in the engine; sunset value from the device in the app | `lib/src/liturgical_day.dart` |
-| 6e | Liturgical periods (tune, hours, alleluia) from the official rites page | Next | `docs/content/sources/` |
+| 6e | Liturgical periods (tune, hours, alleluia) from the official rites page: 42 sections, precedence rules (DEC-P0-25) | Done; every day 1901–2099 resolves, all 42 sections occur, Lent/Fifty/Holy Week/Annunciation checked 1990–2100 | `lib/src/rites.dart`, 36 tests passing |
 | 6c | Annunciation not celebrated on Palm Sunday / Holy Week (DEC-P0-23) | Done; −9 and Easter Day celebrated (owner) | `lib/src/fixed.dart` |
 | 7 | Content import pipeline (provenance, checksums, approval states) | Pending | — |
 
@@ -39,4 +39,4 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 - None for content (Difnar found in package 12).
 
 ## Next step
-P1: fixed feasts/fasts data, then the content import pipeline. Owner: enable GitHub Pages (gh-pages branch) to view the preview.
+P1 item 7: content import pipeline (provenance, checksums, approval states, legacy Coptic → Unicode). Owner: enable GitHub Pages (gh-pages branch) to view the preview.

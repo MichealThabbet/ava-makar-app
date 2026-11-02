@@ -8,3 +8,4 @@ export 'src/fasts.dart';
 export 'src/fixed.dart';
 export 'src/liturgical_day.dart';
 export 'src/movable.dart';
+export 'src/rites.dart';
