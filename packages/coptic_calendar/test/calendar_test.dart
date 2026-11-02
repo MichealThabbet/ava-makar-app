@@ -289,4 +289,44 @@ void main() {
       }
     });
   });
+
+  group('Method D — traditional epact Easter (Bahman)', () {
+    test('book example: AM 1705 → Passover 17 Barmouda, Easter 22 Barmouda, 1 Thout on Sunday', () {
+      final e = epactsForCopticYear(1705);
+      expect([e.solarCycle, e.solarEpact, e.lunarCycle, e.lunarEpact], [21, 5, 13, 23]);
+      expect(thoutWeekday(e), 6);
+      expect(traditionalPassover(1705), const CalendarDate(1705, 8, 17));
+      expect(traditionalEaster(1705), const CalendarDate(1705, 8, 22));
+    });
+
+    test('1 Thout weekday from the solar epact equals the computed weekday (AM 1600–1900)', () {
+      for (var am = 1600; am <= 1900; am++) {
+        expect(thoutWeekday(epactsForCopticYear(am)), weekdayOfJdn(copticToJdn(am, 1, 1)), reason: 'AM $am');
+      }
+    });
+
+    test('method D equals methods A–C for Gregorian 1584–4099', () {
+      for (var y = 1584; y <= 4099; y++) {
+        final d = traditionalEaster(y - 284);
+        expect(copticToJdn(d.year, d.month, d.day), copticEasterJdn(y), reason: 'year $y');
+      }
+    });
+
+    test('Apostles fast length (rule) equals Pentecost Monday … 4 Epip (engine), 1901–2099', () {
+      for (var y = 1901; y <= 2099; y++) {
+        final easter = gregorianToCoptic(copticEaster(y));
+        final start = copticEasterJdn(y) + 50;
+        final end = copticToJdn(easter.year, 11, 4);
+        expect(end - start + 1, apostlesFastDaysTraditional(easter), reason: 'year $y');
+      }
+    });
+
+    test('book example: rafaa of Nineveh 12 Amshir and of Great Lent 26 Amshir for Easter 22 Barmouda 1705', () {
+      final easter = copticToJdn(1705, 8, 22);
+      expect(jdnToCoptic(easter - 70), const CalendarDate(1705, 6, 12));
+      expect(jdnToCoptic(easter - 56), const CalendarDate(1705, 6, 26));
+      expect(jdnToCoptic(easter + 39), const CalendarDate(1705, 10, 1));
+      expect(jdnToCoptic(easter + 49), const CalendarDate(1705, 10, 11));
+    });
+  });
 }

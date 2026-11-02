@@ -1,12 +1,11 @@
-/// Coptic Easter — three independent computations that must agree.
+/// Coptic Easter — independent computations that must agree.
 ///
 /// The Coptic Church keeps the Alexandrian computus on the Julian calendar.
 /// Method A follows Meeus' Julian algorithm; method B Gauss' formula for the
 /// Julian calendar; method C the Tøndering Orthodox formula (Gregorian
 /// output, 1583–4099). Different arithmetic, same rule: a disagreement in any
-/// year is a bug (AGENTS.md §3). The traditional Coptic epact (الأبقطي)
-/// method will be added as a fourth check once the reference text is
-/// supplied (P0 addendum §3).
+/// year is a bug (AGENTS.md §3). Method D, the traditional Coptic epact
+/// (الأبقطي) after Bahman, lives in epact.dart and is tested against A–C.
 library;
 
 import 'dates.dart';
