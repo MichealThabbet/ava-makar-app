@@ -303,3 +303,9 @@ Handling: Coptic Bible imported with CC BY 4.0 attribution; other data sets used
 | `dateutil` (BSD/Apache): `easter.py` | Orthodox formula re-implemented as Easter method C (code read, not executed) |
 | `katameros-web-app` (MIT) | Synaxarium in Arabic, English, **French**, Dutch, Italian (`assets/synax-days-*.json`) — French is a UI language (DEC-P0-02): candidate source, license of the texts to be checked |
 | `katameros` (README only) | Points to the toutbabahator.com API; no data |
+
+---
+
+# Package 19 — `Coptic_Research_v2.zip` (owner research, 2026-11-02)
+Traditional epact research: 60-year table 1997–2056 (solar/lunar cycles and epacts, Easter, movable days), 19- and 28-year cycle tables, Excel workbooks, annotated bibliography (17 records: Bahman, «أساس التقاويم» 1915 on NYU, Abu Shakir ibn al-Rahib, Mosshammer, academic PDF), list of public projects, and Python/JS reference code (read, not run).
+Used: the epact rules and the 60-year table as a test fixture (all rows match the engine). Pending: Bahman's chapter on deriving Easter from the epacts (site blocked here).

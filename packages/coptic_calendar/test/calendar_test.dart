@@ -252,4 +252,41 @@ void main() {
       expect(bad, isEmpty, reason: bad.join('\n'));
     });
   });
+
+  group('Traditional epact table 1997–2056 (owner research v2)', () {
+    final rows = File('test/fixtures/epact_1997_2056.csv')
+        .readAsLinesSync()
+        .skip(1)
+        .where((l) => l.trim().isNotEmpty)
+        .map((l) => l.replaceAll('\uFEFF', '').split(','))
+        .toList();
+
+    CalendarDate iso(String s) {
+      final p = s.split('-').map(int.parse).toList();
+      return CalendarDate(p[0], p[1], p[2]);
+    }
+
+    test('60 years: epacts, Easter, movable days and Coptic date of Easter', () {
+      expect(rows.length, 60);
+      for (final r in rows) {
+        final y = int.parse(r[0]);
+        final am = int.parse(r[1]);
+        final e = epactsForCopticYear(am);
+        expect([e.solarCycle, e.solarEpact, e.lunarCycle, e.lunarEpact],
+            [int.parse(r[2]), int.parse(r[3]), int.parse(r[4]), int.parse(r[5])], reason: 'year $y');
+        final m = movableDaysFor(y);
+        expect(m['easter'], iso(r[7]), reason: 'Easter $y');
+        expect(m['great_lent_start'], iso(r[8]));
+        expect(m['palm_sunday'], iso(r[9]));
+        expect(m['covenant_thursday'], iso(r[10]));
+        expect(m['good_friday'], iso(r[11]));
+        expect(m['thomas_sunday'], iso(r[12]));
+        expect(m['ascension'], iso(r[13]));
+        expect(m['pentecost'], iso(r[14]));
+        final c = r[15].split('/').map(int.parse).toList();
+        expect(gregorianToCoptic(m['easter']!), CalendarDate(c[2], c[1], c[0]), reason: 'Coptic date $y');
+        expect(gregorianToCoptic(m['easter']!).year, am);
+      }
+    });
+  });
 }
