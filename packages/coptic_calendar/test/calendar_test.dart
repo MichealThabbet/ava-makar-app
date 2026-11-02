@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:coptic_calendar/coptic_calendar.dart';
@@ -181,6 +182,74 @@ void main() {
         final g = jdnToGregorian(jdn);
         expect(jdn, inInclusiveRange(gregorianToJdn(y, 4, 4), gregorianToJdn(y, 5, 8)), reason: '$g');
       }
+    });
+  });
+
+  group('Third-party Easter tables and vectors', () {
+    test('method C agrees with A/B for 1583–4099', () {
+      for (var y = 1583; y <= 4099; y++) {
+        final c = orthodoxEasterTondering(y);
+        expect(gregorianToJdn(c.year, c.month, c.day), copticEasterJdn(y), reason: 'year $y');
+      }
+    });
+
+    test('Eastern Easter 2020–2070 table (51 years)', () {
+      final lines = File('test/fixtures/easter_eastern_2020_2070.csv').readAsLinesSync().skip(1);
+      var n = 0;
+      for (final l in lines.where((l) => l.trim().isNotEmpty)) {
+        final p = l.split(',').map(int.parse).toList();
+        expect(copticEaster(p[0]), CalendarDate(p[0], p[1], p[2]), reason: l);
+        n++;
+      }
+      expect(n, 51);
+    });
+
+    test('kiahk test vectors: conversions, Easter, movable and fixed feasts', () {
+      final v = jsonDecode(File('test/fixtures/kiahk_test_vectors.json').readAsStringSync()) as Map;
+      CalendarDate d(Map m) => CalendarDate(m['year'] as int, m['month'] as int, m['day'] as int);
+      for (final r in v['gregorian_to_coptic'] as List) {
+        expect(gregorianToCoptic(d(r['gregorian'] as Map)), d(r['coptic'] as Map));
+      }
+      for (final r in v['coptic_to_gregorian'] as List) {
+        expect(copticToGregorian(d(r['coptic'] as Map)), d(r['gregorian'] as Map));
+      }
+      for (final r in v['easter'] as List) {
+        expect(copticEaster(r['gregorian_year'] as int), d(r['date'] as Map));
+      }
+      const ids = {'nineveh_fast': 'nineveh_fast_start'};
+      for (final r in v['moveable_feasts'] as List) {
+        final id = ids[r['feast_id']] ?? r['feast_id'] as String;
+        expect(movableDaysFor(r['gregorian_year'] as int)[id], d(r['date'] as Map), reason: '$id');
+      }
+      for (final r in v['fixed_feasts'] as List) {
+        final f = fixedFeasts.firstWhere((x) => x.id == r['feast_id']);
+        expect(fixedFeastIn(f, r['gregorian_year'] as int), d(r['date'] as Map), reason: '${f.id} ${r['gregorian_year']}');
+      }
+      for (final r in v['invalid_coptic_dates'] as List) {
+        expect(() => copticToJdn(r['year'] as int, r['month'] as int, r['day'] as int), throwsArgumentError);
+      }
+    });
+
+    test('Nativity is 7 January every year 1901–2099', () {
+      final nativity = fixedFeasts.firstWhere((f) => f.id == 'nativity');
+      for (var y = 1901; y <= 2099; y++) {
+        expect(fixedFeastIn(nativity, y), CalendarDate(y, 1, 7), reason: 'year $y');
+      }
+    });
+
+    test('fixed feasts match the 2016–2030 agenda where named', () {
+      final rows = loadAgenda();
+      var checked = 0;
+      final bad = <String>[];
+      for (final f in fixedFeasts) {
+        for (final r in rows.where((r) => r.event.contains(f.nameAr.split(' (').first))) {
+          checked++;
+          final got = fixedFeastIn(f, r.g.year);
+          if (got != r.g) bad.add('${f.id} ${r.g.year}: engine $got agenda ${r.g}');
+        }
+      }
+      expect(checked, greaterThan(50));
+      expect(bad, isEmpty, reason: bad.join('\n'));
     });
   });
 }

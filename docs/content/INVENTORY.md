@@ -292,3 +292,14 @@ TypeScript monorepo: calendar/liturgy logic (`packages/core`) and an offline dat
 | Logic: Coptic conversion, Easter, movable days, seasons, fasting, festive days, reading cycle | — | MIT | **Third independent Easter implementation** and a reference for fixed feasts/fasting rules (P1 item 6) |
 
 Handling: Coptic Bible imported with CC BY 4.0 attribution; other data sets used as cross-checks unless their licenses are confirmed (DEC-P0-17 covers the owner's own files; this is a public third-party repo).
+
+---
+
+# Package 18 — calendar references from the owner (2026-11-02)
+| Item | Use |
+|---|---|
+| `kiahk` (MIT): `algorithms.md`, `feasts.json`, `test-vectors.json` | Algorithms and vectors cross-checked; Nativity 28/29 Koiak rule adopted with its cited source (Roshdy Wasef Bahman, «التقويم القبطي وحساب الأبقطي», St-Takla) |
+| `new-coptic-calendar`: `easter_2020-2070.csv` | Eastern Easter 2020–2070 used as a test table. The project itself proposes a *new* calendar; its other data is not used |
+| `dateutil` (BSD/Apache): `easter.py` | Orthodox formula re-implemented as Easter method C (code read, not executed) |
+| `katameros-web-app` (MIT) | Synaxarium in Arabic, English, **French**, Dutch, Italian (`assets/synax-days-*.json`) — French is a UI language (DEC-P0-02): candidate source, license of the texts to be checked |
+| `katameros` (README only) | Points to the toutbabahator.com API; no data |
