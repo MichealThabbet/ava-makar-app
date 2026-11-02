@@ -458,4 +458,47 @@ void main() {
       });
     });
   });
+
+  group('Fasts (official rites page)', () {
+    test('paramoun: 1 day, Sunday feast → Fri–Sat, Monday feast → Fri–Sun', () {
+      for (var y = 1990; y <= 2100; y++) {
+        for (final id in ['nativity', 'epiphany']) {
+          final d = fixedFeastIn(fixedFeasts.firstWhere((f) => f.id == id), y);
+          final feast = gregorianToJdn(d.year, d.month, d.day);
+          final p = paramounDays(feast);
+          final wd = weekdayOfJdn(feast);
+          expect(p.length, wd == 6 ? 2 : (wd == 0 ? 3 : 1), reason: '$id $y');
+          expect(p.last, feast - 1);
+          if (p.length > 1) expect(weekdayOfJdn(p.first), 4, reason: 'starts Friday');
+        }
+      }
+    });
+
+    test('season lengths 1990–2100: Nineveh 3, Lent 55, Virgin 15, Apostles = Bahman rule, no fast in the Holy Fifty', () {
+      for (var y = 1990; y <= 2100; y++) {
+        final e = copticEasterJdn(y);
+        int count(Fast f, int from, int to) => [for (var j = from; j <= to; j++) j].where((j) => fastOn(j) == f).length;
+        expect(count(Fast.nineveh, e - 80, e - 56), 3, reason: 'Nineveh $y');
+        expect(count(Fast.greatLent, e - 60, e), 55, reason: 'Lent $y');
+        expect([for (var j = e; j <= e + 49; j++) fastOn(j)].whereType<Fast>(), isEmpty, reason: 'Fifty $y');
+        final eC = gregorianToCoptic(jdnToGregorian(e));
+        expect(count(Fast.apostles, e + 50, e + 110), apostlesFastDaysTraditional(eC), reason: 'Apostles $y');
+        final mesra1 = copticToJdn(eC.year, 12, 1);
+        expect(count(Fast.virgin, mesra1 - 2, mesra1 + 20), 15, reason: 'Virgin $y');
+      }
+    });
+
+    test('Nativity and Epiphany break Wednesday/Friday; Nativity fast runs 16 Hatour to the paramoun', () {
+      for (var y = 1990; y <= 2100; y++) {
+        for (final id in ['nativity', 'epiphany']) {
+          final d = fixedFeastIn(fixedFeasts.firstWhere((f) => f.id == id), y);
+          expect(fastOn(gregorianToJdn(d.year, d.month, d.day)), isNull, reason: '$id $y');
+        }
+        final start = fixedFeastIn(fixedFeasts.firstWhere((f) => f.id == 'nativity_fast_start'), y);
+        final s = gregorianToJdn(start.year, start.month, start.day);
+        expect(fastOn(s), Fast.nativity, reason: 'start $y');
+        expect(fastOn(s - 1) == Fast.nativity, isFalse);
+      }
+    });
+  });
 }

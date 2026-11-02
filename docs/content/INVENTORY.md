@@ -311,3 +311,8 @@ Traditional epact research: 60-year table 1997–2056 (solar/lunar cycles and ep
 Used: the epact rules and the 60-year table as a test fixture (all rows match the engine). Pending: Bahman's chapter on deriving Easter from the epacts (site blocked here).
 
 Package 19b — `Epact_Bahman_Calculation_Study.html` (owner, 2026-11-02): study of Bahman ch. 14–24 (rules, not a verbatim copy). Used for method D (Passover = 40 − lunar epact with the Baramhat/Barmouda rule, weekday from the solar epact, first Sunday after), the book's worked example (AM 1705) and the Apostles' fast rule.
+
+---
+
+# Package 20 — official rites page (webarchive from the owner, 2026-11-02)
+Page «طقس الكنيسة» on copticorthodox.church (official site of the Coptic Orthodox Church). Text saved verbatim in `docs/content/sources/copticorthodox_church_coptic_rites_2026-11-02.txt`. Content: the liturgical year in periods (1 Thout → …), for each the tune (سنوي / فرايحي / شعانيني / صيامي …), the hours prayed before the liturgy, the alleluia, special hymns, and the fasting rules (Wednesday/Friday, Nineveh, paramoun 1/2/3 days, Apostles, Virgin). Used for the fasts module; next for the liturgical periods (tune and hours) in the engine.
