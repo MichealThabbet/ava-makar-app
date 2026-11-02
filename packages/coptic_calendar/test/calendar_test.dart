@@ -329,4 +329,30 @@ void main() {
       expect(jdnToCoptic(easter + 49), const CalendarDate(1705, 10, 11));
     });
   });
+
+  group('Published table — Coptic Diocese of the Midlands (UK), 2022–2027', () {
+    test('every date matches except the documented diocese errata', () {
+      const ids = ['nineveh_fast_start', 'great_lent_start', 'easter', 'ascension', 'pentecost', 'apostles_fast_start'];
+      final lines = File('test/fixtures/midlands_diocese_2022_2027.csv').readAsLinesSync().skip(1).where((l) => l.trim().isNotEmpty);
+      final mismatches = <String>{};
+      var checked = 0;
+      for (final l in lines) {
+        final c = l.split(',');
+        final y = int.parse(c[0]);
+        final m = movableDaysFor(y);
+        for (var i = 0; i < ids.length; i++) {
+          final p = c[i + 1].split('-').map(int.parse).toList();
+          checked++;
+          if (m[ids[i]] != CalendarDate(p[0], p[1], p[2])) mismatches.add('$y ${ids[i]}');
+        }
+      }
+      expect(checked, 36);
+      // Diocese errata: the 2025 row is one day early from Easter on (Saturday 19 April);
+      // 2022 lists Nineveh as 13–15 Feb (Sunday–Tuesday) while Lent 28 Feb and Easter 24 Apr
+      // on the same row give Monday 14 Feb.
+      expect(mismatches, {
+        '2025 easter', '2025 ascension', '2025 pentecost', '2025 apostles_fast_start', '2022 nineveh_fast_start',
+      });
+    });
+  });
 }
