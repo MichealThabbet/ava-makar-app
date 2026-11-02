@@ -501,4 +501,24 @@ void main() {
       }
     });
   });
+
+  group('Liturgical day starts at sunset (DEC-P0-24)', () {
+    test('before the cutoff it is today, from the cutoff on it is tomorrow', () {
+      expect(liturgicalDate(DateTime(2026, 11, 6, 17, 59)), const CalendarDate(2026, 11, 6));
+      expect(liturgicalDate(DateTime(2026, 11, 6, 18, 0)), const CalendarDate(2026, 11, 7));
+      expect(liturgicalDate(DateTime(2026, 11, 6, 23, 59)), const CalendarDate(2026, 11, 7));
+      expect(liturgicalDate(DateTime(2026, 11, 7, 0, 30)), const CalendarDate(2026, 11, 7));
+    });
+
+    test('a supplied sunset replaces the fixed cutoff; month and year roll over', () {
+      final sunset = DateTime(2026, 12, 31, 17, 6);
+      expect(liturgicalDate(DateTime(2026, 12, 31, 17, 5), sunset: sunset), const CalendarDate(2026, 12, 31));
+      expect(liturgicalDate(DateTime(2026, 12, 31, 17, 6), sunset: sunset), const CalendarDate(2027, 1, 1));
+    });
+
+    test('Coptic date of the evening is the next Coptic day (eve of Nayrouz)', () {
+      // 10 Sep 2026 evening (after 18:00) → 1 Thout 1743 (11 Sep 2026).
+      expect(liturgicalCopticDate(DateTime(2026, 9, 10, 19)), const CalendarDate(1743, 1, 1));
+    });
+  });
 }

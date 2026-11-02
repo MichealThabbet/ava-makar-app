@@ -26,6 +26,7 @@ Full wording and reasons: `docs/plan/P0_ADDENDUM.md` §1.
 | DEC-P0-21 | ADR-001 stack approved. Design direction «Old Coptic Luxury»: monastic, archaeological, premium; see `docs/design/DESIGN_DIRECTION.md` | 2026-11-01 | Owner |
 | DEC-P0-22 | Delivery order: web app first, published from GitHub (GitHub Pages, `gh-pages` branch) for the owner to view and test; the same Flutter code is then built for Android and iOS. Flutter pinned to stable 3.47.9 (installed 2026-11-01) | 2026-11-01 | Owner |
 | DEC-P0-23 | Annunciation (29 Baramhat) is not celebrated and not moved when it falls on Palm Sunday or in Holy Week (Lazarus Saturday … Joyous Saturday, Easter −8 … −1). Friday ending Lent (−9) and Easter Day (0): celebrated (owner's ruling 2026-11-02; the Southern US calendar is wrong in those years) | 2026-11-02 | Owner |
+| DEC-P0-24 | Liturgical day runs from sunset to sunset: after sunset the app shows the next day (vespers, Katameros, Synaxarium); Midnight prayer and Praise belong to the new day. Sunset from the device location, fixed 18:00 fallback; manual toggle «اليوم التقويمي / اليوم الطقسي» and a clear banner after sunset | 2026-11-02 | Owner |
 | DEC-P0-09 | Arabized Coptic in two pronunciations, user-selectable: modern first, Old Bohairic when available | 2026-10-29 | Owner |
 
 ## Open architecture decisions
