@@ -81,9 +81,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
   background: linear-gradient(90deg, transparent, #b67b16 15%, #ffe39a 50%, #b67b16 85%, transparent); opacity: 0; }
 .intro-mark { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: center; width: min(92vw, 620px); }
 .intro-cross { width: min(42vw, 200px); height: auto; display: block; filter: drop-shadow(0 10px 14px rgba(0,0,0,.6)); }
-.intro-title { width: min(90vw, 600px); height: auto; overflow: visible; margin-top: 6px; }
-.intro-rule { width: min(80vw, 460px); height: auto; overflow: visible; margin-top: 2px; }
-.intro-sub { width: min(74vw, 400px); height: auto; overflow: visible; }
+.intro-title { width: min(94vw, 620px); height: auto; display: block; margin-top: max(-9vw, -56px); }
+.intro-sub { width: min(46vw, 260px); height: auto; display: block; margin-top: -4px; }
 
 /* ---------- Top bar ---------- */
 #topbar {

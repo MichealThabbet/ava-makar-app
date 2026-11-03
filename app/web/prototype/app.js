@@ -38,11 +38,9 @@
     const tl = gsap.timeline({ onComplete: endIntro });
     gsap.set('.intro-cross', { scale: .72, opacity: 0, transformOrigin: '50% 50%' });
     gsap.set(['.intro-title', '.intro-sub'], { opacity: 0, y: 16, filter: 'blur(6px)' });
-    gsap.set('.intro-rule', { opacity: 0, scaleX: .15, transformOrigin: '50% 50%' });
     tl.to('.intro-cross', { scale: 1, opacity: 1, duration: 1.3, ease: 'power3.out' })
       .fromTo(light, { attr: { azimuth: 160 } }, { attr: { azimuth: 320 }, duration: 3.2, ease: 'sine.inOut' }, 0)
       .to('.intro-title', { opacity: 1, y: 0, filter: 'blur(0px)', duration: 1.1, ease: 'power2.out' }, .6)
-      .to('.intro-rule', { opacity: 1, scaleX: 1, duration: .9, ease: 'power2.out' }, 1.2)
       .to('.intro-sub', { opacity: 1, y: 0, filter: 'blur(0px)', duration: .8, ease: 'power2.out' }, 1.5)
       .to('.intro-mark', { opacity: 0, scale: .97, duration: .6 }, 4.1)
       .to(seam, { opacity: 1, duration: .25 }, 4.35)
