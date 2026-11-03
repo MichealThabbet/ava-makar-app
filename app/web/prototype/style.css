@@ -35,7 +35,7 @@ body {
 }
 body::before { /* owner's carved Coptic-cross texture (2026-11-03) */
   content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0;
-  background: #1d0801 url(img/bg-crosses.jpg) center top / 470px auto repeat;
+  background: #1d0801 url(img/bg-crosses.jpg?v=3) center top / 470px auto repeat;
 }
 body::after {
   content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0;
@@ -72,7 +72,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 #intro { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; }
 #intro .intro-half { position: absolute; left: 0; right: 0; height: 50.5%; overflow: hidden; background: #1e0b03; }
 #intro .intro-half::before { content: ""; position: absolute; left: 0; right: 0; height: 198%;
-  background: #1d0801 url(img/bg-crosses.jpg) center / 470px auto repeat; }
+  background: #1d0801 url(img/bg-crosses.jpg?v=3) center / 470px auto repeat; }
 #intro .intro-half::after { content: ""; position: absolute; left: 0; right: 0; height: 198%;
   background: radial-gradient(42% 26% at 50% 40%, rgba(255,170,60,.16), transparent 100%), radial-gradient(100% 65% at 50% 50%, transparent 40%, rgba(8,3,1,.8) 100%); }
 #intro .top { top: 0; } #intro .top::before, #intro .top::after { top: 0; }
@@ -91,7 +91,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
   padding: env(safe-area-inset-top, 0) 8px 0; display: flex; align-items: center; justify-content: space-between;
   transition: background .4s, box-shadow .4s;
 }
-#topbar.solid { background: #1d0801 url(img/bg-crosses.jpg) center / 470px auto repeat; box-shadow: 0 6px 22px rgba(0,0,0,.55); }
+#topbar.solid { background: #1d0801 url(img/bg-crosses.jpg?v=3) center / 470px auto repeat; box-shadow: 0 6px 22px rgba(0,0,0,.55); }
 #topbar.solid::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1.5px; background: var(--gold-line); }
 .topbar-title { font-family: Ruqaa, serif; font-weight: 700; font-size: 17px; color: var(--gold-4); text-shadow: 0 2px 2px rgba(0,0,0,.7); opacity: 0; transition: opacity .4s; }
 #topbar.solid .topbar-title { opacity: 1; }
@@ -320,7 +320,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 
 /* ---------- Bottom bar ---------- */
 #tabbar { position: fixed; z-index: 45; left: 0; right: 0; bottom: 0; display: flex; justify-content: space-around; padding: 8px 6px calc(8px + var(--safe-b));
-  background: #1d0801 url(img/bg-crosses.jpg) center / 470px auto repeat; box-shadow: 0 -8px 24px rgba(0,0,0,.6); }
+  background: #1d0801 url(img/bg-crosses.jpg?v=3) center / 470px auto repeat; box-shadow: 0 -8px 24px rgba(0,0,0,.6); }
 #tabbar::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 1.5px; background: var(--gold-line); }
 #tabbar a { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 2px; font-size: 11.5px; color: rgba(234,219,192,.72); text-decoration: none; cursor: pointer; }
 #tabbar svg { width: 25px; height: 25px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linejoin: round; stroke-linecap: round; filter: drop-shadow(0 2px 1px rgba(0,0,0,.7)); }
