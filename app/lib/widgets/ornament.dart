@@ -9,8 +9,11 @@ class Headpiece extends StatelessWidget {
   final double height;
 
   @override
-  Widget build(BuildContext context) =>
-      SizedBox(height: height, width: double.infinity, child: CustomPaint(painter: _BandPainter(color)));
+  Widget build(BuildContext context) => SizedBox(
+    height: height,
+    width: double.infinity,
+    child: CustomPaint(painter: _BandPainter(color)),
+  );
 }
 
 class _BandPainter extends CustomPainter {
@@ -50,8 +53,10 @@ class CrossMark extends StatelessWidget {
   final double size;
 
   @override
-  Widget build(BuildContext context) =>
-      SizedBox.square(dimension: size, child: CustomPaint(painter: _CrossPainter(color)));
+  Widget build(BuildContext context) => SizedBox.square(
+    dimension: size,
+    child: CustomPaint(painter: _CrossPainter(color)),
+  );
 }
 
 class _CrossPainter extends CustomPainter {
@@ -113,8 +118,10 @@ class IlluminatedInitial extends StatelessWidget {
         gradient: RadialGradient(colors: [gold.withValues(alpha: 0.22), gold.withValues(alpha: 0.04)]),
       ),
       alignment: Alignment.center,
-      child: Text(letter,
-          style: TextStyle(fontFamily: fontFamily, fontSize: 32, color: ink, fontWeight: FontWeight.w700, height: 1.1)),
+      child: Text(
+        letter,
+        style: TextStyle(fontFamily: fontFamily, fontSize: 32, color: ink, fontWeight: FontWeight.w700, height: 1.1),
+      ),
     );
   }
 }

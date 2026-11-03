@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-import '../theme.dart';
-import '../widgets/ornament.dart';
+import '../design/components.dart';
+import '../design/ornaments.dart';
+import '../design/tokens.dart';
 
-/// «مرشدك» concept: route of stations; map and positioning arrive in P4.
+/// «مرشدك»: route of stations; map and positioning arrive in P4.
 class TourScreen extends StatelessWidget {
-  const TourScreen({super.key, required this.palette});
-  final Palette palette;
+  const TourScreen({super.key});
 
   // Station names from the approved section list (Blueprint 03.xx); route order is a placeholder
   // until the monastery approves the visitor route.
@@ -21,55 +21,76 @@ class TourScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final p = palette;
-    return ListView(
-      padding: const EdgeInsets.fromLTRB(20, 18, 20, 32),
-      children: [
-        Text('مرشدك', textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 26, fontWeight: FontWeight.w700, color: p.ink)),
-        Text('مسار تجريبي — الترتيب النهائي يعتمده الدير',
-            textAlign: TextAlign.center, style: TextStyle(fontSize: 14, color: p.inkSoft)),
-        const SizedBox(height: 14),
-        Headpiece(color: p.gold),
-        const SizedBox(height: 18),
-        for (var i = 0; i < stations.length; i++)
-          Row(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Column(
-                children: [
-                  Container(
-                    width: 34,
-                    height: 34,
-                    alignment: Alignment.center,
-                    decoration: BoxDecoration(
-                      shape: BoxShape.circle,
-                      color: i == 0 ? p.gold : p.surface,
-                      border: Border.all(color: p.gold, width: 1.4),
-                    ),
-                    child: Text('${i + 1}',
-                        style: TextStyle(color: i == 0 ? p.background : p.ink, fontWeight: FontWeight.w700)),
-                  ),
-                  if (i < stations.length - 1) Container(width: 1.4, height: 46, color: p.line),
-                ],
-              ),
-              const SizedBox(width: 14),
-              Expanded(
-                child: Padding(
-                  padding: const EdgeInsets.only(top: 4),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
+    return WalnutBackdrop(
+      child: SafeArea(
+        bottom: false,
+        child: ListView(
+          padding: const EdgeInsets.fromLTRB(Space.xl, Space.xl, Space.xl, Space.xxxl),
+          children: [
+            const Text('مرشدك', style: AppText.eyebrow),
+            const Text('جولة في الدير', style: AppText.sectionTitle),
+            const SizedBox(height: Space.xs),
+            const Text(
+              'مسار تجريبي — الترتيب النهائي يعتمده الدير. الخريطة وتحديد الموقع في المرحلة P4.',
+              style: AppText.body,
+            ),
+            const SizedBox(height: Space.xl),
+            for (var i = 0; i < stations.length; i++)
+              Reveal(
+                index: i,
+                child: IntrinsicHeight(
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
                     children: [
-                      Text(stations[i], style: TextStyle(fontSize: 19, color: p.ink, fontWeight: FontWeight.w700)),
-                      Text(i == 0 ? 'أنت هنا — امشِ للأمام قليلًا' : 'المحطة التالية',
-                          style: TextStyle(fontSize: 14, color: i == 0 ? p.rubric : p.inkSoft)),
+                      Column(
+                        children: [
+                          Container(
+                            width: 38,
+                            height: 38,
+                            alignment: Alignment.center,
+                            decoration: BoxDecoration(
+                              shape: BoxShape.circle,
+                              gradient: i == 0 ? Gilt.gradient : null,
+                              color: i == 0 ? null : AppColors.obsidian,
+                              border: Border.all(color: AppColors.gold, width: 1.2),
+                            ),
+                            child: Text(
+                              '${i + 1}',
+                              style: AppText.label.copyWith(
+                                color: i == 0 ? AppColors.obsidian : AppColors.goldHi,
+                                fontSize: 15,
+                              ),
+                            ),
+                          ),
+                          if (i < stations.length - 1)
+                            Expanded(child: Container(width: 1, color: AppColors.gold.withValues(alpha: 0.5))),
+                        ],
+                      ),
+                      const SizedBox(width: Space.l),
+                      Expanded(
+                        child: Padding(
+                          padding: const EdgeInsets.only(bottom: Space.l),
+                          child: LeatherPanel(
+                            padding: const EdgeInsets.symmetric(horizontal: Space.l, vertical: Space.m),
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(stations[i], style: AppText.cardTitle.copyWith(fontSize: 19)),
+                                Text(i == 0 ? 'نقطة البداية' : 'المحطة ${i + 1}', style: AppText.caption),
+                              ],
+                            ),
+                          ),
+                        ),
+                      ),
                     ],
                   ),
                 ),
               ),
-            ],
-          ),
-      ],
+            const SizedBox(height: Space.l),
+            const Center(child: OrnamentDivider()),
+          ],
+        ),
+      ),
     );
   }
 }

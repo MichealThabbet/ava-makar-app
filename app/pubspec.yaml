@@ -7,10 +7,13 @@ environment:
   sdk: ^3.9.0
 
 dependencies:
+  coptic_calendar:
+    path: ../packages/coptic_calendar
   flutter:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  shared_preferences: ^2.5.6
 
 dev_dependencies:
   flutter_test:
@@ -21,12 +24,21 @@ flutter:
   uses-material-design: true
   assets:
     - assets/data/preview_sample.json
+    - assets/data/library.json
+    - assets/textures/
   fonts:
     - family: Amiri
       fonts:
         - asset: assets/fonts/Amiri-Regular.ttf
         - asset: assets/fonts/Amiri-Bold.ttf
           weight: 700
+    - family: IBMPlexSansArabic
+      fonts:
+        - asset: assets/fonts/IBMPlexSansArabic-Regular.ttf
+        - asset: assets/fonts/IBMPlexSansArabic-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/IBMPlexSansArabic-SemiBold.ttf
+          weight: 600
     - family: NotoSansCoptic
       fonts:
         - asset: assets/fonts/NotoSansCoptic-Regular.ttf

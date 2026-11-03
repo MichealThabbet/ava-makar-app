@@ -10,7 +10,7 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 | 2 | P0 addendum (Orsozoxi merge, languages, Tour Guide, store, ideas) | Approved by owner 2026-10-29 | `docs/plan/P0_ADDENDUM.md` |
 | 3 | Inventory of the owner's content package | Done 2026-10-29 | `docs/content/INVENTORY.md` |
 | 4 | Stack comparison (ADR-001) | Approved 2026-11-01 | `docs/adr/ADR-001-stack.md` |
-| 5 | Visual identity | Direction approved; concept screens pending | `docs/design/DESIGN_DIRECTION.md` |
+| 5 | Visual identity | Redesign built 2026-11-03 (DEC-P0-27): home, library, book detail, reader, tour; hero photo and official emblem pending from the monastery | `docs/design/DESIGN_SYSTEM.md`, `app/lib/design/` |
 | 6 | Payment gateway research | Moved to P6 (needed only for the store) | — |
 | 7 | Web design preview (home, parallel reader, «مرشدك»; parchment and candle modes) | Built; `flutter analyze` clean, 1 widget test passing, web build OK, screenshots checked | `app/`, `.github/workflows/web-preview.yml` |
 
