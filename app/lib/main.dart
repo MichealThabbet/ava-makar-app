@@ -50,7 +50,13 @@ class _ShellState extends State<Shell> {
   @override
   void didChangeDependencies() {
     super.didChangeDependencies();
-    for (final t in [Textures.leather, Textures.walnut, Textures.sandstone, Textures.parchment]) {
+    for (final t in [
+      Textures.leather,
+      Textures.walnut,
+      Textures.sandstone,
+      Textures.parchment,
+      ...Textures.paperSheets,
+    ]) {
       precacheImage(AssetImage(t), context);
     }
   }

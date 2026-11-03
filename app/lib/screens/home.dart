@@ -250,25 +250,40 @@ class _ExploreGrid extends StatelessWidget {
       crossAxisCount: cols,
       shrinkWrap: true,
       physics: const NeverScrollableScrollPhysics(),
-      mainAxisSpacing: Space.m,
-      crossAxisSpacing: Space.m,
-      childAspectRatio: cols == 4 ? 1.35 : 0.95,
+      mainAxisSpacing: Space.xs,
+      crossAxisSpacing: Space.xs,
+      childAspectRatio: 1.0,
       children: [
-        for (final t in tiles)
+        for (var i = 0; i < tiles.length; i++)
           Pressable(
-            onTap: () => onGoTo(t.$1),
-            semanticLabel: t.$3,
-            child: LeatherPanel(
-              corners: true,
-              padding: const EdgeInsets.fromLTRB(Space.l, Space.xl, Space.l, Space.l),
+            onTap: () => onGoTo(tiles[i].$1),
+            semanticLabel: tiles[i].$3,
+            child: PaperSheet(
+              variant: i,
               child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Icon(t.$2, color: AppColors.goldHi, size: 26),
-                  const Spacer(),
-                  Text(t.$3, style: AppText.cardTitle.copyWith(fontSize: 19)),
+                  Icon(tiles[i].$2, color: AppColors.inkBrown, size: 34),
+                  const SizedBox(height: Space.s),
+                  Text(
+                    tiles[i].$3,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(
+                      fontFamily: Fonts.display,
+                      fontSize: 19,
+                      height: 1.3,
+                      fontWeight: FontWeight.w700,
+                      color: AppColors.inkBrown,
+                    ),
+                  ),
                   const SizedBox(height: 2),
-                  Text(t.$4, maxLines: 2, overflow: TextOverflow.ellipsis, style: AppText.caption),
+                  Text(
+                    tiles[i].$4,
+                    textAlign: TextAlign.center,
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
+                    style: AppText.caption.copyWith(color: AppColors.inkBrown.withValues(alpha: 0.78)),
+                  ),
                 ],
               ),
             ),

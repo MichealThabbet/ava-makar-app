@@ -367,3 +367,23 @@ class WalnutBackdrop extends StatelessWidget {
     );
   }
 }
+
+/// Torn sheet of aged paper with its own soft shadow and no frame. Text on it is
+/// dark-brown ink (AppColors.inkBrown).
+class PaperSheet extends StatelessWidget {
+  const PaperSheet({super.key, required this.child, this.variant = 0});
+  final Widget child;
+  final int variant;
+
+  @override
+  Widget build(BuildContext context) {
+    return Stack(
+      fit: StackFit.expand,
+      children: [
+        Image.asset(Textures.paperSheets[variant % Textures.paperSheets.length], fit: BoxFit.fill),
+        // The sheet's own margins (shadow and torn edge) are ~10 % of each side.
+        Padding(padding: const EdgeInsets.fromLTRB(22, 18, 22, 26), child: child),
+      ],
+    );
+  }
+}

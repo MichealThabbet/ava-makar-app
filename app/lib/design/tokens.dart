@@ -13,7 +13,8 @@ abstract final class AppColors {
 
   // Derived.
   static const goldDeep = Color(0xFF7A5A2A);
-  static const ink = Color(0xFF2A1E17); // text on parchment (contrast ≈ 13:1)
+  static const ink = Color(0xFF2A1E17);
+  static const inkBrown = Color(0xFF3A2112); // dark-brown writing on aged paper // text on parchment (contrast ≈ 13:1)
   static const inkSoft = Color(0xFF5E4A3C); // secondary text on parchment (≈ 7:1)
   static const ivory = Color(0xFFF4ECDD); // text on dark (≈ 15:1 on obsidian)
   static const ivorySoft = Color(0xFFC9B9A0); // secondary on dark (≈ 9:1)
@@ -37,6 +38,11 @@ abstract final class Textures {
   static const walnut = 'assets/textures/walnut.jpg';
   static const sandstone = 'assets/textures/sandstone.jpg';
   static const parchment = 'assets/textures/parchment.jpg';
+  static const paperSheets = [
+    'assets/textures/paper_1.png',
+    'assets/textures/paper_2.png',
+    'assets/textures/paper_3.png',
+  ];
 }
 
 abstract final class Space {
