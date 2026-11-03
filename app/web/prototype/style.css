@@ -20,7 +20,7 @@
   --ink: #3a2112;
   --ink-soft: #6a4a32;
   --rubric: #8e2a22;
-  --gold-1: #f6e2a8; --gold-2: #cfa654; --gold-3: #8f6a2c; --gold-4: #e9c97c;
+  --gold-1: #fff3bf; --gold-2: #f2bf45; --gold-3: #a8700f; --gold-4: #f7c955;
   --gold-grad: linear-gradient(180deg, var(--gold-1) 0%, var(--gold-2) 42%, var(--gold-3) 58%, var(--gold-4) 100%);
   --gold-line: linear-gradient(90deg, transparent, #8f6a2c 12%, #f3d999 50%, #8f6a2c 88%, transparent);
   --safe-b: env(safe-area-inset-bottom, 0px);
@@ -31,12 +31,15 @@
 html { scroll-behavior: smooth; overflow-x: clip; }
 body {
   margin: 0; color: var(--champagne); font-family: Plex, system-ui, sans-serif;
-  background: var(--chocolate-deep) url(img/leather-chocolate.jpg) center / 900px auto;
-  overflow-x: clip; min-height: 100vh;
+  background: #1e0b03; overflow-x: clip; min-height: 100vh;
 }
-body::before { /* vignette over the leather */
+body::before { /* owner's dark-brown ground + carved Coptic crosses, fading to the edges */
   content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0;
-  background: radial-gradient(120% 80% at 50% 30%, transparent 40%, rgba(10,5,2,.65) 100%);
+  background: url(img/cross-pattern.svg) center / 104px 104px, url(img/bg-dark.jpg) center / cover;
+}
+body::after {
+  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0;
+  background: radial-gradient(110% 75% at 50% 45%, transparent 35%, rgba(8,3,1,.72) 100%);
 }
 main { position: relative; z-index: 1; padding-bottom: calc(86px + var(--safe-b)); }
 button { font: inherit; color: inherit; cursor: pointer; }
@@ -66,21 +69,22 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .leather-alabaster { background: var(--alabaster) url(img/leather-alabaster.jpg) center / cover; }
 
 /* ---------- 0. Opening ---------- */
-#intro { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; pointer-events: auto; }
-#intro .intro-half {
-  position: absolute; left: 0; right: 0; height: 50.5%;
-  background: var(--chocolate) url(img/leather-chocolate.jpg) center / 900px auto;
-  box-shadow: inset 0 0 120px rgba(0,0,0,.6);
-}
-#intro .top { top: 0; } #intro .bottom { bottom: 0; }
-#intro .top::after { content: ""; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: var(--gold-line); }
-.intro-mark { position: relative; text-align: center; padding: 0 24px; }
-.intro-cross { width: 92px; height: 92px; overflow: visible; }
-.intro-cross .draw { fill: none; stroke: url(#g-gold); stroke-width: 5; stroke-linecap: round; stroke-dasharray: 260; stroke-dashoffset: 260; }
-.intro-cross .dot { fill: url(#g-gold); opacity: 0; }
-.intro-title { font-family: Ruqaa, serif; font-weight: 700; font-size: clamp(30px, 8.5vw, 58px); margin: 18px 0 0; opacity: 0; }
-.intro-sub { font-family: Ruqaa, serif; font-size: clamp(18px, 4.6vw, 26px); color: var(--gold-4); margin: 0; opacity: 0; text-shadow: 0 2px 2px rgba(0,0,0,.6); }
-.intro-rule { opacity: 0; }
+#intro { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; }
+#intro .intro-half { position: absolute; left: 0; right: 0; height: 50.5%; overflow: hidden; background: #1e0b03; }
+#intro .intro-half::before { content: ""; position: absolute; left: 0; right: 0; height: 198%;
+  background: url(img/cross-pattern.svg) center / 104px 104px, url(img/bg-dark.jpg) center / cover;
+  -webkit-mask-image: radial-gradient(90% 60% at 50% 50%, #000 45%, rgba(0,0,0,.55) 100%); mask-image: radial-gradient(90% 60% at 50% 50%, #000 45%, rgba(0,0,0,.55) 100%); }
+#intro .intro-half::after { content: ""; position: absolute; left: 0; right: 0; height: 198%;
+  background: radial-gradient(42% 26% at 50% 40%, rgba(255,170,60,.16), transparent 100%), radial-gradient(100% 65% at 50% 50%, transparent 40%, rgba(8,3,1,.8) 100%); }
+#intro .top { top: 0; } #intro .top::before, #intro .top::after { top: 0; }
+#intro .bottom { bottom: 0; } #intro .bottom::before, #intro .bottom::after { bottom: 0; }
+#intro .seam { position: absolute; left: 0; right: 0; top: 50%; height: 2px; transform: translateY(-1px); z-index: 1;
+  background: linear-gradient(90deg, transparent, #b67b16 15%, #ffe39a 50%, #b67b16 85%, transparent); opacity: 0; }
+.intro-mark { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: center; width: min(92vw, 620px); }
+.intro-cross { width: min(54vw, 270px); height: auto; overflow: visible; }
+.intro-title { width: min(90vw, 600px); height: auto; overflow: visible; margin-top: 6px; }
+.intro-rule { width: min(80vw, 460px); height: auto; overflow: visible; margin-top: 2px; }
+.intro-sub { width: min(74vw, 400px); height: auto; overflow: visible; }
 
 /* ---------- Top bar ---------- */
 #topbar {
@@ -88,7 +92,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
   padding: env(safe-area-inset-top, 0) 8px 0; display: flex; align-items: center; justify-content: space-between;
   transition: background .4s, box-shadow .4s;
 }
-#topbar.solid { background: rgba(34,19,12,.92) url(img/leather-chocolate.jpg) center / 900px auto; box-shadow: 0 6px 22px rgba(0,0,0,.45); }
+#topbar.solid { background: rgba(22,9,3,.94) url(img/bg-dark.jpg) center / cover; box-shadow: 0 6px 22px rgba(0,0,0,.55); }
 #topbar.solid::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1.5px; background: var(--gold-line); }
 .topbar-title { font-family: Ruqaa, serif; font-weight: 700; font-size: 17px; color: var(--gold-4); text-shadow: 0 2px 2px rgba(0,0,0,.7); opacity: 0; transition: opacity .4s; }
 #topbar.solid .topbar-title { opacity: 1; }
@@ -317,7 +321,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 
 /* ---------- Bottom bar ---------- */
 #tabbar { position: fixed; z-index: 45; left: 0; right: 0; bottom: 0; display: flex; justify-content: space-around; padding: 8px 6px calc(8px + var(--safe-b));
-  background: var(--chocolate) url(img/leather-chocolate.jpg) center / 900px auto; box-shadow: 0 -8px 24px rgba(0,0,0,.55); }
+  background: #1e0b03 url(img/bg-dark.jpg) center / cover; box-shadow: 0 -8px 24px rgba(0,0,0,.6); }
 #tabbar::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 1.5px; background: var(--gold-line); }
 #tabbar a { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 2px; font-size: 11.5px; color: rgba(234,219,192,.72); text-decoration: none; cursor: pointer; }
 #tabbar svg { width: 25px; height: 25px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linejoin: round; stroke-linecap: round; filter: drop-shadow(0 2px 1px rgba(0,0,0,.7)); }

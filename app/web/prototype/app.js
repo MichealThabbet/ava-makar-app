@@ -33,16 +33,22 @@
   function endIntro() { intro.remove(); startSlides(); revealAll(); }
   if (reduce || !hasGsap) { intro.remove(); }
   else {
+    const seam = document.createElement('div'); seam.className = 'seam'; intro.appendChild(seam);
+    const light = document.getElementById('goldLight');
     const tl = gsap.timeline({ onComplete: endIntro });
-    tl.to('.intro-cross .draw', { strokeDashoffset: 0, duration: 1.1, ease: 'power2.inOut', stagger: .12 })
-      .to('.intro-cross .dot', { opacity: 1, duration: .3, stagger: .05 }, '-=.3')
-      .to('.intro-title', { opacity: 1, y: 0, duration: .7, ease: 'power2.out' }, '-=.1')
-      .fromTo('.intro-rule', { opacity: 0, scaleX: .2 }, { opacity: 1, scaleX: 1, duration: .6, ease: 'power2.out' }, '-=.4')
-      .to('.intro-sub', { opacity: 1, duration: .5 }, '-=.3')
-      .to('.intro-mark', { opacity: 0, scale: .96, duration: .5, delay: .7 })
-      .to('#intro .top', { yPercent: -101, duration: 1.1, ease: 'power3.inOut' }, '-=.1')
-      .to('#intro .bottom', { yPercent: 101, duration: 1.1, ease: 'power3.inOut' }, '<');
-    gsap.set('.intro-title', { y: 14 });
+    gsap.set('.intro-cross', { scale: .72, opacity: 0, transformOrigin: '50% 50%' });
+    gsap.set(['.intro-title', '.intro-sub'], { opacity: 0, y: 16, filter: 'blur(6px)' });
+    gsap.set('.intro-rule', { opacity: 0, scaleX: .15, transformOrigin: '50% 50%' });
+    tl.to('.intro-cross', { scale: 1, opacity: 1, duration: 1.3, ease: 'power3.out' })
+      .fromTo(light, { attr: { azimuth: 160 } }, { attr: { azimuth: 320 }, duration: 3.2, ease: 'sine.inOut' }, 0)
+      .to('.intro-title', { opacity: 1, y: 0, filter: 'blur(0px)', duration: 1.1, ease: 'power2.out' }, .6)
+      .to('.intro-rule', { opacity: 1, scaleX: 1, duration: .9, ease: 'power2.out' }, 1.2)
+      .to('.intro-sub', { opacity: 1, y: 0, filter: 'blur(0px)', duration: .8, ease: 'power2.out' }, 1.5)
+      .to('.intro-mark', { opacity: 0, scale: .97, duration: .6 }, 4.1)
+      .to(seam, { opacity: 1, duration: .25 }, 4.35)
+      .to('#intro .top', { yPercent: -101, duration: 1.2, ease: 'power3.inOut' }, 4.6)
+      .to('#intro .bottom', { yPercent: 101, duration: 1.2, ease: 'power3.inOut' }, 4.6)
+      .to(seam, { opacity: 0, duration: .3 }, 4.7);
     intro.addEventListener('click', () => tl.progress(1));
   }
 

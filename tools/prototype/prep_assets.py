@@ -47,7 +47,7 @@ for src, dst, crop in photos:
     if crop:
         x0, y0, x1, y1 = crop
         im = im.crop((int(x0 * im.width), int(y0 * im.height), int(x1 * im.width), int(y1 * im.height)))
-    save_jpg(grade(im), dst, 1100)
+    save_jpg(grade(im), dst, 1600)  # never upscaled; keeps the owner's full resolution
 
 
 def cutout(src, dst, w):

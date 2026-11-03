@@ -10,27 +10,69 @@
 </head>
 <body>
 
+<!-- Shared gold: polished 3-D metal (bevel + specular light + extrusion + drop shadow) -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <linearGradient id="gold-fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff3bf"/><stop offset=".22" stop-color="#ffd45e"/>
+      <stop offset=".5" stop-color="#e6aa2c"/><stop offset=".72" stop-color="#b67b16"/>
+      <stop offset="1" stop-color="#f7c955"/>
+    </linearGradient>
+    <filter id="gold3d" x="-25%" y="-25%" width="150%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1.6" result="b"/>
+      <feSpecularLighting in="b" surfaceScale="4.5" specularConstant="1.15" specularExponent="24" lighting-color="#fff8dc" result="spec">
+        <feDistantLight id="goldLight" azimuth="225" elevation="48"/>
+      </feSpecularLighting>
+      <feComposite in="spec" in2="SourceAlpha" operator="in" result="specIn"/>
+      <feComposite in="SourceGraphic" in2="specIn" operator="arithmetic" k1="0" k2="1" k3=".9" k4="0" result="lit"/>
+      <!-- extrusion: stacked darker copies below -->
+      <feFlood flood-color="#5e3a08" result="ex"/>
+      <feComposite in="ex" in2="SourceAlpha" operator="in" result="exA"/>
+      <feOffset in="exA" dx="0" dy="1" result="e1"/><feOffset in="exA" dx="0" dy="2" result="e2"/>
+      <feOffset in="exA" dx="0" dy="3" result="e3"/><feOffset in="exA" dx="0" dy="4" result="e4"/>
+      <feFlood flood-color="#000" flood-opacity=".75" result="sh"/>
+      <feComposite in="sh" in2="SourceAlpha" operator="in" result="shA"/>
+      <feGaussianBlur in="shA" stdDeviation="5" result="shB"/><feOffset in="shB" dy="9" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="e4"/><feMergeNode in="e3"/><feMergeNode in="e2"/><feMergeNode in="e1"/><feMergeNode in="lit"/></feMerge>
+    </filter>
+    <g id="copticCross">
+      <g id="ccArm">
+        <path d="M-11 -24 L11 -24 L15 -60 L-15 -60 Z"/>
+        <circle cx="0" cy="-70" r="11"/><circle cx="-15" cy="-60" r="8.5"/><circle cx="15" cy="-60" r="8.5"/>
+      </g>
+      <use href="#ccArm" transform="rotate(90)"/><use href="#ccArm" transform="rotate(180)"/><use href="#ccArm" transform="rotate(270)"/>
+      <circle r="27"/>
+      <g id="ccDot"><path d="M0 -50 L6 -44 L0 -38 L-6 -44 Z" transform="rotate(45)"/></g>
+      <use href="#ccDot" transform="rotate(90)"/><use href="#ccDot" transform="rotate(180)"/><use href="#ccDot" transform="rotate(270)"/>
+    </g>
+  </defs>
+</svg>
+
 <!-- 0. Opening -->
 <div id="intro" aria-hidden="true">
   <div class="intro-half top"></div>
   <div class="intro-half bottom"></div>
   <div class="intro-mark">
-    <svg class="intro-cross" viewBox="0 0 120 120" aria-hidden="true">
-      <defs>
-        <linearGradient id="g-gold" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0" stop-color="#f6e2a8"/><stop offset=".45" stop-color="#cfa654"/>
-          <stop offset=".6" stop-color="#8f6a2c"/><stop offset="1" stop-color="#e9c97c"/>
-        </linearGradient>
-      </defs>
-      <path class="draw" d="M60 8v104M8 60h104" />
-      <path class="draw" d="M48 8h24M48 112h24M8 48v24M112 48v24" />
-      <circle class="draw" cx="60" cy="60" r="12" />
-      <circle class="dot" cx="60" cy="4" r="4"/><circle class="dot" cx="60" cy="116" r="4"/>
-      <circle class="dot" cx="4" cy="60" r="4"/><circle class="dot" cx="116" cy="60" r="4"/>
+    <svg class="intro-cross" viewBox="-100 -100 200 200" aria-hidden="true">
+      <g fill="url(#gold-fill)" filter="url(#gold3d)"><use href="#copticCross"/></g>
+      <circle r="17" fill="#3a1607" opacity=".55"/>
+      <circle r="11" fill="url(#gold-fill)" filter="url(#gold3d)"/>
     </svg>
-    <h1 class="intro-title gold-text">دير القديس أنبا مقار الكبير</h1>
-    <div class="star-rule intro-rule"><span></span><i></i><span></span></div>
-    <p class="intro-sub">ببرية شيهيت</p>
+    <svg class="intro-title" viewBox="0 0 400 230" aria-label="دير القديس أنبا مقار الكبير">
+      <g fill="url(#gold-fill)" filter="url(#gold3d)" font-family="Ruqaa" font-weight="700" text-anchor="middle" direction="rtl">
+        <text x="200" y="92" font-size="76">دير القديس</text>
+        <text x="200" y="196" font-size="76">أنبا مقار الكبير</text>
+      </g>
+    </svg>
+    <svg class="intro-rule" viewBox="0 0 400 40" aria-hidden="true">
+      <g fill="url(#gold-fill)" filter="url(#gold3d)">
+        <path d="M20 18.5 H168 V21.5 H20 Z M232 18.5 H380 V21.5 H232 Z"/>
+        <path d="M200 2 L206 14 L218 20 L206 26 L200 38 L194 26 L182 20 L194 14 Z"/>
+      </g>
+    </svg>
+    <svg class="intro-sub" viewBox="0 0 400 70" aria-label="ببرية شيهيت">
+      <text x="200" y="50" font-size="42" font-family="Ruqaa" font-weight="700" text-anchor="middle" direction="rtl" fill="url(#gold-fill)" filter="url(#gold3d)">ببرية شيهيت</text>
+    </svg>
   </div>
 </div>
 
