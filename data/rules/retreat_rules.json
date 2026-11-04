@@ -1,16 +1,18 @@
 {
   "_source": "docs/spec/RETREAT_HOUSE_SOURCE_2026-11-04.md (owner, 2026-11-04). Rules as data; editable in the CMS; versioned.",
-  "version": 1,
+  "version": 2,
   "programs": {
     "lay_youth_inner_house": {
       "name_ar": "خلوة الإخوة العلمانيين — بيت الخلوة الداخلي",
       "booking_channel": "app",
-      "contact_phone": "01285555803",
       "min_notice_days": 7,
       "max_people": 3,
       "max_nights": 2,
       "max_days": 3,
-      "arrival_window": ["08:00", "16:00"],
+      "arrival_window": [
+        "08:00",
+        "16:00"
+      ],
       "min_age": 16,
       "max_age_outside_fasts": 29,
       "age_limit_lifted_in_fasts": true,
@@ -18,16 +20,45 @@
       "allocation": "first_come_first_served",
       "requires_letter_from_confession_father": true,
       "blackouts": [
-        {"id": "jan1_to_epiphany", "from": {"gregorian": "01-01"}, "to": {"fixed_feast": "epiphany"}},
-        {"id": "nineveh_fast", "movable": ["nineveh_fast_start", 0, 2]},
-        {"id": "lent_end_to_thomas_sunday", "from": {"movable": "great_lent_end"}, "to": {"movable": "thomas_sunday"}}
+        {
+          "id": "jan1_to_epiphany",
+          "from": {
+            "gregorian": "01-01"
+          },
+          "to": {
+            "fixed_feast": "epiphany"
+          }
+        },
+        {
+          "id": "nineveh_fast",
+          "movable": [
+            "nineveh_fast_start",
+            0,
+            2
+          ]
+        },
+        {
+          "id": "lent_end_to_thomas_sunday",
+          "from": {
+            "movable": "great_lent_end"
+          },
+          "to": {
+            "movable": "thomas_sunday"
+          }
+        }
       ],
-      "fallback_contact": {"name_ar": "بيت الخلوة الخارجي (أمام الكاتدرائية)", "phone": "01206255666", "hours": ["08:00", "18:00"]}
+      "fallback_contact": {
+        "name_ar": "بيت الخلوة الخارجي (أمام الكاتدرائية)",
+        "phone": "01206255666",
+        "hours": [
+          "08:00",
+          "18:00"
+        ]
+      }
     },
     "clergy_monks_epiphanius_building": {
       "name_ar": "خلوة الآباء الكهنة والرهبان — مبنى الأنبا إبيفانيوس",
-      "booking_channel": "whatsapp",
-      "whatsapp": "01224818170",
+      "booking_channel": "app",
       "min_notice_days": 7,
       "min_notice_days_mon_tue_wed": 14,
       "max_people": 2,
@@ -37,13 +68,49 @@
       "leave_before": "12:00",
       "min_gap_between_retreats_days": 60,
       "allocation": "first_come_first_served",
-      "fields": ["الاسم الثنائي", "الكنيسة", "الإيبارشية", "فترة الخلوة المرجوة بالتواريخ"]
+      "fields": [
+        "الاسم الثنائي",
+        "الكنيسة",
+        "الإيبارشية",
+        "فترة الخلوة المرجوة بالتواريخ"
+      ]
     },
     "foreigners_and_egyptians_abroad": {
       "name_ar": "خلوة الإخوة الأجانب والمصريين المقيمين بالخارج",
-      "booking_channel": "email",
-      "email": "epiphaniusretreat@gmail.com"
+      "booking_channel": "app",
+      "contact_email": "epiphaniusretreat@gmail.com"
     }
   },
-  "monastery_contacts": {"phones": ["01222884278", "0482650505"], "location_ar": "الكيلو ٩٢ القاهرة / الكيلو ١٣٦ الإسكندرية"}
+  "monastery_contacts": {
+    "phones": [
+      "01222884278",
+      "0482650505"
+    ],
+    "location_ar": "الكيلو ٩٢ القاهرة / الكيلو ١٣٦ الإسكندرية"
+  },
+  "_change_v2": "Owner 2026-11-04: no inbound WhatsApp; all requests and inquiries inside the app/site. On approval the applicant receives a PDF confirmation by WhatsApp (registered number) and e-mail.",
+  "confirmation": {
+    "on": "approved_by_father",
+    "document": "pdf",
+    "channels": [
+      "whatsapp_outbound",
+      "email",
+      "in_app"
+    ],
+    "whatsapp_note": "outbound only, WhatsApp Business Cloud API template message; no inbound chat"
+  },
+  "inquiries": {
+    "channel": "in_app",
+    "fields": [
+      "full_name",
+      "phone",
+      "governorate",
+      "confession_father",
+      "church",
+      "subject",
+      "message"
+    ],
+    "inbox_role": "retreat_father",
+    "reply": "in_app + email notification"
+  }
 }
