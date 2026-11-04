@@ -105,14 +105,14 @@
     if (g.synax) {
       const s = D.synaxarium;
       right = `<div class="p-label">السنكسار</div><div class="p-ref">${esc(s.heading)}</div><div class="p-orn"></div>${s.titles.map((t) => `<div>${esc(t)}</div>`).join('')}`;
-      left = esc(s.text.join(' ').slice(0, 520)) + ' …';
+      left = esc(s.text.join(' ').slice(0, 300)) + ' …';
     } else {
       const main = g.items[g.items.length - 1];
       const plain = main.verses.map(([, v, t]) => `${ar(v)} ${t}`).join(' ');
       const first = plain.replace(/^[٠-٩]+\s*/, '');
       right = `<div class="p-label">${main.label}</div><div class="p-ref">${esc(ref(main))}</div><div class="p-orn"></div>` +
-        `<span class="initial">${esc(first.charAt(0))}</span>${esc(first.slice(1, 230))}`;
-      left = esc(first.slice(230, 700)) + ' …';
+        `<span class="initial">${esc(first.charAt(0))}</span>${esc(first.slice(1, 120))}`;
+      left = esc(first.slice(120, 380)) + ' …';
     }
     $('#pageRight').innerHTML = right;
     $('#pageLeft').innerHTML = left;
@@ -146,7 +146,7 @@
     }
     const prev = i > 0 ? `<button data-go="${i - 1}">‹ ${GROUPS[i - 1].tab}</button>` : '<span></span>';
     const next = i < GROUPS.length - 1 ? `<button data-go="${i + 1}">${GROUPS[i + 1].tab} ›</button>` : '<span></span>';
-    return `<p class="ref" style="font-family:Ruqaa,serif">${D.day.label}</p>${h}<p class="ref" style="font-size:12px;margin-top:20px">${D.sources.readings}</p><div class="overlay-nav">${next}${prev}</div>`;
+    return `<p class="ref" style="font-family:Display,serif">${D.day.label}</p>${h}<p class="ref" style="font-size:12px;margin-top:20px">${D.sources.readings}</p><div class="overlay-nav">${next}${prev}</div>`;
   }
   const overlay = $('#overlay'), oc = $('#overlayContent');
   function openOverlay(html) {
