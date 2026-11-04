@@ -26,7 +26,7 @@
 
   /* ---------- Top bar turns to leather after the hero ---------- */
   const bar = $('#topbar');
-  addEventListener('scroll', () => bar.classList.toggle('solid', scrollY > 120), { passive: true });
+  // header stays fixed and visible (owner, 2026-11-04)
 
   /* ---------- 0. Opening ---------- */
   const intro = $('#intro');
