@@ -92,7 +92,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .intro-line::after { content: ""; position: absolute; inset: 0; pointer-events: none; mix-blend-mode: screen;
   background: linear-gradient(105deg, transparent 38%, rgba(255,250,225,.95) 50%, transparent 62%) 160% 0 / 260% 100% no-repeat;
   -webkit-mask: var(--m) center / 100% 100% no-repeat; mask: var(--m) center / 100% 100% no-repeat; }
-.intro-line.shine::after { animation: lineShine 1.3s ease-in-out forwards; }
+.intro-line.shine::after { animation: lineShine 2.4s ease-in-out forwards; }
 @keyframes lineShine { from { background-position: 160% 0; } to { background-position: -60% 0; } }
 
 /* ---------- Top bar ---------- */
