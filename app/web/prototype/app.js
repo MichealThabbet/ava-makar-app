@@ -27,6 +27,8 @@
   /* ---------- Top bar turns to leather after the hero ---------- */
   const bar = $('#topbar');
   // header stays fixed and visible (owner, 2026-11-04)
+  // metallic light sweeping slowly across the header name
+  if (hasGsap && !reduce) gsap.fromTo('#hdrLight', { attr: { azimuth: 160 } }, { attr: { azimuth: 330 }, duration: 6, ease: 'sine.inOut', yoyo: true, repeat: -1 });
 
   /* ---------- 0. Opening ---------- */
   const intro = $('#intro');
