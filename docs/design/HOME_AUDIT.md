@@ -62,3 +62,11 @@ Severity: A = breaks quality or correctness, B = weakens the luxury feel, C = po
 ## Performance
 39. B — Many CSS drop-shadow filters and a fixed background: risk of jank on iPhone Safari. Fix: bake shadows into images, use box-shadow.
 40. C — Fonts loaded as full variable TTF (Cairo ~600 KB): subset to Arabic and WOFF2.
+
+## Added by the owner (2026-11-04)
+41. A — Photo show must be landscape, not portrait. Done: 1600 × 1220 frame, photos cropped with a focus point each (the owner's photos are portrait, so each landscape view shows a band of the photo).
+42. A — Paper frame showed cut marks on its edges (left from the white-background cut-out). Done: new frame from the owner's scroll texture with a procedural torn, scorched edge and a smooth alpha (`tools/prototype/frame.py`).
+43. B — Fixed background with church light. Done: the cross texture stays fixed; slow light rays, two breathing warm light pools and faint rising dust on top (off under reduced motion).
+
+## Status after this pass
+Fixed: 12, 13, 14, 15, 18, 20, 24, 29, 41, 42, 43. Others open.

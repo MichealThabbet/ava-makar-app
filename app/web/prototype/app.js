@@ -53,7 +53,8 @@
   /* ---------- 1. Cinematic slides ---------- */
   const PHOTOS = ['m1', 'm2', 'm3', 'm4', 'm5', 'm6', 'm7'];
   const slides = $('#slides'), prog = $('#slideProgress');
-  slides.innerHTML = PHOTOS.map((p) => `<img src="img/${p}.jpg" alt="" decoding="async">`).join('');
+  const FOCUS = { m1: '50% 38%', m2: '50% 50%', m3: '50% 48%', m4: '50% 50%', m5: '50% 55%', m6: '50% 52%', m7: '50% 40%' };
+  slides.innerHTML = PHOTOS.map((p) => `<img src="img/${p}.jpg" alt="" decoding="async" style="--focus:${FOCUS[p]}">`).join('');
   prog.innerHTML = PHOTOS.map(() => '<i><b></b></i>').join('');
   const imgs = [...slides.children], bars = [...prog.querySelectorAll('b')];
   const MOVES = [
@@ -110,8 +111,9 @@
       const main = g.items[g.items.length - 1];
       const plain = main.verses.map(([, v, t]) => `${ar(v)} ${t}`).join(' ');
       const first = plain.replace(/^[٠-٩]+\s*/, '');
+      const sp = first.indexOf(' ');
       right = `<div class="p-label">${main.label}</div><div class="p-ref">${esc(ref(main))}</div><div class="p-orn"></div>` +
-        `<span class="initial">${esc(first.charAt(0))}</span>${esc(first.slice(1, 120))}`;
+        `<span class="lead">${esc(first.slice(0, sp))}</span>${esc(first.slice(sp, 120))}`;
       left = esc(first.slice(120, 380)) + ' …';
     }
     $('#pageRight').innerHTML = right;
@@ -190,7 +192,7 @@
   function showSaying(key, animate) {
     const s = SAY[key];
     const el = $(`#${key}Text`);
-    const set = () => { el.textContent = s.list[s.i].trim(); $(`#${key}Src`).textContent = `${s.src} — ${ar(s.i + 1)} من ${ar(s.list.length)}`; };
+    const set = () => { const t = s.list[s.i].trim(), sp = t.indexOf(' '); el.innerHTML = `<span class="lead">${esc(t.slice(0, sp))}</span>${esc(t.slice(sp))}`; $(`#${key}Src`).textContent = `${s.src} — ${ar(s.i + 1)} من ${ar(s.list.length)}`; };
     if (animate && hasGsap && !reduce) gsap.timeline().to(el, { opacity: 0, y: -8, duration: .25 }).add(set).to(el, { opacity: 1, y: 0, duration: .4 });
     else set();
   }
@@ -225,6 +227,25 @@
   }
   $('#newsRail').addEventListener('click', (e) => { const c = e.target.closest('[data-n]'); if (c) openOverlay(articleHtml(news[+c.dataset.n])); });
 
+  /* ---------- Rising dust in the light (subtle) ---------- */
+  (() => {
+    const cv = document.getElementById('dust'); if (!cv || reduce) return;
+    const ctx = cv.getContext('2d'); let W, H, dpr = Math.min(devicePixelRatio || 1, 2);
+    const fit = () => { W = cv.width = innerWidth * dpr; H = cv.height = innerHeight * dpr; };
+    fit(); addEventListener('resize', fit);
+    const P = Array.from({ length: 34 }, () => ({ x: Math.random(), y: Math.random(), r: .6 + Math.random() * 1.6, v: .00006 + Math.random() * .00014, a: .15 + Math.random() * .35, w: Math.random() * 6.28 }));
+    const tick = (t) => {
+      ctx.clearRect(0, 0, W, H);
+      for (const p of P) {
+        p.y -= p.v * 16; if (p.y < -.02) { p.y = 1.02; p.x = Math.random(); }
+        const x = (p.x + Math.sin(t / 4000 + p.w) * .01) * W, y = p.y * H;
+        ctx.beginPath(); ctx.arc(x, y, p.r * dpr, 0, 6.283); ctx.fillStyle = `rgba(255,220,160,${p.a * (0.6 + 0.4 * Math.sin(t / 900 + p.w))})`; ctx.fill();
+      }
+      requestAnimationFrame(tick);
+    };
+    requestAnimationFrame(tick);
+  })();
+
   /* ---------- Scroll reveals ---------- */
   let revealed = false;
   function revealAll() {
@@ -232,7 +253,7 @@
     gsap.utils.toArray('.reveal').forEach((el) => {
       gsap.fromTo(el, { opacity: 0, y: 46 }, { opacity: 1, y: 0, duration: .9, ease: 'power3.out', scrollTrigger: { trigger: el, start: 'top 88%' } });
     });
-    gsap.fromTo('.scroll-paper', { scaleX: .12 }, { scaleX: 1, duration: 1.2, ease: 'power3.out', scrollTrigger: { trigger: '#macarius', start: 'top 80%' } });
+    ScrollTrigger.create({ trigger: '#macarius', start: 'top bottom', once: true, onEnter: () => gsap.fromTo('.scroll-paper', { scaleX: .12 }, { scaleX: 1, duration: 1.3, ease: 'power3.out' }) });
     gsap.fromTo('#macarius .saying-body', { opacity: 0 }, { opacity: 1, duration: .8, delay: .6, scrollTrigger: { trigger: '#macarius', start: 'top 80%' } });
     gsap.fromTo('#macarius .wax-seal', { scale: 2.2, opacity: 0, rotate: -30 }, { scale: 1, opacity: 1, rotate: -8, duration: .7, delay: 1.1, ease: 'back.out(2)', scrollTrigger: { trigger: '#macarius', start: 'top 80%' } });
     const path = $('#routePath'); const len = path.getTotalLength();
