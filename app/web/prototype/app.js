@@ -34,19 +34,19 @@
   if (reduce || !hasGsap) { intro.remove(); }
   else {
     const seam = document.createElement('div'); seam.className = 'seam'; intro.appendChild(seam);
-    const light = document.getElementById('goldLight');
+    const lines = gsap.utils.toArray('.intro-line');
     const tl = gsap.timeline({ onComplete: endIntro });
-    gsap.set('.intro-cross', { scale: .72, opacity: 0, transformOrigin: '50% 50%' });
-    gsap.set(['.intro-title', '.intro-sub'], { opacity: 0, y: 16, filter: 'blur(6px)' });
-    tl.to('.intro-cross', { scale: 1, opacity: 1, duration: 1.3, ease: 'power3.out' })
-      .fromTo(light, { attr: { azimuth: 160 } }, { attr: { azimuth: 320 }, duration: 3.2, ease: 'sine.inOut' }, 0)
-      .to('.intro-title', { opacity: 1, y: 0, filter: 'blur(0px)', duration: 1.1, ease: 'power2.out' }, .6)
-      .to('.intro-sub', { opacity: 1, y: 0, filter: 'blur(0px)', duration: .8, ease: 'power2.out' }, 1.5)
-      .to('.intro-mark', { opacity: 0, scale: .97, duration: .6 }, 4.1)
-      .to(seam, { opacity: 1, duration: .25 }, 4.35)
-      .to('#intro .top', { yPercent: -101, duration: 1.2, ease: 'power3.inOut' }, 4.6)
-      .to('#intro .bottom', { yPercent: 101, duration: 1.2, ease: 'power3.inOut' }, 4.6)
-      .to(seam, { opacity: 0, duration: .3 }, 4.7);
+    gsap.set(lines, { opacity: 0, scale: 1.18, y: 18, filter: 'blur(8px) drop-shadow(0 8px 10px rgba(0,0,0,.65))' });
+    // St Macarius: slow push-in, the halo breathes
+    tl.fromTo('.intro-art', { scale: 1.12 }, { scale: 1, duration: 6.2, ease: 'power1.out' }, 0)
+      .fromTo('.halo', { opacity: .15 }, { opacity: .85, duration: 1.6, ease: 'sine.inOut', yoyo: true, repeat: 3 }, .2)
+      .to(lines, { opacity: 1, scale: 1, y: 0, filter: 'blur(0px) drop-shadow(0 8px 10px rgba(0,0,0,.65))', duration: 1.1, ease: 'power3.out', stagger: .45 }, .7)
+      .add(() => lines.forEach((l, k) => setTimeout(() => l.classList.add('shine'), k * 220)), 2.6)
+      .to('.intro-mark', { opacity: 0, y: 10, duration: .6 }, 5.0)
+      .to(seam, { opacity: 1, duration: .25 }, 5.25)
+      .to('#intro .top', { yPercent: -101, duration: 1.2, ease: 'power3.inOut' }, 5.5)
+      .to('#intro .bottom', { yPercent: 101, duration: 1.2, ease: 'power3.inOut' }, 5.5)
+      .to(seam, { opacity: 0, duration: .3 }, 5.6);
     intro.addEventListener('click', () => tl.progress(1));
   }
 

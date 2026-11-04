@@ -68,21 +68,32 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .leather-juniper { background: var(--juniper) url(img/leather-juniper.jpg) center / cover; }
 .leather-alabaster { background: var(--alabaster) url(img/leather-alabaster.jpg) center / cover; }
 
-/* ---------- 0. Opening ---------- */
-#intro { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; }
-#intro .intro-half { position: absolute; left: 0; right: 0; height: 50.5%; overflow: hidden; background: #1e0b03; }
-#intro .intro-half::before { content: ""; position: absolute; left: 0; right: 0; height: 198%;
-  background: #1d0801 url(img/bg-crosses.jpg?v=3) center / 470px auto repeat; }
-#intro .intro-half::after { content: ""; position: absolute; left: 0; right: 0; height: 198%;
-  background: radial-gradient(42% 26% at 50% 40%, rgba(255,170,60,.16), transparent 100%), radial-gradient(100% 65% at 50% 50%, transparent 40%, rgba(8,3,1,.8) 100%); }
-#intro .top { top: 0; } #intro .top::before, #intro .top::after { top: 0; }
-#intro .bottom { bottom: 0; } #intro .bottom::before, #intro .bottom::after { bottom: 0; }
+/* ---------- 0. Opening: St Macarius over the sanctuary (owner's art) ---------- */
+#intro { position: fixed; inset: 0; z-index: 100; }
+#intro .intro-half { position: absolute; left: 0; right: 0; height: 50.5%; overflow: hidden; background: #1d0801 url(img/bg-crosses.jpg?v=3) center / 470px auto repeat; }
+#intro .top { top: 0; } #intro .bottom { bottom: 0; }
+#intro .intro-art { position: absolute; left: 0; right: 0; height: 198%; transform-origin: 50% 30%; will-change: transform;
+  background: url(img/intro-bg.jpg?v=6) center top / auto 100% no-repeat; }
+#intro .top .intro-art { top: 0; } #intro .bottom .intro-art { bottom: 0; }
+#intro .intro-art::after { content: ""; position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(90deg, rgba(20,7,1,.85), transparent 18%, transparent 82%, rgba(20,7,1,.85)),
+              linear-gradient(180deg, transparent 62%, rgba(18,6,1,.55) 78%, rgba(14,5,1,.85) 100%); }
+#intro .halo { position: absolute; left: 50%; top: 13.5%; width: min(62vh, 92vw); aspect-ratio: 1; transform: translate(-50%, -50%); border-radius: 50%; pointer-events: none;
+  background: radial-gradient(closest-side, rgba(255,214,120,.42), rgba(255,180,70,.14) 55%, transparent 72%); mix-blend-mode: screen; opacity: .5; }
 #intro .seam { position: absolute; left: 0; right: 0; top: 50%; height: 2px; transform: translateY(-1px); z-index: 1;
   background: linear-gradient(90deg, transparent, #b67b16 15%, #ffe39a 50%, #b67b16 85%, transparent); opacity: 0; }
-.intro-mark { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: center; width: min(92vw, 620px); }
-.intro-cross { width: min(42vw, 200px); height: auto; display: block; filter: drop-shadow(0 10px 14px rgba(0,0,0,.6)); }
-.intro-title { width: min(94vw, 620px); height: auto; display: block; margin-top: max(-9vw, -56px); }
-.intro-sub { width: min(46vw, 260px); height: auto; display: block; margin-top: -4px; }
+.intro-mark { position: absolute; z-index: 2; left: 50%; bottom: calc(5vh + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
+  width: min(94vw, 640px); display: flex; flex-direction: column; align-items: center; gap: 1.2vh; }
+.intro-line { position: relative; display: block; filter: drop-shadow(0 8px 10px rgba(0,0,0,.65)); }
+.intro-line img { display: block; width: 100%; height: auto; }
+.intro-line.l1 { width: min(66vw, 32vh, 430px); }
+.intro-line.l2 { width: min(90vw, 44vh, 600px); }
+.intro-line.l3 { width: min(42vw, 20vh, 280px); }
+.intro-line::after { content: ""; position: absolute; inset: 0; pointer-events: none; mix-blend-mode: screen;
+  background: linear-gradient(105deg, transparent 38%, rgba(255,250,225,.95) 50%, transparent 62%) 160% 0 / 260% 100% no-repeat;
+  -webkit-mask: var(--m) center / 100% 100% no-repeat; mask: var(--m) center / 100% 100% no-repeat; }
+.intro-line.shine::after { animation: lineShine 1.3s ease-in-out forwards; }
+@keyframes lineShine { from { background-position: 160% 0; } to { background-position: -60% 0; } }
 
 /* ---------- Top bar ---------- */
 #topbar {
