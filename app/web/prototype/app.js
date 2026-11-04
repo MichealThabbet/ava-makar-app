@@ -36,17 +36,13 @@
     const seam = document.createElement('div'); seam.className = 'seam'; intro.appendChild(seam);
     const lines = gsap.utils.toArray('.intro-line');
     const tl = gsap.timeline({ onComplete: endIntro });
-    gsap.set(lines, { opacity: 0, scale: 1.18, y: 18, filter: 'blur(8px) drop-shadow(0 8px 10px rgba(0,0,0,.65))' });
-    // St Macarius: slow push-in, the halo breathes
-    tl.fromTo('.intro-art', { scale: 1.12 }, { scale: 1, duration: 9.5, ease: 'power1.out' }, 0)
-      .fromTo('.halo', { opacity: .15 }, { opacity: .85, duration: 2.6, ease: 'sine.inOut', yoyo: true, repeat: 3 }, .3)
-      .to(lines, { opacity: 1, scale: 1, y: 0, filter: 'blur(0px) drop-shadow(0 8px 10px rgba(0,0,0,.65))', duration: 1.9, ease: 'power2.out', stagger: .85 }, 1.0)
-      .add(() => lines.forEach((l, k) => setTimeout(() => l.classList.add('shine'), k * 500)), 4.4)
-      .to('.intro-mark', { opacity: 0, y: 10, duration: 1.0 }, 8.2)
-      .to(seam, { opacity: 1, duration: .4 }, 8.7)
-      .to('#intro .top', { yPercent: -101, duration: 1.9, ease: 'power2.inOut' }, 9.0)
-      .to('#intro .bottom', { yPercent: 101, duration: 1.9, ease: 'power2.inOut' }, 9.0)
-      .to(seam, { opacity: 0, duration: .5 }, 9.2);
+    gsap.set(lines, { opacity: 0, scale: 1.25, filter: 'blur(6px) drop-shadow(0 8px 10px rgba(0,0,0,.65))' });
+    // fade + zoom in: background and each line; then fade + zoom out of the whole opening
+    tl.fromTo('.intro-art', { scale: 1.14, opacity: 0 }, { scale: 1, opacity: 1, duration: 6.4, ease: 'power1.out' }, 0)
+      .fromTo('.halo', { opacity: .15 }, { opacity: .85, duration: 2, ease: 'sine.inOut', yoyo: true, repeat: 2 }, .2)
+      .to(lines, { opacity: 1, scale: 1, filter: 'blur(0px) drop-shadow(0 8px 10px rgba(0,0,0,.65))', duration: 1.4, ease: 'power2.out', stagger: .5 }, .5)
+      .add(() => lines.forEach((l, k) => setTimeout(() => l.classList.add('shine'), k * 350)), 2.4)
+      .to(intro, { opacity: 0, scale: 1.08, duration: 1.3, ease: 'power2.inOut' }, 5.2);
     intro.addEventListener('click', () => tl.progress(1));
   }
 

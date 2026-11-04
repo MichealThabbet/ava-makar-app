@@ -71,7 +71,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .leather-alabaster { background: var(--alabaster) url(img/leather-alabaster.jpg) center / cover; }
 
 /* ---------- 0. Opening: St Macarius over the sanctuary (owner's art) ---------- */
-#intro { position: fixed; inset: 0; z-index: 100; }
+#intro { position: fixed; inset: 0; z-index: 100; transform-origin: 50% 45%; }
 #intro .intro-half { position: absolute; left: 0; right: 0; height: 50.5%; overflow: hidden; background: #1d0801 url(img/bg-crosses.jpg?v=3) center / 470px auto repeat; }
 #intro .top { top: 0; } #intro .bottom { bottom: 0; }
 #intro .intro-art { position: absolute; left: 0; right: 0; height: 198%; transform-origin: 50% 30%; will-change: transform;
@@ -105,7 +105,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
   box-shadow: 0 8px 22px rgba(0,0,0,.6);
 }
 #topbar::before { content: ""; position: absolute; inset: env(safe-area-inset-top, 0) 4px 2px; z-index: -1;
-  background: url(img/header-scroll.webp?v=8) center / 100% 100% no-repeat; filter: drop-shadow(0 4px 6px rgba(0,0,0,.6)); }
+  background: url(img/header-scroll.webp?v=13) center / 100% 100% no-repeat; filter: drop-shadow(0 4px 6px rgba(0,0,0,.6)); }
 #topbar { isolation: isolate; }
 .topbar-title { font-family: Display, serif; font-weight: 700; font-size: clamp(19px, 5.3vw, 28px); line-height: 1.25; position: relative; white-space: nowrap;
   background: var(--gold-grad); -webkit-background-clip: text; background-clip: text; color: transparent;
