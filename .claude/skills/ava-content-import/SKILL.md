@@ -37,6 +37,22 @@ description: Import liturgical and Bible texts into Ava-Makar from the owner's L
   - **Working example:** `tools/prototype/build_data.py` resolves a day's readings end to end.
 - Full inventory of the earlier packages: `docs/content/INVENTORY.md`. Write the Library inventory to `docs/content/LIBRARY_INVENTORY.md`: per package — books, format, encoding, languages, counts, overlaps; then choose one canonical source per book.
 
+## Built and tested (2026-11-06)
+- **Pipeline:** `tools/import/` (usage in its README).
+- **Build:** `python3 -m ava_import.build --library <lib>/incoming --out build/content --check`.
+- **Tests:** `AVA_LIBRARY=<lib>/incoming python3 -m pytest -q` → 34 passing.
+- **Inventory and canonical sources:** `docs/content/LIBRARY_INVENTORY.md`.
+- **Legacy Coptic fonts:** `docs/content/COPTIC_LEGACY_FONTS.md`.
+- **Traps already handled:**
+  - Coptic is ASCII for the Avva Shenouda or Athanasius fonts. Detect the font per cell.
+  - Katameros book codes ≠ Bible.sqlite indices. Use `books.BOOK_CODES`.
+  - Katameros psalms use Coptic (LXX) numbering. Take the text from `*Psalms.txt`.
+  - Bible.sqlite row index ≠ verse number. Use the printed number.
+  - CSV columns:
+    - Kholagy and annual Psalmody: ar=3, cop-ar=4, cop=5.
+    - Kiahk Psalmody: ar=4, cop-ar=5, cop=6.
+- **Changing a text or an importer on purpose:** rebuild with `--write-manifest` and commit the manifest with the reason.
+
 ## Pipeline (`tools/import/`)
 1. **Detect encoding:** Windows-1256 → UTF-8; strip BOM; normalise Unicode NFC (do not strip tashkeel).
 2. **Parse** each format: txt, xml, json, csv, xls via `xlrd`/`openpyxl`, htm via an HTML parser, sqlite.

@@ -29,7 +29,8 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 | 6d | Liturgical day from sunset (DEC-P0-24) | Done in the engine; sunset value from the device in the app | `lib/src/liturgical_day.dart` |
 | 6e | Liturgical periods (tune, hours, alleluia) from the official rites page: 42 sections, precedence rules (DEC-P0-25) | Done; every day 1901–2099 resolves, all 42 sections occur, Lent/Fifty/Holy Week/Annunciation checked 1990–2100 | `lib/src/rites.dart`, 36 tests passing |
 | 6c | Annunciation not celebrated on Palm Sunday / Holy Week (DEC-P0-23) | Done; −9 and Easter Day celebrated (owner) | `lib/src/fixed.dart` |
-| 7 | Content import pipeline (provenance, checksums, approval states) | Pending | — |
+| 7 | Content import pipeline (provenance, checksums, approval states) | Done 2026-11-06 (stage A slice 1): Library inventory of 30 packages; 10 books imported (106,145 segments: Bible 35,784 verses, Katameros table 4,626 readings + 538 psalm verses, Holy Week readings and service book, Synaxarium, Agpeya, rites, Kholagy, annual and Kiahk Psalmody) + 39,464 cross references; legacy Coptic → Unicode (11,436 segments) verified; 17 source errata reported; 34 tests passing (29 unit + 5 integration incl. manifest check) | `docs/content/LIBRARY_INVENTORY.md`, `docs/content/IMPORT_REPORT.md`, `docs/content/COPTIC_LEGACY_FONTS.md`, `tools/import/`, `data/content/manifest.json`, `.github/workflows/content-import.yml` |
+| 7b | Next imports: Katameros full texts, services, deacon/people responses, English texts after edition check, commentary, hymn audio | Pending | `LIBRARY_INVENTORY.md` §4 |
 
 ## Assumptions
 - The owner is the monastery's delegated approver (DEC-P0-07).
@@ -39,4 +40,4 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 - None for content (Difnar found in package 12).
 
 ## Next step
-P1 item 7 / Work plan stage A: Library inventory (`docs/content/LIBRARY_INVENTORY.md`) and the content import pipeline (`tools/import/`). Read `HANDOFF.md` first. Home page visual design is with the owner (Cowork / Codex, branch `codex/home-design`).
+Stage B: PostgreSQL schema + migrations + seed from `content.db` (content, calendar rules, monastery, retreat house, users/roles, audit log, store tables), with tests. Owner to review the 17 Katameros errata in `docs/content/IMPORT_REPORT.md`. Home page visual design is with the owner (branch `codex/home-design`).

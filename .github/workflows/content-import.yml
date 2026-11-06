@@ -1,0 +1,32 @@
+name: Content import
+
+on:
+  push:
+    branches: [main, "codex/**"]
+    paths: ["tools/import/**", "data/content/**", ".github/workflows/content-import.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pytest==8.3.4
+      - name: Library (sparse, text folders only)
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/MichealThabbet/Library- "$RUNNER_TEMP/library"
+          cd "$RUNNER_TEMP/library"
+          git sparse-checkout set --no-cone \
+            'incoming/orsozxi/DECRYPTED_CONTENT/bible/' 'incoming/orsozxi/DECRYPTED_CONTENT/documents/' \
+            'incoming/orsozxi/DECRYPTED_CONTENT/spreadsheets/' 'incoming/katamars2/katamaras-2-0-1/assets/readings/'
+      - name: Unit and integration tests (rebuild + manifest check)
+        working-directory: tools/import
+        env:
+          AVA_LIBRARY: ${{ runner.temp }}/library/incoming
+        run: python -m pytest -q
