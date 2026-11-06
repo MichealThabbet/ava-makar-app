@@ -5,7 +5,10 @@ description: Start of every Ava-Makar session. Reads HANDOFF.md, AGENTS.md, DECI
 
 # Session start — Ava-Makar
 
-1. **Read, in order:** `HANDOFF.md` (all of it), `AGENTS.md`, the last 10 rows of `DECISIONS.md`, `GOAL.md`. Do not re-read big files you do not need now.
+1. **Read:**
+   - First session (or the owner says the project changed): all of `HANDOFF.md`, plus `AGENTS.md`.
+   - Otherwise: the TL;DR of `HANDOFF.md` plus the sections the task needs.
+   - Always: the last 10 rows of `DECISIONS.md` and `GOAL.md`.
 2. **Git:**
    ```bash
    cd /home/user/ava-makar-app 2>/dev/null || git clone https://github.com/MichealThabbet/ava-makar-app /home/user/ava-makar-app
