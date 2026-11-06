@@ -39,4 +39,4 @@ Plan: `docs/plan/MASTER_PLAN.md`. Decisions: `DECISIONS.md` and `docs/plan/P0_AD
 - None for content (Difnar found in package 12).
 
 ## Next step
-P1 item 7: content import pipeline (provenance, checksums, approval states, legacy Coptic → Unicode). Owner: enable GitHub Pages (gh-pages branch) to view the preview.
+P1 item 7 / Work plan stage A: Library inventory (`docs/content/LIBRARY_INVENTORY.md`) and the content import pipeline (`tools/import/`). Read `HANDOFF.md` first. Home page visual design is with the owner (Cowork / Codex, branch `codex/home-design`).
