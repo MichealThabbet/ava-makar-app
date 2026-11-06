@@ -23,6 +23,10 @@ description: Start of every Ava-Makar session. Reads HANDOFF.md, AGENTS.md, DECI
 4. **Where we are:** take the last verified item in `GOAL.md` and the plan stage in HANDOFF §11. **Continue from there.** Do not redo work, do not restart a stage.
 5. **First message to the owner:** one or two lines — where we stand and what is next. Ask only for a decision that changes the work, and give the default you will use.
 
+## Working style
+- **«اكمل» means full delegation to the end of the stage** (HANDOFF §1ب). Finish, fix, innovate, add what was forgotten, and try a second and a third alternative before reporting «ناقص».
+- **Show progress as you go:** one short line before each batch and one after each important step (✓ / ✗ + what next). Never go silent for long.
+
 ## Budget rules (owner pays 20 USD/month)
 - Short replies; one report per batch of work; at most one combined screenshot per report.
 - Grep before reading; read files in ranges; avoid re-running heavy builds.

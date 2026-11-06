@@ -5,7 +5,16 @@ description: Design and build the Ava-Makar AI guide/assistant for visitors and 
 
 # AI assistant (guide for visitors and members)
 
-**Status:** in scope (DEC-P0-34). **Build only after the owner approves an API budget.** The API key goes through `request_credential` (never in code, env files or chat).
+**Status:** in scope (DEC-P0-34). **The owner wants it free (2026-11-06):** you build it, with no paid subscription.
+
+**Tiers (each one works on its own):**
+- **Tier 0 — free, offline, no LLM (build first):**
+  - intent matching in Arabic and English (keywords, synonyms, normalised Arabic);
+  - FTS5 retrieval over approved content and the rules data;
+  - templated answers that quote stored text, with the source and a deep link;
+  - calendar-engine answers.
+- **Tier 1 — free, on device:** a small open-weight model in the browser or app (WebLLM / ONNX Runtime) only to phrase retrieved facts. Ship it only if it is proven fast on an average phone; otherwise keep Tier 0.
+- **Tier 2 — optional paid API:** only with the owner's budget approval. The key goes through `request_credential` (never in code, env files or chat).
 
 ## What it does
 - **Visitors:**
@@ -30,5 +39,5 @@ description: Design and build the Ava-Makar AI guide/assistant for visitors and 
   - `get_today` (engine);
   - `get_retreat_rules`;
   - `get_my_requests` (auth).
-- **Model:** the cheapest that answers well (start with a small Claude model; check the `claude-api` skill for current model ids). Answer cache for frequent questions; a daily token cap; per-user rate limit.
+- **Model:** none in Tier 0. Tier 1: smallest open model that passes the evaluation set. Tier 2: the cheapest API model that passes (see the `claude-api` skill), with an answer cache, a daily token cap and a per-user rate limit.
 - **Evaluation set:** 50 real questions with expected sources; run before every release; track refusals and wrong-source answers.

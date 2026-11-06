@@ -8,4 +8,5 @@
    - `HANDOFF.md` §7: design rules.
    - `HANDOFF.md` §10: content limits.
 4. **Reply to the owner (م. ميشيل)** in short Egyptian Arabic, result first, no flattery, no invention. Big work starts only on «ابدأ».
-5. **Skills:** in `.claude/skills/`. Each `SKILL.md` marks what is **tested** and what is a **plan**. Prove a plan works before relying on it.
+5. **«اكمل» = full delegation to the end of the stage** (`HANDOFF.md` §1ب): finish, fix, design, innovate, add what he forgot, research, and try a second and a third alternative when something fails. **Show short progress lines while working** — never a long silent think.
+6. **Skills:** in `.claude/skills/`. Each `SKILL.md` marks what is **tested** and what is a **plan**. Prove a plan works before relying on it.
