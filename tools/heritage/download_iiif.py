@@ -8,7 +8,7 @@ Usage (Windows / macOS / Linux, Python 3.8+, no extra packages needed):
     python download_iiif.py CATALOG.json  --out D:/Heritage --pdf          (also one PDF per manuscript; needs Pillow)
 
 Safe to stop (Ctrl+C) and run again: pages already saved are skipped.
-Layout:  OUT/<library>/<shelfmark>/0001.jpg ...  + manifest.json + info.txt
+Layout:  OUT/<library>/<collection>/<shelfmark>/0001.jpg ...  + manifest.json + info.txt
 Polite: one request at a time with a pause, retries on network errors.
 Images remain under each library's copyright and terms; keep them for study and
 archive, and ask the library before republishing.
@@ -66,7 +66,7 @@ def safe(name):
 
 def download_one(item, out, width, pause, make_pdf):
     lib, sm = safe(item["library"]), safe(item["shelfmark"])
-    folder = os.path.join(out, lib, sm)
+    folder = os.path.join(out, lib, safe(item.get("collection", "")), sm)
     os.makedirs(folder, exist_ok=True)
     mpath = os.path.join(folder, "manifest.json")
     if os.path.exists(mpath):
@@ -118,6 +118,8 @@ def main():
     ap.add_argument("catalog", help="catalog JSON (list of {library, shelfmark, manifest, ...})")
     ap.add_argument("--out", required=True, help="destination folder, e.g. E:/Coptic_Heritage")
     ap.add_argument("--only", nargs="*", help="shelfmarks to download (default: all)")
+    ap.add_argument("--tier", type=int, nargs="*", help="tiers to download, e.g. 1 2 (default: all)")
+    ap.add_argument("--collection", nargs="*", help="collections to download, e.g. Vat.copt Borg.copt")
     ap.add_argument("--width", type=int, default=0, help="page width in px (default: full size)")
     ap.add_argument("--pause", type=float, default=1.0, help="seconds between pages (default 1)")
     ap.add_argument("--pdf", action="store_true", help="also make one PDF per manuscript")
@@ -128,7 +130,11 @@ def main():
     if a.only:
         want = set(a.only)
         items = [i for i in items if i["shelfmark"] in want]
-    items.sort(key=lambda i: (-int(i.get("priority", 0)), i["shelfmark"]))
+    if a.tier:
+        items = [i for i in items if int(i.get("tier", 0)) in set(a.tier)]
+    if a.collection:
+        items = [i for i in items if i.get("collection") in set(a.collection)]
+    items.sort(key=lambda i: (i.get("tier", 0), i.get("order", 0), -int(i.get("priority", 0)), i["shelfmark"]))
     total = sum(int(i.get("pages", 0)) for i in items)
     print(f"{len(items)} manuscripts, about {total} pages -> {a.out}")
     ok = 0
