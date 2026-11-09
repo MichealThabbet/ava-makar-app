@@ -1,0 +1,455 @@
+{
+ "source": "probe of digi.vatlib.it IIIF manifests Vat.copt.1-140, Borg.copt.1-140, 2026-11-09",
+ "manuscripts": [
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.1",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.1/manifest.json",
+   "pages": 566,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.1",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.2",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.2/manifest.json",
+   "pages": 167,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.2",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.5",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.5/manifest.json",
+   "pages": 432,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.5",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.6",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.6/manifest.json",
+   "pages": 478,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.6",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.7",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.7/manifest.json",
+   "pages": 346,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.7",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.9",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.9/manifest.json",
+   "pages": 1020,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.9",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.13",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.13/manifest.json",
+   "pages": 291,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.13",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.17",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.17/manifest.json",
+   "pages": 133,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.17",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.18",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.18/manifest.json",
+   "pages": 544,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.18",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.19",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.19/manifest.json",
+   "pages": 144,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.19",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.24",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.24/manifest.json",
+   "pages": 363,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.24",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.25",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.25/manifest.json",
+   "pages": 240,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.25",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.26",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.26/manifest.json",
+   "pages": 237,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.26",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.27",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.27/manifest.json",
+   "pages": 130,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.27",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.28",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.28/manifest.json",
+   "pages": 102,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.28",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.34",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.34/manifest.json",
+   "pages": 612,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.34",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.44",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.44/manifest.json",
+   "pages": 128,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.44",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.57",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.57/manifest.json",
+   "pages": 573,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.57",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.58",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.58/manifest.json",
+   "pages": 406,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.58",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.59",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.59/manifest.json",
+   "pages": 174,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.59",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.60",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.60/manifest.json",
+   "pages": 265,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.60",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.61",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.61/manifest.json",
+   "pages": 462,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.61",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.62",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.62/manifest.json",
+   "pages": 600,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.62",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.63",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.63/manifest.json",
+   "pages": 213,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.63",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.64",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.64/manifest.json",
+   "pages": 384,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.64",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.65",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.65/manifest.json",
+   "pages": 254,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.65",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.66",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.66/manifest.json",
+   "pages": 649,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.66",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.67",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.67/manifest.json",
+   "pages": 276,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.67",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.68",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.68/manifest.json",
+   "pages": 410,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.68",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.69",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.69/manifest.json",
+   "pages": 482,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.69",
+   "priority": 2,
+   "note": "provenance: Dayr Anba Maqar (Assemani 1715-17) per Buzi 2019 / COMSt bulletin 4-2 — to verify per volume",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.71",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.71/manifest.json",
+   "pages": 172,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.71",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.98",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.98/manifest.json",
+   "pages": 932,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.98",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.103",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.103/manifest.json",
+   "pages": 30,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.103",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Vat.copt.111",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.111/manifest.json",
+   "pages": 257,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.111",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.9",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.9/manifest.json",
+   "pages": 195,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.9",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.51",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.51/manifest.json",
+   "pages": 1070,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.51",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.59",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.59/manifest.json",
+   "pages": 814,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.59",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.60",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.60/manifest.json",
+   "pages": 794,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.60",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.64",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.64/manifest.json",
+   "pages": 619,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.64",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.65",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.65/manifest.json",
+   "pages": 383,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.65",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.66",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.66/manifest.json",
+   "pages": 377,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.66",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.67",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.67/manifest.json",
+   "pages": 334,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.67",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.73",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.73/manifest.json",
+   "pages": 371,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.73",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.101",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.101/manifest.json",
+   "pages": 202,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.101",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "shelfmark": "Borg.copt.123",
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Borg.copt.123/manifest.json",
+   "pages": 383,
+   "viewer": "https://digi.vatlib.it/view/MSS_Borg.copt.123",
+   "priority": 1,
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  }
+ ]
+}
