@@ -1,7 +1,9 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 echo "اسحب أيقونة الهارد الخارجي هنا ثم Enter:"; read D
-echo "1 = القبطي والبرديات | 2 = العربي المسيحي والسرياني والاثيوبي | 3 = اليوناني | 4 = الأرمني والمختلط"
+echo "المكتبات: 1 = الفاتيكان | 2 = مكتبة الكونجرس | 3 = الاتنين"; read -p "رقم المكتبة: " L
+CAT=vatican_full.json; [ "$L" = 2 ] && CAT=loc_full.json; [ "$L" = 3 ] && CAT="vatican_full.json loc_full.json"
+echo "الدرجات: 1 = القبطي | 2 = العربي المسيحي والسرياني والاثيوبي | 3 = اليوناني | 4 = الباقي"
 read -p "اكتب الدرجات بينها مسافة (مثلا 1 2): " T
-python3 download_iiif.py vatican_full.json --out "${D//\'/}/Coptic_Heritage" --tier $T
+python3 download_iiif.py $CAT --out "${D//\'/}/Coptic_Heritage" --tier $T
 read -p "انتهى. Enter للخروج"

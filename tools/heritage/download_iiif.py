@@ -2,7 +2,7 @@
 """Ava-Makar heritage downloader: saves manuscripts from IIIF libraries to a local disk.
 
 Usage (Windows / macOS / Linux, Python 3.8+, no extra packages needed):
-    python download_iiif.py CATALOG.json  --out "E:/Coptic_Heritage"
+    python download_iiif.py CATALOG.json [CATALOG2.json ...] --out "E:/Coptic_Heritage" [--tier 1 2]
     python download_iiif.py CATALOG.json  --out D:/Heritage --only Vat.copt.57 Vat.copt.58
     python download_iiif.py CATALOG.json  --out D:/Heritage --width 2000   (smaller files)
     python download_iiif.py CATALOG.json  --out D:/Heritage --pdf          (also one PDF per manuscript; needs Pillow)
@@ -80,7 +80,10 @@ def safe(name):
 
 def download_one(item, out, width, pause, make_pdf):
     lib, sm = safe(item["library"]), safe(item["shelfmark"])
-    folder = os.path.join(out, lib, safe(item.get("collection", "")), sm)
+    name = sm
+    if item.get("title") and item["library"] != "Vatican_BAV":
+        name = (sm + " - " + safe(str(item["title"]))[:60]).strip(" .")
+    folder = os.path.join(out, lib, safe(item.get("collection", "")), name)
     os.makedirs(folder, exist_ok=True)
     mpath = os.path.join(folder, "manifest.json")
     if os.path.exists(mpath):
@@ -132,7 +135,7 @@ def download_one(item, out, width, pause, make_pdf):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("catalog", help="catalog JSON (list of {library, shelfmark, manifest, ...})")
+    ap.add_argument("catalog", nargs="+", help="one or more catalog JSON files, downloaded one library after another")
     ap.add_argument("--out", required=True, help="destination folder, e.g. E:/Coptic_Heritage")
     ap.add_argument("--only", nargs="*", help="shelfmarks to download (default: all)")
     ap.add_argument("--tier", type=int, nargs="*", help="tiers to download, e.g. 1 2 (default: all)")
@@ -141,9 +144,14 @@ def main():
     ap.add_argument("--pause", type=float, default=1.0, help="seconds between pages (default 1)")
     ap.add_argument("--pdf", action="store_true", help="also make one PDF per manuscript")
     a = ap.parse_args()
-    items = json.load(open(a.catalog, encoding="utf-8"))
-    if isinstance(items, dict):
-        items = items["manuscripts"]
+    items = []
+    for ci, path in enumerate(a.catalog):
+        data = json.load(open(path, encoding="utf-8"))
+        if isinstance(data, dict):
+            data = data["manuscripts"]
+        for it in data:
+            it["_cat"] = ci
+        items += data
     if a.only:
         want = set(a.only)
         items = [i for i in items if i["shelfmark"] in want]
@@ -151,7 +159,7 @@ def main():
         items = [i for i in items if int(i.get("tier", 0)) in set(a.tier)]
     if a.collection:
         items = [i for i in items if i.get("collection") in set(a.collection)]
-    items.sort(key=lambda i: (i.get("tier", 0), i.get("order", 0), -int(i.get("priority", 0)), i["shelfmark"]))
+    items.sort(key=lambda i: (i["_cat"], i.get("tier", 0), i.get("order", 0), -int(i.get("priority", 0)), i["shelfmark"]))
     total = sum(int(i.get("pages", 0)) for i in items)
     print(f"{len(items)} manuscripts, about {total} pages -> {a.out}")
     ok = 0
