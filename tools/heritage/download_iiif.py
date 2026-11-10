@@ -53,6 +53,20 @@ def canvases(manifest):
             yield c.get("label", ""), sid, body.get("id")
 
 
+def loc_manifest(d):
+    """Turn a loc.gov ?fo=json record into a minimal IIIF v2 manifest (image services only)."""
+    out = []
+    for res in d.get("resources", []):
+        for page in res.get("files", []):
+            for f in page:
+                u = f.get("url", "")
+                if "/image-services/iiif/" in u and "/full/" in u:
+                    svc = u.split("/full/")[0]
+                    out.append({"label": str(len(out) + 1), "images": [{"resource": {"@id": svc + "/full/full/0/default.jpg", "service": {"@id": svc}}}]})
+                    break
+    return {"@context": "loc.gov json", "label": d.get("item", {}).get("title"), "sequences": [{"canvases": out}]}
+
+
 def image_url(service, direct, width):
     if service:
         size = "full" if not width else f"{width},"
@@ -71,6 +85,9 @@ def download_one(item, out, width, pause, make_pdf):
     mpath = os.path.join(folder, "manifest.json")
     if os.path.exists(mpath):
         manifest = json.load(open(mpath, encoding="utf-8"))
+    elif item.get("loc_json"):  # Library of Congress: JSON API (its manifest URL is bot-protected)
+        manifest = loc_manifest(json.loads(fetch(item["loc_json"])))
+        json.dump(manifest, open(mpath, "w", encoding="utf-8"), ensure_ascii=False)
     else:
         manifest = json.loads(fetch(item["manifest"]))
         json.dump(manifest, open(mpath, "w", encoding="utf-8"), ensure_ascii=False)
