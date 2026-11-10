@@ -64,7 +64,11 @@ description: Import liturgical and Bible texts into Ava-Makar from the owner's L
 5. **Write** to the content database (PostgreSQL) and to per-book offline packs (SQLite FTS5 with Arabic normalisation for search: alef, ya, ta-marbuta, tashkeel-insensitive mode).
 6. **Report:** counts per book, rejected rows with reasons; checksum manifest. The CI test fails on any mismatch.
 
+## Encrypted content (allowed, DEC-P0-39)
+- Encrypted files and databases inside the Library may be decrypted to import their content (owner's authorisation, with the consent of the app owners and servants, 2026-11-10).
+- Decompiled code and DEX may be read only to learn how the content is encrypted. Never copy that code into our app.
+- Log every decryption: source file, method, sha256 before and after.
+
 ## Never
-- Decrypt protected files.
-- Use credentials found in files (e.g. a `.env` inside an archive).
-- Use decompiled code, DEX files or certificates.
+- Use credentials found in files (e.g. a `.env` inside an archive, API keys, service passwords).
+- Use certificates, or ship decompiled code.
