@@ -17,6 +17,16 @@ import argparse, json, os, sys, time, urllib.request, urllib.error
 
 UA = "AvaMakar-Heritage/1.0 (monastery archive; polite downloader)"
 
+# Use the operating system's certificate store (Windows/macOS) when available.
+# Python's own bundle can fail on servers that do not send their full certificate
+# chain (seen on Windows with digi.vatlib.it); the OS store completes the chain.
+# Verification stays ON.
+try:
+    import truststore
+    truststore.inject_into_ssl()
+except ImportError:
+    pass
+
 
 def fetch(url, tries=5, timeout=90):
     last = None

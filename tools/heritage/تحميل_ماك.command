@@ -1,5 +1,6 @@
 #!/bin/bash
 cd "$(dirname "$0")"
+python3 -m pip install -q truststore
 echo "اسحب أيقونة الهارد الخارجي هنا ثم Enter:"; read D
 echo "المكتبات: 1 = الفاتيكان | 2 = مكتبة الكونجرس | 3 = الاتنين"; read -p "رقم المكتبة: " L
 CAT=vatican_full.json; [ "$L" = 2 ] && CAT=loc_full.json; [ "$L" = 3 ] && CAT="vatican_full.json loc_full.json"

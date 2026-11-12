@@ -4,6 +4,9 @@
 1. نزّل Python من https://www.python.org/downloads (في ويندوز علّم على «Add python.exe to PATH»).
 2. فك الملف المضغوط في أي مكان.
 
+## لو ظهر خطأ SSL / CERTIFICATE_VERIFY_FAILED
+اكتب في Command Prompt:  `python -m pip install truststore`  وشغّل تاني (ملف التشغيل بيعملها لوحده).
+
 ## التشغيل
 - **ويندوز:** دبل كليك على `تحميل_ويندوز.bat` واكتب حرف الهارد (مثلاً E).
 - **ماك:** دبل كليك على `تحميل_ماك.command` واسحب أيقونة الهارد للنافذة.
