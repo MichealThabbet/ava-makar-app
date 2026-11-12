@@ -4,6 +4,12 @@
 1. نزّل Python من https://www.python.org/downloads (في ويندوز علّم على «Add python.exe to PATH»).
 2. فك الملف المضغوط في أي مكان.
 
+## باريس (المكتبة الوطنية الفرنسية / Gallica)
+Gallica بتمنع السيرفرات السحابية، فلازم الفهرس يتعمل من جهازك:
+1. `python heritage/harvest_gallica.py`  (بيعمل ملف gallica_catalog.json)
+2. `python heritage/download_iiif.py gallica_catalog.json --out G:/Coptic_Heritage --tier 1 2`
+الشروط: استخدام غير تجاري مع ذكر «Source gallica.bnf.fr / BnF».
+
 ## لو ظهر خطأ SSL / CERTIFICATE_VERIFY_FAILED
 اكتب في Command Prompt:  `python -m pip install truststore`  وشغّل تاني (ملف التشغيل بيعملها لوحده).
 
