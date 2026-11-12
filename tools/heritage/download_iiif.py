@@ -102,6 +102,26 @@ def download_one(item, out, width, pause, make_pdf):
         name = (sm + " - " + safe(str(item["title"]))[:60]).strip(" .")
     folder = os.path.join(out, lib, safe(item.get("collection", "")), name)
     os.makedirs(folder, exist_ok=True)
+    if item.get("file_url"):  # a single public-domain file (e.g. an archive.org PDF)
+        dest = os.path.join(folder, safe(item.get("file_name") or os.path.basename(item["file_url"])))
+        with open(os.path.join(folder, "info.txt"), "w", encoding="utf-8") as f:
+            for k, v in item.items():
+                if not k.startswith("_"):
+                    f.write(f"{k}: {v}\n")
+        want = int(item.get("size") or 0)
+        if os.path.exists(dest) and (not want or os.path.getsize(dest) == want):
+            print(f"   {sm}: already saved")
+            return True
+        data = fetch(item["file_url"], timeout=600)
+        if want and len(data) != want:
+            print(f"   ! {sm}: incomplete file ({len(data)} of {want} bytes), run again")
+            return False
+        with open(dest + ".part", "wb") as f:
+            f.write(data)
+        os.replace(dest + ".part", dest)
+        print(f"   {sm}: {len(data) / 1e6:.1f} MB saved")
+        time.sleep(pause)
+        return True
     mpath = os.path.join(folder, "manifest.json")
     if os.path.exists(mpath):
         manifest = json.load(open(mpath, encoding="utf-8"))
@@ -184,7 +204,7 @@ def main():
     for k, item in enumerate(items, 1):
         os.makedirs(a.out, exist_ok=True)
         free_gb = shutil.disk_usage(a.out).free / 1e9
-        need_gb = int(item.get("pages", 0)) * 1.2 / 1000 + a.reserve
+        need_gb = (int(item["size"]) / 1e9 if item.get("size") else int(item.get("pages", 0)) * 1.2 / 1000) + a.reserve
         if free_gb < need_gb:
             print(f"\nSTOP: disk almost full ({free_gb:.1f} GB free, about {need_gb:.1f} GB needed for "
                   f"{item['shelfmark']} plus {a.reserve} GB reserve).")
