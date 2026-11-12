@@ -84,6 +84,32 @@ def loc_manifest(d):
     return {"@context": "loc.gov json", "label": d.get("item", {}).get("title"), "sequences": [{"canvases": out}]}
 
 
+def stitch_tiles(service, target=3000, pause=0.15):
+    """Rebuild a page from the IIIF tiles the server advertises in info.json
+    (used for British Library public-domain items, whose whole-image size is capped)."""
+    from io import BytesIO
+    from PIL import Image
+    info = json.loads(fetch(service.rstrip("/") + "/info.json"))
+    W, H = int(info["width"]), int(info["height"])
+    t = (info.get("tiles") or [{"width": 512, "scaleFactors": [1]}])[0]
+    tw = int(t["width"]); th = int(t.get("height", tw))
+    scales = sorted(int(x) for x in t.get("scaleFactors", [1]))
+    sf = next((f for f in scales if max(W, H) / f <= target), scales[-1])
+    out = Image.new("RGB", ((W + sf - 1) // sf, (H + sf - 1) // sf), "white")
+    step_x, step_y = tw * sf, th * sf
+    for y in range(0, H, step_y):
+        for x in range(0, W, step_x):
+            w, h = min(step_x, W - x), min(step_y, H - y)
+            ow = (w + sf - 1) // sf
+            url = f"{service.rstrip('/')}/{x},{y},{w},{h}/{ow},/0/default.jpg"
+            tile = Image.open(BytesIO(fetch(url))).convert("RGB")
+            out.paste(tile, (x // sf, y // sf))
+            time.sleep(pause)
+    buf = BytesIO()
+    out.save(buf, "JPEG", quality=90)
+    return buf.getvalue()
+
+
 def image_url(service, direct, width):
     if service:
         size = "full" if not width else f"{width},"
@@ -145,7 +171,10 @@ def download_one(item, out, width, pause, make_pdf):
             done += 1
             continue
         try:
-            data = fetch(image_url(svc, direct, width))
+            if item.get("stitch") and svc:
+                data = stitch_tiles(svc, target=width or 4000)
+            else:
+                data = fetch(image_url(svc, direct, width))
         except Exception as e:
             print(f"   ! page {n} failed: {e}")
             continue
