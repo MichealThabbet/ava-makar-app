@@ -13,7 +13,14 @@ Polite: one request at a time with a pause, retries on network errors.
 Images remain under each library's copyright and terms; keep them for study and
 archive, and ask the library before republishing.
 """
-import argparse, json, os, sys, time, urllib.request, urllib.error
+import argparse, json, os, shutil, sys, time, urllib.request, urllib.error
+
+# Windows consoles may not print characters like ✓; never crash on output.
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
 
 UA = "AvaMakar-Heritage/1.0 (monastery archive; polite downloader)"
 
@@ -153,6 +160,7 @@ def main():
     ap.add_argument("--width", type=int, default=0, help="page width in px (default: full size)")
     ap.add_argument("--pause", type=float, default=1.0, help="seconds between pages (default 1)")
     ap.add_argument("--pdf", action="store_true", help="also make one PDF per manuscript")
+    ap.add_argument("--reserve", type=float, default=5.0, help="GB to keep free on the disk (default 5)")
     a = ap.parse_args()
     items = []
     for ci, path in enumerate(a.catalog):
@@ -174,6 +182,14 @@ def main():
     print(f"{len(items)} manuscripts, about {total} pages -> {a.out}")
     ok = 0
     for k, item in enumerate(items, 1):
+        os.makedirs(a.out, exist_ok=True)
+        free_gb = shutil.disk_usage(a.out).free / 1e9
+        need_gb = int(item.get("pages", 0)) * 1.2 / 1000 + a.reserve
+        if free_gb < need_gb:
+            print(f"\nSTOP: disk almost full ({free_gb:.1f} GB free, about {need_gb:.1f} GB needed for "
+                  f"{item['shelfmark']} plus {a.reserve} GB reserve).")
+            print("Free some space or run again with --out on another disk.")
+            break
         print(f"[{k}/{len(items)}] {item['library']} {item['shelfmark']}  {item.get('note', '')}")
         try:
             ok += download_one(item, a.out, a.width, a.pause, a.pdf)

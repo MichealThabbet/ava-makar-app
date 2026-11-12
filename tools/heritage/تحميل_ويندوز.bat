@@ -1,5 +1,6 @@
 @echo off
 chcp 65001 >nul
+set PYTHONUTF8=1
 cd /d "%~dp0"
 python -m pip install -q truststore
 set /p DRIVE=اكتب حرف الهارد الخارجي (مثلا E) ثم Enter: 
