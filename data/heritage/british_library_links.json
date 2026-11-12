@@ -1,0 +1,3129 @@
+{
+"source": "bl.uk digitised-manuscripts.pdf (last updated 10/10/2025), filtered for Coptic/Ethiopic/Syriac/Greek; Islamic Arabic removed",
+"download": "NOT included in the downloader: the British Library states these are view only with no download option",
+"manuscripts": [
+{
+"library": "British_Library",
+"shelfmark": "Or 6801",
+"description": "Or 6801  Mercurius the General, Miscellany in  honour of St Mercurius (with Festival  996-1004  Coptic",
+"tier": 1,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100171516337.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100171516337.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 7029",
+"description": "Or 7029  Miscellany including the Life of Aaron of  Philae  10th century  Coptic",
+"tier": 1,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100175214030.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100175214030.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1442",
+"description": "Papyrus 1442  Tax Register (P.Lond. IV 1419, TM  19869)  716-717  Arabic;  Coptic;",
+"tier": 1,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108203.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108203.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1728",
+"description": "Papyrus 1728  Arbitration (P.Lond. V 1709, TM 19726)  and Anthology with Miscellaneous  ca. 566-568  Coptic;  Greek,",
+"tier": 1,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770759.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770759.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1745",
+"description": "Papyrus 1745  Arbitration (P.Lond. V 1709, TM 19726)  and Anthology with Miscellaneous  c. 566-568  Coptic;  Greek,",
+"tier": 1,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770770.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770770.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 98",
+"description": "Papyrus 98  Greek and Old Coptic Horoscope  (P.Lond. I. 98; P.Copt. 366, TM 23938),  95-199  Coptic;  Greek,",
+"tier": 1,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108321.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108321.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 16211",
+"description": "Add MS 16211  Geʿez-Amharic vocabulary.  1500-1800  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132594293.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132594293.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 16218",
+"description": "Add MS 16218  Synaxarium መጽሐፈ ስንክሳር, Lives of  1500-1847  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132594331.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132594331.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 16246",
+"description": "Add MS 16246  Divination, Amharic treatise on the  creation of the world.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132594432.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132594432.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 16247",
+"description": "Add MS 16247  አውደ ነገሥት, ʿAwda nagaśt “Cycle of the  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132594471.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132594471.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 19343",
+"description": "Add MS 19343  ETHIOPIC, Amharic and Arabic Letters,  written to Henry Salt by Ras Waldá  1810-1827  English",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132594579.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132594579.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 19660",
+"description": "Add MS 19660  THE PSALMS, with the Canticles, etc.,  as in the last manuscript. Ethiopic.  16th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132594607.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132594607.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 24184",
+"description": "Add MS 24184  Psalms, መዝሙር ዘዳዊት  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132594761.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132594761.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 5471",
+"description": "Harley MS 5471  Formula of absolution, Psalm 119, Song  of Songs, ʾAnqaṣa bǝrhān, Ṣalot za- 1600-1753  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132594915.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132594915.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 7629",
+"description": "Harley MS 7629  አርጋኖነ ማርያም, ʾArgānona Māryām.  1600-1753  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595037.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595037.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 11390",
+"description": "Or 11390  መጽሐፍ መድኃኒት Mäṣhafä Mädḥanit  1750  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595197.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595197.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 11601",
+"description": "Or 11601  The Minor Prophets – Anqasa Amin- the  anaphora of St John Chrysostom-  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595321.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595321.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 11718A",
+"description": "Or 11718A  The Teaching of the Abyssinian Church.  20th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595430.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595430.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 11801",
+"description": "Or 11801  Divination  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595518.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595518.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 12025",
+"description": "Or 12025  Prayer scroll  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100141958901.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100141958901.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 12125",
+"description": "Or 12125  The Octateuch in Amharic.  1900  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595535.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595535.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 12133",
+"description": "Or 12133  አቡሻክር, Abušākǝr.  20th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147237411.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147237411.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 12467",
+"description": "Or 12467  Psalter, ዳዊት.  1660  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147204983.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147204983.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 12510",
+"description": "Or 12510  The Gospel of St John.  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147205227.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147205227.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 12511",
+"description": "Or 12511  The Gospel of St John.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147236831.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147236831.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 12523C",
+"description": "Or 12523C  Volume 39 of a Qur'ān, originally in 60  volumes, copied probably in Granada  13th century  Arabic",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100158348135.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100158348135.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 12859",
+"description": "Or 12859  Prayer scroll  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100141958973.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100141958973.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 13223",
+"description": "Or 13223  Amharic Versions of Nagara Maryam  and of maṣeḥafe Nuzaze. ff. 46  20th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595746.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595746.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 13262",
+"description": "Or 13262  መልክአ ዳዊት, Malke'a Dawit.  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147205480.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147205480.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 13263",
+"description": "Or 13263  Prayer of the Virgin Mary at Golgotha-  Temherta Ḥebu'at- Malké Mika'el. ff. 60.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595780.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595780.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 13264",
+"description": "Or 13264  Pauline Epistles- Apostolic Epistles- Acts  of the Apostles- Revelation of St John-  1600-1700  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147205600.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147205600.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 13265",
+"description": "Or 13265  Arde't-Salot Za-Muse- Miracles of the  Virgin Mary, of Gabra Manfas Qedus,  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147237047.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147237047.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 13266",
+"description": "Or 13266  Psalter, a prayer to Jesus Christ-  Anaphora of St John the Evangelist. ff.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595815.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595815.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 13278",
+"description": "Or 13278  Anaphora of the Virgin Mary  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595843.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595843.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 2083",
+"description": "Or 2083  Book of the Rite of the Holy Week.  1694-1706  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595852.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595852.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 2165",
+"description": "Or 2165  Qur'ān  8th century  Arabic",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100165479015.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100165479015.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 2198",
+"description": "Or 2198  ተአምሪሃ ለማርያም Miracles of the Virgin  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595888.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595888.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 4410",
+"description": "Or 4410  Minārat al-aqdās - ܡܢܐܪ̈ܗ   ܐ�ܩܪܐܣ  1696  Arabic;  Syriac,",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100158350038.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100158350038.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 4611",
+"description": "Or 4611  ዳዊት Psalter.  1600-1700  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147205962.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147205962.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 480",
+"description": "Or 480  ኦሪት The Octateuch (Genesis, Exodus,  14th century  -15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054837854.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054837854.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 481",
+"description": "Or 481  ኦሪት Octateuch, አርባዕቱ ወንጌል Gospels  Late  17th  century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054861575.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054861575.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 482",
+"description": "Or 482  The Octateuch  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595893.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595893.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 483",
+"description": "Or 483  The Octateuch  1721  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595912.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595912.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 484",
+"description": "Or 484  The Book of Enoch  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595936.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595936.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 485",
+"description": "Or 485  መጽሐፈ ኩፍሌ መጽሐፈ፡ ኩፋሌ፡ Maṣḥafa  16th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054940625.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054940625.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 486",
+"description": "Or 486  The Book of Enoch  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595965.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595965.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 487",
+"description": "Or 487  The Book of Kings  1730  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132595987.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132595987.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 488",
+"description": "Or 488  The Book of Samuel and Kings  1726  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596010.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596010.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 4897",
+"description": "Or 4897  Collection of Arabic works from the  Senegambian region II  Mid 19th  century  Arabic;  Soninke",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100145185258.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100145185258.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 490",
+"description": "Or 490  The Book of Enoch  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596029.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596029.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 491",
+"description": "Or 491  The Book of Enoch, Job, and the 12  Minor Prophets  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596049.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596049.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 492",
+"description": "Or 492  The Book of Enoch  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596122.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596122.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 493",
+"description": "Or 493  The Psalms and the Old Testament  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596219.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596219.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 4945",
+"description": "Or 4945  Qur'ān  1310-1311  Arabic",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100165477325.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100165477325.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 495",
+"description": "Or 495  መኃልየ መኃልይ ዘሰሎሞን Song of Songs of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596297.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596297.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 496",
+"description": "Or 496  ኢዮብ, the Book of Job.  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596319.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596319.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 497",
+"description": "Or 497  The Book of Job and the 12 Minor  Prophets  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596351.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596351.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 498",
+"description": "Or 498  Daniel, Job, Ecclesiasticus, or the  Wisdom of Jesus the son of Sirach and  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596356.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596356.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 499",
+"description": "Or 499  Ecclesiasticus, or the Wisdom of Jesus  the son of Sirach.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596360.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596360.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 500",
+"description": "Or 500  The Wisdom of Jesus the Son of Sirach.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596371.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596371.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 501",
+"description": "Or 501  Isaiah, The Ascension of Isaiah, and the  12 Minor Prophets.  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596403.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596403.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 502",
+"description": "Or 502  Isaiah, The Ascension of Isaiah, and the  12 Minor Prophets.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596532.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596532.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 503",
+"description": "Or 503  Isaiah, Daniel and the first book of  Esdras  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596631.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596631.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 504",
+"description": "Or 504  Ezekiel, Jeremiah, The four books of  Esdras.  1755  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596665.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596665.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 505",
+"description": "Or 505  መቃብያን, The Book of Maccabees.  1721-1730  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596767.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596767.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 506",
+"description": "Or 506  መቃብያን, The book of Maccabees  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596830.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596830.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 507",
+"description": "Or 507  አርባዕቱ ወንጌል , The Four Gospels  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596865.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596865.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 5085",
+"description": "Or 5085  አቡሻክር, Abušāker and the Explanation  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596909.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596909.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 509",
+"description": "Or 509  አርባዕቱ ወንጌል The Four Gospels  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596917.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596917.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 510",
+"description": "Or 510  አርባዕቱ ወንጌል The Four Gospels.  1664-1665  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596925.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596925.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 511",
+"description": "Or 511  አርባዕቱ ወንጌል The four Gospels  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596931.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596931.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 513",
+"description": "Or 513  አርባዕቱ ወንጌል The Four Gospels  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132596955.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132596955.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 515",
+"description": "Or 515  አርባዕቱ ወንጌል The Four Gospels.  1675-1676  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147206213.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147206213.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 517",
+"description": "Or 517  አርባዕቱ ወንጌል, the Four Gospels  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132597229.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132597229.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 518",
+"description": "Or 518  አርባዕቱ ወንጌል The Four Gospels  1655  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132597345.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132597345.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 519",
+"description": "Or 519  አርባዕቱ ወንጌል, the Four Gospels  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132597412.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132597412.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 520",
+"description": "Or 520  The Gospel of John and Miracles of  Mary  1700  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132597542.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132597542.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 521",
+"description": "Or 521  The Gospel of John  1600  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132597739.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132597739.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 522",
+"description": "Or 522  Eucharistic prayers.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132597832.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132597832.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 523",
+"description": "Or 523  ወንጌል ዘዮሐንስ, Gospel of St. John.  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132597880.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132597880.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 524",
+"description": "Or 524  ወንጌል ዘዮሐንስ, Gospel of St. John.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132598001.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132598001.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 525",
+"description": "Or 525  The Gospel of John  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132598148.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132598148.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 5268",
+"description": "Or 5268  ዳዊት, Psalter.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147338144.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147338144.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 529",
+"description": "Or 529  The Epistles of St. Paul  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132598311.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132598311.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 533",
+"description": "Or 533  አብቀለምሲስ \"The Revelation of St. John\". 1700-1730  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054938585.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054938585.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 534",
+"description": "Or 534  መዝሙረ፡ ክርስቶስ \" Psalter of Christ,\".  1528  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132598459.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132598459.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 535",
+"description": "Or 535  ዳዊት, Psalter  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132598628.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132598628.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 536",
+"description": "Or 536  Psalms, with Mazmura Dengel  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132598839.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132598839.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 537",
+"description": "Or 537  The Psalms, Mazmura Krestos and the  Mazmura Dengel.  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132598991.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132598991.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 538",
+"description": "Or 538  Psalms, with Mazmura Dengel  17th 18th  century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132599117.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132599117.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 5421",
+"description": "Or 5421  Prayer of the Virgin Mary at Golgotha-  Temherta Ḥebu'at.  1700-1900  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132599333.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132599333.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 5424",
+"description": "Or 5424  Prayer scroll  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100141959028.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100141959028.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 543",
+"description": "Or 543  Lectionary  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132599375.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132599375.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 544",
+"description": "Or 544  ግብረ ሕማማት, Lectionaries for Palm  Early 18th  century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054867911.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054867911.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 545",
+"description": "Or 545  መጽሐፈ ቅዳሴ, Missal  1670-1675  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132599454.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132599454.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 546",
+"description": "Or 546  መጽሐፈ ቅዳሴ, Missal.  1730-1737  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132599564.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132599564.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 548",
+"description": "Or 548  መጽሐፍ ቅዳሴ, Missal.  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132599698.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132599698.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 551",
+"description": "Or 551  መጽሐፈ ግንዘት, Book of the Funeral  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132599799.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132599799.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 553",
+"description": "Or 553  መጽሐፈ ግንዘት, Book of the Funeral  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132599925.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132599925.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 566",
+"description": "Or 566  መፍትሔ፡ ሥራይ, Collection of prayers.  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600028.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600028.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 567",
+"description": "Or 567  እግዚአብሔር ነግሠ, Egziabher Nägś.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600127.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600127.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 568",
+"description": "Or 568  እግዚአብሔር ነግሠ, Egziabher Nägś.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600241.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600241.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 569",
+"description": "Or 569  እግዚአብሔር ነግሠ, Egziabher Nägś.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600366.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600366.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 570",
+"description": "Or 570  እግዚአብሔር ነግሠ, Egziabher Nägś.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600513.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600513.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 572",
+"description": "Or 572  እግዚአብሔር ነግሠ, Egziabher Nägś.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600614.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600614.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 573",
+"description": "Or 573  ጉባኤ መልክ (መልክአ፡ ጉባኤ) Malkeʾa  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600772.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600772.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 579",
+"description": "Or 579  ጉባኤ፡ መልክዕ, Gubba'e Malke  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600874.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600874.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 580",
+"description": "Or 580  ጉባኤ፡ መልክዕ, Gubba'e Malke. Hymnbook  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132600882.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132600882.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 581",
+"description": "Or 581  ገድለ ገብረ መንፈስ ቅዱስ The Acts of Gabra  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132727721.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132727721.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 584",
+"description": "Or 584  ድጓ Dēggwä. Hymnbook of the Ethiopian  1735  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054868312.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054868312.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 585",
+"description": "Or 585  ድጓ Dēggwä.  1767  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132728132.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132728132.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 586",
+"description": "Or 586  ምዕራፍ Meʿrāf, the Common of the  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132728468.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132728468.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 590",
+"description": "Or 590  ጥበበ ጠቢባን “Wisest among the Wise”. A  1700-1800  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147206632.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147206632.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 591",
+"description": "Or 591  አርጋኖነ ማርያም, ʾArgānona Māryām.  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132728867.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132728867.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 593",
+"description": "Or 593  A discourse in praise of the blessed  Virgin Mary, Twelve Fathers and Holy  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132729246.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132729246.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 594",
+"description": "Or 594  Arganona Weddase “The Harp of  Praise”, Weddase Maryam “Praise of  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132729487.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132729487.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 595",
+"description": "Or 595  Arganona Weddase “The Harp of  Praise”  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132729768.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132729768.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 597",
+"description": "Or 597  ገብረ ሕመማት, Book of the Rite of the  14th 15th  century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132729927.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132729927.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 599",
+"description": "Or 599  ግብረ ሕማማት, Lectionary of the Holy  1721-1730  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132731532.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132731532.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 600",
+"description": "Or 600  ግብረ ሕማማት, Lectionary of the Holy  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132732099.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132732099.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 602",
+"description": "Or 602  ነገረ ማርያም, Nagara Māryām \"The Story  1721-1730  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132732630.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132732630.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 603",
+"description": "Or 603  ነገረ ፡ ማርያም, Nagara Māryām \"The  1721-1730  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132733123.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132733123.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 604",
+"description": "Or 604  ነገረ ፡ ማርያም, Nagara Māryām \"The  1716  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132733584.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132733584.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 605",
+"description": "Or 605  ነገረ ፡ ማርያም, Nagara Māryām \"The  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132733960.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132733960.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 607",
+"description": "Or 607  ነገረ ፡ ማርያም Nagara Māryām \"The Story  1730-1755  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054869380.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054869380.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 609",
+"description": "Or 609  ድርሳነ ሚካኤል, Homiliary in Honor of the  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132735126.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132735126.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 613",
+"description": "Or 613  ድርሳነ ሚካኤል, Homiliary in Honor of the  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132735417.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132735417.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 614",
+"description": "Or 614  ድርሳነ ሚካኤል Homiliary in Honor of the  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054870112.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054870112.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 615",
+"description": "Or 615  ድርሳነ ሚካኤል, Homiliary in Honor of the  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132735603.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132735603.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 617",
+"description": "Or 617  ድርሳን ቅዱስ ገብርኤል, Homily in honour of  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132735927.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132735927.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 618",
+"description": "Or 618  ድርሳን ቅዱስ ገብርኤል, Homily in honour of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147206729.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147206729.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 619",
+"description": "Or 619  ድርሳን ቅዱስ ሩፋኤል, Homily in honour of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132736111.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132736111.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 620",
+"description": "Or 620  ተአምረ፡ ኢየሱስ, Miracles of Jesus  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132736427.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132736427.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 622",
+"description": "Or 622  ተአምረ ኢየሱስ, Miracles of Jesus.  1715  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132736727.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132736727.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 624",
+"description": "Or 624  ተአምረ፡ ኢየሱስ, Miracles of Jesus.  1715  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132737034.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132737034.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 626",
+"description": "Or 626  ተአምረ ኢየሱስ, Miracles of Jesus.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132737339.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132737339.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 629",
+"description": "Or 629  ተአምረ ኢየሱስ, Miracles of Jesus  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132737598.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132737598.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 631",
+"description": "Or 631  ተአምረ ኢየሱስ, Miracles of Jesus.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132737899.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132737899.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 633",
+"description": "Or 633  ተአምረ፡ ጊዮርጊስ, The Miracles of St.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132738178.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132738178.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 634",
+"description": "Or 634  ተአምረ ማርያም, Miracles of Mary  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132738494.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132738494.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 635",
+"description": "Or 635  ታምረ፡ ማርያም , The Miracles of the  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132739037.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132739037.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 641",
+"description": "Or 641  ታምረ ማርያም The Miracles of Mary.  The second  third of the  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054863517.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054863517.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 645",
+"description": "Or 645  ታምረ ማርያም The Miracles of Mary.  1700-1750  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054870802.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054870802.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 649",
+"description": "Or 649  ታምረ፡ ማርያም , Miracles of the blessed  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132743423.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132743423.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 651",
+"description": "Or 651  ተአምረ ማርያም, Miracles of Mary.  16th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132744002.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132744002.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 652",
+"description": "Or 652  ተአምረ ማርያም, Miracles of Mary.  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132744227.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132744227.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 653",
+"description": "Or 653  ተአምረ ማርያም, Miracles of Mary and  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132744582.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132744582.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 654",
+"description": "Or 654  ተአምረ ማርያም, Miracles of Mary.  17th to 18th  century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147242641.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147242641.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 6557",
+"description": "Or 6557  ʻIlm al-Raml  1214-1305  Arabic",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100159720327.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100159720327.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 656",
+"description": "Or 656  Synaxarium መጽሐፈ ስንክሳር (Lives of  1600-1667  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132745258.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132745258.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 6576",
+"description": "Or 6576  Kitāb al-Balagh al-Minan كتاب البلغ المنى  Mid 19th  century  Arabic",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100144037021.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100144037021.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 658",
+"description": "Or 658  Synaxarium መጽሐፈ ስንክሳር (Lives of  1670-1682  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132746101.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132746101.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 659",
+"description": "Or 659  Synaxarium መጽሐፈ ስንክሳር (Lives of  1730  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132746685.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132746685.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 660",
+"description": "Or 660  Synaxarium መጽሐፈ ስንክሳር (Lives of  1654-1655  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100132747158.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100132747158.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 665",
+"description": "Or 665  መጽሐፈ ስንክሳር, Synaxarium (Lives of  1784-1788  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147360775.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147360775.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 667",
+"description": "Or 667  Synaxarium መጽሐፈ ስንክሳር (Lives of  1607-1632  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147238611.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147238611.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 671",
+"description": "Or 671  Synaxarium መጽሐፈ ስንክሳር (Lives of  1682-1706  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147244451.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147244451.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 672",
+"description": "Or 672  Synaxarium መጽሐፈ ስንክሳር (Lives of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147361214.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147361214.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 674",
+"description": "Or 674  መጽሐፈ ስንክሳር, Synaxarium (Lives of  1682  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147240649.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147240649.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 675",
+"description": "Or 675  መጽሐፈ ስንክሳር, Synaxarium (Lives of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147361854.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147361854.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 676",
+"description": "Or 676  መጽሐፈ ስንክሳር, Synaxarium (Lives of  1667-1682  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147210214.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147210214.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 678",
+"description": "Or 678  ገድለ ሐዋርያት, The Acts of the Apostles.  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147332729.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147332729.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 679",
+"description": "Or 679  ገድለ ሐዋርያት, the Acts of the Apostles.  1782-1786  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147210572.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147210572.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 681",
+"description": "Or 681  ገድለ ሐዋርያት, The Acts of the Apostles.  1705-1708  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147210999.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147210999.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 683",
+"description": "Or 683  ገድለ ሐዋርያት, the Acts of the Apostles.  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147246591.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147246591.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 684",
+"description": "Or 684  ገድለ ሐዋርያት, The Acts of the Apostles.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149948513.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149948513.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 685",
+"description": "Or 685  ገድለ ሐዋርያት The Apocryphal Acts of the  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149948662.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149948662.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 686",
+"description": "Or 686  ገደለ፡ ሰማዕታት, Acts of Saints and  1755-1769  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149948798.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149948798.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 689",
+"description": "Or 689  ገደለ፡ ሰማዕታት, Acts of Saints and  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149949738.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149949738.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 691",
+"description": "Or 691  Acts of Saints and Martyrs, and homilies  for various festivals.  13th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149950063.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149950063.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 693",
+"description": "Or 693  ገድለ አሮን, The Acts of ʾAron.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149950500.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149950500.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 694",
+"description": "Or 694  ገድለ አቢብ, The Acts of 'Abib.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149950603.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149950603.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 6953",
+"description": "Or 6953  Collection of Arabic works of West  African provenance  Mid 19th  century  Arabic",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100145247866.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100145247866.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 697",
+"description": "Or 697  ዜናሁ ለአቡነ ቅዱስ እንጦዮስ, The acts and  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149950880.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149950880.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 698",
+"description": "Or 698  ገድለ እንጦዮስ, The Acts of Antony.  1715  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149950987.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149950987.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 699",
+"description": "Or 699  ገድሎሙ ለቅዱሳን በረላም ወይዋስፉ. The  1746-1755  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149951220.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149951220.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 700",
+"description": "Or 700  ገደለ ገላውዴዎስ. Discourse of Theodore,  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149951330.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149951330.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 701",
+"description": "Or 701  ገድለ ኪሮስ, the Acts of St Kiros.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149951432.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149951432.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 702",
+"description": "Or 702  ገድለ ኤዎስጣቴዎስ, The Acts of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149951591.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149951591.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 704",
+"description": "Or 704  ገድለ ኤዎስጣቴዎስ The Acts of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149951715.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149951715.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 705",
+"description": "Or 705  ገደለ ኤዎስቴዎስ, The Acts and life of St.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149951913.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149951913.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 706",
+"description": "Or 706  ገደለ: ፋሲለደስ, The Acts of Fāsiladas.  1478-1494  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149952148.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149952148.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 707",
+"description": "Or 707  ገደለ ፋሲለደስ, The Acts of Fāsiladas.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149952561.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149952561.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 711",
+"description": "Or 711  ገድለ ገብረ መንፈስ ቅዱስ The Acts of Gabra  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054872504.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054872504.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 714",
+"description": "Or 714  ገድለ ጊዮርጊስ The Acts of St. George.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054872842.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054872842.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 718",
+"description": "Or 718  ገደለ ላሊበላ Gädlä Lalibla (The Acts of  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054939146.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054939146.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 721",
+"description": "Or 721  ገድለ ተክለ ሃይማኖት Acts of St. Takla  1700-1750  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054873132.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054873132.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 725",
+"description": "Or 725  ገድለ ተክለ ሃይማኖት, Act of St. Takla  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149955602.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149955602.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 728",
+"description": "Or 728  ገድለ ተክለ ሃይማኖት Acts and Life of St.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149955834.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149955834.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 729",
+"description": "Or 729  ገደለ ፈቅጦር, The Life and Acts of Victor.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149956282.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149956282.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 730",
+"description": "Or 730  ገድለ ወለተ ጴጥሮስ, the Acts of Walatta  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149956462.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149956462.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 731",
+"description": "Or 731  Commentary on አርባዕቱ ወንጌል The Four  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149956693.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149956693.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 732",
+"description": "Or 732  ትርጓሜ፡ ወንጌል, Commentary on the Four  16th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149957248.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149957248.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 733",
+"description": "Or 733  ወንጌል ዘማቴዎስ Gospel of Matthew and  1855-1865  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149957740.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149957740.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 737",
+"description": "Or 737  ዮሐንስ አፈ ወርቅ, The Commentary of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149957910.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149957910.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 738",
+"description": "Or 738  ዮሐንስ አፈ ወርቅ, The Commentary of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149958165.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149958165.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 739",
+"description": "Or 739  ዮሐንስ አፈ ወርቅ The Commentary of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054873930.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054873930.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 741",
+"description": "Or 741  ዮሐንስ አፈ ወርቅ, The Commentary of  1522  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149958476.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149958476.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 746",
+"description": "Or 746  ቄርሎስ, The Homily of St. Cyril.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149958830.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149958830.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 757",
+"description": "Or 757  መጽሐፈ ማር ይስሐቅ, The book of Mār  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149959003.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149959003.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 758",
+"description": "Or 758  ማር ይሳሐቅ, Mār Yesḥaq.  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149959251.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149959251.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 762",
+"description": "Or 762  አረጋዊ መንፈሳዊ, Aragāwi Manfasawi.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149959748.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149959748.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 763",
+"description": "Or 763  መጽሐፈ መነኮሳት, Maṣḥafa Manakosāt.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149959936.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149959936.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 764",
+"description": "Or 764  ዜና አበው, History of the Fathers.  17th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149960246.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149960246.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 767",
+"description": "Or 767  ዜና አበው, History of the Fathers.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149960419.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149960419.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 768",
+"description": "Or 768  ዜና አበው, History of the Fathers.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149960693.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149960693.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 769",
+"description": "Or 769  ልደተ አበው መነኮስት Genealogy of the  19th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149960887.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149960887.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 770",
+"description": "Or 770  አባ መቃቢስ, Abbā Maqābis.  15th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149960946.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149960946.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 771",
+"description": "Or 771  ዜና እምቃለ ቅዱስ አትናቴዎስ The Life of  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149961384.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149961384.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 777",
+"description": "Or 777  መጽሐፈ ሓዊ, Maṣḥafa Hawi.  1745  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100149961704.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100149961704.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 790",
+"description": "Or 790  መጽሐፈ መድበል Maṣḥafa Madbal, vol. I.  1721-1730  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054874791.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054874791.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 791",
+"description": "Or 791  መጽሐፈ መድበል Maṣḥafa Madbal, vol II.  18th century  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054875739.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054875739.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Or 818",
+"description": "Or 818  ክብረ ነገሥት Kebra Nagast, or \"the Glory  1700-1750  Geez",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100054876611.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100054876611.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1343",
+"description": "Papyrus 1343  Official Letter from the Governor Qurrah  ben Sharik to Basilius (P.Lond. IV 1346,  3 January  710  Arabic;  Greek,",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147465229.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147465229.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1353",
+"description": "Papyrus 1353  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  15 April 710  Arabic;  Greek,",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770515.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770515.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1360",
+"description": "Papyrus 1360  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  19 August  710  Arabic;  Greek,",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770552.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770552.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1361",
+"description": "Papyrus 1361  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  20 October  709  Arabic;  Greek,",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770566.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770566.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1374",
+"description": "Papyrus 1374  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  8 May 710  Arabic;  Greek,",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770580.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770580.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1430",
+"description": "Papyrus 1430  Miscellaneous Accounts Concerning  Naval Stores and Sailors (P.Lond. IV  after 26 May  711  Arabic;  Greek,",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770726.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770726.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 3124",
+"description": "Papyrus 3124  Bilingual Latin-Arabic Private Letter (TM  397934)  7th century- 9th century  Arabic; Latin",
+"tier": 2,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108285.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108285.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 11870",
+"description": "Add MS 11870  Symeon Metaphrastes, Saints' Lives for  the month of September  11th century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100187963052.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100187963052.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 19400",
+"description": "Add MS 19400  Letters from English reformers and  martyrs  Mid 16th  century  English;  Greek,",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100163596475.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100163596475.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 36668",
+"description": "Add MS 36668  St Jerome, Commentary on Daniel  1st half of  the 9th  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100064358245.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100064358245.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 38895",
+"description": "Add MS 38895  A Sale of a Vineyard (Jur.Pap. 36, TM  70352, TM 97889)  88 BC or 24  BC  Greek,  Ancient;",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100165149236.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100165149236.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Add MS 43725",
+"description": "Add MS 43725  Codex Sinaiticus (Gregory-Aland 01 or   ;אvon Soden δ 2; Scrivener  :)אBible in  2nd quarter  of the 4th  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/man_10000000.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/man_10000000.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Cotton MS  Vespasian",
+"description": "Cotton MS  Vespasian B  'Metrical calendar of York' (imperfect);  Tables of Greek and Roman Numerals;  9th century - 16th century  Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058674176.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058674176.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Egerton  Papyrus 2 E",
+"description": "Egerton  Papyrus 2 Egerton Gospel (P. Lond. Christ. 1, P.  Egerton 2, TM 63527, LDAB 4736)  Mid 2nd  century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059362050.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059362050.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS  4804",
+"description": "Harley MS  4804/1 Prologue on Psalms attributed to St  Augustine; Book of Psalms including  12th century- 15th century  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100057806402.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100057806402.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 2674",
+"description": "Harley MS 2674  Priscian, Institutiones grammaticae  3rd quarter  of the 9th  English, Old;  Greek,",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100056035537.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100056035537.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 2688",
+"description": "Harley MS 2688  A collection of fragments including  Liutprand of Cremona, Antapodosis; a  9th century- 12th century  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059909473.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059909473.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 2719",
+"description": "Harley MS 2719  Nonius Marcellus, De Compendiosa  Doctrina, with glosses  3rd quarter  of the 9th  Breton;  Greek,",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100056036405.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100056036405.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 2735",
+"description": "Harley MS 2735  Epitome libri Glossarum, with additions  by Heiric of Auxerre  1st half of  the 9th  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100056037106.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100056037106.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 3097",
+"description": "Harley MS 3097  St Jerome, Commentary on Daniel; Vita  Sancti Nicholai Myrrensis; Folcard of  4th quarter  of the 11th  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100064375117.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100064375117.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 3826",
+"description": "Harley MS 3826  Alcuin, De orthographia; Bede, De  orthographia; Abbo of Saint-Germain- late 10th- early 11th  English, Old;  Greek,",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058107372.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058107372.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 7509",
+"description": "Harley MS 7509  Collection of copies of Greek inscriptions  made in Asia Minor by William Sherard  1st quarter  of the 18th  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100192113854.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100192113854.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Harley MS 82",
+"description": "Harley MS 82  Register of Reading Abbey; Usuard,  Martyrology; 'Sir John Mandeville',  12th century- 14th century  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059470229.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059470229.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus  1605",
+"description": "Papyrus  1605(a-c) Encomium (?) (P.Lond.Lit. 141, P.Lond.  V 1816a descr., TM 64087, LDAB 5305,  2nd-3rd  century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108222.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108222.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus  1943",
+"description": "Papyrus  1943(a-b) A: Copy of Receipts of Penalty  (P.Fam.Tebt. 14 = Pap.Lugd.Bat. VI 14,  A: after 1  July 114. B:  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770873.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770873.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 108",
+"description": "Papyrus 108  Hyperides, Orations Against  Demosthenes and in Defense of  75-125  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108173.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108173.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 114",
+"description": "Papyrus 114  The Bankes Homer (P. Lond. Lit. 28)  2nd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147472189.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147472189.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 115",
+"description": "Papyrus 115  Hyperides' Pro Lycophrone and Pro  Euxenippo (P.Lond.Lit. 132, TM 61281,  75-125  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770198.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770198.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1159",
+"description": "Papyrus 1159  List of Liturgists for the Visit of the  Prefect Lucius Valerius Proclus (P.Lond.  144-147  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100142973755.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100142973755.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1164",
+"description": "Papyrus 1164  Miscellaneous Documents with  Transactions Conducted through the  212  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770243.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770243.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1184",
+"description": "Papyrus 1184  Treatise on Metres (P.Oxy. II 220, TM  63266, LDAB 4471, MP3 2172) and  2nd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059353575.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059353575.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 119",
+"description": "Papyrus 119  Register of Contributors for Tax on Land  (Geometria) (P. Lond. I 119, TM 20001)  143-144  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770318.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770318.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1200",
+"description": "Papyrus 1200  Bank Receipt for Tax on Sale (P.Lond.  III 1200, TM 5900)  20 October  209 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147464515.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147464515.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1204",
+"description": "Papyrus 1204  Sale and Receipt for Tax on Transfer  (P.Lond. III 1204, Chrest.Mitt. 152, TM  113-112 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147464528.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147464528.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1206",
+"description": "Papyrus 1206  Sale of Land (P.Lond. III 1206, TM 93)  16 June 99  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147464539.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147464539.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1207",
+"description": "Papyrus 1207  Sale of Land (P.Lond. III 1207, TM 94)  30  November  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147464546.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147464546.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1208",
+"description": "Papyrus 1208  Sale of Land (P.Lond. III 1208, TM 244)  17 February  97 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147464556.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147464556.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1209",
+"description": "Papyrus 1209  Sale of Land (P.Lond. III 1209, TM 95)  2 August 89  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147464563.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147464563.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 122",
+"description": "Papyrus 122  Collection of Magical Spells (P. Lond. I.  122.; PGM VIII; TM 59324)  4th century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108184.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108184.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1265",
+"description": "Papyrus 1265  Customs-House Receipts (P.Lond. III  1265(a-f), TM 11775-11780)  83-177  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147464842.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147464842.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 131",
+"description": "Papyrus 131  Aristotle's Constitution of the Athenians  (P.Lond.Lit. 108) and Other Texts:  78-c 100  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058765650.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058765650.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 133",
+"description": "Papyrus 133  Demosthenes, Epistula III (P.Lond.Lit.  130, TM 61289, LDAB 2431, MP3 337)  1st century  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108190.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108190.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1332",
+"description": "Papyrus 1332  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  25  December  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770383.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770383.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1333",
+"description": "Papyrus 1333  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  25  December  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770406.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770406.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1337",
+"description": "Papyrus 1337  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  12  September  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770432.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770432.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1338",
+"description": "Papyrus 1338  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  9 October  709  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770458.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770458.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1341",
+"description": "Papyrus 1341  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  30  December  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770467.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770467.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1342",
+"description": "Papyrus 1342  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  1 January  710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770484.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770484.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1346",
+"description": "Papyrus 1346  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  14 January  710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770502.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770502.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1375",
+"description": "Papyrus 1375  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  26 May 710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770591.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770591.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1376",
+"description": "Papyrus 1376  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  1 June 710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770602.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770602.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1377",
+"description": "Papyrus 1377  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  After 2 April  710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770611.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770611.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1378",
+"description": "Papyrus 1378  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  708-710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770621.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770621.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1379",
+"description": "Papyrus 1379  Official Letter of the Governor Qurrah  ben Sharik to Basilius on Fugitives  2 April 710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147465456.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147465456.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1380",
+"description": "Papyrus 1380  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  708-710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770646.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770646.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1381",
+"description": "Papyrus 1381  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  708-710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770658.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770658.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1382",
+"description": "Papyrus 1382  Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  708-710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770668.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770668.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1384",
+"description": "Papyrus 1384  Letter of Qurrah ibn Sharik to Basilios  Pagarches of Aphrodito (P. Lond. IV  710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108199.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108199.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1405",
+"description": "Papyrus 1405  Miscellaneous Accounts (P.Lond. IV  1416A-G, TM 19861-19867)  732-733  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770676.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770676.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1409",
+"description": "Papyrus 1409  Register of Taxes (P.Lond. IV 1414, TM  39747)  8th century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059353490.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059353490.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1521",
+"description": "Papyrus 1521  Epicurus, De natura, book 11  (P.Lond.Lit. 154, TM 59756, LDAB 860)  2nd century  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108209.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108209.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1531",
+"description": "Papyrus 1531  Gospel of Thomas fragment (in Greek),  and Survey List (P.Lond.Lit. 222, P. Oxy.  end of the  2nd century- Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108215.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108215.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1558",
+"description": "Papyrus 1558  Official Letter of the Governor Qurrah  ben Sharik to Basilius on Wages for  1 May 710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147465701.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147465701.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1559",
+"description": "Papyrus 1559  Official Letter of the governor Qurrah  ben Sharik (P.Lond. IV 1363, TM 19821)  4 September  710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147465713.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147465713.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1560",
+"description": "Papyrus 1560  Fragment of an Official Letter from the  Governor Qurrah ben Sharik (P.Lond. IV  c. 709  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100143123050.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100143123050.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1667",
+"description": "Papyrus 1667  Receipt for Repayment of Money  (P.Lond. V 1717, TM 19733) and  2nd half 6th  century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770741.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770741.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1746",
+"description": "Papyrus 1746  Contract for the Collection of Taxes  (P.Lond. V 1660, TM 19677)  c. 553  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147466143.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147466143.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1749",
+"description": "Papyrus 1749  and 2586 Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  7 January  710  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770784.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770784.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1750",
+"description": "Papyrus 1750- 1751 Official Letter from the Governor Qurrah  ben Sharik to Basilius, Pagarch of  709-714  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770806.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770806.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1787",
+"description": "Papyrus 1787  Conveyance of Reversion of Property  (P.Lond. V 1729, TM 19744)  12 March  584  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147466251.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147466251.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1797",
+"description": "Papyrus 1797  Contract of Sale (P.Lond. V 1724, TM  19740)  578-582  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147466317.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147466317.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1798",
+"description": "Papyrus 1798  Contract of Sale (P.Lond. V 1733, TM  19748)  6 March 594  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147466324.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147466324.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1802",
+"description": "Papyrus 1802  Sale of a House (P.Lond. V 1722, TM  19738)  7-15 March  530  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147466370.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147466370.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1859",
+"description": "Papyrus 1859  Miscellaneous Fragments (TM 62145,  64880, 64883, 65196-65197)  5th century- 7th century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697116.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697116.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1873",
+"description": "Papyrus 1873  Homer, Iliad II (P.Lond.Lit. 6, TM 60260,  LDAB 1380, MP3 643), and Other Texts  1-87  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697123.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697123.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1885",
+"description": "Papyrus 1885  Copy of Report with Annexed  Documents (P.Fam.Tebt. 15 =  114-115  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770829.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770829.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1888",
+"description": "Papyrus 1888  Report of Trial with Annexed Documents  (P.Fam.Tebt. 24 = Pap.Lugd.Bat. VI 24,  24 May 124  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770838.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770838.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 189",
+"description": "Papyrus 189  List of Names (P.Lond. II 189, TM  28019)  2nd half of  the 2nd  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770858.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770858.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 1980",
+"description": "Papyrus 1980  Renunciation of Inheritance: the End of  the Archives Case (P.Coles 20, TM  133  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770887.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770887.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2017",
+"description": "Papyrus 2017  Settlement of a Dispute (SB VI 8988, TM  17841)  16 July 647  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770902.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770902.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2018",
+"description": "Papyrus 2018  Sale of Part of a House (SB VI 8987, TM  17840)  644-645  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770910.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770910.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2019",
+"description": "Papyrus 2019  Marriage Contract (SB VI 8986, TM  17839)  26 Jan-24  Feb 641  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770917.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770917.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2041",
+"description": "Papyrus 2041  Acts of Peter (P. Oxy. 6 849; P. Lond.  Lit. 221; van Haelst 603; CANT 190.II;  1st half of  4th century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108227.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108227.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2044",
+"description": "Papyrus 2044  Petition to a Provincial Governor (P.Oxy.  VI 904, TM 35311)  2nd half 5th  century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770929.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770929.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2053",
+"description": "Papyrus 2053  The Exodus-Revelation Papyrus  (P.Lond.Lit. 203, P.Oxy. VIII 1075, TM  3rd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108237.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108237.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2068",
+"description": "Papyrus 2068  Sophocles, Ichneutae, fragments (P.  Lond. Lit. 67; P. Oxy. IX 1174, P. Oxy. IX  2nd half of  the 2nd  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108241.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108241.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 209",
+"description": "Papyrus 209  Sale of Part of a House (SB I 5114, TM  23154)  630-641  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770948.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770948.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2098",
+"description": "Papyrus 2098  Letter to Zenon (P.Lond. VII 1998, TM  1560)  16 July 250  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147467227.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147467227.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 210",
+"description": "Papyrus 210  Sale of a House (SB I 5112, TM 23153)  3 January  618  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058770966.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058770966.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2208",
+"description": "Papyrus 2208  Fragment of a Mime (P.Lond.Lit. 52, TM  64089, MP3 1747)  3rd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108247.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108247.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2210",
+"description": "Papyrus 2210  Lease of Bulls with Plough (SB X 10573,  TM 14331)  29 October- 27  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697132.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697132.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2214",
+"description": "Papyrus 2214  Petition (?) (P.Wisc. II 49, TM 26683),  and Liturgy List (P.Wisc. II 85, SB VIII  2nd century- 3rd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697137.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697137.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2237",
+"description": "Papyrus 2237  Memorandum for a Trip to  Constantinople (TM 381317)  5th-6th  century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108252.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108252.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2238",
+"description": "Papyrus 2238  Letter concerning work on an  embankment for a vineyard  5th century- 6th century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108256.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108256.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2248",
+"description": "Papyrus 2248  Tax Register (P.Lond. VI 1912r. descr.,  TM 91987) and Letter from the Emperor  37-41  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059353586.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059353586.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 229",
+"description": "Papyrus 229  Deed of sale of a slave boy (P. Lond. I  229), with original seals  24 May 0166  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108260.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108260.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2293",
+"description": "Papyrus 2293  Xenophon: Recollections of Socrates  (Memorabilia) III, 6. 11-14 (TM 702957,  2nd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108268.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108268.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2326",
+"description": "Papyrus 2326  Letter to Zenon (P.Lond. VII 1931,  P.Zen.Pestm. 32, C.Zen.Palestine 10,  9 February  258 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697144.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697144.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2340",
+"description": "Papyrus 2340  Receipt for Money Payment from the  Archive of Zenon (P.Lond. VII 1957, TM  1 February  256 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697150.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697150.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2344",
+"description": "Papyrus 2344  Contract for Land Clearance  (P.Cair.Zen. II 59182, TM 828)  4 October  255 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147467714.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147467714.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2345",
+"description": "Papyrus 2345  Receipt for Wages (P.Lond. VII 1959,  TM 1522)  14 March  256 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147467720.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147467720.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2351",
+"description": "Papyrus 2351  Letter to Zenon (P.Lond. VII 2057, TM  1619)  263-229 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697157.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697157.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2435",
+"description": "Papyrus 2435  Abstracts of Contracts (P.Oxy. XIV 1648,  TM 29012), and Acta Appiani (P.Oxy. I  Late 2nd  century- 1st  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697162.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697162.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2484",
+"description": "Papyrus 2484  Fragment of the Gospel of John  (Gregory-Aland P5; P. Lond. Lit. 213; P.  3rd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059352908.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059352908.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2486",
+"description": "Papyrus 2486  Song of Songs with Aristides's Apology  (P. Lond. Lit. 209; Rahfls 952; van  Early 4th  century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108273.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108273.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2553",
+"description": "Papyrus 2553  Letter of Recommendation from Proclus  to Asclepiades (TM 10546)  16 February  6  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697168.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697168.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2559",
+"description": "Papyrus 2559  Medical Treatise (P.Lond.Lit. 170, TM  63839, LDAB 5053, MP3 2404)  2nd century- 3rd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697173.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697173.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 256",
+"description": "Papyrus 256  Miscellaneous Documents (P.Lond. II  256 A, C-E, TM 11657, 19973-19975),  1st century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058771031.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058771031.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2672",
+"description": "Papyrus 2672  Complaint to the Village Scribe (P.Lond.  VII 1981, TM 2502)  12 February  252 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147468158.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147468158.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2674",
+"description": "Papyrus 2674  Letter to Zenon (P.Lond. VII 1937, TM  2375)  1 April 257  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147468174.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147468174.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2682",
+"description": "Papyrus 2682  Letter of Introduction from the Archive of  Zenon (P.Lond. VII 1946, TM 2380)  c. 6 May 257  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147468218.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147468218.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2751",
+"description": "Papyrus 2751  Letter to Zenon (P.Lond. VII 1983, TM  1545)  March-April  252 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147468379.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147468379.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 2921",
+"description": "Papyrus 2921  Didymus the Blind, Commentary on  Psalms 33, 34 and 36 (TM 59674, LDAB  420-527  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697189.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697189.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 3077",
+"description": "Papyrus 3077  Menander, The Hated Man  (Thrasonydes or Misoumenos, lines 101- 4th century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108279.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108279.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 364",
+"description": "Papyrus 364  List of Priests (SB XVIII 13117, TM  25352)  Mid 2nd  century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058771157.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058771157.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 379",
+"description": "Papyrus 379  Order to Village Officials (P.Lond. II 379,  TM 31215)  1st century?  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100143127222.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100143127222.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 386",
+"description": "Papyrus 386  Customs-House Receipts (P.Customs  428(a-d), P.Lond. II 386(a-d) descr., TM  2nd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147468661.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147468661.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 46",
+"description": "Papyrus 46  Handbook of Magic (P. Lond. I. 46, PGM  V, TM 64368)  4th century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108291.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108291.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 614",
+"description": "Papyrus 614  Loan of Money (P.Dryton 17, P.Grenf. I  19, SB XVI 12716, P.Lond. III 614  14 May 129  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697203.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697203.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 623",
+"description": "Papyrus 623  Cession of a Plot of Land (P.Grenf. I 27,  TM 129)  27 Feb 109  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058771172.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058771172.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 626",
+"description": "Papyrus 626  Letter from the Archive of Pates and  Pachrates (SB XX 14728, C.Jud.Syr.Eg.  29 June 103  BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100120697208.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100120697208.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 667",
+"description": "Papyrus 667  Sale of Land (P.Grenf. II 15, TM 274)  21 October  139 BC  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058771190.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058771190.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 733",
+"description": "Papyrus 733  Bacchylides' Epinician Odes and  Dithyrambs (TM 59339, LDAB 438, MP3  2nd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059353531.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059353531.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 739",
+"description": "Papyrus 739  Sappho, fragment of a poem concerning  her brother Charaxus (P.Lond.Lit. 43,  3rd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108299.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108299.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 747",
+"description": "Papyrus 747  Draft of a Proclamation to Ephebi  (P.Oxy. I 42, P.Lond. III 747 descr.,  18 January  323  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100147462985.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100147462985.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 77",
+"description": "Papyrus 77  The Will of Abraham, Bishop of  Hermonthis (P. Lond. I. 77; TM 39851)  600-625  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108308.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108308.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 782",
+"description": "Papyrus 782  Fragment of the Gospel of John  (Gregory-Aland P5; P. Lond. Lit. 213; P.  3rd century  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058108317.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058108317.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 851",
+"description": "Papyrus 851  Extracts with Receipts (P.Lond. III 851,  TM 22694)  216-219  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100058771205.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100058771205.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 920",
+"description": "Papyrus 920  Receipt for Rent (P.Lond. III 920, TM  22716)  12 April 176  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059353549.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059353549.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Papyrus 951",
+"description": "Papyrus 951  Contract (P.Lond. III 951r, TM 22742)  and Private Letter to a Son-In-Law  249-299  Greek,  Ancient",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059353557.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059353557.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Royal MS 1",
+"description": "Royal MS 1 B XI  The Four Gospels; Records of St  Augustine's Abbey, Canterbury  12th century- 13th century  Greek,  Ancient;",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100057897925.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100057897925.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Royal MS 15",
+"description": "Royal MS 15 B  XIX Sedulius, Carmen Paschale and other  poems; Two acrostics poems in praise of  10th century- 11th century  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059911485.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059911485.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Royal MS 2",
+"description": "Royal MS 2 A  XX Royal Prayerbook  late 8th to  12th century  English, Old;  Greek,",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100101103325.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100101103325.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+},
+{
+"library": "British_Library",
+"shelfmark": "Stowe MS 3",
+"description": "Stowe MS 3  The Four Gospels; a Lectionary  10th century  Greek,  Ancient; Latin",
+"tier": 3,
+"manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100059473555.0x000001",
+"viewer": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100059473555.0x000001",
+"rights": "British Library: view only, no download option (bl.uk/research/digitised-manuscripts)"
+}
+]
+}
