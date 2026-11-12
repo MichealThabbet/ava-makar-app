@@ -1,6 +1,7 @@
 @echo off
 chcp 65001 >nul
 cd /d "%~dp0"
+python -m pip install -q truststore
 set /p DRIVE=اكتب حرف الهارد الخارجي (مثلا E) ثم Enter: 
 echo.
 echo المكتبات:  1 = الفاتيكان    2 = مكتبة الكونجرس    3 = الاتنين (الفاتيكان الأول)
