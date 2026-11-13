@@ -1,5 +1,5 @@
 {
- "source": "LoC Name Authority n85219736 + ISNI 0000000101576384, pasted by owner 2026-11-13 ; people added from id.loc.gov name authorities (St Macarius the Great n82031613, Macarius of Alexandria no94021433, Shenoute n81079488, Pachomius n50051557, John the Little n2010028260), 2026-11-13",
+ "source": "LoC Name Authority n85219736 + ISNI 0000000101576384, pasted by owner 2026-11-13 ; people added from id.loc.gov name authorities (St Macarius the Great n82031613, Macarius of Alexandria no94021433, Shenoute n81079488, Pachomius n50051557, John the Little n2010028260), 2026-11-13 ; batch harvest of Coptic authorities from id.loc.gov search, 2026-11-13",
  "entities": [
   {
    "entity": "دير القديس أنبا مقار الكبير",
@@ -133,6 +133,50 @@
     "John, the Little, Saint, ca. 339-409",
     "John, the Short, Saint, approximately 339-409",
     "John, the Theban, Saint, approximately 339-409"
+   ]
+  },
+  {
+   "entity": "Athanasius, Saint, Patriarch of Alexandria, -373",
+   "type": "person",
+   "authority_LoC": "nr2006007184",
+   "pref": "Athanasius, Saint, Patriarch of Alexandria, -373. Life of St. Antony. Latin & Coptic (Sahidic)",
+   "variants": [
+    "Athanasius, Saint, Patriarch of Alexandria, -373. S. Antonii vitae versio Sahidica",
+    "Athanasius, Saint, Patriarch of Alexandria, d. 373. Life of St. Antony. Latin & Coptic (Sahidic)"
+   ]
+  },
+  {
+   "entity": "John, Hegumenos of Scetis, Saint, approximately 585-approximately 675",
+   "type": "person",
+   "authority_LoC": "nb2015020990",
+   "pref": "John, Hegumenos of Scetis, Saint, approximately 585-approximately 675",
+   "variants": [
+    "Jean, de Scété, Saint, approximately 585-approximately 675",
+    "Jean, higoumène de Scété, Saint, approximately 585-approximately 675"
+   ]
+  },
+  {
+   "entity": "Pshoi, of Scetis, Saint, active 4th century-5th century",
+   "type": "person",
+   "authority_LoC": "nr99013749",
+   "pref": "Pshoi, of Scetis, Saint, active 4th century-5th century",
+   "variants": [
+    "Abshay, of Scetis, Saint, active 4th century-5th century",
+    "Besoy, of Scetis, Saint, active 4th century-5th century",
+    "Bishay, of Scetis, Saint, active 4th century-5th century",
+    "Bishoi, of Scetis, Saint, active 4th century-5th century",
+    "Bishoy, of Scetis, Saint, active 4th century-5th century",
+    "Bsoy, of Scetis, Saint, active 4th century-5th century",
+    "Ebsoy, of Scetis, Saint, active 4th century-5th century",
+    "Opsois, of Scetis, Saint, active 4th century-5th century",
+    "Pishay, of Scetis, Saint, active 4th century-5th century",
+    "Pishoy, of Scetis, Saint, active 4th century-5th century",
+    "Psaeis, of Scetis, Saint, active 4th century-5th century",
+    "Psaï, of Scetis, Saint, active 4th century-5th century",
+    "Pshoi, of Constantinople, Saint, active 4th century-5th century",
+    "Pshoi, of Scetis, Saint, 4th/5th cent.",
+    "Pshoy, of Scetis, Saint, active 4th century-5th century",
+    "Psois, of Scetis, Saint, active 4th century-5th century"
    ]
   }
  ]
