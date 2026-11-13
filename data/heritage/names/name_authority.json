@@ -1,0 +1,46 @@
+{
+ "source": "LoC Name Authority n85219736 + ISNI 0000000101576384, pasted by owner 2026-11-13",
+ "entities": [
+  {
+   "entity": "دير القديس أنبا مقار الكبير",
+   "type": "monastery",
+   "founded": "~360 AD",
+   "location": "Wadi al-Natrun (Scetis / Barriyat Shihit), Beheira, Egypt",
+   "authorities": {
+    "LoC": "n85219736",
+    "VIAF": "151339999",
+    "ISNI": "0000000101576384",
+    "Wikidata": "Q423048",
+    "WorldCat_FAST": "607569",
+    "LoC_RWO": "n85219736"
+   },
+   "names": [
+    "ABMQ (HMML project siglum)",
+    "Dair Abû Maqâr (Egypt)",
+    "Dayr Aba Maqār (Natrun Valley, Egypt)",
+    "Dayr Abu Maqar (Egypt)",
+    "Dayr Qiddīs Anbā Maqqār",
+    "Dayr al-Anbā Maqār (Natrun Valley, Egypt)",
+    "Dayr al-Qiddīs Anbā Maqqār",
+    "Dayr al-Qiddīs Anbā Maqqār al-Kabīr bi-Barrīyat Shīhīt",
+    "Monastery of Saint Macarius the Great (Natrun Valley, Egypt)",
+    "Monastery of St. Macarius the Great at Scetis",
+    "St. Macarius Monastery of Scetis",
+    "دير القديس انبا مقار",
+    "دير قديس أنبا مقار"
+   ],
+   "related_places": [
+    "Wadi al-Natrun",
+    "Scetis",
+    "Sketis",
+    "Skētis",
+    "Wādi Hubayb",
+    "Barriyat Shihit",
+    "برية شيهيت",
+    "وادي النطرون"
+   ],
+   "key_catalogue": "Ugo Zanetti, Les manuscrits de Dair Abû Maqâr, 1986 (+ supplement 2006)",
+   "license": "source records CC0 (LoC) / CC0 (ISNI) — free to reuse"
+  }
+ ]
+}
