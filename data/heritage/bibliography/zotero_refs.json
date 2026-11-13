@@ -252,6 +252,21 @@
    "container": null,
    "publisher": "University of London, Institute of Classical Studies",
    "abstract": ""
+  },
+  {
+   "title": "آثار دير القديس العظيم أبا مكاريوس القس الإسكندراني الأثري، وادي الريان، الفيوم: بين الماضي والحاضر",
+   "title_latin": "Āthār Dayr al-Qiddīs al-ʻAẓīm Abā Makāriyūs al-Qiss al-Iskandarānī al-atharī, Wādī al-Rayyān, al-Fayyūm: bayna al-māḍī wa-al-ḥāḍir",
+   "author": "Athnāsiyūs (أثناسيوس)",
+   "editor": "Ṣalīb, ʻIzzat Ḥabīb (عزت حبيب صليب)",
+   "year": 2015,
+   "place": "Cairo",
+   "type": "book",
+   "subjects": [
+    "Coptic monasteries — Egypt",
+    "Monasteries — Egypt — History"
+   ],
+   "note": "About the Monastery of St Macarius the Alexandrian at Wadi al-Rayyan, Fayyum — a DIFFERENT monastery from Dayr Abu Maqar (Wadi al-Natrun). LoC work 19569350, LCC BX138.D38",
+   "source": "id.loc.gov BIBFRAME work 19569350 (pasted by owner)"
   }
  ]
 }
