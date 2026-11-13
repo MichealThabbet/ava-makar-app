@@ -1,5 +1,5 @@
 {
- "source": "LoC Name Authority n85219736 + ISNI 0000000101576384, pasted by owner 2026-11-13",
+ "source": "LoC Name Authority n85219736 + ISNI 0000000101576384, pasted by owner 2026-11-13 ; people added from id.loc.gov name authorities (St Macarius the Great n82031613, Macarius of Alexandria no94021433, Shenoute n81079488, Pachomius n50051557, John the Little n2010028260), 2026-11-13",
  "entities": [
   {
    "entity": "دير القديس أنبا مقار الكبير",
@@ -41,6 +41,99 @@
    ],
    "key_catalogue": "Ugo Zanetti, Les manuscrits de Dair Abû Maqâr, 1986 (+ supplement 2006)",
    "license": "source records CC0 (LoC) / CC0 (ISNI) — free to reuse"
+  },
+  {
+   "entity": "St Macarius the Great (the Egyptian)",
+   "type": "person",
+   "authority_LoC": "n82031613",
+   "pref": "Макарій, Єгипетський, Saint, active 4th century",
+   "variants": [
+    "Macaire, d'Egypte, Saint, active 4th century",
+    "Macarius, Aegyptius, Saint, active 4th century",
+    "Macarius, Antiochenus, Saint, active 4th century",
+    "Macarius, Magnus, Saint, active 4th century",
+    "Macarius, Saint, the Elder, of Egypt, 4th cent.",
+    "Macarius, Scetensis, Saint, active 4th century",
+    "Macarius, the Egyptian, Saint, 4th cent.",
+    "Macarius, the Elder, Saint, active 4th century",
+    "Macarius, the Great, Saint, active 4th century",
+    "Makarios, der Ägypter, Saint, active 4th century",
+    "Makarios, the Egyptian, Saint, active 4th century",
+    "Makariĭ, Egipetskiĭ, Saint, active 4th century",
+    "Makariĭ, I︠E︡hypetsʹkyĭ, Saint, active 4th century",
+    "Maqāriyūs, al-Kabīr, Saint, active 4th century",
+    "Макарій, Єгипетський, Saint, active 4th century"
+   ]
+  },
+  {
+   "entity": "St Macarius of Alexandria",
+   "type": "person",
+   "authority_LoC": "no94021433",
+   "pref": "Macarius, of Alexandria, Saint, active 4th century",
+   "variants": [
+    "Macarii Alexandrini, Saint, active 4th century",
+    "Macario, d'Alessandria, Saint, active 4th century",
+    "Macarius Alexandrinus, Saint, active 4th century",
+    "Macarius, of Alexandria, Saint, 4th cent.",
+    "Macarius, the Alexandrine, Saint, active 4th century",
+    "Macarius, the Younger, Saint, active 4th century",
+    "Makariĭ Aleksandriĭskiĭ, Saint, active 4th century",
+    "Maqāriyūs, al-Iskandarī, active 4th century"
+   ]
+  },
+  {
+   "entity": "St Shenoute the Archimandrite",
+   "type": "person",
+   "authority_LoC": "n81079488",
+   "pref": "Shenute, Saint, approximately 348-466",
+   "variants": [
+    "Chenouté, Saint, approximately 348-466",
+    "Sanutios, Saint, approximately 348-466",
+    "Schenoudi, Saint, approximately 348-466",
+    "Schenute, von Atripe, Saint, approximately 348-466",
+    "Senouthios, Saint, approximately 348-466",
+    "Shanūdah, Anba, Saint, d. 451?",
+    "Shenoud, Saint, approximately 348-466",
+    "Shenouda, Saint, approximately 348-466",
+    "Shenoudi, Saint, approximately 348-466",
+    "Shenoute, Saint, approximately 348-466",
+    "Shenouti, Saint, approximately 348-466",
+    "Shinūdah, Saint, approximately 348-466",
+    "Sinuthius, Saint, approximately 348-466"
+   ]
+  },
+  {
+   "entity": "St Pachomius",
+   "type": "person",
+   "authority_LoC": "n50051557",
+   "pref": "باخوميوس",
+   "variants": [
+    "Anbā Bākhūm",
+    "Bākhūm, Saint",
+    "Bākhūmiyūs, Saint",
+    "Pachôme, Saint",
+    "Pacomio, Saint",
+    "Pacôme, Saint",
+    "Pahōmios, Saint",
+    "Pakhomīĭ, Saint",
+    "باخوميوس"
+   ]
+  },
+  {
+   "entity": "St John the Little (Kolobos)",
+   "type": "person",
+   "authority_LoC": "n2010028260",
+   "pref": "John, the Little, Saint, approximately 339-409",
+   "variants": [
+    "John Colobos, Saint, approximately 339-409",
+    "John Kolobos, Saint, approximately 339-409",
+    "John Kolovos, Saint, approximately 339-409",
+    "John, the Dwarf, Abba, approximately 339-409",
+    "John, the Dwarf, Saint, approximately 339-409",
+    "John, the Little, Saint, ca. 339-409",
+    "John, the Short, Saint, approximately 339-409",
+    "John, the Theban, Saint, approximately 339-409"
+   ]
   }
  ]
 }
