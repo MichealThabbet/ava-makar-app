@@ -19,3 +19,4 @@
  17 = أرشيف نجع حمادي         claremont_nha.json       (3474)
  18 = آثار معهد العصور القديمة claremont_aot.json       (122)
  19 = نشرة المعهد             claremont_bia.json       (108)
+ 20 = دارتموث (قصاصات قبطية)  dartmouth.json           (1+)
