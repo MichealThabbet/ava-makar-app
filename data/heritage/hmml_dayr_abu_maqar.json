@@ -1,743 +1,1668 @@
 {
- "source": "vHMML Reading Room listing export (owner, 2026-11-14): all 82 viewable Dayr Abu Maqar manuscripts",
+ "source": "vHMML Reading Room full-data export (owner, 2026-11-14): 82 Dayr Abu Maqar manuscripts with HMML genre classification",
  "manuscripts": [
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00001",
-   "repo_shelfmark": "Bibl. 1",
+   "hmml": "ABMQ 00001",
+   "shelfmark": "Bibl. 1",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Commentaries",
+    "Lectionaries"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133004",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133004",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 17, no. 1."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00002",
-   "repo_shelfmark": "Bibl. 2",
+   "hmml": "ABMQ 00002",
+   "shelfmark": "Bibl. 2",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511310",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511310",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r&nbsp;(1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00003",
-   "repo_shelfmark": "Bibl. 3",
+   "hmml": "ABMQ 00003",
+   "shelfmark": "Bibl. 3",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133006",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133006",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 17, no. 3."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00004",
-   "repo_shelfmark": "Bibl. 4",
+   "hmml": "ABMQ 00004",
+   "shelfmark": "Bibl. 4",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133007",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133007",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 17, no. 4."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00005",
-   "repo_shelfmark": "Bibl. 5",
+   "hmml": "ABMQ 00005",
+   "shelfmark": "Bibl. 5",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133008",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133008",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00006",
-   "repo_shelfmark": "Bibl. 6",
+   "hmml": "ABMQ 00006",
+   "shelfmark": "Bibl. 6",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133009",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133009",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 17, no. 6."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00007",
-   "repo_shelfmark": "Bibl. 7",
+   "hmml": "ABMQ 00007",
+   "shelfmark": "Bibl. 7",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133010",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133010",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 17, no. 7."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00008",
-   "repo_shelfmark": "Bibl. 8",
+   "hmml": "ABMQ 00008",
+   "shelfmark": "Bibl. 8",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133011",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133011",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 18, no. 8."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00009",
-   "repo_shelfmark": "Bibl. 9",
+   "hmml": "ABMQ 00009",
+   "shelfmark": "Bibl. 9",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133012",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133012",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 18, no. 9."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00010",
-   "repo_shelfmark": "Bibl. 10",
+   "hmml": "ABMQ 00010",
+   "shelfmark": "Bibl. 10",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133013",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133013",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 18, no. 10."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00011",
-   "repo_shelfmark": "Bibl. 11",
+   "hmml": "ABMQ 00011",
+   "shelfmark": "Bibl. 11",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Psalters"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133014",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133014",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 18, no. 11."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00012",
-   "repo_shelfmark": "Bibl. 12",
+   "hmml": "ABMQ 00012",
+   "shelfmark": "Bibl. 12",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133015",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133015",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 18, no. 12."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00013",
-   "repo_shelfmark": "Bibl. 13",
+   "hmml": "ABMQ 00013",
+   "shelfmark": "Bibl. 13",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511311",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511311",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r&nbsp;(1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00014",
-   "repo_shelfmark": "Bibl. 14",
+   "hmml": "ABMQ 00014",
+   "shelfmark": "Bibl. 14",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511312",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511312",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00015",
-   "repo_shelfmark": "Bibl. 15",
+   "hmml": "ABMQ 00015",
+   "shelfmark": "Bibl. 15",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Prayers"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511313",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511313",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00017",
-   "repo_shelfmark": "Bibl. 17",
+   "hmml": "ABMQ 00017",
+   "shelfmark": "Bibl. 17",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133016",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133016",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 18, no. 17."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00018",
-   "repo_shelfmark": "Bibl. 18",
+   "hmml": "ABMQ 00018",
+   "shelfmark": "Bibl. 18",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133017",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133017",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 18, no. 18."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00023",
-   "repo_shelfmark": "Bibl. 23",
+   "hmml": "ABMQ 00023",
+   "shelfmark": "Bibl. 23",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511589",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511589",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00025",
-   "repo_shelfmark": "Bibl. 25",
+   "hmml": "ABMQ 00025",
+   "shelfmark": "Bibl. 25",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/533795",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/533795",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": ""
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00026",
-   "repo_shelfmark": "Bibl. 26",
+   "hmml": "ABMQ 00026",
+   "shelfmark": "Bibl. 26",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511590",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511590",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00027",
-   "repo_shelfmark": "Bibl. 27",
+   "hmml": "ABMQ 00027",
+   "shelfmark": "Bibl. 27",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133018",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133018",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 19, no. 27."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00028",
-   "repo_shelfmark": "Bibl. 28",
+   "hmml": "ABMQ 00028",
+   "shelfmark": "Bibl. 28",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511591",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511591",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00029",
-   "repo_shelfmark": "Bibl. 29",
+   "hmml": "ABMQ 00029",
+   "shelfmark": "Bibl. 29",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511592",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511592",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00030",
-   "repo_shelfmark": "Bibl. 30",
+   "hmml": "ABMQ 00030",
+   "shelfmark": "Bibl. 30",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511593",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511593",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00031",
-   "repo_shelfmark": "Bibl. 31",
+   "hmml": "ABMQ 00031",
+   "shelfmark": "Bibl. 31",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133019",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133019",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 19, no. 31."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00033",
-   "repo_shelfmark": "Bibl. 33",
+   "hmml": "ABMQ 00033",
+   "shelfmark": "Bibl. 33",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511594",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511594",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00036",
-   "repo_shelfmark": "Bibl. 36",
+   "hmml": "ABMQ 00036",
+   "shelfmark": "Bibl. 36",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Calendars"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133020",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133020",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 19, no. 36."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00037",
-   "repo_shelfmark": "Bibl. 37",
+   "hmml": "ABMQ 00037",
+   "shelfmark": "Bibl. 37",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133021",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133021",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 19, no. 37."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00038",
-   "repo_shelfmark": "Bibl. 38",
+   "hmml": "ABMQ 00038",
+   "shelfmark": "Bibl. 38",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511595",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511595",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00039",
-   "repo_shelfmark": "Bibl. 39",
+   "hmml": "ABMQ 00039",
+   "shelfmark": "Bibl. 39",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511596",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511596",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00040",
-   "repo_shelfmark": "Bibl. 40",
+   "hmml": "ABMQ 00040",
+   "shelfmark": "Bibl. 40",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511597",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511597",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00042",
-   "repo_shelfmark": "Bibl. 42",
+   "hmml": "ABMQ 00042",
+   "shelfmark": "Bibl. 42",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133022",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133022",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 19, no. 42."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00043",
-   "repo_shelfmark": "Bibl. 43",
+   "hmml": "ABMQ 00043",
+   "shelfmark": "Bibl. 43",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133023",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133023",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 20, no. 43."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00044",
-   "repo_shelfmark": "Bibl. 44",
+   "hmml": "ABMQ 00044",
+   "shelfmark": "Bibl. 44",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133024",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133024",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 20, no. 44."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00051",
-   "repo_shelfmark": "Bibl. 51",
+   "hmml": "ABMQ 00051",
+   "shelfmark": "Bibl. 51",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511598",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511598",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, &ldquo;Suppl&eacute;ment &agrave; l&rsquo;inventaire des manuscrits de Saint-Macaire,&rdquo; Bulletin de la Soci&eacute;t&eacute; d&rsquo;Arch&eacute;ologie Copte 45 (2006): 153-195."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00052",
-   "repo_shelfmark": "Bibl. 52",
+   "hmml": "ABMQ 00052",
+   "shelfmark": "Bibl. 52",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511599",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511599",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, &ldquo;Suppl&eacute;ment &agrave; l&rsquo;inventaire des manuscrits de Saint-Macaire,&rdquo; Bulletin de la Soci&eacute;t&eacute; d&rsquo;Arch&eacute;ologie Copte 45 (2006): 153-195."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00053",
-   "repo_shelfmark": "Bibl. 53",
+   "hmml": "ABMQ 00053",
+   "shelfmark": "Bibl. 53",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511600",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511600",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, &ldquo;Suppl&eacute;ment &agrave; l&rsquo;inventaire des manuscrits de Saint-Macaire,&rdquo; Bulletin de la Soci&eacute;t&eacute; d&rsquo;Arch&eacute;ologie Copte 45 (2006): 153-195."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00285",
-   "repo_shelfmark": "Theol. 14",
+   "hmml": "ABMQ 00285",
+   "shelfmark": "Theol. 14",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/789088",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/789088",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r&nbsp;(1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00290",
-   "repo_shelfmark": "Theol. 19",
+   "hmml": "ABMQ 00290",
+   "shelfmark": "Theol. 19",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Apologetic writings"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/789089",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/789089",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r&nbsp;(1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00323",
-   "repo_shelfmark": "Hom. 2",
+   "hmml": "ABMQ 00323",
+   "shelfmark": "Hom. 2",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/533800",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/533800",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), 46 (no. 323)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00357",
-   "repo_shelfmark": "Hom. 36",
+   "hmml": "ABMQ 00357",
+   "shelfmark": "Hom. 36",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Sermons",
+    "Homiliaries"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/789090",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/789090",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r&nbsp;(1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00367",
-   "repo_shelfmark": "Hag. 1",
+   "hmml": "ABMQ 00367",
+   "shelfmark": "Hag. 1",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511601",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511601",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00368",
-   "repo_shelfmark": "Hag. 2",
+   "hmml": "ABMQ 00368",
+   "shelfmark": "Hag. 2",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511602",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511602",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00369",
-   "repo_shelfmark": "Hag. 3",
+   "hmml": "ABMQ 00369",
+   "shelfmark": "Hag. 3",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511603",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511603",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00370",
-   "repo_shelfmark": "Hag. 4",
+   "hmml": "ABMQ 00370",
+   "shelfmark": "Hag. 4",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511604",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511604",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)"
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00371",
-   "repo_shelfmark": "Hag. 5",
+   "hmml": "ABMQ 00371",
+   "shelfmark": "Hag. 5",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511605",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511605",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00372",
-   "repo_shelfmark": "Hag. 6",
+   "hmml": "ABMQ 00372",
+   "shelfmark": "Hag. 6",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511606",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511606",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00374",
-   "repo_shelfmark": "Hag. 8",
+   "hmml": "ABMQ 00374",
+   "shelfmark": "Hag. 8",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511607",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511607",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), 54 (no. 374)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00375",
-   "repo_shelfmark": "Hag. 9",
+   "hmml": "ABMQ 00375",
+   "shelfmark": "Hag. 9",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511608",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511608",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00376",
-   "repo_shelfmark": "Hag. 10",
+   "hmml": "ABMQ 00376",
+   "shelfmark": "Hag. 10",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511609",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511609",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00377",
-   "repo_shelfmark": "Hag. 11",
+   "hmml": "ABMQ 00377",
+   "shelfmark": "Hag. 11",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Sermons",
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511610",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511610",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00382",
-   "repo_shelfmark": "Hag. 16",
+   "hmml": "ABMQ 00382",
+   "shelfmark": "Hag. 16",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511611",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511611",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00386",
-   "repo_shelfmark": "Hag. 20",
+   "hmml": "ABMQ 00386",
+   "shelfmark": "Hag. 20",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511612",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511612",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00387",
-   "repo_shelfmark": "Hag. 21",
+   "hmml": "ABMQ 00387",
+   "shelfmark": "Hag. 21",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511613",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511613",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00389",
-   "repo_shelfmark": "Hag. 23",
+   "hmml": "ABMQ 00389",
+   "shelfmark": "Hag. 23",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Sermons",
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/533799",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/533799",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), 57 (no. 389)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00391",
-   "repo_shelfmark": "Hag. 25",
+   "hmml": "ABMQ 00391",
+   "shelfmark": "Hag. 25",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511614",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511614",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00392",
-   "repo_shelfmark": "Hag. 26",
+   "hmml": "ABMQ 00392",
+   "shelfmark": "Hag. 26",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511615",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511615",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00393",
-   "repo_shelfmark": "Hag. 27",
+   "hmml": "ABMQ 00393",
+   "shelfmark": "Hag. 27",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511616",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511616",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00394",
-   "repo_shelfmark": "Hag. 28",
+   "hmml": "ABMQ 00394",
+   "shelfmark": "Hag. 28",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511617",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511617",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00398",
-   "repo_shelfmark": "Hag. 32",
+   "hmml": "ABMQ 00398",
+   "shelfmark": "Hag. 32",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511618",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511618",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00399",
-   "repo_shelfmark": "Hag. 33",
+   "hmml": "ABMQ 00399",
+   "shelfmark": "Hag. 33",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511619",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511619",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00400",
-   "repo_shelfmark": "Hag. 34",
+   "hmml": "ABMQ 00400",
+   "shelfmark": "Hag. 34",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons",
+    "Hymns",
+    "Songs (musical compositions)"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511620",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511620",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00401",
-   "repo_shelfmark": "Hag. 35",
+   "hmml": "ABMQ 00401",
+   "shelfmark": "Hag. 35",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511621",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511621",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00403",
-   "repo_shelfmark": "Hag. 37",
+   "hmml": "ABMQ 00403",
+   "shelfmark": "Hag. 37",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511622",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511622",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00404",
-   "repo_shelfmark": "Hag. 38",
+   "hmml": "ABMQ 00404",
+   "shelfmark": "Hag. 38",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511623",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511623",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00405",
-   "repo_shelfmark": "Hag. 39",
+   "hmml": "ABMQ 00405",
+   "shelfmark": "Hag. 39",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511624",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511624",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00406",
-   "repo_shelfmark": "Hag. 40",
+   "hmml": "ABMQ 00406",
+   "shelfmark": "Hag. 40",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511625",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511625",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00407",
-   "repo_shelfmark": "Hag. 41",
+   "hmml": "ABMQ 00407",
+   "shelfmark": "Hag. 41",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511626",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511626",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00409",
-   "repo_shelfmark": "Hag. 43",
+   "hmml": "ABMQ 00409",
+   "shelfmark": "Hag. 43",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511627",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511627",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00410",
-   "repo_shelfmark": "Hag. 44",
+   "hmml": "ABMQ 00410",
+   "shelfmark": "Hag. 44",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511628",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511628",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00412",
-   "repo_shelfmark": "Hag. 46",
+   "hmml": "ABMQ 00412",
+   "shelfmark": "Hag. 46",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511629",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511629",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00413",
-   "repo_shelfmark": "Hag. 47",
+   "hmml": "ABMQ 00413",
+   "shelfmark": "Hag. 47",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/511630",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/511630",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00414",
-   "repo_shelfmark": "Hag. 48",
+   "hmml": "ABMQ 00414",
+   "shelfmark": "Hag. 48",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/533798",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/533798",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), 64 (no. 414)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00415",
-   "repo_shelfmark": "Hag. 49",
+   "hmml": "ABMQ 00415",
+   "shelfmark": "Hag. 49",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Historical works"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/533797",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/533797",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), 64 (no. 415)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00417",
-   "repo_shelfmark": "Hag. 51",
+   "hmml": "ABMQ 00417",
+   "shelfmark": "Hag. 51",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/789091",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/789091",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r&nbsp;(1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00418",
-   "repo_shelfmark": "Hag. 52",
+   "hmml": "ABMQ 00418",
+   "shelfmark": "Hag. 52",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hagiographies"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/789092",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/789092",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r&nbsp;(1986)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00428",
-   "repo_shelfmark": "Hag. 62",
+   "hmml": "ABMQ 00428",
+   "shelfmark": "Hag. 62",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/533796",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/533796",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), 65 (no. 428)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00432",
-   "repo_shelfmark": "Bibl. 45",
+   "hmml": "ABMQ 00432",
+   "shelfmark": "Bibl. 45",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Gospels",
+    "Calendars"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133025",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133025",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 67, no. 432."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00433",
-   "repo_shelfmark": "Bibl. 46",
+   "hmml": "ABMQ 00433",
+   "shelfmark": "Bibl. 46",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133026",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133026",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 67, no. 433."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00434",
-   "repo_shelfmark": "Bibl. 47",
+   "hmml": "ABMQ 00434",
+   "shelfmark": "Bibl. 47",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles",
+    "Commentaries",
+    "Calendars"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133027",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133027",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 67, no. 434."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00476",
-   "repo_shelfmark": "Hag. 63",
+   "hmml": "ABMQ 00476",
+   "shelfmark": "Hag. 63",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/533801",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/533801",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti,&nbsp;Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), 71 (no. 476)."
   },
   {
-   "library": "HMML_vHMML",
-   "collection": "Dayr_Abu_Maqar",
-   "shelfmark": "ABMQ 00490",
-   "repo_shelfmark": "Bibl. 48",
+   "hmml": "ABMQ 00490",
+   "shelfmark": "Bibl. 48",
+   "title": "",
+   "contents": "",
+   "description": "",
+   "summary": "",
+   "date": null,
+   "centuries": null,
+   "genres": [
+    "Bibles"
+   ],
+   "subjects": [],
+   "extent": [
+    null
+   ],
+   "languages": [],
    "permalink": "https://w3id.org/vhmml/readingRoom/view/133028",
-   "viewer": "https://w3id.org/vhmml/readingRoom/view/133028",
-   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+   "bibliography": "Ugo Zanetti, Les manuscrits de Dair Ab&ucirc; Maq&acirc;r (1986), p. 74, no. 490."
   }
  ]
 }
