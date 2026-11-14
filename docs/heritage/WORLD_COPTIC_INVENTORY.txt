@@ -1,0 +1,270 @@
+================================================================================
+الحصر النهائي الشامل — التراث القبطي في مكتبات العالم (خارج مصر)
++ قاموس كلمات البحث الكامل بكل اللغات والتهجيات
+مشروع دير القديس أنبا مقار الكبير — إعداد: Claude — 2026-11-14
+================================================================================
+
+تنبيه على المصداقية (مهم):
+  [مؤكد]  = لقينا فيها مخطوطات قبطية مصوّرة فعلاً (في برنامج التحميل أو محصورة).
+  [معروف] = مؤسسة معروف عنها اقتناء تراث قبطي، لكن لم نتحقق بعد من المصوّر منه.
+لا تعامل [معروف] كأنه مؤكد قبل الفحص.
+
+================================================================================
+الجزء الأول: المكتبات (خارج مصر) — مرتبة بالدولة
+================================================================================
+
+--- إيطاليا / الفاتيكان ---
+[مؤكد]  مكتبة الفاتيكان الرسولية (Biblioteca Apostolica Vaticana) — روما
+        Vat.copt · Borg.copt · Pap.Vat.copt — 2,871 مخطوطة مصوّرة (قبطي/عربي/سرياني/يوناني)
+[معروف] مكتبة نابولي الوطنية — مجموعة بورجيا القبطية (Borgia Coptic)
+[معروف] متحف تورينو المصري (Museo Egizio, Torino) — برديات قبطية
+[معروف] مكتبة نابولي / جامعة نابولي الشرقية
+
+--- الولايات المتحدة ---
+[مؤكد]  مكتبة الكونجرس + المكتبة الرقمية العالمية (Library of Congress / WDL) — واشنطن — 2,720
+[معروف] مكتبة بيربونت مورجان (Pierpont Morgan Library) — نيويورك — مخطوطات الحامولي (Hamuli, Fayyum)
+[معروف] جامعة ميشيغان (University of Michigan) — برديات قبطية
+[معروف] جامعة ييل (Yale, Beinecke) — برديات ومخطوطات قبطية
+[معروف] جامعة برنستون (Princeton) — مخطوطات قبطية وعربية مسيحية
+[معروف] جامعة ديوك (Duke) — برديات
+[معروف] معهد الشرق (Oriental Institute, Chicago)
+[معروف] متحف بروكلين (Brooklyn Museum)
+[معروف] جامعة كليرمونت (Claremont, CCDL) — مخطوطات نجع حمادي
+
+--- بريطانيا ---
+[مؤكد]  المكتبة البريطانية (British Library) — لندن — 340 مخطوطة قبطية/شرقية منشورة
+[مؤكد]  مكتبة بودليان، أكسفورد (Bodleian) — 936 مخطوطة وبردية
+[مؤكد]  مكتبة ولكوم (Wellcome Collection) — لندن — 15
+[مؤكد]  مكتبة جون رايلاندز، مانشستر (John Rylands) — مخطوطات ورق بردي قبطية
+[مؤكد]  جامعة إدنبرة (University of Edinburgh) — ضمن كنوز Europeana
+[معروف] المتحف البريطاني (British Museum) — برديات وأوستراكا قبطية
+[معروف] مكتبة جامعة كامبريدج (Cambridge University Library)
+[معروف] مكتبة تشستر بيتي سابقاً بلندن (انتقلت لدبلن)
+
+--- أيرلندا ---
+[مؤكد]  مكتبة تشستر بيتي (Chester Beatty) — دبلن — 30+ مخطوطة قبطية (CC-BY)
+
+--- فرنسا ---
+[مؤكد]  المكتبة الوطنية الفرنسية (BnF / Gallica) — باريس — مجموعة قبطية كبيرة
+[معروف] متحف اللوفر (Louvre) — قسم الآثار المصرية/القبطية
+[معروف] معهد فرنسا / أكاديمية النقوش
+
+--- ألمانيا ---
+[معروف] مكتبة الدولة في برلين (Staatsbibliothek zu Berlin) — مخطوطات قبطية
+[معروف] متحف برلين المصري (Ägyptisches Museum / Papyrussammlung)
+[معروف] جامعة هايدلبرج (Heidelberg) — برديات قبطية (ضمن Europeana)
+[معروف] جامعة غوتنغن (Göttingen)
+[معروف] جامعة لايبزيغ (Leipzig)
+[معروف] جامعة فورتسبورغ / مونستر (معهد أبحاث نصوص العهد الجديد INTF)
+
+--- النمسا ---
+[مؤكد]  المكتبة الوطنية النمساوية (Österreichische Nationalbibliothek) — فيينا — Cod.copt 1-15 (عبر HMML)
+[معروف] مجموعة برديات الأرشيدوق راينر (Papyrus Erzherzog Rainer) — أكبر مجموعة برديات قبطية بالعالم
+
+--- هولندا ---
+[مؤكد]  المتحف الوطني للآثار (Rijksmuseum van Oudheden) — ليدن — مخطوطات/برديات قبطية
+[مؤكد]  معهد البشيتا، جامعة أمستردام (Peshitta Institute, VU) — مخطوطات دير السريان بوادي النطرون
+[معروف] مكتبة جامعة ليدن (Leiden University Library)
+
+--- سويسرا ---
+[معروف] مكتبة بودمر (Fondation Martin Bodmer) — جنيف — برديات بودمر (أقدم نسخ الكتاب المقدس)
+[معروف] e-codices (مكتبة المخطوطات السويسرية الرقمية)
+
+--- بلجيكا ---
+[معروف] المعهد الملكي للتراث الثقافي (KIK-IRPA) — بروكسل
+[معروف] المتاحف الملكية للفن والتاريخ (Royal Museums of Art and History) — بروكسل
+
+--- لبنان ---
+[مؤكد]  جامعة القديس يوسف، المكتبة الشرقية (Université Saint-Joseph) — بيروت — Copte 1-3 (عبر HMML)
+
+--- روسيا ---
+[معروف] المكتبة الوطنية الروسية (سانت بطرسبرغ) — سابقاً المكتبة الإمبراطورية — مخطوطات قبطية
+[معروف] معهد الاستشراق / الأكاديمية الروسية للعلوم
+
+--- دول أخرى ---
+[معروف] مكتبة الإسكوريال (El Escorial) — إسبانيا
+[معروف] مكتبة جامعة بولونيا / فلورنسا (Laurenziana) — إيطاليا
+[معروف] مكتبة القدس (البطريركية اليونانية والأرمنية)
+[معروف] دير سانت كاترين، سيناء — (مصر، لكن إدارته مستقلة؛ مصوّر بمكتبة الكونجرس)
+[معروف] متحف المتروبوليتان (The Met) — نيويورك — منسوجات وأيقونات قبطية
+
+--- الأرشيف الرقمي المجمّع (يجمع من مكتبات كثيرة) ---
+[مؤكد]  أرشيف الإنترنت (archive.org) — 1,147 كتاب تراث قبطي ملكية عامة
+[مؤكد]  Europeana — بوابة التراث الأوروبي (تجمع آلاف القطع القبطية)
+[معروف] HMML / vHMML — أكبر أرشيف مصوّر للأديرة الشرقية (104 قبطي، منها 82 لدير أنبا مقار)
+[معروف] PAThs — أطلس الأدب القبطي (بيانات لا صور)
+[معروف] Trismegistos — قاعدة بيانات البرديات والنصوص القديمة
+[معروف] CMCL — مكتبة الأدب القبطي الرقمية (Corpus dei Manoscritti Copti Letterari)
+
+================================================================================
+الجزء الثاني: قاموس كلمات البحث الكامل
+(ابحث بكل صيغة على حدة في أي مكتبة أو فهرس)
+================================================================================
+
+------------------------------------------------------------
+[أ] دير أنبا مقار — كل الصيغ
+------------------------------------------------------------
+Dayr Anba Maqar | Dayr al-Anbā Maqār | Dair Abû Maqâr | Dayr Abu Maqar
+Dayr Qiddīs Anbā Maqqār | Dayr al-Qiddīs Anbā Maqqār | Dayr Aba Maqār
+Monastery of Saint Macarius | Monastery of Saint Macarius the Great
+St. Macarius Monastery | St Macarius Monastery of Scetis | Macarius Scetis
+Monastery of St. Macarius the Great at Scetis
+Kloster des heiligen Makarios | Monastère de Saint-Macaire | Monastero di San Macario
+ABMQ (رمز HMML)
+دير أنبا مقار | دير القديس أنبا مقار | دير أبو مقار | دير مقار
+دير القديس العظيم أنبا مقار الكبير ببرية شيهيت
+
+------------------------------------------------------------
+[ب] الأماكن
+------------------------------------------------------------
+Scetis | Sketis | Skētis | Sceté | Skete | Σκῆτις
+Wadi al-Natrun | Wādī al-Naṭrūn | Wadi Natrun | Wadi el-Natrun | Ouadi Natroun
+Wādi Habib | Wadi Habib | Birriyat Shihit | Shihet | Shiêt | ϣⲓϩⲏⲧ
+Nitria | Nitrie | Νιτρία | Kellia | Cellia | Les Kellia | القلالي
+برية شيهيت | وادي النطرون | الإسقيط | شيهيت | نتريا | القلالي
+
+------------------------------------------------------------
+[ج] القديسون وآباء البرية — كل الصيغ
+------------------------------------------------------------
+# مقاريوس الكبير (المصري)
+Macarius the Great | Macarius the Egyptian | Macarius the Elder
+Macarius Scetensis | Macarius Aegyptius | Macaire d'Égypte | Macaire le Grand
+Makarios der Ägypter | Makarios the Egyptian | Maqāriyūs al-Kabīr
+Μακάριος ὁ Αἰγύπτιος | ⲙⲁⲕⲁⲣⲓⲟⲥ
+مقار | مقاريوس | أنبا مقار | مكاريوس المصري | مقار الكبير
+
+# مقاريوس السكندري
+Macarius of Alexandria | Macarius Alexandrinus | Macarius the Younger
+Macaire d'Alexandrie | مقاريوس السكندري
+
+# الأنبا بيشوي
+Pshoi | Bishoi | Bīshūy | Paisios | Pishoi | Poshoi | Bišoy | ⲡⲓϣⲱⲓ
+بيشوي | أنبا بيشوي | بيشوى
+
+# يوحنا القصير
+John Kolobos | John Colobos | John the Little | John the Dwarf | Jean Colobos
+يحنس القصير | يوحنا القصير | أنبا يحنس القصير
+
+# يحنس كاما
+John Kama | John Khame | يحنس كاما
+
+# الأنبا أنطونيوس
+Antony | Anthony | Antonius | Antoine | Antonios | Anṭūniyūs | ⲁⲛⲧⲱⲛⲓⲟⲥ
+أنطونيوس | أنبا أنطونيوس | الأنبا أنطونيوس أب الرهبان
+
+# الأنبا باخوميوس
+Pachomius | Pachome | Pacôme | Pacomio | Bākhūm | Bākhūmiyūs | Anbā Bākhūm
+باخوميوس | أنبا باخوم | باخوم
+
+# الأنبا شنودة رئيس المتوحدين
+Shenoute | Shenute | Schenute | Sinuthius | Chenouté | Senouthios | Sanutios | Shanūdah
+شنودة | أنبا شنودة | شنوده رئيس المتوحدين
+
+# آباء وقديسون آخرون
+Moses the Black | Moses the Ethiopian — موسى الأسود
+Arsenius the Great — أرسانيوس
+Poemen | Pœmen — بيمن / بيمين
+Agathon — أغاثون
+Sisoes — سيصوي
+Isidore — إيسيذوروس
+Isaiah of Scetis | Esaïe de Scété — إشعياء الإسقيطي
+Samuel of Kalamoun | Samuel the Confessor — صموئيل المعترف
+Pisentius | Pesynthios — بيسنتاؤس / بيصاده
+Daniel of Scetis — دانيال الإسقيطي
+Paul of Thebes | Paul the Hermit — بولا الطموهي / أنبا بولا أول السواح
+Apollo | Apollon — أبوللو
+Onnophrius | Onuphrius — أنبا نفر السائح
+Pambo — بامبو
+
+# آباء الكنيسة والكُتّاب
+Athanasius of Alexandria — أثناسيوس الرسولي
+Cyril of Alexandria — كيرلس عمود الدين
+Dioscorus — ديسقوروس
+Severus of Antioch — ساويرس الأنطاكي
+Severus ibn al-Muqaffaʿ — ساويرس بن المقفع
+Ibn al-ʿAssal — ابن العسال (أولاد العسال)
+Ibn Kabar | Abu al-Barakat — ابن كبر
+al-Safi ibn al-ʿAssal — الصفي بن العسال
+al-Mu'taman ibn al-ʿAssal — المؤتمن بن العسال
+Butrus al-Sadamanti — بطرس السدمنتي
+Abu al-Makarim — أبو المكارم
+
+------------------------------------------------------------
+[د] أنواع النصوص والكتب (قبطي / عربي / لاتيني)
+------------------------------------------------------------
+Bible | Biblia | Old Testament | New Testament — الكتاب المقدس / العهدين
+Gospel | Gospels | Four Gospels | Tetraevangelion | Evangelion | Évangile — إنجيل / الأناجيل الأربعة
+Pentateuch — أسفار موسى الخمسة
+Psalter | Psalms | Psalterium — المزامير / سفر المزامير
+Lectionary | Katameros | Katamâros | Lectionnaire — قطمارس
+Synaxarion | Synaxarium | Synaxaire — السنكسار
+Difnar | Antiphonarium — الدفنار
+Doxology | Psalmodia | Psalmody — الإبصلمودية / التماجيد
+Euchologion | Khulaji | Kholagy — الخولاجي
+Horologion | Agpeya | Book of Hours — الأجبية / كتاب السواعي
+Liturgy | Anaphora | Mass — القداس / الأنافورا / الخدمة
+Homily | Homilies | Encomium | Sermon | Panegyric — عظة / ميمر / مديح
+Martyrdom | Passion | Acts of martyrs — استشهاد / سيرة شهيد
+Hagiography | Life | Vita | Bios — سيرة قديس
+Apophthegmata | Sayings | Paterikon | Apophtegmes — بستان الرهبان / أقوال الآباء
+History of the Patriarchs — تاريخ البطاركة
+Canons | Nomocanon — القوانين / المجموع الصفوي
+Commentary | Catena | Tafsir — تفسير / سلسلة
+Hymn | Hymnal | Troparion — لحن / تسبحة
+Prayer | Prayers — صلاة / صلوات
+Apocrypha | Gnostic | Nag Hammadi — أبوكريفا / نجع حمادي
+Fragment | Ostracon | Ostraca | Papyrus — قصاصة / أوستراكا / بردية
+
+------------------------------------------------------------
+[هـ] اللغات واللهجات
+------------------------------------------------------------
+Coptic | Copte | Koptisch | Coptica | Copto | Κοπτικά | قبطي
+Bohairic | Bohairique | Boheirisch | بحيري
+Sahidic | Sahidique | Saïdisch | Thebaic | صعيدي / ثيبي
+Fayyumic | Fayoumique | فيومي
+Akhmimic | Akhmîmique | أخميمي
+Lycopolitan | Subakhmimic | ليكوبوليتاني
+Old Coptic | Copto-Arabic | Garshuni — قبطي قديم / قبطي عربي / كرشوني
+Christian Arabic — عربي مسيحي
+
+------------------------------------------------------------
+[و] رموز المجموعات (Shelfmark sigla) للبحث المباشر
+------------------------------------------------------------
+Vat.copt | Borg.copt | Pap.Vat.copt (الفاتيكان)
+Or. (Oriental) | Add. | Add MS (المكتبة البريطانية)
+MS. Copt. | Bruce (بودليان أكسفورد)
+Cod. copt. (فيينا)
+Copte (باريس BnF / بيروت)
+Cpt | Cpt_ (تشستر بيتي دبلن)
+M. (مورجان نيويورك)
+P. (برديات: P.Lond, P.Oxy, P.Bodmer, P.Mich)
+ABMQ (دير أنبا مقار)
+
+------------------------------------------------------------
+[ز] أديرة وأماكن قبطية أخرى (للكشف عن كنوز جديدة في أي فهرس)
+------------------------------------------------------------
+Dayr al-Suryan | Monastery of the Syrians — دير السريان
+Dayr al-Baramus | Baramus — دير البراموس
+Dayr Anba Bishoi — دير الأنبا بيشوي
+Dayr al-Qiddis Anba Antunyus | Monastery of St Antony — دير الأنبا أنطونيوس
+Dayr Anba Bula | Monastery of St Paul — دير الأنبا بولا
+Dayr al-Muharraq — الدير المحرق
+White Monastery | Dayr al-Abyad | Monastery of Shenoute — الدير الأبيض
+Red Monastery | Dayr al-Ahmar — الدير الأحمر
+Dayr Apa Apollo | Bawit — باويط / دير أبا أبوللو
+Dayr Epiphanius | Thebes — دير إبيفانيوس
+Monastery of St Jeremiah | Saqqara — دير الأنبا إرميا بسقارة
+Dayr al-Qalamun — دير القلمون
+Dayr Anba Hadra | Aswan — دير الأنبا هدرا بأسوان
+Oxyrhynchus | al-Bahnasa — البهنسا
+Hamuli | Fayyum — الحامولي بالفيوم
+Nag Hammadi — نجع حمادي
+Kellia | al-Qusur — القلالي
+Esna | Isna — إسنا
+Akhmim | Panopolis — أخميم
+Antinoopolis | Antinoe — أنصنا
+Thebes | Jeme — طيبة / جيمي
+
+================================================================================
+انتهى الحصر. المصادر المؤكدة في برنامج التحميل جاهزة للتنزيل الآن.
+================================================================================
