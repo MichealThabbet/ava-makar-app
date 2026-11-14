@@ -1,0 +1,17 @@
+المكتبات المتاحة في البرنامج (اكتب رقمها عند التشغيل):
+ 1  = الفاتيكان            vatican_full.json        (2871)
+ 2  = مكتبة الكونجرس       loc_full.json            (2720)
+ 3  = كتب التراث archive   archive_org_books.json   (1147)
+ 4  = المكتبة البريطانية (ملكية عامة) british_library_pd.json (142)
+ 5  = الكل (الفاتيكان+الكونجرس+التراث+البريطانية+أكسفورد+ولكوم+مانشستر)
+ 6  = البريطانية: أرشيف خاص british_library_private.json (198)
+ 7  = أكسفورد بودليان      bodleian.json            (936)
+ 8  = مخطوطات الأناجيل     gospels_manuscripts.json (437)
+ 9  = ولكوم لندن           wellcome.json            (15)
+ 10 = جون رايلاندز مانشستر manchester.json          (12)
+ 11 = باريس القبطي         bnf_coptic.json          (303) [من جهازك]
+ 12 = اكتشاف Wikidata      wikidata_coptic_iiif.json(17)
+ 13 = جامعة بنسلفانيا      upenn_coptic.json        (20)
+ 14 = برينستون            princeton_coptic.json    (77)
+ 15 = تشستر بيتي دبلن      chester_beatty.json      (30) [من جهازك]
+ملاحظة: البرديات القبطية والروابط الجاهزة لمورجان وغيرها تُضاف تباعاً.
