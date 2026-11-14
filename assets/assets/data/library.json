@@ -1,0 +1,14 @@
+{
+ "_notice": "Catalogue of the books the plan covers. Only real metadata: sources and decisions from docs/content/INVENTORY.md and DECISIONS.md. No shelf marks, dates or counts are invented; covers are design placeholders, not manuscript images.",
+ "items": [
+  {"id": "kholagy", "title": "الخولاجي المقدس", "subtitle": "رفع بخور عشية", "type": "book", "langs": ["ar", "cp", "co"], "source": "Kaneesty kholagy_ar.json — DEC-P0-17", "status": "sample", "reader": "kholagy"},
+  {"id": "bostan", "title": "بستان الرهبان", "subtitle": "أقوال الآباء الرهبان", "type": "book", "langs": ["ar"], "source": "defnar/bostan_al_rohban — DEC-P0-17", "status": "sample", "reader": "bostan"},
+  {"id": "katameros", "title": "القطمارس", "subtitle": "قراءات الأيام والآحاد والصوم الكبير والخمسين", "type": "book", "langs": ["ar", "co"], "source": "قطمارس 2.0.1 — م. ميشيل ثابت مع أبونا إغناطيوس الأنبا بيشوي — DEC-P0-13", "status": "pending"},
+  {"id": "bible", "title": "الكتاب المقدس", "subtitle": "ترجمة فان دايك المشكولة", "type": "book", "langs": ["ar"], "source": "حزمة المالك رقم 1 — DEC-P0-13", "status": "pending"},
+  {"id": "agpeya", "title": "الأجبية", "subtitle": "صلوات السواعي", "type": "book", "langs": ["ar"], "source": "agypa.txt — DEC-P0-14", "status": "pending"},
+  {"id": "psalmody", "title": "الإبصلمودية المقدسة", "subtitle": "التسبحة السنوية", "type": "book", "langs": ["ar", "co"], "source": "churchbooks3 + Archive.zip — DEC-P0-15", "status": "pending"},
+  {"id": "synaxarium", "title": "السنكسار", "subtitle": "سير القديسين على مدار السنة", "type": "book", "langs": ["ar"], "source": "قطمارس 2.0.1 — DEC-P0-13", "status": "pending"},
+  {"id": "pascha", "title": "دلال البصخة المقدسة", "subtitle": "ترتيب أسبوع الآلام", "type": "book", "langs": ["ar", "cp", "co"], "source": "Holy Week Dallal + Archive.zip — DEC-P0-14، DEC-P0-15", "status": "pending"},
+  {"id": "difnar", "title": "الدفنار", "subtitle": "مدائح القديسين على أيام السنة", "type": "book", "langs": ["ar"], "source": "defnar (الحزمة 12)", "status": "pending"}
+ ]
+}
