@@ -1,0 +1,743 @@
+{
+ "source": "vHMML Reading Room listing export (owner, 2026-11-14): all 82 viewable Dayr Abu Maqar manuscripts",
+ "manuscripts": [
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00001",
+   "repo_shelfmark": "Bibl. 1",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133004",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133004",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00002",
+   "repo_shelfmark": "Bibl. 2",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511310",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511310",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00003",
+   "repo_shelfmark": "Bibl. 3",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133006",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133006",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00004",
+   "repo_shelfmark": "Bibl. 4",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133007",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133007",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00005",
+   "repo_shelfmark": "Bibl. 5",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133008",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133008",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00006",
+   "repo_shelfmark": "Bibl. 6",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133009",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133009",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00007",
+   "repo_shelfmark": "Bibl. 7",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133010",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133010",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00008",
+   "repo_shelfmark": "Bibl. 8",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133011",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133011",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00009",
+   "repo_shelfmark": "Bibl. 9",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133012",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133012",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00010",
+   "repo_shelfmark": "Bibl. 10",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133013",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133013",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00011",
+   "repo_shelfmark": "Bibl. 11",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133014",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133014",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00012",
+   "repo_shelfmark": "Bibl. 12",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133015",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133015",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00013",
+   "repo_shelfmark": "Bibl. 13",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511311",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511311",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00014",
+   "repo_shelfmark": "Bibl. 14",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511312",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511312",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00015",
+   "repo_shelfmark": "Bibl. 15",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511313",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511313",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00017",
+   "repo_shelfmark": "Bibl. 17",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133016",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133016",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00018",
+   "repo_shelfmark": "Bibl. 18",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133017",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133017",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00023",
+   "repo_shelfmark": "Bibl. 23",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511589",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511589",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00025",
+   "repo_shelfmark": "Bibl. 25",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533795",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/533795",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00026",
+   "repo_shelfmark": "Bibl. 26",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511590",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511590",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00027",
+   "repo_shelfmark": "Bibl. 27",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133018",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133018",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00028",
+   "repo_shelfmark": "Bibl. 28",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511591",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511591",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00029",
+   "repo_shelfmark": "Bibl. 29",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511592",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511592",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00030",
+   "repo_shelfmark": "Bibl. 30",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511593",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511593",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00031",
+   "repo_shelfmark": "Bibl. 31",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133019",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133019",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00033",
+   "repo_shelfmark": "Bibl. 33",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511594",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511594",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00036",
+   "repo_shelfmark": "Bibl. 36",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133020",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133020",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00037",
+   "repo_shelfmark": "Bibl. 37",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133021",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133021",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00038",
+   "repo_shelfmark": "Bibl. 38",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511595",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511595",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00039",
+   "repo_shelfmark": "Bibl. 39",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511596",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511596",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00040",
+   "repo_shelfmark": "Bibl. 40",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511597",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511597",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00042",
+   "repo_shelfmark": "Bibl. 42",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133022",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133022",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00043",
+   "repo_shelfmark": "Bibl. 43",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133023",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133023",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00044",
+   "repo_shelfmark": "Bibl. 44",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133024",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133024",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00051",
+   "repo_shelfmark": "Bibl. 51",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511598",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511598",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00052",
+   "repo_shelfmark": "Bibl. 52",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511599",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511599",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00053",
+   "repo_shelfmark": "Bibl. 53",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511600",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511600",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00285",
+   "repo_shelfmark": "Theol. 14",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789088",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/789088",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00290",
+   "repo_shelfmark": "Theol. 19",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789089",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/789089",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00323",
+   "repo_shelfmark": "Hom. 2",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533800",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/533800",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00357",
+   "repo_shelfmark": "Hom. 36",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789090",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/789090",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00367",
+   "repo_shelfmark": "Hag. 1",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511601",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511601",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00368",
+   "repo_shelfmark": "Hag. 2",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511602",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511602",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00369",
+   "repo_shelfmark": "Hag. 3",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511603",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511603",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00370",
+   "repo_shelfmark": "Hag. 4",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511604",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511604",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00371",
+   "repo_shelfmark": "Hag. 5",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511605",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511605",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00372",
+   "repo_shelfmark": "Hag. 6",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511606",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511606",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00374",
+   "repo_shelfmark": "Hag. 8",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511607",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511607",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00375",
+   "repo_shelfmark": "Hag. 9",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511608",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511608",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00376",
+   "repo_shelfmark": "Hag. 10",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511609",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511609",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00377",
+   "repo_shelfmark": "Hag. 11",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511610",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511610",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00382",
+   "repo_shelfmark": "Hag. 16",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511611",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511611",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00386",
+   "repo_shelfmark": "Hag. 20",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511612",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511612",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00387",
+   "repo_shelfmark": "Hag. 21",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511613",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511613",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00389",
+   "repo_shelfmark": "Hag. 23",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533799",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/533799",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00391",
+   "repo_shelfmark": "Hag. 25",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511614",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511614",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00392",
+   "repo_shelfmark": "Hag. 26",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511615",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511615",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00393",
+   "repo_shelfmark": "Hag. 27",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511616",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511616",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00394",
+   "repo_shelfmark": "Hag. 28",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511617",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511617",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00398",
+   "repo_shelfmark": "Hag. 32",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511618",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511618",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00399",
+   "repo_shelfmark": "Hag. 33",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511619",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511619",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00400",
+   "repo_shelfmark": "Hag. 34",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511620",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511620",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00401",
+   "repo_shelfmark": "Hag. 35",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511621",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511621",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00403",
+   "repo_shelfmark": "Hag. 37",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511622",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511622",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00404",
+   "repo_shelfmark": "Hag. 38",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511623",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511623",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00405",
+   "repo_shelfmark": "Hag. 39",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511624",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511624",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00406",
+   "repo_shelfmark": "Hag. 40",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511625",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511625",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00407",
+   "repo_shelfmark": "Hag. 41",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511626",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511626",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00409",
+   "repo_shelfmark": "Hag. 43",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511627",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511627",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00410",
+   "repo_shelfmark": "Hag. 44",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511628",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511628",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00412",
+   "repo_shelfmark": "Hag. 46",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511629",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511629",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00413",
+   "repo_shelfmark": "Hag. 47",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511630",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/511630",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00414",
+   "repo_shelfmark": "Hag. 48",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533798",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/533798",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00415",
+   "repo_shelfmark": "Hag. 49",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533797",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/533797",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00417",
+   "repo_shelfmark": "Hag. 51",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789091",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/789091",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00418",
+   "repo_shelfmark": "Hag. 52",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789092",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/789092",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00428",
+   "repo_shelfmark": "Hag. 62",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533796",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/533796",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00432",
+   "repo_shelfmark": "Bibl. 45",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133025",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133025",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00433",
+   "repo_shelfmark": "Bibl. 46",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133026",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133026",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00434",
+   "repo_shelfmark": "Bibl. 47",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133027",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133027",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00476",
+   "repo_shelfmark": "Hag. 63",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533801",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/533801",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  },
+  {
+   "library": "HMML_vHMML",
+   "collection": "Dayr_Abu_Maqar",
+   "shelfmark": "ABMQ 00490",
+   "repo_shelfmark": "Bibl. 48",
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133028",
+   "viewer": "https://w3id.org/vhmml/readingRoom/view/133028",
+   "note": "Dayr al-Qiddīs Anbā Maqār, Wadi al-Natrun — HMML. View only; download needs HMML permission."
+  }
+ ]
+}
