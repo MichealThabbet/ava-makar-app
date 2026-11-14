@@ -140,6 +140,40 @@ def download_one(item, out, width, pause, make_pdf):
     name = sm
     if item.get("title") and item["library"] != "Vatican_BAV":
         name = (sm + " - " + safe(str(item["title"]))[:60]).strip(" .")
+    if item.get("met_id"):  # Metropolitan Museum open-access object (public-domain images only)
+        obj = json.loads(fetch(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{item['met_id']}"))
+        if not obj.get("isPublicDomain"):
+            print(f"   Met {item['met_id']}: not public domain — skipped")
+            return True
+        imgs = [obj["primaryImage"]] if obj.get("primaryImage") else []
+        imgs += obj.get("additionalImages", [])
+        title = obj.get("title") or item.get("title", "")
+        name = (safe(str(item["met_id"])) + " - " + safe(title)[:60]).strip(" .")
+        folder = os.path.join(out, lib, safe(item.get("collection", "")), name)
+        os.makedirs(folder, exist_ok=True)
+        with open(os.path.join(folder, "info.txt"), "w", encoding="utf-8") as f:
+            for k in ("objectID", "title", "objectDate", "medium", "classification", "department", "culture", "creditLine", "objectURL"):
+                if obj.get(k):
+                    f.write(f"{k}: {obj[k]}\n")
+            f.write("rights: Public domain (CC0). The Metropolitan Museum of Art, Open Access.\n")
+            f.write(f"pages: {len(imgs)}\n")
+        done = 0
+        for n, u in enumerate(imgs, 1):
+            dest = os.path.join(folder, f"{n:04d}.jpg")
+            if os.path.exists(dest) and os.path.getsize(dest) > 1000:
+                done += 1; continue
+            try:
+                data = fetch(u, timeout=600)
+            except Exception as e:
+                print(f"   ! image {n} failed: {e}"); continue
+            with open(dest + ".part", "wb") as f:
+                f.write(data)
+            os.replace(dest + ".part", dest)
+            done += 1
+            print(f"\r   Met {item['met_id']}: {done}/{len(imgs)} images", end="", flush=True)
+            time.sleep(pause)
+        print(f"\r   Met {item['met_id']}: {done}/{len(imgs)} images" + (" ✓" if done == len(imgs) and imgs else ""))
+        return done == len(imgs)
     folder = os.path.join(out, lib, safe(item.get("collection", "")), name)
     os.makedirs(folder, exist_ok=True)
     if item.get("openn"):  # OPenn: direct page images, no IIIF manifest
