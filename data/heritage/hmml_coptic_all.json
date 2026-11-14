@@ -1,0 +1,1293 @@
+{
+ "source": "vHMML full export scan (owner, 2026-11-14): all Coptic-heritage manuscripts across HMML, not only the monastery",
+ "manuscripts": [
+  {
+   "hmml": "24997",
+   "shelfmark": "Cod. copt. 6",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Lectionaries"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829780"
+  },
+  {
+   "hmml": "24998",
+   "shelfmark": "Cod. copt. 1",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829781"
+  },
+  {
+   "hmml": "24999",
+   "shelfmark": "Cod. copt. 3",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hymnals"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829782"
+  },
+  {
+   "hmml": "25000",
+   "shelfmark": "Cod. copt. 11",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hymnals"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829783"
+  },
+  {
+   "hmml": "25001",
+   "shelfmark": "Cod. copt. 5",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Lectionaries"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829784"
+  },
+  {
+   "hmml": "25002",
+   "shelfmark": "Cod. copt. 8",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hymnals"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829785"
+  },
+  {
+   "hmml": "25003",
+   "shelfmark": "Cod. copt. 10",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hymnals",
+    "Hagiographies",
+    "Fragments"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829786"
+  },
+  {
+   "hmml": "25004",
+   "shelfmark": "Cod. copt. 2",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829787"
+  },
+  {
+   "hmml": "25005",
+   "shelfmark": "Cod. copt. 12",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Lectionaries"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829788"
+  },
+  {
+   "hmml": "25005",
+   "shelfmark": "Cod. copt. 13",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Fragments",
+    "Liturgical texts"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829797"
+  },
+  {
+   "hmml": "25005",
+   "shelfmark": "Cod. copt. 14",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Fragments",
+    "Liturgical books (Eastern Christian)",
+    "Lectionaries"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829798"
+  },
+  {
+   "hmml": "25005",
+   "shelfmark": "Cod. copt. 15",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Fragments",
+    "Liturgical texts"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829799"
+  },
+  {
+   "hmml": "25006",
+   "shelfmark": "Cod. copt. 4",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hymnals",
+    "Fragments"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829789"
+  },
+  {
+   "hmml": "25007",
+   "shelfmark": "Cod. copt. 7",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829790"
+  },
+  {
+   "hmml": "25009",
+   "shelfmark": "Cod. copt. 9",
+   "country": "Austria",
+   "repository": "Österreichische Nationalbibliothek",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Liturgical texts"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/829792"
+  },
+  {
+   "hmml": "ABMQ 00001",
+   "shelfmark": "Bibl. 1",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Commentaries",
+    "Lectionaries"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133004"
+  },
+  {
+   "hmml": "ABMQ 00002",
+   "shelfmark": "Bibl. 2",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511310"
+  },
+  {
+   "hmml": "ABMQ 00003",
+   "shelfmark": "Bibl. 3",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133006"
+  },
+  {
+   "hmml": "ABMQ 00004",
+   "shelfmark": "Bibl. 4",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133007"
+  },
+  {
+   "hmml": "ABMQ 00005",
+   "shelfmark": "Bibl. 5",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133008"
+  },
+  {
+   "hmml": "ABMQ 00006",
+   "shelfmark": "Bibl. 6",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133009"
+  },
+  {
+   "hmml": "ABMQ 00007",
+   "shelfmark": "Bibl. 7",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133010"
+  },
+  {
+   "hmml": "ABMQ 00008",
+   "shelfmark": "Bibl. 8",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133011"
+  },
+  {
+   "hmml": "ABMQ 00009",
+   "shelfmark": "Bibl. 9",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133012"
+  },
+  {
+   "hmml": "ABMQ 00010",
+   "shelfmark": "Bibl. 10",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133013"
+  },
+  {
+   "hmml": "ABMQ 00011",
+   "shelfmark": "Bibl. 11",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Psalters"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133014"
+  },
+  {
+   "hmml": "ABMQ 00012",
+   "shelfmark": "Bibl. 12",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133015"
+  },
+  {
+   "hmml": "ABMQ 00013",
+   "shelfmark": "Bibl. 13",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511311"
+  },
+  {
+   "hmml": "ABMQ 00014",
+   "shelfmark": "Bibl. 14",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511312"
+  },
+  {
+   "hmml": "ABMQ 00015",
+   "shelfmark": "Bibl. 15",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Prayers"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511313"
+  },
+  {
+   "hmml": "ABMQ 00017",
+   "shelfmark": "Bibl. 17",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133016"
+  },
+  {
+   "hmml": "ABMQ 00018",
+   "shelfmark": "Bibl. 18",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133017"
+  },
+  {
+   "hmml": "ABMQ 00023",
+   "shelfmark": "Bibl. 23",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511589"
+  },
+  {
+   "hmml": "ABMQ 00025",
+   "shelfmark": "Bibl. 25",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533795"
+  },
+  {
+   "hmml": "ABMQ 00026",
+   "shelfmark": "Bibl. 26",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511590"
+  },
+  {
+   "hmml": "ABMQ 00027",
+   "shelfmark": "Bibl. 27",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133018"
+  },
+  {
+   "hmml": "ABMQ 00028",
+   "shelfmark": "Bibl. 28",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511591"
+  },
+  {
+   "hmml": "ABMQ 00029",
+   "shelfmark": "Bibl. 29",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511592"
+  },
+  {
+   "hmml": "ABMQ 00030",
+   "shelfmark": "Bibl. 30",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511593"
+  },
+  {
+   "hmml": "ABMQ 00031",
+   "shelfmark": "Bibl. 31",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133019"
+  },
+  {
+   "hmml": "ABMQ 00033",
+   "shelfmark": "Bibl. 33",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511594"
+  },
+  {
+   "hmml": "ABMQ 00036",
+   "shelfmark": "Bibl. 36",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Calendars"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133020"
+  },
+  {
+   "hmml": "ABMQ 00037",
+   "shelfmark": "Bibl. 37",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133021"
+  },
+  {
+   "hmml": "ABMQ 00038",
+   "shelfmark": "Bibl. 38",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511595"
+  },
+  {
+   "hmml": "ABMQ 00039",
+   "shelfmark": "Bibl. 39",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511596"
+  },
+  {
+   "hmml": "ABMQ 00040",
+   "shelfmark": "Bibl. 40",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511597"
+  },
+  {
+   "hmml": "ABMQ 00042",
+   "shelfmark": "Bibl. 42",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133022"
+  },
+  {
+   "hmml": "ABMQ 00043",
+   "shelfmark": "Bibl. 43",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133023"
+  },
+  {
+   "hmml": "ABMQ 00044",
+   "shelfmark": "Bibl. 44",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133024"
+  },
+  {
+   "hmml": "ABMQ 00051",
+   "shelfmark": "Bibl. 51",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511598"
+  },
+  {
+   "hmml": "ABMQ 00052",
+   "shelfmark": "Bibl. 52",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511599"
+  },
+  {
+   "hmml": "ABMQ 00053",
+   "shelfmark": "Bibl. 53",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511600"
+  },
+  {
+   "hmml": "ABMQ 00285",
+   "shelfmark": "Theol. 14",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789088"
+  },
+  {
+   "hmml": "ABMQ 00290",
+   "shelfmark": "Theol. 19",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Apologetic writings"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789089"
+  },
+  {
+   "hmml": "ABMQ 00323",
+   "shelfmark": "Hom. 2",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533800"
+  },
+  {
+   "hmml": "ABMQ 00357",
+   "shelfmark": "Hom. 36",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Sermons",
+    "Homiliaries"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789090"
+  },
+  {
+   "hmml": "ABMQ 00367",
+   "shelfmark": "Hag. 1",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511601"
+  },
+  {
+   "hmml": "ABMQ 00368",
+   "shelfmark": "Hag. 2",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511602"
+  },
+  {
+   "hmml": "ABMQ 00369",
+   "shelfmark": "Hag. 3",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511603"
+  },
+  {
+   "hmml": "ABMQ 00370",
+   "shelfmark": "Hag. 4",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511604"
+  },
+  {
+   "hmml": "ABMQ 00371",
+   "shelfmark": "Hag. 5",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511605"
+  },
+  {
+   "hmml": "ABMQ 00372",
+   "shelfmark": "Hag. 6",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511606"
+  },
+  {
+   "hmml": "ABMQ 00374",
+   "shelfmark": "Hag. 8",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511607"
+  },
+  {
+   "hmml": "ABMQ 00375",
+   "shelfmark": "Hag. 9",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511608"
+  },
+  {
+   "hmml": "ABMQ 00376",
+   "shelfmark": "Hag. 10",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511609"
+  },
+  {
+   "hmml": "ABMQ 00377",
+   "shelfmark": "Hag. 11",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Sermons",
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511610"
+  },
+  {
+   "hmml": "ABMQ 00382",
+   "shelfmark": "Hag. 16",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511611"
+  },
+  {
+   "hmml": "ABMQ 00386",
+   "shelfmark": "Hag. 20",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511612"
+  },
+  {
+   "hmml": "ABMQ 00387",
+   "shelfmark": "Hag. 21",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511613"
+  },
+  {
+   "hmml": "ABMQ 00389",
+   "shelfmark": "Hag. 23",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Sermons",
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533799"
+  },
+  {
+   "hmml": "ABMQ 00391",
+   "shelfmark": "Hag. 25",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511614"
+  },
+  {
+   "hmml": "ABMQ 00392",
+   "shelfmark": "Hag. 26",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511615"
+  },
+  {
+   "hmml": "ABMQ 00393",
+   "shelfmark": "Hag. 27",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511616"
+  },
+  {
+   "hmml": "ABMQ 00394",
+   "shelfmark": "Hag. 28",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511617"
+  },
+  {
+   "hmml": "ABMQ 00398",
+   "shelfmark": "Hag. 32",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511618"
+  },
+  {
+   "hmml": "ABMQ 00399",
+   "shelfmark": "Hag. 33",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511619"
+  },
+  {
+   "hmml": "ABMQ 00400",
+   "shelfmark": "Hag. 34",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons",
+    "Hymns",
+    "Songs (musical compositions)"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511620"
+  },
+  {
+   "hmml": "ABMQ 00401",
+   "shelfmark": "Hag. 35",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511621"
+  },
+  {
+   "hmml": "ABMQ 00403",
+   "shelfmark": "Hag. 37",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511622"
+  },
+  {
+   "hmml": "ABMQ 00404",
+   "shelfmark": "Hag. 38",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511623"
+  },
+  {
+   "hmml": "ABMQ 00405",
+   "shelfmark": "Hag. 39",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511624"
+  },
+  {
+   "hmml": "ABMQ 00406",
+   "shelfmark": "Hag. 40",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511625"
+  },
+  {
+   "hmml": "ABMQ 00407",
+   "shelfmark": "Hag. 41",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511626"
+  },
+  {
+   "hmml": "ABMQ 00409",
+   "shelfmark": "Hag. 43",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511627"
+  },
+  {
+   "hmml": "ABMQ 00410",
+   "shelfmark": "Hag. 44",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511628"
+  },
+  {
+   "hmml": "ABMQ 00412",
+   "shelfmark": "Hag. 46",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511629"
+  },
+  {
+   "hmml": "ABMQ 00413",
+   "shelfmark": "Hag. 47",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/511630"
+  },
+  {
+   "hmml": "ABMQ 00414",
+   "shelfmark": "Hag. 48",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Hagiographies",
+    "Sermons"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533798"
+  },
+  {
+   "hmml": "ABMQ 00415",
+   "shelfmark": "Hag. 49",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Historical works"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533797"
+  },
+  {
+   "hmml": "ABMQ 00417",
+   "shelfmark": "Hag. 51",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789091"
+  },
+  {
+   "hmml": "ABMQ 00418",
+   "shelfmark": "Hag. 52",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Hagiographies"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/789092"
+  },
+  {
+   "hmml": "ABMQ 00428",
+   "shelfmark": "Hag. 62",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533796"
+  },
+  {
+   "hmml": "ABMQ 00432",
+   "shelfmark": "Bibl. 45",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Gospels",
+    "Calendars"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133025"
+  },
+  {
+   "hmml": "ABMQ 00433",
+   "shelfmark": "Bibl. 46",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133026"
+  },
+  {
+   "hmml": "ABMQ 00434",
+   "shelfmark": "Bibl. 47",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles",
+    "Commentaries",
+    "Calendars"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133027"
+  },
+  {
+   "hmml": "ABMQ 00476",
+   "shelfmark": "Hag. 63",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/533801"
+  },
+  {
+   "hmml": "ABMQ 00490",
+   "shelfmark": "Bibl. 48",
+   "country": "Egypt",
+   "repository": "Dayr al-Qiddīs Anbā Maqār",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/133028"
+  },
+  {
+   "hmml": "USJ COP 00001",
+   "shelfmark": "Copte 1",
+   "country": "Lebanon",
+   "repository": "Université Saint-Joseph. Bibliothèque orientale",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/790999"
+  },
+  {
+   "hmml": "USJ COP 00002",
+   "shelfmark": "Copte 2",
+   "country": "Lebanon",
+   "repository": "Université Saint-Joseph. Bibliothèque orientale",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/791000"
+  },
+  {
+   "hmml": "USJ COP 00003",
+   "shelfmark": "Copte 3",
+   "country": "Lebanon",
+   "repository": "Université Saint-Joseph. Bibliothèque orientale",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/791001"
+  },
+  {
+   "hmml": "PI 00043",
+   "shelfmark": "PI Wadi Natrun Dair as-Suryan 17",
+   "country": "Netherlands",
+   "repository": "Vrije Universiteit Amsterdam. Peshitta Institute",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/502978"
+  },
+  {
+   "hmml": "PI 00044",
+   "shelfmark": "PI Wadi Natrun Dair as-Suryan 25",
+   "country": "Netherlands",
+   "repository": "Vrije Universiteit Amsterdam. Peshitta Institute",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Liturgical books (Eastern Christian)",
+    "Psalters"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/502979"
+  },
+  {
+   "hmml": "PI 00045",
+   "shelfmark": "PI Wadi Natrun Dair as-Suryan 28",
+   "country": "Netherlands",
+   "repository": "Vrije Universiteit Amsterdam. Peshitta Institute",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/502980"
+  },
+  {
+   "hmml": "PI 00046",
+   "shelfmark": "PI Wadi Natrun Dair as-Suryan 22",
+   "country": "Netherlands",
+   "repository": "Vrije Universiteit Amsterdam. Peshitta Institute",
+   "languages": [],
+   "viewable": true,
+   "genres": [
+    "Bibles"
+   ],
+   "permalink": "https://w3id.org/vhmml/readingRoom/view/502981"
+  }
+ ]
+}
