@@ -20,4 +20,4 @@
  18 = آثار معهد العصور القديمة claremont_aot.json       (122)
  19 = نشرة المعهد             claremont_bia.json       (108)
  20 = دارتموث (قصاصات قبطية)  dartmouth.json           (1+)
- 21 = OPenn (بنسلفانيا مفتوح) openn_coptic.json         (1 = 215 صفحة) [ملكية عامة]
+ 21 = OPenn مفتوح (أناجيل+قطامير+ميامر) openn_coptic.json (17) [ملكية عامة]
