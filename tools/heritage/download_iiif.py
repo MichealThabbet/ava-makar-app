@@ -121,6 +121,20 @@ def safe(name):
     return "".join(ch if ch.isalnum() or ch in ".-_ " else "_" for ch in name).strip()
 
 
+def openn_images(html_url, master=False):
+    """Parse an OPenn manuscript HTML page for its page images (direct files, no IIIF).
+    Returns ordered full URLs. Default: web-resolution JPEGs; master=True: full-size TIFFs."""
+    import re as _re
+    host = "https://openn.library.upenn.edu"
+    html = fetch(html_url).decode("utf-8", "replace")
+    sub = "/data/master/" if master else "/data/web/"
+    ext = r"\.tif" if master else r"\.jpg"
+    paths = _re.findall(r'(/Data/\d+/[^\s"\'<>]+?' + sub.replace("/", r"/") + r'[^\s"\'<>]+?' + ext + r')', html)
+    # keep the numbered page images only (exclude the "extra/" reference shots), de-dup, order
+    paths = sorted({p for p in paths if "/extra/" not in p})
+    return [host + p for p in paths]
+
+
 def download_one(item, out, width, pause, make_pdf):
     lib, sm = safe(item["library"]), safe(item["shelfmark"])
     name = sm
@@ -128,6 +142,32 @@ def download_one(item, out, width, pause, make_pdf):
         name = (sm + " - " + safe(str(item["title"]))[:60]).strip(" .")
     folder = os.path.join(out, lib, safe(item.get("collection", "")), name)
     os.makedirs(folder, exist_ok=True)
+    if item.get("openn"):  # OPenn: direct page images, no IIIF manifest
+        urls = openn_images(item["openn"], master=bool(item.get("master")))
+        with open(os.path.join(folder, "info.txt"), "w", encoding="utf-8") as f:
+            for k, v in item.items():
+                if not k.startswith("_"):
+                    f.write(f"{k}: {v}\n")
+            f.write(f"pages: {len(urls)}\n")
+        done = 0
+        for n, u in enumerate(urls, 1):
+            dest = os.path.join(folder, f"{n:04d}" + (".tif" if item.get("master") else ".jpg"))
+            if os.path.exists(dest) and os.path.getsize(dest) > 1000:
+                done += 1
+                continue
+            try:
+                data = fetch(u, timeout=600)
+            except Exception as e:
+                print(f"   ! page {n} failed: {e}")
+                continue
+            with open(dest + ".part", "wb") as f:
+                f.write(data)
+            os.replace(dest + ".part", dest)
+            done += 1
+            print(f"\r   {sm}: {done}/{len(urls)} pages", end="", flush=True)
+            time.sleep(pause)
+        print(f"\r   {sm}: {done}/{len(urls)} pages" + (" ✓" if done == len(urls) and urls else " (run again to finish)"))
+        return bool(urls) and done == len(urls)
     if item.get("file_url"):  # a single public-domain file (e.g. an archive.org PDF)
         dest = os.path.join(folder, safe(item.get("file_name") or os.path.basename(item["file_url"])))
         with open(os.path.join(folder, "info.txt"), "w", encoding="utf-8") as f:
