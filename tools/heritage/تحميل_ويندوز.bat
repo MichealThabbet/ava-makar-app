@@ -6,6 +6,7 @@ python -m pip install -q truststore
 set /p DRIVE=اكتب حرف الهارد الخارجي (مثلا E) ثم Enter: 
 echo.
 echo المكتبات:  1 = الفاتيكان    2 = مكتبة الكونجرس    3 = كتب التراث القديمة (archive.org)    4 = المكتبة البريطانية    5 = الكل    6 = البريطانية: أرشيف خاص (198 مخطوطة)    7 = أكسفورد (Bodleian)    8 = مخطوطات الأناجيل    9 = ولكوم لندن    10 = جون رايلاندز مانشستر    11 = باريس القبطي (303)    12 = بنسلفانيا وأمريكا    13 = جامعة بنسلفانيا (20)    14 = برينستون (77)    15 = تشستر بيتي دبلن (30)
+echo  16 = الموسوعة القبطية كليرمونت (2131)   17 = نجع حمادي (3474)   18 = آثار المعهد (122)   19 = نشرة المعهد (108)
 set /p LIB=اختار رقم المكتبة ثم Enter: 
 set CAT=vatican_full.json
 if "%LIB%"=="2" set CAT=loc_full.json
@@ -21,6 +22,10 @@ if "%LIB%"=="12" set CAT=wikidata_coptic_iiif.json
 if "%LIB%"=="13" set CAT=upenn_coptic.json
 if "%LIB%"=="14" set CAT=princeton_coptic.json
 if "%LIB%"=="15" set CAT=chester_beatty.json
+if "%LIB%"=="16" set CAT=claremont_cce.json
+if "%LIB%"=="17" set CAT=claremont_nha.json
+if "%LIB%"=="18" set CAT=claremont_aot.json
+if "%LIB%"=="19" set CAT=claremont_bia.json
 if "%LIB%"=="5" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
 echo.
 echo الدرجات:  1 = القبطي   2 = العربي المسيحي والسرياني والاثيوبي   3 = اليوناني   4 = الباقي    (للكتب: 1 = قبطي  2 = شرقي)
