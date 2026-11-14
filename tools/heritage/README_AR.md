@@ -79,3 +79,30 @@ Gallica بتمنع السيرفرات السحابية، فلازم الفهرس
 - الصور ملك مكتبة الفاتيكان: للحفظ والدراسة، وإعادة النشر بإذنها.
 - لتحميل مخطوطة واحدة بس: `python download_iiif.py vatican_full.json --out E:/Coptic_Heritage --only Vat.copt.57`
 - لعمل PDF لكل مخطوطة: `pip install pillow` ثم أضف `--pdf`.
+
+---
+
+## المكتبات المحجوبة عن السحابة (مورجان، كامبريدج، ميشيغان، هارفارد، ييل)
+
+المكتبات دي بتحجب خوادم السحابة بس **مش بتحجب جهازك في البيت**. علشان تحمّل منها،
+استخدم `harvest_collection.py` من جهازك لبناء فهرس، وبعدين `download_iiif.py` للتحميل:
+
+**لو عندك رابط مجموعة IIIF واحدة بتجمع كل المخطوطات:**
+```
+python harvest_collection.py --collection "https://.../collection.json" --library Morgan --out morgan.json --count-pages
+python download_iiif.py morgan.json --out G:/Coptic_Heritage
+```
+
+**لو عندك قائمة روابط manifest (ملف تكست، رابط في كل سطر):**
+```
+python harvest_collection.py --list روابطي.txt --library Cambridge --out cambridge.json
+python download_iiif.py cambridge.json --out G:/Coptic_Heritage
+```
+
+**لو عندك روابط صفحات العرض وعايز البرنامج يلاقي الـ manifest جواها:**
+```
+python harvest_collection.py --pages صفحات.txt --library Michigan --out michigan.json
+python download_iiif.py michigan.json --out G:/Coptic_Heritage
+```
+
+ابعتلي رابط صفحة مخطوط واحد من أي مكتبة محجوبة، وأنا أطلّعلك شكل القائمة الجاهزة.
