@@ -43,7 +43,7 @@ def fetch(url, tries=5, timeout=90):
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
         except urllib.error.HTTPError as e:
-            if e.code in (404, 403, 401):
+            if e.code in (404, 403, 401, 400):  # 400: wrong IIIF size keyword — fail fast so the caller can retry with "max"
                 raise
             last = e
         except Exception as e:  # network hiccup
@@ -214,7 +214,15 @@ def download_one(item, out, width, pause, make_pdf):
             if item.get("stitch") and svc:
                 data = stitch_tiles(svc, target=width or 4000)
             else:
-                data = fetch(image_url(svc, direct, width))
+                try:
+                    data = fetch(image_url(svc, direct, width))
+                except Exception:
+                    # IIIF Image API v3 rejects the "full" size keyword; retry with "max"
+                    if svc:
+                        size = "max" if not width else f"{width},"
+                        data = fetch(f"{svc.rstrip('/')}/full/{size}/0/default.jpg")
+                    else:
+                        raise
         except Exception as e:
             print(f"   ! page {n} failed: {e}")
             continue

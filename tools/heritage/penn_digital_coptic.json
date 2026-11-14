@@ -1,0 +1,145 @@
+{
+"source": "Penn Digital Repository — Coptic",
+"manuscripts": [
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "La_traduzione_copta_di_un_Omelia_di_S._Efrem.",
+"title": "La traduzione copta di un'Omelia di S. Efrem.",
+"tier": 1,
+"pages": 21,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/952501f0-98ea-4a3d-b9c6-979cf5d76fdc/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Di_un_frammento_palimpsesto_copto-saidico_del_Museo_Borgiano.",
+"title": "Di un frammento palimpsesto copto-saidico del Museo Borgiano.",
+"tier": 1,
+"pages": 9,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/1106366b-c4c4-4c38-a0a5-d6175f0a467e/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Muqaddimat_al-sullam_al-ma_ru_f._Kita_b_Sullam_al-muqaffa_wa-al-dhahab",
+"title": "Muqaddimat al-sullam al-maʻrūf. Kitāb Sullam al-muqaffá wa-al-dhahab al-muṣaffá",
+"tier": 1,
+"pages": 189,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/135f5683-f645-4a9a-bc13-a8457c3db44a/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Hymns_and_prayers_in_Coptic.",
+"title": "[Hymns and prayers in Coptic.]",
+"tier": 1,
+"pages": 214,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/703ce921-cdd6-477c-8d6a-65b4287cbe54/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Naskh_juz_min_al-Ibs_almu_di_yah",
+"title": "Naskh juzʼ min al-Ibṣalmūdīyah",
+"tier": 1,
+"pages": 350,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/28c315e1-2a7a-405a-9019-6983dfbd9b64/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "al-Ibs_almudi_yah",
+"title": "al-Ibṣalmudīyah",
+"tier": 1,
+"pages": 314,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/87d81a24-14dc-4ee5-bd04-12cce3236b50/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "al-Ibs_almu_di_yah",
+"title": "al-Ibṣalmūdīyah",
+"tier": 1,
+"pages": 976,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/2e15f71c-6613-49ec-aa2f-11a5d946d81e/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Kita_b_Tarti_b_Jum_at_al-Bas_khah_al-muqaddasah",
+"title": "Kitāb Tartīb Jumʻat al-Baṣkhah al-muqaddasah",
+"tier": 1,
+"pages": 294,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/64d26272-0fcb-46b0-b668-cb328bb2658d/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Naskh_ha_ula_al-Maza_mi_r_wa-al-t_aru_h_a_t_al-maqru_rah_fi_Jum_at_A_l",
+"title": "Naskh hāʼulāʼ al-Mazāmīr wa-al-ṭarūḥāt al-maqrūrah fī Jumʻat Ālām Yasūʻ al-Masīḥ",
+"tier": 1,
+"pages": 78,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/0dd4c8c4-37e4-4ea6-b5c4-efd5884b2e68/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Subh_at_al-mala_ikah_ba_da_Inji_l_Yu_h_anna_fi_s_ala_t_ba_kir._S_ala_t",
+"title": "Subḥat al-malāʼikah baʻda Injīl Yūḥannā fī ṣalāt bākir. Ṣalāt niṣf al-layl",
+"tier": 1,
+"pages": 94,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/bec4d0db-fde8-4c6d-8377-28245bef0c7c/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Gospel_of_Mark_in_Coptic",
+"title": "[Gospel of Mark in Coptic]",
+"tier": 1,
+"pages": 324,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/1c49fcb7-148a-4aed-9d5a-f8a0b36530e8/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "al-Mus_h_af_al-shari_f",
+"title": "al-Muṣḥaf al-sharīf",
+"tier": 1,
+"pages": 474,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/2af57b6c-83ce-446d-9e5f-34dc53f674d2/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Miscellaneous_manuscripts_Large_1300s",
+"title": "Miscellaneous manuscripts (Large), 1300s",
+"tier": 1,
+"pages": 2,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/1b74e7ce-7099-40b6-a3b9-87fe03f24882/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Psalter_leaves_and_Matthew_leaf_1700s_or_1800s",
+"title": "Psalter leaves and Matthew leaf, 1700s or 1800s?",
+"tier": 1,
+"pages": 10,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/4b0b1af9-809c-40ee-847e-7b6105973956/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+}
+]
+}

@@ -21,3 +21,4 @@
  19 = نشرة المعهد             claremont_bia.json       (108)
  20 = دارتموث (قصاصات قبطية)  dartmouth.json           (1+)
  21 = OPenn مفتوح (أناجيل+قطامير+ميامر) openn_coptic.json (17) [ملكية عامة]
+ 22 = بنسلفانيا رقمي (تسبحة+بصخة+إنجيل مرقس) penn_digital_coptic.json (14=3349ص)

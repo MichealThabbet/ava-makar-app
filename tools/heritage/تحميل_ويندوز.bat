@@ -6,7 +6,7 @@ python -m pip install -q truststore
 set /p DRIVE=اكتب حرف الهارد الخارجي (مثلا E) ثم Enter: 
 echo.
 echo المكتبات:  1 = الفاتيكان    2 = مكتبة الكونجرس    3 = كتب التراث القديمة (archive.org)    4 = المكتبة البريطانية    5 = الكل    6 = البريطانية: أرشيف خاص (198 مخطوطة)    7 = أكسفورد (Bodleian)    8 = مخطوطات الأناجيل    9 = ولكوم لندن    10 = جون رايلاندز مانشستر    11 = باريس القبطي (303)    12 = بنسلفانيا وأمريكا    13 = جامعة بنسلفانيا (20)    14 = برينستون (77)    15 = تشستر بيتي دبلن (30)
-echo  16 = الموسوعة القبطية كليرمونت (2131)   17 = نجع حمادي (3474)   18 = آثار المعهد (122)   19 = نشرة المعهد (108)   20 = دارتموث قبطي (قصاصات)   21 = OPenn مفتوح (17 مخطوط)
+echo  16 = الموسوعة القبطية كليرمونت (2131)   17 = نجع حمادي (3474)   18 = آثار المعهد (122)   19 = نشرة المعهد (108)   20 = دارتموث قبطي (قصاصات)   21 = OPenn مفتوح (17)   22 = بنسلفانيا رقمي (تسبحة/بصخة/مرقس 3349ص)
 set /p LIB=اختار رقم المكتبة ثم Enter: 
 set CAT=vatican_full.json
 if "%LIB%"=="2" set CAT=loc_full.json
@@ -28,6 +28,7 @@ if "%LIB%"=="18" set CAT=claremont_aot.json
 if "%LIB%"=="19" set CAT=claremont_bia.json
 if "%LIB%"=="20" set CAT=dartmouth.json
 if "%LIB%"=="21" set CAT=openn_coptic.json
+if "%LIB%"=="22" set CAT=penn_digital_coptic.json
 if "%LIB%"=="5" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
 echo.
 echo الدرجات:  1 = القبطي   2 = العربي المسيحي والسرياني والاثيوبي   3 = اليوناني   4 = الباقي    (للكتب: 1 = قبطي  2 = شرقي)
