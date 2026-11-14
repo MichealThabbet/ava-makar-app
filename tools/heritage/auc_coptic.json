@@ -1,0 +1,175 @@
+{
+"source": "AUC Cairo — Iryan Moftah Coptic Manuscripts",
+"manuscripts": [
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Al-Dor_al-Muntakhab_653",
+"title": "Al-Dor al-Muntakhab",
+"tier": 1,
+"pages": 414,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/653/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Books_of_the_Old_Testament_2436",
+"title": "Books of the Old Testament",
+"tier": 1,
+"pages": 603,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/2436/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Books_of_the_Torah_1463",
+"title": "Books of the Torah",
+"tier": 1,
+"pages": 370,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/1463/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Books_of_the_Torah_1092",
+"title": "Books of the Torah",
+"tier": 1,
+"pages": 438,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/1092/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Calendar_of_the_Coptic_Orthodox_Easter_3296",
+"title": "Calendar of the Coptic Orthodox Easter",
+"tier": 1,
+"pages": 50,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/3296/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Coptic_grammar_manual_on_Bohairic_dialect_3136",
+"title": "Coptic grammar manual on Bohairic dialect",
+"tier": 1,
+"pages": 64,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/3136/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Coptic_language_grammar_3175",
+"title": "Coptic language grammar",
+"tier": 1,
+"pages": 38,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/3175/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Coptic_language_textbook_3245",
+"title": "Coptic language textbook",
+"tier": 1,
+"pages": 69,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/3245/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Epiclesis_to_the_Virgin_Mary_3071",
+"title": "Epiclesis to the Virgin Mary",
+"tier": 1,
+"pages": 42,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/3071/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Gospel_of_John_2685",
+"title": "Gospel of John",
+"tier": 1,
+"pages": 78,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/2685/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Gospel_of_Luke_2606",
+"title": "Gospel of Luke",
+"tier": 1,
+"pages": 98,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/2606/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Gospel_of_Mark_2507",
+"title": "Gospel of Mark",
+"tier": 1,
+"pages": 70,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/2507/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "King_Herod_I_and_the_Family_2948",
+"title": "King Herod I and the Family",
+"tier": 1,
+"pages": 262,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/2948/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Saint_Anthony_of_Egypt_manuscripts_1832",
+"title": "Saint Anthony of Egypt manuscripts",
+"tier": 1,
+"pages": 368,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/1832/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "The_Precious_Pearl_in_the_Eucharist_3007",
+"title": "The Precious Pearl in the Eucharist",
+"tier": 1,
+"pages": 58,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/3007/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "The_Unity_of_Mercy_and_Justice_3028",
+"title": "The Unity of Mercy and Justice",
+"tier": 1,
+"pages": 20,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/3028/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+},
+{
+"library": "AUC_Cairo",
+"collection": "Iryan_Moftah_Coptic",
+"shelfmark": "Volume_II_from_Maiamer_by_Our_Holy_Father_Saint_Gregory_of_Nazianzus_238",
+"title": "Volume II from Maiamer by Our Holy Father Saint Gregory of Nazianzus",
+"tier": 1,
+"pages": 238,
+"manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/238/manifest.json",
+"rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+}
+]
+}
