@@ -97,174 +97,755 @@
 [معروف] CMCL — مكتبة الأدب القبطي الرقمية (Corpus dei Manoscritti Copti Letterari)
 
 ================================================================================
-الجزء الثاني: قاموس كلمات البحث الكامل
-(ابحث بكل صيغة على حدة في أي مكتبة أو فهرس)
+
 ================================================================================
+الجزء الثاني: قاموس البحث الكامل (مولّد بكل التهجيات)
+================================================================================
+قاموس البحث الشامل للتراث القبطي — كل اسم بكل تهجياته
+مشروع دير أنبا مقار — مولّد آلياً مع تهجيات حقيقية — 2026-11-14
 
-------------------------------------------------------------
-[أ] دير أنبا مقار — كل الصيغ
-------------------------------------------------------------
-Dayr Anba Maqar | Dayr al-Anbā Maqār | Dair Abû Maqâr | Dayr Abu Maqar
-Dayr Qiddīs Anbā Maqqār | Dayr al-Qiddīs Anbā Maqqār | Dayr Aba Maqār
-Monastery of Saint Macarius | Monastery of Saint Macarius the Great
-St. Macarius Monastery | St Macarius Monastery of Scetis | Macarius Scetis
-Monastery of St. Macarius the Great at Scetis
-Kloster des heiligen Makarios | Monastère de Saint-Macaire | Monastero di San Macario
-ABMQ (رمز HMML)
-دير أنبا مقار | دير القديس أنبا مقار | دير أبو مقار | دير مقار
-دير القديس العظيم أنبا مقار الكبير ببرية شيهيت
-
-------------------------------------------------------------
-[ب] الأماكن
-------------------------------------------------------------
-Scetis | Sketis | Skētis | Sceté | Skete | Σκῆτις
-Wadi al-Natrun | Wādī al-Naṭrūn | Wadi Natrun | Wadi el-Natrun | Ouadi Natroun
-Wādi Habib | Wadi Habib | Birriyat Shihit | Shihet | Shiêt | ϣⲓϩⲏⲧ
-Nitria | Nitrie | Νιτρία | Kellia | Cellia | Les Kellia | القلالي
-برية شيهيت | وادي النطرون | الإسقيط | شيهيت | نتريا | القلالي
-
-------------------------------------------------------------
-[ج] القديسون وآباء البرية — كل الصيغ
-------------------------------------------------------------
-# مقاريوس الكبير (المصري)
-Macarius the Great | Macarius the Egyptian | Macarius the Elder
-Macarius Scetensis | Macarius Aegyptius | Macaire d'Égypte | Macaire le Grand
-Makarios der Ägypter | Makarios the Egyptian | Maqāriyūs al-Kabīr
-Μακάριος ὁ Αἰγύπτιος | ⲙⲁⲕⲁⲣⲓⲟⲥ
-مقار | مقاريوس | أنبا مقار | مكاريوس المصري | مقار الكبير
-
+======================================================================
+[1] القديسون والآباء والكُتّاب
+======================================================================
+# مقار الكبير / مقاريوس المصري
+  Macaire te Great | Macaire the Great | Macarios te Great | Macarios the Great | Macarius te Great | Macarius the Great | Makaire te Great | Makaire the Great | Makarios te Great | Makarios the Great | Makarius te Great | Makarius the Great
 # مقاريوس السكندري
-Macarius of Alexandria | Macarius Alexandrinus | Macarius the Younger
-Macaire d'Alexandrie | مقاريوس السكندري
-
-# الأنبا بيشوي
-Pshoi | Bishoi | Bīshūy | Paisios | Pishoi | Poshoi | Bišoy | ⲡⲓϣⲱⲓ
-بيشوي | أنبا بيشوي | بيشوى
-
-# يوحنا القصير
-John Kolobos | John Colobos | John the Little | John the Dwarf | Jean Colobos
-يحنس القصير | يوحنا القصير | أنبا يحنس القصير
-
+  Macaire of Alexandria | Macarios of Alexandria | Macarius of Alexandria | Makaire of Alexandria | Makarios of Alexandria | Makarius of Alexandria
+# مكسيموس ودوماديوس
+  Maximos and Domitios | Maximos and Domitius | Maximus and Domitius
+# يوحنا القصير / يحنس القصير
+  John te Little | John the Little
 # يحنس كاما
-John Kama | John Khame | يحنس كاما
+  John Kama
+# الأنبا بيشوي
+  Bishoi
+# بولا الطموهي
+  Paul of Tammah
+# موسى الأسود
+  Moses te Blacc | Moses te Black | Moses te Blakk | Moses the Blacc | Moses the Black | Moses the Blakk | Muses te Blacc | Muses te Black | Muses te Blakk | Muses the Blacc | Muses the Black | Muses the Blakk
+# أرسانيوس
+  Arsenios | Arsenius
+# بيمن
+  Pemen | Poemen
+# أغاثون
+  Agathon | Agaton
+# سيصوي
+  Sises | Sisoes
+# إيسيذوروس
+  Isidore
+# إشعياء الإسقيطي
+  Isaiah of Scetis | Isaiah of Sketis
+# بامبو
+  Pambo
+# بيور
+  Pior
+# بيشوي
+  Pishoi
+# صموئيل المعترف
+  Samuel of Kalamoon | Samuel of Kalamoun | Samuel of Kalamun
+# بيسنتاؤس
+  Pisentios | Pisentius
+# دانيال الإسقيطي
+  Daniel of Scetis | Daniel of Sketis
+# أمونيوس
+  Ammonas
+# أنطونيوس الكبير
+  Antoni te Great | Antoni the Great | Antony te Great | Antony the Great
+# بولا أول السواح
+  Paul te Hermit | Paul the Hermit
+# باخوميوس
+  Pachomios | Pachomius | Pacomios | Pacomius | Pakhomios | Pakhomius | Pakomios | Pakomius
+# تادرس الطابناسيوي
+  Teodore of Tabennese | Theodore of Tabennese
+# بترونيوس
+  Petronios | Petronius
+# شنودة رئيس المتوحدين
+  Shenoote | Shenoute | Shenute
+# ويصا
+  Besa
+# بجول
+  Pgol
+# أنبا نفر السائح
+  Onnofrios | Onnofrius | Onnophrios | Onnophrius
+# أبوللو
+  Apollo
+# فيب
+  Fib | Phib
+# هور
+  Hor
+# مكروبيوس
+  Macrobios | Macrobius | Makrobios | Makrobius
+# بيروو
+  Pirov | Pirow
+# أثوم
+  Athom | Atom
+# أثناسيوس الرسولي
+  Atanasios of Alexandria | Atanasius of Alexandria | Athanasios of Alexandria | Athanasius of Alexandria
+# كيرلس عمود الدين
+  Ciril of Alexandria | Cyril of Alexandria | Kiril of Alexandria | Kyril of Alexandria
+# ديسقوروس
+  Dioscoros | Dioscorus | Dioskoros | Dioskorus | Diuscoros | Diuscorus | Diuskoros | Diuskorus
+# بطرس خاتم الشهداء
+  Peter of Alexandria
+# ألكسندروس
+  Alexander of Alexandria
+# تيموثاوس
+  Timothi Aeluros | Timothi Aelurus | Timothy Aeluros | Timothy Aelurus | Timoti Aeluros | Timoti Aelurus | Timoty Aeluros | Timoty Aelurus
+# ثيئوفيلس
+  Teofilos of Alexandria | Teofilus of Alexandria | Teophilos of Alexandria | Teophilus of Alexandria | Theofilos of Alexandria | Theofilus of Alexandria | Theophilos of Alexandria | Theophilus of Alexandria
+# بنيامين
+  Beniamin of Alexandria | Benjamin of Alexandria | Benyamin of Alexandria
+# ساويرس الأنطاكي
+  Severos of Antioc | Severos of Antioch | Severos of Antiok | Severos of Antiokh | Severus of Antioc | Severus of Antioch | Severus of Antiok | Severus of Antiokh | Seweros of Antioc | Seweros of Antioch | Seweros of Antiok | Seweros of Antiokh | Sewerus of Antioc | Sewerus of Antioch | Sewerus of Antiok | Sewerus of Antiokh
+# يعقوب البرادعي
+  Jacob Baradaeos | Jacob Baradaeus | Jacob Baradeos | Jacob Baradeus | Jakob Baradaeos | Jakob Baradaeus | Jakob Baradeos | Jakob Baradeus
+# مار مرقس الرسول
+  Marc te Evangelist | Marc te Ewangelist | Marc the Evangelist | Marc the Ewangelist | Mark te Evangelist | Mark te Ewangelist | Mark the Evangelist | Mark the Ewangelist
+# مار مينا
+  Menas
+# مار جرجس
+  George
+# أبو سيفين
+  Mercurios | Mercurius | Merkurios | Merkurius
+# تادرس المشرقي
+  Teodore Stratelates | Theodore Stratelates
+# بقطر
+  Victor | Viktor
+# أبانوب
+  Abanoob | Abanoub | Abanub
+# دميانة
+  Demiana
+# برباره
+  Barbara
+# مارينا
+  Marina
+# كاترين
+  Caterine of Alexandria | Catherine of Alexandria | Katerine of Alexandria | Katherine of Alexandria
+# فيرينا
+  Verena
+# تقلا
+  Tecla | Tekla | Thecla | Thekla
+# قزمان ودميان
+  Cosmas and Damian | Cusmas and Damian | Kosmas and Damian | Kusmas and Damian
+# فيلوباتير مرقوريوس
+  Filopater Mercurios | Filopater Mercurius | Filopater Merkurios | Filopater Merkurius | Philopater Mercurios | Philopater Mercurius | Philopater Merkurios | Philopater Merkurius
+# باخوم
+  Pahomios | Pahomius
+# لونجينوس
+  Longinos | Longinus
+# لوكيوس
+  Lucios | Lucius | Lukios | Lukius
+# مريم القبطية
+  Maria te Egiptian | Maria te Egyptian | Maria the Egiptian | Maria the Egyptian
+# سارة
+  Sarah
+# ثيؤدورة
+  Teodora | Theodora
+# سنكليتيكي
+  Sincletica | Sinkletika | Syncletica | Synkletika
+# مار إفرام السرياني
+  Efrem te Sirian | Efrem te Syrian | Efrem the Sirian | Efrem the Syrian | Ephrem te Sirian | Ephrem te Syrian | Ephrem the Sirian | Ephrem the Syrian
+# إسحق السرياني
+  Isaac te Sirian | Isaac te Syrian | Isaac the Sirian | Isaac the Syrian | Isaak te Sirian | Isaak te Syrian | Isaak the Sirian | Isaak the Syrian
+# إيفاغريوس
+  Evagrios Ponticos | Evagrios Pontikos | Evagrius Ponticos | Evagrius Ponticus | Evagrius Pontikos | Evagrius Pontikus | Ewagrios Ponticos | Ewagrios Pontikos | Ewagrius Ponticos | Ewagrius Ponticus | Ewagrius Pontikos | Ewagrius Pontikus
+# بلاديوس
+  Palladios | Palladius
+# يوحنا كاسيان
+  John Cassian | John Kassian
+# ديونيسيوس الأريوباغي
+  Dionisios te Areopagite | Dionisios the Areopagite | Dionisius te Areopagite | Dionisius the Areopagite | Dionysios te Areopagite | Dionysios the Areopagite | Dionysius te Areopagite | Dionysius the Areopagite
+# ابن العسال
+  Ibn al-Assal
+# الصفي بن العسال
+  al-Safi ibn al-Assal
+# المؤتمن بن العسال
+  al-Mutaman ibn al-Assal
+# ابن كبر
+  Ibn Kabar
+# ساويرس بن المقفع
+  Severos ibn al-Mucaffa | Severos ibn al-Mukaffa | Severos ibn al-Muqaffa | Severus ibn al-Mucaffa | Severus ibn al-Mukaffa | Severus ibn al-Muqaffa | Seweros ibn al-Mucaffa | Seweros ibn al-Mukaffa | Seweros ibn al-Muqaffa | Sewerus ibn al-Mucaffa | Sewerus ibn al-Mukaffa | Sewerus ibn al-Muqaffa
+# بطرس السدمنتي
+  Butros al-Sadamanti | Butrus al-Sadamanti
+# أبو البركات
+  Abu al-Baracat | Abu al-Barakat
+# أبو المكارم
+  Abu al-Macarim | Abu al-Makarim
+# يوحنا بن سباع
+  Iuhanna ibn Saba | Yuhanna ibn Saba
 
-# الأنبا أنطونيوس
-Antony | Anthony | Antonius | Antoine | Antonios | Anṭūniyūs | ⲁⲛⲧⲱⲛⲓⲟⲥ
-أنطونيوس | أنبا أنطونيوس | الأنبا أنطونيوس أب الرهبان
+======================================================================
+[2] الأديرة
+======================================================================
+# دير أنبا مقار
+  Dair Abba Macar | Dair Abba Makar | Dair Abba Makār | Dair Abba Maqar | Dair Abba Maqār | Dair Anba Macar | Dair Anba Makar | Dair Anba Makār | Dair Anba Maqar | Dair Anba Maqār | Dair Anbā Macar | Dair Anbā Makar | Dair Anbā Makār | Dair Anbā Maqar | Dair Anbā Maqār | Dair al- Abba Macar | Dair al- Abba Makar | Dair al- Abba Makār | Dair al- Abba Maqar | Dair al- Abba Maqār | Dair al- Anba Macar | Dair al- Anba Makar | Dair al- Anba Makār | Dair al- Anba Maqar | Dair al- Anba Maqār | Dair al- Anbā Macar | Dair al- Anbā Makar | Dair al- Anbā Makār | Dair al- Anbā Maqar | Dair al- Anbā Maqār | Dayr Abba Macar | Dayr Abba Makar | Dayr Abba Makār | Dayr Abba Maqar | Dayr Abba Maqār | Dayr Anba Macar | Dayr Anba Makar | Dayr Anba Makār | Dayr Anba Maqar | Dayr Anba Maqār | Dayr Anbā Macar | Dayr Anbā Makar | Dayr Anbā Makār | Dayr Anbā Maqar | Dayr Anbā Maqār | Dayr al- Abba Macar | Dayr al- Abba Makar | Dayr al- Abba Makār | Dayr al- Abba Maqar | Dayr al- Abba Maqār | Dayr al- Anba Macar | Dayr al- Anba Makar | Dayr al- Anba Makār | Dayr al- Anba Maqar | Dayr al- Anba Maqār | Dayr al- Anbā Macar | Dayr al- Anbā Makar | Dayr al- Anbā Makār | Dayr al- Anbā Maqar | Dayr al- Anbā Maqār | Dayr al- al- Abba Macar | Dayr al- al- Abba Makar | Dayr al- al- Abba Makār | Dayr al- al- Abba Maqar | Dayr al- al- Abba Maqār | Dayr al- al- Anba Macar | Dayr al- al- Anba Makar | Dayr al- al- Anba Makār | Dayr al- al- Anba Maqar | Dayr al- al- Anba Maqār | Dayr al- al- Anbā Macar | Dayr al- al- Anbā Makar | Dayr al- al- Anbā Makār | Dayr al- al- Anbā Maqar | Dayr al- al- Anbā Maqār | Deir Abba Macar | Deir Abba Makar | Deir Abba Makār | Deir Abba Maqar | Deir Abba Maqār | Deir Anba Macar | Deir Anba Makar | Deir Anba Makār | Deir Anba Maqar | Deir Anba Maqār | Deir Anbā Macar | Deir Anbā Makar | Deir Anbā Makār | Deir Anbā Maqar | Deir Anbā Maqār | Deir al- Abba Macar | Deir al- Abba Makar | Deir al- Abba Makār | Deir al- Abba Maqar | Deir al- Abba Maqār | Deir al- Anba Macar | Deir al- Anba Makar | Deir al- Anba Makār | Deir al- Anba Maqar | Deir al- Anba Maqār | Deir al- Anbā Macar | Deir al- Anbā Makar | Deir al- Anbā Makār | Deir al- Anbā Maqar | Deir al- Anbā Maqār
+# دير السريان
+  Dair al- al-Surian | Dair al- al-Suryan | Dair al-Surian | Dair al-Suryan | Dayr al- al- al-Suryan | Dayr al- al-Suryan | Dayr al-Suryan | Deir al- al-Suryan | Deir al-Surian | Deir al-Suryan
+# دير البراموس
+  Dair al- al-Baramos | Dair al- al-Baramus | Dair al-Baramos | Dair al-Baramus | Dayr al- al- al-Baramos | Dayr al- al- al-Baramus | Dayr al- al-Baramos | Dayr al- al-Baramus | Dayr al-Baramos | Dayr al-Baramus | Deir al- al-Baramos | Deir al- al-Baramus | Deir al-Baramos | Deir al-Baramus
+# دير الأنبا بيشوي
+  Dair Abba Bishoi | Dair Anba Bishoi | Dair Anbā Bishoi | Dair al- Abba Bishoi | Dair al- Anba Bishoi | Dair al- Anbā Bishoi | Dayr Abba Bishoi | Dayr Anba Bishoi | Dayr Anbā Bishoi | Dayr al- Abba Bishoi | Dayr al- Anba Bishoi | Dayr al- Anbā Bishoi | Dayr al- al- Abba Bishoi | Dayr al- al- Anba Bishoi | Dayr al- al- Anbā Bishoi | Deir Abba Bishoi | Deir Anba Bishoi | Deir Anbā Bishoi | Deir al- Abba Bishoi | Deir al- Anba Bishoi | Deir al- Anbā Bishoi
+# دير الأنبا أنطونيوس
+  Dair Abba Antonios | Dair Abba Antonius | Dair Anba Antonios | Dair Anba Antonius | Dair Anbā Antonios | Dair Anbā Antonius | Dair al- Abba Antonios | Dair al- Abba Antonius | Dair al- Anba Antonios | Dair al- Anba Antonius | Dair al- Anbā Antonios | Dair al- Anbā Antonius | Dayr Abba Antonios | Dayr Abba Antonius | Dayr Anba Antonios | Dayr Anba Antonius | Dayr Anbā Antonios | Dayr Anbā Antonius | Dayr al- Abba Antonios | Dayr al- Abba Antonius | Dayr al- Anba Antonios | Dayr al- Anba Antonius | Dayr al- Anbā Antonios | Dayr al- Anbā Antonius | Dayr al- al- Abba Antonios | Dayr al- al- Abba Antonius | Dayr al- al- Anba Antonios | Dayr al- al- Anba Antonius | Dayr al- al- Anbā Antonios | Dayr al- al- Anbā Antonius | Deir Abba Antonios | Deir Abba Antonius | Deir Anba Antonios | Deir Anba Antonius | Deir Anbā Antonios | Deir Anbā Antonius | Deir al- Abba Antonios | Deir al- Abba Antonius | Deir al- Anba Antonios | Deir al- Anba Antonius | Deir al- Anbā Antonios | Deir al- Anbā Antonius
+# دير الأنبا بولا
+  Dair Abba Bula | Dair Anba Bula | Dair Anbā Bula | Dair al- Abba Bula | Dair al- Anba Bula | Dair al- Anbā Bula | Dayr Abba Bula | Dayr Anba Bula | Dayr Anbā Bula | Dayr al- Abba Bula | Dayr al- Anba Bula | Dayr al- Anbā Bula | Dayr al- al- Abba Bula | Dayr al- al- Anba Bula | Dayr al- al- Anbā Bula | Deir Abba Bula | Deir Anba Bula | Deir Anbā Bula | Deir al- Abba Bula | Deir al- Anba Bula | Deir al- Anbā Bula
+# الدير المحرق
+  Dair al- al-Muharrac | Dair al- al-Muharrak | Dair al- al-Muharraq | Dair al-Muharrac | Dair al-Muharrak | Dair al-Muharraq | Dayr al- al- al-Muharrac | Dayr al- al- al-Muharrak | Dayr al- al- al-Muharraq | Dayr al- al-Muharrac | Dayr al- al-Muharrak | Dayr al- al-Muharraq | Dayr al-Muharrac | Dayr al-Muharrak | Dayr al-Muharraq | Deir al- al-Muharrac | Deir al- al-Muharrak | Deir al- al-Muharraq | Deir al-Muharrac | Deir al-Muharrak | Deir al-Muharraq
+# الدير الأبيض
+  White Monasteri | White Monastery
+# الدير الأحمر
+  Red Monasteri | Red Monastery
+# دير أبا أبوللو باويط
+  Dair Apa Apollo Bavit | Dair Apa Apollo Bawit | Dair al- Apa Apollo Bavit | Dair al- Apa Apollo Bawit | Dayr Apa Apollo Bavit | Dayr Apa Apollo Bawit | Dayr al- Apa Apollo Bavit | Dayr al- Apa Apollo Bawit | Dayr al- al- Apa Apollo Bavit | Dayr al- al- Apa Apollo Bawit | Deir Apa Apollo Bavit | Deir Apa Apollo Bawit | Deir al- Apa Apollo Bavit | Deir al- Apa Apollo Bawit
+# دير إبيفانيوس
+  Dair Epifanios | Dair Epifanius | Dair Epiphanios | Dair Epiphanius | Dair al- Epifanios | Dair al- Epifanius | Dair al- Epiphanios | Dair al- Epiphanius | Dayr Epifanios | Dayr Epifanius | Dayr Epiphanios | Dayr Epiphanius | Dayr al- Epifanios | Dayr al- Epifanius | Dayr al- Epiphanios | Dayr al- Epiphanius | Dayr al- al- Epifanios | Dayr al- al- Epifanius | Dayr al- al- Epiphanios | Dayr al- al- Epiphanius | Deir Epifanios | Deir Epifanius | Deir Epiphanios | Deir Epiphanius | Deir al- Epifanios | Deir al- Epifanius | Deir al- Epiphanios | Deir al- Epiphanius
+# دير الأنبا إرميا سقارة
+  Monasteri of St Jeremiah Saccara | Monasteri of St Jeremiah Sakkara | Monasteri of St Jeremiah Saqqara | Monastery of St Jeremiah Saccara | Monastery of St Jeremiah Sakkara | Monastery of St Jeremiah Saqqara
+# دير القلمون
+  Dair al- al-Kalamun | Dair al- al-Qalamun | Dair al-Kalamun | Dair al-Qalamun | Dayr al- al- al-Kalamun | Dayr al- al- al-Qalamun | Dayr al- al-Kalamun | Dayr al- al-Qalamun | Dayr al-Kalamun | Dayr al-Qalamun | Deir al- al-Kalamun | Deir al- al-Qalamun | Deir al-Kalamun | Deir al-Qalamun
+# دير الأنبا هدرا
+  Dair Abba Hadra | Dair Anba Hadra | Dair Anbā Hadra | Dair al- Abba Hadra | Dair al- Anba Hadra | Dair al- Anbā Hadra | Dayr Abba Hadra | Dayr Anba Hadra | Dayr Anbā Hadra | Dayr al- Abba Hadra | Dayr al- Anba Hadra | Dayr al- Anbā Hadra | Dayr al- al- Abba Hadra | Dayr al- al- Anba Hadra | Dayr al- al- Anbā Hadra | Deir Abba Hadra | Deir Anba Hadra | Deir Anbā Hadra | Deir al- Abba Hadra | Deir al- Anba Hadra | Deir al- Anbā Hadra
+# دير الست دميانة
+  Dair al- al-Kiddisa Dimiana | Dair al- al-Kiddisa Dimyana | Dair al- al-Qiddisa Dimiana | Dair al- al-Qiddisa Dimyana | Dair al-Kiddisa Dimiana | Dair al-Kiddisa Dimyana | Dair al-Qiddisa Dimiana | Dair al-Qiddisa Dimyana | Dayr al- al- al-Kiddisa Dimyana | Dayr al- al- al-Qiddisa Dimyana | Dayr al- al-Kiddisa Dimyana | Dayr al- al-Qiddisa Dimyana | Dayr al-Kiddisa Dimyana | Dayr al-Qiddisa Dimyana | Deir al- al-Kiddisa Dimyana | Deir al- al-Qiddisa Dimyana | Deir al-Kiddisa Dimiana | Deir al-Kiddisa Dimyana | Deir al-Qiddisa Dimiana | Deir al-Qiddisa Dimyana
+# دير العذراء
+  Dair al- al-Adhra | Dair al- al-Adra | Dair al-Adhra | Dair al-Adra | Dayr al- al- al-Adhra | Dayr al- al- al-Adra | Dayr al- al-Adhra | Dayr al- al-Adra | Dayr al-Adhra | Dayr al-Adra | Deir al- al-Adhra | Deir al- al-Adra | Deir al-Adhra | Deir al-Adra
+# دير أبو فانا
+  Dair Abu Fana | Dair al- Abu Fana | Dayr Abu Fana | Dayr al- Abu Fana | Dayr al- al- Abu Fana | Deir Abu Fana | Deir al- Abu Fana
+# دير القصير
+  Dair al- al-Kosair | Dair al- al-Kosayr | Dair al- al-Kusair | Dair al- al-Kusayr | Dair al- al-Qosair | Dair al- al-Qosayr | Dair al- al-Qusair | Dair al- al-Qusayr | Dair al-Kosair | Dair al-Kosayr | Dair al-Kusair | Dair al-Kusayr | Dair al-Qosair | Dair al-Qosayr | Dair al-Qusair | Dair al-Qusayr | Dayr al- al- al-Kosayr | Dayr al- al- al-Kusayr | Dayr al- al- al-Qosayr | Dayr al- al- al-Qusayr | Dayr al- al-Kosayr | Dayr al- al-Kusayr | Dayr al- al-Qosayr | Dayr al- al-Qusayr | Dayr al-Kosayr | Dayr al-Kusayr | Dayr al-Qosayr | Dayr al-Qusayr | Deir al- al-Kosayr | Deir al- al-Kusayr | Deir al- al-Qosayr | Deir al- al-Qusayr | Deir al-Kosair | Deir al-Kosayr | Deir al-Kusair | Deir al-Kusayr | Deir al-Qosair | Deir al-Qosayr | Deir al-Qusair | Deir al-Qusayr
+# دير الأنبا صموئيل
+  Dair Abba Samuel | Dair Anba Samuel | Dair Anbā Samuel | Dair al- Abba Samuel | Dair al- Anba Samuel | Dair al- Anbā Samuel | Dayr Abba Samuel | Dayr Anba Samuel | Dayr Anbā Samuel | Dayr al- Abba Samuel | Dayr al- Anba Samuel | Dayr al- Anbā Samuel | Dayr al- al- Abba Samuel | Dayr al- al- Anba Samuel | Dayr al- al- Anbā Samuel | Deir Abba Samuel | Deir Anba Samuel | Deir Anbā Samuel | Deir al- Abba Samuel | Deir al- Anba Samuel | Deir al- Anbā Samuel
+# دير سانت كاترين سيناء
+  Monasteri of St Caterine Sinai | Monasteri of St Catherine Sinai | Monasteri of St Katerine Sinai | Monasteri of St Katherine Sinai | Monastery of St Caterine Sinai | Monastery of St Catherine Sinai | Monastery of St Katerine Sinai | Monastery of St Katherine Sinai
 
-# الأنبا باخوميوس
-Pachomius | Pachome | Pacôme | Pacomio | Bākhūm | Bākhūmiyūs | Anbā Bākhūm
-باخوميوس | أنبا باخوم | باخوم
+======================================================================
+[3] الأماكن
+======================================================================
+# الإسقيط / شيهيت
+  Scetis | Sketis
+# وادي النطرون
+  Wadi al-Natrun
+# نتريا
+  Nitria
+# القلالي
+  Kellia
+# البهنسا
+  Oxirhinchos | Oxirhinchus | Oxirhincos | Oxirhincus | Oxirhinkhos | Oxirhinkhus | Oxirhinkos | Oxirhinkus | Oxyrhynchos | Oxyrhynchus | Oxyrhyncos | Oxyrhyncus | Oxyrhynkhos | Oxyrhynkhus | Oxyrhynkos | Oxyrhynkus
+# الحامولي
+  Hamuli
+# نجع حمادي
+  Nag Hammadi
+# أخميم
+  Achmim | Acmim | Akhmim | Akmim
+# أنصنا
+  Antinoopolis
+# طيبة
+  Tebes | Thebes
+# جيمي
+  Jeme
+# إسنا
+  Esna
+# إدفو
+  Edfu
+# أسوان
+  Asvan | Aswan
+# الفيوم
+  Faiium | Fayyum
+# باويط
+  Bavit | Bawit
+# سقارة
+  Saccara | Sakkara | Saqqara
+# الإسكندرية
+  Alexandria
+# سوهاج
+  Sohag
+# أسيوط
+  Asiut | Asyut
+# قفط
+  Kift | Qift
+# دندرة
+  Dendera
+# بانوبوليس
+  Panopolis
 
-# الأنبا شنودة رئيس المتوحدين
-Shenoute | Shenute | Schenute | Sinuthius | Chenouté | Senouthios | Sanutios | Shanūdah
-شنودة | أنبا شنودة | شنوده رئيس المتوحدين
+======================================================================
+[4] أنواع النصوص والكتب
+======================================================================
+# إنجيل
+  Gospel | Guspel
+# الأناجيل الأربعة
+  Tetraevangelion | Tetraewangelion | Tetrevangelion | Tetrewangelion
+# أسفار موسى
+  Pentateuc | Pentateuch | Pentateuk | Pentateukh
+# المزامير
+  Psalter
+# قطمارس
+  Lectionari | Lectionary | Lektionari | Lektionary
+# قطمارس
+  Katameros | Katamerus
+# السنكسار
+  Sinaxarion | Synaxarion
+# الدفنار
+  Difnar
+# الإبصلمودية
+  Psalmodia
+# التماجيد
+  Doxologi | Doxology
+# الخولاجي
+  Euchologion | Eucologion | Eukhologion | Eukologion
+# الأجبية
+  Horologion
+# الأجبية
+  Agpeia | Agpeya
+# الأنافورا
+  Anafora | Anaphora
+# القداس
+  Liturgi | Liturgy
+# ميمر
+  Homili | Homily
+# مديح
+  Encomium | Enkomium
+# استشهاد
+  Martirdom | Martyrdom
+# سيرة قديس
+  Hagiografi | Hagiografy | Hagiographi | Hagiography
+# بستان الرهبان
+  Apoftegmata | Apofthegmata | Apophtegmata | Apophthegmata
+# بستان الرهبان
+  Patericon | Paterikon
+# تاريخ البطاركة
+  Histori of te Patriarchs | Histori of te Patriarcs | Histori of te Patriarkhs | Histori of te Patriarks | Histori of the Patriarchs | Histori of the Patriarcs | Histori of the Patriarkhs | Histori of the Patriarks | History of te Patriarchs | History of te Patriarcs | History of te Patriarkhs | History of te Patriarks | History of the Patriarchs | History of the Patriarcs | History of the Patriarkhs | History of the Patriarks
+# المجموع الصفوي
+  Nomocanon | Nomokanon
+# سلسلة تفاسير
+  Catena | Katena
+# تفسير
+  Tafsir
+# لحن
+  Himn | Hymn
+# طروبارية
+  Troparion
+# الثيؤطوكية
+  Teotocia | Teotokia | Theotocia | Theotokia
+# أبوكريفا
+  Apocrifa | Apocripha | Apocryfa | Apocrypha | Apokrifa | Apokripha | Apokryfa | Apokrypha
+# أوستراكا
+  Ostracon | Ostrakon
+# بردية
+  Papiros | Papirus | Papyros | Papyrus
+# قصاصة
+  Fragment
 
-# آباء وقديسون آخرون
-Moses the Black | Moses the Ethiopian — موسى الأسود
-Arsenius the Great — أرسانيوس
-Poemen | Pœmen — بيمن / بيمين
-Agathon — أغاثون
-Sisoes — سيصوي
-Isidore — إيسيذوروس
-Isaiah of Scetis | Esaïe de Scété — إشعياء الإسقيطي
-Samuel of Kalamoun | Samuel the Confessor — صموئيل المعترف
-Pisentius | Pesynthios — بيسنتاؤس / بيصاده
-Daniel of Scetis — دانيال الإسقيطي
-Paul of Thebes | Paul the Hermit — بولا الطموهي / أنبا بولا أول السواح
-Apollo | Apollon — أبوللو
-Onnophrius | Onuphrius — أنبا نفر السائح
-Pambo — بامبو
+======================================================================
+[5] اللغات واللهجات
+======================================================================
+# قبطي
+  Coptic | Coptik | Koptic | Koptik
+# بحيري
+  Bohairic | Bohairik
+# صعيدي
+  Sahidic | Sahidik
+# فيومي
+  Faiiumic | Faiiumik | Fayyumic | Fayyumik
+# أخميمي
+  Achmimic | Acmimic | Akhmimic | Akhmimik | Akmimic | Akmimik
+# ليكوبوليتاني
+  Licopolitan | Likopolitan | Lycopolitan | Lykopolitan
+# تحت أخميمي
+  Subachmimic | Subacmimic | Subakhmimic | Subakhmimik | Subakmimic | Subakmimik
+# قبطي قديم
+  Old Coptic | Old Coptik | Old Koptic | Old Koptik
+# قبطي عربي
+  Copto-Arabic | Copto-Arabik | Kopto-Arabic | Kopto-Arabik
+# عربي مسيحي
+  Christian Arabic | Christian Arabik | Khristian Arabic | Khristian Arabik | Kristian Arabic | Kristian Arabik
+# كرشوني
+  Garshuni
 
-# آباء الكنيسة والكُتّاب
-Athanasius of Alexandria — أثناسيوس الرسولي
-Cyril of Alexandria — كيرلس عمود الدين
-Dioscorus — ديسقوروس
-Severus of Antioch — ساويرس الأنطاكي
-Severus ibn al-Muqaffaʿ — ساويرس بن المقفع
-Ibn al-ʿAssal — ابن العسال (أولاد العسال)
-Ibn Kabar | Abu al-Barakat — ابن كبر
-al-Safi ibn al-ʿAssal — الصفي بن العسال
-al-Mu'taman ibn al-ʿAssal — المؤتمن بن العسال
-Butrus al-Sadamanti — بطرس السدمنتي
-Abu al-Makarim — أبو المكارم
+======================================================================
+[6] باباوات وبطاركة الكرازة المرقسية
+======================================================================
+# مرقس الرسول
+  Marc te Evangelist | Marc te Ewangelist | Marc the Evangelist | Marc the Ewangelist | Mark te Evangelist | Mark te Ewangelist | Mark the Evangelist | Mark the Ewangelist
+# أنيانوس
+  Anianos | Anianus
+# أبيليوس
+  Avilios | Avilius | Awilios | Awilius
+# كردونا
+  Kedron
+# بريموس
+  Primos | Primus
+# يسطس
+  Jostos | Justus
+# أومانيوس
+  Eumenes
+# مرقيانوس
+  Marcianos | Marcianus | Markianos | Markianus
+# كلاديانوس
+  Celadion | Keladion
+# أغريبينوس
+  Agrippinos | Agrippinus
+# يوليانوس
+  Julian
+# ديمتريوس الكرام
+  Demetrios | Demetrius
+# ياروكلاس
+  Heraclas | Heraklas
+# ديونيسيوس
+  Dionisios of Alexandria | Dionisius of Alexandria | Dionysios of Alexandria | Dionysius of Alexandria
+# مكسيموس
+  Maximos | Maximus
+# تيؤنا
+  Teonas | Theonas
+# بطرس خاتم الشهداء
+  Peter I
+# أرشيلاوس
+  Achillas | Acillas | Akhillas | Akillas
+# ألكسندروس
+  Alexander I
+# أثناسيوس الرسولي
+  Atanasios I | Atanasius I | Athanasios I | Athanasius I
+# بطرس الثاني
+  Peter II
+# تيموثاوس
+  Timothi I | Timothy I | Timoti I | Timoty I
+# ثيؤفيلس
+  Teofilos | Teofilus | Teophilos | Teophilus | Theofilos | Theofilus | Theophilos | Theophilus
+# كيرلس الكبير
+  Ciril I | Cyril I | Kiril I | Kyril I
+# ديسقوروس
+  Dioscoros I | Dioscorus I | Dioskoros I | Dioskorus I | Diuscoros I | Diuscorus I | Diuskoros I | Diuskorus I
+# تيموثاوس الثاني
+  Timothi II | Timothy II | Timoti II | Timoty II
+# بطرس الثالث
+  Peter III Mongos | Peter III Mongus
+# أثناسيوس الثاني
+  Atanasios II | Atanasius II | Athanasios II | Athanasius II
+# يوأنس
+  John I
+# يوأنس الثاني
+  John II
+# ديسقوروس الثاني
+  Dioscoros II | Dioscorus II | Dioskoros II | Dioskorus II | Diuscoros II | Diuscorus II | Diuskoros II | Diuskorus II
+# تيموثاوس الثالث
+  Timothi III | Timothy III | Timoti III | Timoty III
+# ثيؤدوسيوس
+  Teodosios I | Teodosius I | Teodusius I | Theodosios I | Theodosius I | Theodusius I
+# بطرس الرابع
+  Peter IV
+# داميانوس
+  Damian
+# أنسطاسيوس
+  Anastasios | Anastasius
+# أندرونيكوس
+  Andronicos | Andronicus | Andronikos | Andronikus
+# بنيامين
+  Beniamin I | Benjamin I | Benyamin I
+# أغاثو
+  Agatho | Agato
+# يوأنس الثالث
+  John III
+# إسحق
+  Isaac | Isaak
+# سيمون
+  Simon I
+# ألكسندروس الثاني
+  Alexander II
+# قزمان
+  Cosmas I | Cusmas I | Kosmas I | Kusmas I
+# تيؤدوروس
+  Teodore I | Theodore I
+# ميخائيل / خائيل
+  Micael I | Micel I | Michael I | Michel I | Mikael I | Mikel I | Mikhael I | Mikhel I
+# مينا
+  Mina I
+# يوأنس الرابع
+  John IV
+# مرقس الثاني
+  Marc II | Mark II
+# يعقوب
+  Jacob | Jakob
+# سيمون الثاني
+  Simon II
+# يوساب
+  Iosab I | Iusab I | Yosab I | Yusab I
+# ميخائيل الثاني
+  Micael II | Micel II | Michael II | Michel II | Mikael II | Mikel II | Mikhael II | Mikhel II
+# قزمان الثاني
+  Cosmas II | Cusmas II | Kosmas II | Kusmas II
+# شنودة الأول
+  Shenooda I | Shenouda I | Shenuda I
+# ميخائيل الثالث
+  Micael III | Micel III | Michael III | Michel III | Mikael III | Mikel III | Mikhael III | Mikhel III
+# غبريال
+  Gabriel I
+# قزمان الثالث
+  Cosmas III | Cusmas III | Kosmas III | Kusmas III
+# مكاريوس
+  Macaire I | Macarios I | Macarius I | Makaire I | Makarios I | Makarius I
+# theophanius
+  Teofanios | Teofanius | Teophanios | Teophanius | Theofanios | Theofanius | Theophanios | Theophanius
+# مينا الثاني
+  Mina II
+# أبرآم ابن زرعة
+  Abraham
+# فيلوثاوس
+  Filoteos | Filoteus | Filotheos | Filotheus | Philoteos | Philoteus | Philotheos | Philotheus
+# زكريا
+  Zacarias | Zacharias | Zakarias | Zakharias
+# شنودة الثاني
+  Shenooda II | Shenouda II | Shenuda II
+# خريستوذولو
+  Christodulos | Christodulus | Khristodulos | Khristodulus | Kristodulos | Kristodulus
+# كيرلس الثاني
+  Ciril II | Cyril II | Kiril II | Kyril II
+# ميخائيل الرابع
+  Micael IV | Micel IV | Michael IV | Michel IV | Mikael IV | Mikel IV | Mikhael IV | Mikhel IV
+# مكاريوس الثاني
+  Macaire II | Macarios II | Macarius II | Makaire II | Makarios II | Makarius II
+# غبريال بن تريك
+  Gabriel II ibn Turaic | Gabriel II ibn Turaik | Gabriel II ibn Turayc | Gabriel II ibn Turayk
+# ميخائيل الخامس
+  Micael V | Micel V | Michael V | Michel V | Mikael V | Mikel V | Mikhael V | Mikhel V
+# يوأنس الخامس
+  John V
+# مرقس بن زرعة
+  Marc III ibn Zura | Mark III ibn Zura
+# يوأنس السادس
+  John VI
+# كيرلس بن لقلق
+  Ciril III ibn Laclac | Ciril III ibn Laklak | Ciril III ibn Laqlaq | Cyril III ibn Laclac | Cyril III ibn Laklak | Cyril III ibn Laqlaq | Kiril III ibn Laclac | Kiril III ibn Laklak | Kiril III ibn Laqlaq | Kyril III ibn Laclac | Kyril III ibn Laklak | Kyril III ibn Laqlaq
+# أثناسيوس الثالث
+  Atanasios III | Atanasius III | Athanasios III | Athanasius III
+# غبريال الثالث
+  Gabriel III
+# يوأنس السابع
+  John VII
+# ثيؤدوسيوس الثاني
+  Teodosios II | Teodosius II | Teodusius II | Theodosios II | Theodosius II | Theodusius II
+# يوأنس الثامن
+  John VIII
+# يوأنس التاسع
+  John IX
+# بنيامين الثاني
+  Beniamin II | Benjamin II | Benyamin II
+# بطرس الخامس
+  Peter V
+# مرقس الرابع
+  Marc IV | Mark IV
+# يوأنس العاشر
+  John X
+# غبريال الرابع
+  Gabriel IV
+# متاؤس
+  Mattev I | Mattew I | Matthev I | Matthew I
+# غبريال الخامس
+  Gabriel V
+# يوأنس الحادي عشر
+  John XI
+# متاؤس الثاني
+  Mattev II | Mattew II | Matthev II | Matthew II
+# غبريال السادس
+  Gabriel VI
+# ميخائيل السادس
+  Micael VI | Micel VI | Michael VI | Michel VI | Mikael VI | Mikel VI | Mikhael VI | Mikhel VI
+# يوأنس الثاني عشر
+  John XII
+# يوأنس الثالث عشر
+  John XIII
+# غبريال السابع
+  Gabriel VII
+# يوأنس الرابع عشر
+  John XIV
+# غبريال الثامن
+  Gabriel VIII
+# مرقس الخامس
+  Marc V | Mark V
+# يوأنس الخامس عشر
+  John XV
+# متاؤس الثالث
+  Mattev III | Mattew III | Matthev III | Matthew III
+# مرقس السادس
+  Marc VI | Mark VI
+# متاؤس الرابع
+  Mattev IV | Mattew IV | Matthev IV | Matthew IV
+# يوأنس السادس عشر
+  John XVI
+# بطرس السادس
+  Peter VI
+# يوأنس السابع عشر
+  John XVII
+# مرقس السابع
+  Marc VII | Mark VII
+# يوأنس الثامن عشر
+  John XVIII
+# مرقس الثامن
+  Marc VIII | Mark VIII
+# بطرس السابع
+  Peter VII
+# كيرلس الرابع أبو الإصلاح
+  Ciril IV | Cyril IV | Kiril IV | Kyril IV
+# ديمتريوس الثاني
+  Demetrios II | Demetrius II
+# كيرلس الخامس
+  Ciril V | Cyril V | Kiril V | Kyril V
+# يوأنس التاسع عشر
+  John XIX
+# مكاريوس الثالث
+  Macaire III | Macarios III | Macarius III | Makaire III | Makarios III | Makarius III
+# يوساب الثاني
+  Iosab II | Iusab II | Yosab II | Yusab II
+# كيرلس السادس
+  Ciril VI | Cyril VI | Kiril VI | Kyril VI
+# شنودة الثالث
+  Shenooda III | Shenouda III | Shenuda III
+# تواضروس الثاني
+  Tavadros II | Tavadrus II | Tawadros II | Tawadrus II
 
-------------------------------------------------------------
-[د] أنواع النصوص والكتب (قبطي / عربي / لاتيني)
-------------------------------------------------------------
-Bible | Biblia | Old Testament | New Testament — الكتاب المقدس / العهدين
-Gospel | Gospels | Four Gospels | Tetraevangelion | Evangelion | Évangile — إنجيل / الأناجيل الأربعة
-Pentateuch — أسفار موسى الخمسة
-Psalter | Psalms | Psalterium — المزامير / سفر المزامير
-Lectionary | Katameros | Katamâros | Lectionnaire — قطمارس
-Synaxarion | Synaxarium | Synaxaire — السنكسار
-Difnar | Antiphonarium — الدفنار
-Doxology | Psalmodia | Psalmody — الإبصلمودية / التماجيد
-Euchologion | Khulaji | Kholagy — الخولاجي
-Horologion | Agpeya | Book of Hours — الأجبية / كتاب السواعي
-Liturgy | Anaphora | Mass — القداس / الأنافورا / الخدمة
-Homily | Homilies | Encomium | Sermon | Panegyric — عظة / ميمر / مديح
-Martyrdom | Passion | Acts of martyrs — استشهاد / سيرة شهيد
-Hagiography | Life | Vita | Bios — سيرة قديس
-Apophthegmata | Sayings | Paterikon | Apophtegmes — بستان الرهبان / أقوال الآباء
-History of the Patriarchs — تاريخ البطاركة
-Canons | Nomocanon — القوانين / المجموع الصفوي
-Commentary | Catena | Tafsir — تفسير / سلسلة
-Hymn | Hymnal | Troparion — لحن / تسبحة
-Prayer | Prayers — صلاة / صلوات
-Apocrypha | Gnostic | Nag Hammadi — أبوكريفا / نجع حمادي
-Fragment | Ostracon | Ostraca | Papyrus — قصاصة / أوستراكا / بردية
+======================================================================
+[7] الشهداء
+======================================================================
+# مرقوريوس أبو سيفين
+  Mercurios Abu Sefein | Mercurius Abu Sefein | Merkurios Abu Sefein | Merkurius Abu Sefein
+# جرجس
+  George of Cappadocia | George of Cappadokia | George of Kappadocia | George of Kappadokia
+# مينا العجايبي
+  Mina te Wondervorcer | Mina te Wondervorker | Mina te Wonderworcer | Mina te Wonderworker | Mina the Wondervorcer | Mina the Wondervorker | Mina the Wonderworcer | Mina the Wonderworker
+# تادرس المشرقي
+  Teodore te Oriental | Teodore the Oriental | Theodore te Oriental | Theodore the Oriental
+# تادرس الإسفهسلار
+  Teodore Stratelates | Theodore Stratelates
+# بقطر بن رومانوس
+  Victor son of Romanos | Victor son of Romanus | Viktor son of Romanos | Viktor son of Romanus
+# أقلاديوس
+  Claudios | Claudius | Klaudios | Klaudius
+# إزيدوروس
+  Isidore
+# بانين وبانيو
+  Panine and Paneu
+# أبا إبيما
+  Apa Epima
+# أبانوب
+  Abanoob | Abanoub | Abanub
+# يوليوس الأقفهصي
+  Julios of Acfahs | Julios of Akfahs | Julios of Aqfahs | Julius of Acfahs | Julius of Akfahs | Julius of Aqfahs
+# مقاريوس الأنطاكي
+  Macaire of Antioc | Macaire of Antioch | Macaire of Antiok | Macaire of Antiokh | Macarios of Antioc | Macarios of Antioch | Macarios of Antiok | Macarios of Antiokh | Macarius of Antioc | Macarius of Antioch | Macarius of Antiok | Macarius of Antiokh | Makaire of Antiok | Makaire of Antiokh | Makarios of Antioc | Makarios of Antioch | Makarios of Antiok | Makarios of Antiokh | Makarius of Antioc | Makarius of Antioch | Makarius of Antiok | Makarius of Antiokh
+# فيلوثاوس
+  Filoteos | Filoteus | Filotheos | Filotheus | Philoteos | Philoteus | Philotheos | Philotheus
+# سرابامون
+  Sarapamon
+# بسادة
+  Psote
+# بيسا وتكلا
+  Paese and Tecla | Paese and Tekla | Paese and Thecla | Paese and Thekla | Pese and Tecla | Pese and Tekla | Pese and Thecla | Pese and Thekla
+# شنوفة
+  Shenufe
+# بيروو وأثوم
+  Piroo and Athom | Piroo and Atom | Pirou and Athom | Pirou and Atom | Piru and Athom | Piru and Atom
+# تيل
+  Till
+# أبولي
+  Apoli
+# ديسقوروس
+  Dioscoros and Aesculapios | Dioscorus and Aesculapius | Dioskoros and Aeskulapios | Dioskorus and Aeskulapius | Diuscoros and Aesculapius | Diuscorus and Aesculapius | Diuskoros and Aeskulapius | Diuskorus and Aeskulapius
+# إبيما
+  Epima of Paniioit | Epima of Panijoit | Epima of Paniyoit
+# لاكارون
+  Lacaron | Lakaron
+# يوحنا وسمعان
+  John and Simon
+# أوسابيوس
+  Eosebios | Eosebius | Eusebius
+# باسيليدس
+  Basilides
+# يسطس وأبلي
+  Jostos and Apoli | Justus and Apoli
+# أناطوليوس
+  Anatolios | Anatolius
+# ديديموس
+  Didimos | Didimus | Didymos | Didymus
+# كاو
+  Kaoo | Kaou | Kau
+# نهروة
+  Nahrov | Nahrow
+# بيصورة
+  Pisura
+# هيراكليوس
+  Heraclios | Heraclius | Heraklios | Heraklius
+# شهداء الإسقيط التسعة والأربعون
+  Forti-nine Martirs of Scetis | Forti-nine Martirs of Sketis | Forty-nine Martyrs of Scetis | Forty-nine Martyrs of Sketis
+# ديونيسيا
+  Dionisia | Dionysia
+# دوماديوس
+  Dometios | Dometius
+# مكسيموس
+  Maximos | Maximus
 
-------------------------------------------------------------
-[هـ] اللغات واللهجات
-------------------------------------------------------------
-Coptic | Copte | Koptisch | Coptica | Copto | Κοπτικά | قبطي
-Bohairic | Bohairique | Boheirisch | بحيري
-Sahidic | Sahidique | Saïdisch | Thebaic | صعيدي / ثيبي
-Fayyumic | Fayoumique | فيومي
-Akhmimic | Akhmîmique | أخميمي
-Lycopolitan | Subakhmimic | ليكوبوليتاني
-Old Coptic | Copto-Arabic | Garshuni — قبطي قديم / قبطي عربي / كرشوني
-Christian Arabic — عربي مسيحي
+======================================================================
+[8] كنائس وإيبارشيات
+======================================================================
+# الكنيسة المعلقة
+  Hanging Churc | Hanging Church | Hanging Churk | Hanging Churkh | Hanging Khurc | Hanging Khurch | Hanging Khurk | Hanging Khurkh | Hanging Kurc | Hanging Kurch | Hanging Kurk | Hanging Kurkh
+# أبو سرجة
+  Abu Serga
+# القديسة برباره
+  Saint Barbara
+# العذراء بحارة زويلة
+  Churc of te Virgin Harat Zuvaila | Churc of te Virgin Harat Zuvayla | Churc of te Virgin Harat Zuwaila | Churc of te Virgin Harat Zuwayla | Churc of the Virgin Harat Zuvaila | Churc of the Virgin Harat Zuvayla | Churc of the Virgin Harat Zuwaila | Churc of the Virgin Harat Zuwayla | Church of te Virgin Harat Zuvaila | Church of te Virgin Harat Zuvayla | Church of te Virgin Harat Zuwaila | Church of te Virgin Harat Zuwayla | Church of the Virgin Harat Zuvaila | Church of the Virgin Harat Zuvayla | Church of the Virgin Harat Zuwaila | Church of the Virgin Harat Zuwayla | Churk of te Virgin Harat Zuvaila | Churk of te Virgin Harat Zuvayla | Churk of te Virgin Harat Zuwaila | Churk of te Virgin Harat Zuwayla | Churk of the Virgin Harat Zuvaila | Churk of the Virgin Harat Zuvayla | Churk of the Virgin Harat Zuwaila | Churk of the Virgin Harat Zuwayla | Churkh of te Virgin Harat Zuvaila | Churkh of te Virgin Harat Zuvayla | Churkh of te Virgin Harat Zuwaila | Churkh of te Virgin Harat Zuwayla | Churkh of the Virgin Harat Zuvaila | Churkh of the Virgin Harat Zuvayla | Churkh of the Virgin Harat Zuwaila | Churkh of the Virgin Harat Zuwayla | Khurc of te Virgin Harat Zuvaila | Khurc of te Virgin Harat Zuvayla | Khurc of te Virgin Harat Zuwaila | Khurc of te Virgin Harat Zuwayla | Khurc of the Virgin Harat Zuvaila | Khurc of the Virgin Harat Zuvayla | Khurc of the Virgin Harat Zuwaila | Khurc of the Virgin Harat Zuwayla | Khurch of te Virgin Harat Zuvaila | Khurch of te Virgin Harat Zuvayla | Khurch of te Virgin Harat Zuwaila | Khurch of te Virgin Harat Zuwayla | Khurch of the Virgin Harat Zuvaila | Khurch of the Virgin Harat Zuvayla | Khurch of the Virgin Harat Zuwaila | Khurch of the Virgin Harat Zuwayla | Khurk of te Virgin Harat Zuvaila | Khurk of te Virgin Harat Zuvayla | Khurk of te Virgin Harat Zuwaila | Khurk of te Virgin Harat Zuwayla | Khurk of the Virgin Harat Zuvaila | Khurk of the Virgin Harat Zuvayla | Khurk of the Virgin Harat Zuwaila | Khurk of the Virgin Harat Zuwayla | Khurkh of te Virgin Harat Zuvaila | Khurkh of te Virgin Harat Zuvayla | Khurkh of te Virgin Harat Zuwaila | Khurkh of te Virgin Harat Zuwayla | Khurkh of the Virgin Harat Zuvaila | Khurkh of the Virgin Harat Zuvayla | Khurkh of the Virgin Harat Zuwaila | Khurkh of the Virgin Harat Zuwayla | Kurc of te Virgin Harat Zuvaila | Kurc of te Virgin Harat Zuvayla | Kurc of te Virgin Harat Zuwaila | Kurc of te Virgin Harat Zuwayla | Kurc of the Virgin Harat Zuvaila | Kurc of the Virgin Harat Zuvayla | Kurc of the Virgin Harat Zuwaila | Kurc of the Virgin Harat Zuwayla | Kurch of te Virgin Harat Zuvaila | Kurch of te Virgin Harat Zuvayla | Kurch of te Virgin Harat Zuwaila | Kurch of te Virgin Harat Zuwayla | Kurch of the Virgin Harat Zuvaila | Kurch of the Virgin Harat Zuvayla | Kurch of the Virgin Harat Zuwaila | Kurch of the Virgin Harat Zuwayla | Kurk of te Virgin Harat Zuvaila | Kurk of te Virgin Harat Zuvayla | Kurk of te Virgin Harat Zuwaila | Kurk of te Virgin Harat Zuwayla | Kurk of the Virgin Harat Zuvaila | Kurk of the Virgin Harat Zuvayla | Kurk of the Virgin Harat Zuwaila | Kurk of the Virgin Harat Zuwayla | Kurkh of te Virgin Harat Zuvaila | Kurkh of te Virgin Harat Zuvayla | Kurkh of te Virgin Harat Zuwaila | Kurkh of te Virgin Harat Zuwayla | Kurkh of the Virgin Harat Zuvaila | Kurkh of the Virgin Harat Zuvayla | Kurkh of the Virgin Harat Zuwaila | Kurkh of the Virgin Harat Zuwayla
+# بطريركية الإسكندرية
+  Patriarcate of Alexandria | Patriarchate of Alexandria | Patriarkate of Alexandria | Patriarkhate of Alexandria
+# إيبارشية أسيوط
+  Diocese of Asiut | Diocese of Asyut | Diokese of Asiut | Diokese of Asyut
+# إيبارشية سوهاج
+  Diocese of Sohag | Diokese of Sohag
+# إيبارشية المنيا
+  Diocese of Minia | Diocese of Minya | Diokese of Minia | Diokese of Minya
+# إيبارشية قنا
+  Diocese of Kena | Diocese of Qena | Diokese of Kena | Diokese of Qena
+# إيبارشية الأقصر
+  Diocese of Luxor | Diokese of Luxor
+# إيبارشية بني سويف
+  Diocese of Beni Suef | Diokese of Beni Suef
+# إيبارشية القدس
+  Diocese of Jerosalem | Diocese of Jerusalem | Diokese of Jerosalem | Diokese of Jerusalem
+# إيبارشية النوبة
+  Diocese of Nubia | Diokese of Nubia
 
-------------------------------------------------------------
-[و] رموز المجموعات (Shelfmark sigla) للبحث المباشر
-------------------------------------------------------------
-Vat.copt | Borg.copt | Pap.Vat.copt (الفاتيكان)
-Or. (Oriental) | Add. | Add MS (المكتبة البريطانية)
-MS. Copt. | Bruce (بودليان أكسفورد)
-Cod. copt. (فيينا)
-Copte (باريس BnF / بيروت)
-Cpt | Cpt_ (تشستر بيتي دبلن)
-M. (مورجان نيويورك)
-P. (برديات: P.Lond, P.Oxy, P.Bodmer, P.Mich)
-ABMQ (دير أنبا مقار)
-
-------------------------------------------------------------
-[ز] أديرة وأماكن قبطية أخرى (للكشف عن كنوز جديدة في أي فهرس)
-------------------------------------------------------------
-Dayr al-Suryan | Monastery of the Syrians — دير السريان
-Dayr al-Baramus | Baramus — دير البراموس
-Dayr Anba Bishoi — دير الأنبا بيشوي
-Dayr al-Qiddis Anba Antunyus | Monastery of St Antony — دير الأنبا أنطونيوس
-Dayr Anba Bula | Monastery of St Paul — دير الأنبا بولا
-Dayr al-Muharraq — الدير المحرق
-White Monastery | Dayr al-Abyad | Monastery of Shenoute — الدير الأبيض
-Red Monastery | Dayr al-Ahmar — الدير الأحمر
-Dayr Apa Apollo | Bawit — باويط / دير أبا أبوللو
-Dayr Epiphanius | Thebes — دير إبيفانيوس
-Monastery of St Jeremiah | Saqqara — دير الأنبا إرميا بسقارة
-Dayr al-Qalamun — دير القلمون
-Dayr Anba Hadra | Aswan — دير الأنبا هدرا بأسوان
-Oxyrhynchus | al-Bahnasa — البهنسا
-Hamuli | Fayyum — الحامولي بالفيوم
-Nag Hammadi — نجع حمادي
-Kellia | al-Qusur — القلالي
-Esna | Isna — إسنا
-Akhmim | Panopolis — أخميم
-Antinoopolis | Antinoe — أنصنا
-Thebes | Jeme — طيبة / جيمي
-
-================================================================================
-انتهى الحصر. المصادر المؤكدة في برنامج التحميل جاهزة للتنزيل الآن.
-================================================================================
+======================================================================
+[9] الأعياد والأصوام
+======================================================================
+# الميلاد
+  Nativiti | Nativity | Natiwiti | Natiwity
+# الغطاس
+  Epifani | Epifany | Epiphani | Epiphany
+# البشارة
+  Annunciation | Annunkiation
+# أحد السعف
+  Palm Sundai | Palm Sunday
+# أسبوع الآلام / البصخة
+  Holi Weec | Holi Week | Holy Weec | Holy Week
+# القيامة
+  Resurrection | Resurrektion
+# الصعود
+  Ascension | Askension
+# العنصرة
+  Pentecost | Pentecust | Pentekost | Pentekust
+# النيروز
+  Nairooz | Nairouz | Nairuz | Nayrooz | Nayrouz | Nayruz
+# عيد الصليب
+  Feast of te Cross | Feast of te Cruss | Feast of te Kross | Feast of te Kruss | Feast of the Cross | Feast of the Cruss | Feast of the Kross | Feast of the Kruss
+# كيهك
+  Kiahc | Kiahk
+# صوم يونان
+  Jonah Fast
+# صوم نينوى
+  Fast of Nineveh | Fast of Nineweh
+# الصوم الكبير
+  Great Lent
+# صوم الرسل
+  Apostles Fast | Apustles Fast
+# صوم العذراء
+  Fast of te Virgin | Fast of the Virgin
+# الظهور الإلهي
+  Teofani | Teofany | Teophani | Teophany | Theofani | Theofany | Theophani | Theophany
