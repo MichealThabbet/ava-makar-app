@@ -1,0 +1,180 @@
+========================================================
+كلمات البحث الكاملة — التراث القبطي ودير أنبا مقار
+للبحث في vHMML وأي مكتبة. ابحث بكل صيغة على حدة.
+========================================================
+
+--- جرد HMML (مصر) ---
+دير القديس أنبا مقار (ABMQ): أكثر من 500 مخطوطة قبطية. المتاح للعرض ~82.
+هذه هي المكتبة القبطية المصرية الوحيدة في HMML — كلها مخطوطات الدير.
+
+========================================================
+[1] الدير — كل الصيغ
+========================================================
+Dayr Anba Maqar
+Dayr al-Anbā Maqār
+Dair Abû Maqâr
+Dayr Qiddīs Anbā Maqqār
+Dayr al-Qiddīs Anbā Maqqār
+Monastery of Saint Macarius
+Monastery of Saint Macarius the Great
+St. Macarius Monastery
+St Macarius Monastery of Scetis
+Macarius Scetis
+ABMQ
+دير أنبا مقار
+دير القديس أنبا مقار
+دير أبو مقار
+دير القديس العظيم أنبا مقار الكبير
+
+========================================================
+[2] المكان
+========================================================
+Scetis
+Sketis
+Skētis
+Wadi al-Natrun
+Wādī al-Naṭrūn
+Wadi Natrun
+Nitria
+Kellia
+Wadi Habib
+برية شيهيت
+وادي النطرون
+الإسقيط
+شيهيت
+
+========================================================
+[3] القديسون والآباء — كل الصيغ
+========================================================
+# مقار الكبير
+Macarius the Great
+Macarius the Egyptian
+Macarius Scetensis
+Maqāriyūs al-Kabīr
+Macaire
+Makarios
+مقار
+مقاريوس
+أنبا مقار
+
+# مقاريوس السكندري
+Macarius of Alexandria
+Macarius the Younger
+
+# بيشوي
+Pshoi
+Bishoi
+Bīshūy
+Paisios
+بيشوي
+أنبا بيشوي
+
+# يوحنا القصير
+John Kolobos
+John the Little
+John the Dwarf
+يحنس القصير
+يوحنا القصير
+
+# شنودة
+Shenoute
+Shenute
+Schenute
+Sanutios
+Shanūdah
+شنودة
+أنبا شنودة
+
+# باخوميوس
+Pachomius
+Bākhūm
+Pacôme
+باخوميوس
+أنبا باخوم
+
+# أنطونيوس
+Antony
+Antonius
+Anṭūniyūs
+أنطونيوس
+أنبا أنطونيوس
+
+# آباء آخرون
+موسى الأسود    Moses the Black
+أرسانيوس       Arsenius
+بيمن           Poemen
+أغاثون         Agathon
+إشعياء الإسقيطي Isaiah of Scetis
+يحنس كاما      John Kama
+صموئيل المعترف  Samuel the Confessor
+أثناسيوس       Athanasius of Alexandria
+كيرلس          Cyril of Alexandria
+ساويرس         Severus of Antioch
+
+========================================================
+[4] أنواع النصوص (قبطي / عربي)
+========================================================
+Gospel
+Tetraevangelion
+Four Gospels
+Evangelion
+Psalter
+Katameros
+Lectionary
+Synaxarion
+Synaxarium
+Difnar
+Antiphonary
+Euchologion
+Horologion
+Agpeya
+Homilies
+Encomium
+Martyrdom
+Hagiography
+Apophthegmata
+Paterikon
+Bible
+إنجيل
+الأناجيل الأربعة
+قطمارس
+سنكسار
+إبصلمودية
+أجبية
+خولاجي
+ميامر
+عظات
+سير القديسين
+بستان الرهبان
+مزامير
+
+========================================================
+[5] اللهجات القبطية
+========================================================
+Bohairic
+Sahidic
+Fayyumic
+Akhmimic
+Lycopolitan
+بحيري
+صعيدي
+فيومي
+أخميمي
+
+========================================================
+[6] أديرة وأماكن قبطية أخرى (للكشف عن كنوز جديدة)
+========================================================
+Dayr al-Suryan            دير السريان
+Dayr al-Baramus           دير البراموس
+Dayr Anba Bishoi          دير الأنبا بيشوي
+White Monastery           الدير الأبيض
+Red Monastery             الدير الأحمر
+Dayr Anba Antonius        دير الأنبا أنطونيوس
+Dayr Anba Bula            دير الأنبا بولا
+Dayr al-Muharraq          الدير المحرق
+Bawit                     باويط
+Saqqara                   سقارة
+Oxyrhynchus               البهنسا
+Hamuli                    الحامولي
+Nag Hammadi               نجع حمادي
+Kellia                    القلالي
