@@ -176,6 +176,33 @@ def download_one(item, out, width, pause, make_pdf):
         return done == len(imgs)
     folder = os.path.join(out, lib, safe(item.get("collection", "")), name)
     os.makedirs(folder, exist_ok=True)
+    if item.get("images"):  # explicit list of direct image URLs (e.g. Duke old papyrus archive)
+        urls = item["images"]
+        folder = os.path.join(out, lib, safe(item.get("collection", "")), name)
+        os.makedirs(folder, exist_ok=True)
+        with open(os.path.join(folder, "info.txt"), "w", encoding="utf-8") as f:
+            for k, v in item.items():
+                if not k.startswith("_") and k != "images":
+                    f.write(f"{k}: {v}\n")
+            f.write(f"pages: {len(urls)}\n")
+        done = 0
+        for n, u in enumerate(urls, 1):
+            ext = os.path.splitext(u)[1] or ".jpg"
+            dest = os.path.join(folder, f"{n:04d}{ext}")
+            if os.path.exists(dest) and os.path.getsize(dest) > 500:
+                done += 1; continue
+            try:
+                data = fetch(u, timeout=300)
+            except Exception as e:
+                print(f"   ! image {n} failed: {e}"); continue
+            with open(dest + ".part", "wb") as f:
+                f.write(data)
+            os.replace(dest + ".part", dest)
+            done += 1
+            print(f"\r   {sm}: {done}/{len(urls)} images", end="", flush=True)
+            time.sleep(pause)
+        print(f"\r   {sm}: {done}/{len(urls)} images" + (" ✓" if done == len(urls) and urls else ""))
+        return done == len(urls)
     if item.get("openn"):  # OPenn: direct page images, no IIIF manifest
         urls = openn_images(item["openn"], master=bool(item.get("master")))
         with open(os.path.join(folder, "info.txt"), "w", encoding="utf-8") as f:
