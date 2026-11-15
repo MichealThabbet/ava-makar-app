@@ -1,0 +1,273 @@
+{
+"source": "Penn colenda catalog.json search (coptic/sahidic/bohairic), 2026-11-14",
+"manuscripts": [
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3v11vs23",
+"title": "[Hymns and prayers in Coptic.]",
+"languages": [
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3v11vs23/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3v11vs23",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p33j3971x",
+"title": "al-Ibṣalmudīyah",
+"languages": [
+"Arabic",
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p33j3971x/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p33j3971x",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3zs2kk6x",
+"title": "Naskh juzʼ min al-Ibṣalmūdīyah",
+"languages": [
+"Coptic",
+"Arabic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3zs2kk6x/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3zs2kk6x",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p37941152",
+"title": "al-Ibṣalmūdīyah",
+"languages": [
+"Coptic",
+"Arabic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p37941152/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p37941152",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3vs3t",
+"title": "Psalter leaves and Matthew leaf, 1700s or 1800s?",
+"languages": [
+"Coptic",
+"Arabic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3vs3t/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3vs3t",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3r785v8d",
+"title": "[Gospel of Mark in Coptic]",
+"languages": [
+"Coptic",
+"Arabic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3r785v8d/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3r785v8d",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p36d5ph97",
+"title": "Muqaddimat al-sullam al-maʻrūf. Kitāb Sullam al-muqaffá wa-al-dhahab al-muṣaffá",
+"languages": [
+"Arabic",
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p36d5ph97/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p36d5ph97",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3gt5fn4b",
+"title": "Naskh hāʼulāʼ al-Mazāmīr wa-al-ṭarūḥāt al-maqrūrah fī Jumʻat Ālām Yasūʻ al-Masīḥ",
+"languages": [
+"Coptic",
+"Arabic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3gt5fn4b/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3gt5fn4b",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3mg7g255",
+"title": "Subḥat al-malāʼikah baʻda Injīl Yūḥannā fī ṣalāt bākir. Ṣalāt niṣf al-layl",
+"languages": [
+"Coptic",
+"Arabic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3mg7g255/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3mg7g255",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3c24qv0h",
+"title": "Kitāb Tartīb Jumʻat al-Baṣkhah al-muqaddasah",
+"languages": [
+"Coptic",
+"Arabic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3c24qv0h/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3c24qv0h",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p35h7c11v",
+"title": "al-Muṣḥaf al-sharīf",
+"languages": [
+"Arabic",
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p35h7c11v/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p35h7c11v",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3tx3683d",
+"title": "Di un frammento palimpsesto copto-saidico del Museo Borgiano.",
+"languages": [
+"Latin",
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3tx3683d/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3tx3683d",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3q52gf9z",
+"title": "La traduzione copta di un'Omelia di S. Efrem.",
+"languages": [
+"Italian",
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3q52gf9z/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3q52gf9z",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p30r9m97v",
+"title": "[Martyrology of Coptic Saints]",
+"languages": [
+"Arabic"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p30r9m97v/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p30r9m97v",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p36689884",
+"title": "La Porte du Couvent Copte",
+"languages": [],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p36689884/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p36689884",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3r330",
+"title": "Miscellaneous manuscripts (Large), 1300s",
+"languages": [
+"Coptic",
+"Arabic",
+"German"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3r330/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3r330",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3q815h7t",
+"title": "IXe Station : 3e chute de Jesus couvent des Coptes",
+"languages": [],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3q815h7t/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3q815h7t",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p32v2d26r",
+"title": "Egypt--Heliopolis. Ancient Fig Tree, Where Coptic belief and the tradition of the Apocryphal Gospels fix the refuge of Mary and Joseph on th",
+"languages": [],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p32v2d26r/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p32v2d26r",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3cv4cg49",
+"title": "A Coptic Church--In the Crypt of Which Christ is Said to Have Spent Part of the Sojourn in Egypt With his Mother Mary",
+"languages": [
+"English"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3cv4cg49/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3cv4cg49",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"shelfmark": "81431_p3j679m1z",
+"title": "A Coptic Church--In the Crypt of Which Christ is Said to Have Spent Part of the Sojourn in Egypt With His Mother Mary",
+"languages": [
+"English"
+],
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3j679m1z/manifest",
+"viewer": "https://colenda.library.upenn.edu/catalog/81431-p3j679m1z",
+"rights": "University of Pennsylvania Libraries — open (OPenn/colenda); verify per item"
+}
+]
+}

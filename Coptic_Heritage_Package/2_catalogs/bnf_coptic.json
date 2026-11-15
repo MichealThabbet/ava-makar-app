@@ -1,0 +1,3035 @@
+{
+"source": "BnF Coptic items discovered via Europeana (CC/NoC), 2026-11-14. Run from your computer (Gallica blocks cloud IPs).",
+"manuscripts": [
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "bpt6k91092706",
+"title": "A compendious grammar of the Egyptian language as contained in the Coptic and Sahidic dialects, with observations on the",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91092706/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/bpt6k91092706",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110003236",
+"title": "Psaumes et Cantiques, pour le rite copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110003236/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110003236",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10093453d",
+"title": "Vie de Basile",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10093453d/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10093453d",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100906551",
+"title": "Biblie. A.T. Petits Prophètes. 1659",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100906551/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100906551",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10037540j",
+"title": "Arabe 2563",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037540j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10037540j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030981r",
+"title": "Euchologe copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030981r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030981r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030683h",
+"title": "Synaxaire à l'usage de l'église copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030683h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030683h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10031770g",
+"title": "Psaumes, pour le rite copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10031770g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10031770g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110042399",
+"title": "Synaxaire à l'usage de l'église copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110042399/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110042399",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004085t",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004085t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004085t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100306377",
+"title": "Synaxaire à l'usage de l'église copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100306377/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100306377",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000425g",
+"title": "Psaumes.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000425g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000425g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004620c",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004620c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004620c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030684z",
+"title": "Synaxaire à l'usage de l'église copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030684z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030684z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030638p",
+"title": "Synaxaire à l'usage de l'église copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030638p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030638p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b53138759x",
+"title": "Emile Amélineau. Catalogue des manuscrits coptes",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53138759x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b53138759x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110047411",
+"title": "Recueil de LII homélies de saint Ephrem, suivies du panégyrique de saint Ephrem par saint Grégoire de Nysse.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110047411/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110047411",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100912351",
+"title": "Katameros et oeuvres liturgiques. Copte 129 (21)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100912351/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100912351",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004339p",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004339p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004339p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004988k",
+"title": "Pentateuque, à l'usage des coptes, avec commentaire de Marc ibn Qanbar.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004988k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004988k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110040868",
+"title": "SÉVÈRE IBN AL-MUQAFFAʿ. Kitāb al-durr al-ṯamīn fī īḍāḥ al-iʿtiqād fī l-dīn.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110040868/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110040868",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10538904x",
+"title": "Fragments de manuscrits. Supplément grec 1106 I (f. 1)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538904x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10538904x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091631r",
+"title": "Psautier",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091631r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091631r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091190w",
+"title": "Bible; A.T. II Rois et Daniel (syriaque)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091190w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091190w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b531151912",
+"title": "Bible; A.T. II Rois et Daniel (syriaque)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531151912/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b531151912",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110004298",
+"title": "Rituel copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110004298/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110004298",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100865094",
+"title": "Copte 57",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100865094/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100865094",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087104q",
+"title": "Copte 103",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087104q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087104q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087110b",
+"title": "Copte 51",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087110b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087110b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087111s",
+"title": "Copte 50",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087111s/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087111s",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087113p",
+"title": "Copte 48",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087113p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087113p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087203n",
+"title": "Copte 66",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087203n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087203n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087205j",
+"title": "Copte 85",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087205j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087205j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087208w",
+"title": "Copte 99",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087208w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087208w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087214h",
+"title": "Copte 59",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087214h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087214h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087223g",
+"title": "Copte 15",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087223g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087223g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087225c",
+"title": "Copte 19",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087225c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087225c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087234b",
+"title": "Copte 141",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087234b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087234b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872367",
+"title": "Copte 143",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872367/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872367",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087911t",
+"title": "Copte 58",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087911t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087911t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100879234",
+"title": "Copte 96",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100879234/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100879234",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087935f",
+"title": "Copte 24",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087935f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087935f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087936w",
+"title": "Copte 25",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087936w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087936w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087938s",
+"title": "Copte 40",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087938s/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087938s",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100879412",
+"title": "Copte 82",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100879412/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100879412",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100879988",
+"title": "Copte 72",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100879988/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100879988",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088000w",
+"title": "Copte 76",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088000w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088000w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100880071",
+"title": "Copte 17",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100880071/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100880071",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088011r",
+"title": "Copte 36",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088011r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088011r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088042f",
+"title": "Copte 122",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088042f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088042f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100880734",
+"title": "Copte 81",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100880734/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100880734",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088079t",
+"title": "Copte 124",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088079t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088079t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100883270",
+"title": "Copte 22",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100883270/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100883270",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088692s",
+"title": "Copte 101",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088692s/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088692s",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000409f",
+"title": "Rituel copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000409f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000409f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10086269g",
+"title": "Copte 31",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10086269g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10086269g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10086272r",
+"title": "Copte 26",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10086272r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10086272r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10086999c",
+"title": "Copte 84",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10086999c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10086999c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087000j",
+"title": "Copte 10",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087000j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087000j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100870512",
+"title": "Copte 46",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100870512/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100870512",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087109z",
+"title": "Copte 52",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087109z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087109z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100871127",
+"title": "Copte 49",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100871127/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100871127",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872060",
+"title": "Copte 91",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872060/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872060",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087209b",
+"title": "Copte 104",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087209b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087209b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872115",
+"title": "Copte 106",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872115/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872115",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087212m",
+"title": "Copte 34",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087212m/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087212m",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872204",
+"title": "Copte 65",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872204/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872204",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087224x",
+"title": "Copte 16",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087224x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087224x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087226t",
+"title": "Copte 111",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087226t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087226t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872295",
+"title": "Copte 136",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872295/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872295",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872310",
+"title": "Copte 138",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872310/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872310",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087235s",
+"title": "Copte 142",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087235s/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087235s",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087237p",
+"title": "Copte 147",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087237p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087237p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087924k",
+"title": "Copte 97",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087924k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087924k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087937b",
+"title": "Copte 29",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087937b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087937b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100879397",
+"title": "Copte 41",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100879397/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100879397",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087940m",
+"title": "Copte 73",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087940m/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087940m",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087942h",
+"title": "Copte 83",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087942h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087942h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087943z",
+"title": "Copte 109",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087943z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087943z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087944d",
+"title": "Copte 27",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087944d/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087944d",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087995x",
+"title": "Copte 107",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087995x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087995x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088009x",
+"title": "Copte 32",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088009x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088009x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088040j",
+"title": "Copte 74",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088040j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088040j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088043w",
+"title": "Copte 152",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088043w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088043w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088044b",
+"title": "Copte 153",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088044b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088044b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100888038",
+"title": "Copte 134",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100888038/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100888038",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100915891",
+"title": "Copte 78",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100915891/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100915891",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10086270v",
+"title": "Copte 28",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10086270v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10086270v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100870010",
+"title": "Copte 88",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100870010/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100870010",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087050m",
+"title": "Copte 47",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087050m/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087050m",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100871038",
+"title": "Copte 110",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100871038/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100871038",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100871055",
+"title": "Copte 77",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100871055/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100871055",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087106m",
+"title": "Copte 55",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087106m/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087106m",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100871072",
+"title": "Copte 54",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100871072/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100871072",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087108h",
+"title": "Copte 53",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087108h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087108h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872043",
+"title": "Copte 70",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872043/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872043",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087207f",
+"title": "Copte 93",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087207f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087207f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087210q",
+"title": "Copte 105",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087210q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087210q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872132",
+"title": "Copte 42",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872132/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872132",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087215z",
+"title": "Copte 60",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087215z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087215z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087216d",
+"title": "Copte 61",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087216d/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087216d",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087217v",
+"title": "Copte 62",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087217v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087217v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087219r",
+"title": "Copte 64",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087219r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087219r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087221k",
+"title": "Copte 14",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087221k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087221k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872278",
+"title": "Copte 126",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872278/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872278",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087228q",
+"title": "Copte 127",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087228q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087228q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087230j",
+"title": "Copte 137",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087230j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087230j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087232f",
+"title": "Copte 139",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087232f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087232f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087233w",
+"title": "Copte 140",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087233w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087233w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100879217",
+"title": "Copte 20",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100879217/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100879217",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087922p",
+"title": "Copte 92",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087922p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087922p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100879681",
+"title": "Copte 148",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100879681/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100879681",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100879931",
+"title": "Copte 71",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100879931/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100879931",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087994g",
+"title": "Copte 87",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087994g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087994g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087997t",
+"title": "Copte 69",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087997t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087997t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087999q",
+"title": "Copte 86",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087999q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087999q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088008g",
+"title": "Copte 23",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088008g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088008g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100880126",
+"title": "Copte 98",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100880126/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100880126",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100880410",
+"title": "Copte 89",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100880410/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100880410",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088077x",
+"title": "Copte 112",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088077x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088077x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088078c",
+"title": "Copte 123",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088078c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088078c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100880806",
+"title": "Copte 146",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100880806/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100880806",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088329w",
+"title": "Copte 75",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088329w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088329w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088517b",
+"title": "Copte 94",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088517b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088517b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087341s",
+"title": "Copte 12",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087341s/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087341s",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100886274",
+"title": "Copte 21",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100886274/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100886274",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088628k",
+"title": "Copte 21",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088628k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088628k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10092966q",
+"title": "Copte 161 (1)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10092966q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10092966q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004637x",
+"title": "Collection canonique copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004637x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004637x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10087802g",
+"title": "Copte 51 B",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10087802g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10087802g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872221",
+"title": "Copte 14 A",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872221/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872221",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088328f",
+"title": "Copte 42 A",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088328f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088328f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004211w",
+"title": "Collection canonique copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004211w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004211w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110047824",
+"title": "Collection canonique copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110047824/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110047824",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004526p",
+"title": "Collection canonique copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004526p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004526p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004021j",
+"title": "Collection canonique copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004021j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004021j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004212b",
+"title": "Collection canonique copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004212b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004212b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091093v",
+"title": "Bible. A.T. Psaumes (copte)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091093v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091093v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000369j",
+"title": "Évangiles, pour le rite copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000369j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000369j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091513f",
+"title": "Scala copte-arabe - Recueil factice",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091513f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091513f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030210r",
+"title": "Ensemble de fragments de papier provenant d'une reliure, une autre partie constitue le manuscrit Copte 168.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030210r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030210r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10035152n",
+"title": "Évangiles, pour le rite copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035152n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10035152n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110003270",
+"title": "Évangiles, pour le rite copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110003270/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110003270",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000326j",
+"title": "Évangiles, pour le rite copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000326j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000326j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10090884k",
+"title": "Katameros et oeuvres liturgiques. Copte 129 (19)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10090884k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10090884k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525015068",
+"title": "Katameros et oeuvres liturgiques. Copte 129 (20)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525015068/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525015068",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52501509m",
+"title": "Fragments. Copte 133 (1). Fragments 102-138",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501509m/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52501509m",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525015229",
+"title": "Katameros et oeuvres liturgiques. Copte 129 (19)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525015229/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525015229",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100918554",
+"title": "Katameros et oeuvres liturgiques. Copte 129 (20)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100918554/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100918554",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100375410",
+"title": "Concordance des calendriers arabe, grec et copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100375410/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100375410",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10101420m",
+"title": "Evangéliaire à l'usage de l'église copte",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10101420m/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10101420m",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000426x",
+"title": "Évangile de saint Jean, pour le rite copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000426x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000426x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000329w",
+"title": "Évangile de saint Jean, pour le rite copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000329w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000329w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100919381",
+"title": "Nouveau Testament. Evangile selon Saint Luc. Copte 129 (8)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100919381/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100919381",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091554j",
+"title": "Nouveau Testament. Evangile selon Saint Jean. Copte 129 (10)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091554j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091554j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091556f",
+"title": "Nouveau Testament; Evangile selon Saint Matthieu. Copte 129 (4)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091556f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091556f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091557w",
+"title": "Nouveau Testament; Evangile selon Saint Matthieu. Copte 129 (5)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091557w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091557w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091637f",
+"title": "Bible. A.T. Psaumes. Cantiques des cantiques (copte-arabe)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091637f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091637f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100915550",
+"title": "Nouveau Testament. Evangile selon Saint Jean. Copte 129 (9)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100915550/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100915550",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091937k",
+"title": "Nouveau Testament. Evangile selon Saint Luc. Copte 129 (7)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091937k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091937k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030260t",
+"title": "Deux ouvrages de littérature religieuse copte en langue arabe.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030260t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030260t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000385k",
+"title": "GABRIEL V. Kitāb tartīb. Rituel à l'usage de l'église copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000385k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000385k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10224682p",
+"title": "Manuscrits de la Bibliothèque nationale et universitaire de Strasbourg. Manuscrits arabes. Fragments d'un rituel copte-a",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224682p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10224682p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110043743",
+"title": "Collection canonique copte compilée par Macaire, moine du monastère de Saint-Jean-le-Nain.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110043743/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110043743",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110042270",
+"title": "Recueil de LXXXVII homélies de saint Jean Chrysostome, lues certains jours de l'année liturgique copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110042270/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110042270",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10031763d",
+"title": "Lectionnaire des péricopes du Nouveau Testament, lues aux offices de certaines fêtes de l'année liturgique copte.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10031763d/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10031763d",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004373n",
+"title": "Collection canonique copte compilée par Macaire, moine du monastère de Saint-Jean-le-Nain.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004373n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004373n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b102348317",
+"title": "Manuscrits de la Bibliothèque nationale et universitaire de Strasbourg. Manuscrits arabes. Fragments d'un office copte-a",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102348317/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b102348317",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10085298x",
+"title": "Papiers de J.-Fr. Champollion le jeune (1790-1832).XIXe siècle. 2e série. XXXIII-XXXIV Philologie copte. NAF 20355",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10085298x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10085298x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10085358n",
+"title": "Papiers de J.-Fr. Champollion le jeune (1790-1832).XIXe siècle. 2e série. XXXIII-XXXIV Philologie copte. NAF 20356",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10085358n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10085358n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110003666",
+"title": "Commentaire sur les péricopes des Évangiles lues à certains offices, les dimanches et jours de fête de l'année liturgiqu",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110003666/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110003666",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10224680s",
+"title": "Manuscrits de la Bibliothèque nationale et universitaire de Strasbourg. Manuscrits arabes. Lectionnaire arabe à l'usage ",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224680s/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10224680s",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000338v",
+"title": "Kitāb dallāl al-fuṣūl. Indicateur des péricopes des Évangiles et des Épîtres lues aux offices de certains jours de l'ann",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000338v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000338v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b102246762",
+"title": "Manuscrits de la Bibliothèque nationale et universitaire de Strasbourg. Manuscrits arabes. Fragment d'un lectionnaire ar",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b102246762/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b102246762",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110003219",
+"title": "Commentaire sur les péricopes des Évangiles et des Épîtres lues à certains offices, les dimanches et jours de fête de l'",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110003219/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110003219",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110003181",
+"title": "Commentaire sur les péricopes des Évangiles et des Épîtres lues à certains offices, les dimanches et jours de fête de l'",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110003181/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110003181",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000317k",
+"title": "Kitāb tafsīr al-Baṣḫa. Commentaire sur les péricopes des Évangiles et des Épîtres lues à certains offices pendant la Sem",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000317k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000317k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000403r",
+"title": "Kitāb al-baṣḫa al-muqaddasa. Lectionnaire des péricopes de l'Ancien et du Nouveau Testament et des homélies lues aux off",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000403r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000403r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091856k",
+"title": "Papyrus et fragments de manuscrits en hiéroglyphes linéaires, en hiératique, en démotique, en grec, en arabe et surtout ",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091856k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091856k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004182v",
+"title": "MATTHIEU IV, patriarche d'Alexandrie. Profession de foi de l'église copte, obtenue par Ambroise de Tiger, consul de Fran",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004182v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004182v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10031563n",
+"title": "Traité d'astrologie, par Yahya ibn Mohammad al-Khattab al-Maliki, destiné à indiquer le lieu où se trouvent le soleil et",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10031563n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10031563n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004778d",
+"title": "MATTHIEU IV, patriarche d'Alexandrie. Profession de foi de l'église copte concernant la présence réelle, obtenue par Amb",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004778d/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004778d",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52510870k",
+"title": "Schenouti. Sermons. 4ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510870k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52510870k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091736c",
+"title": "Rituel de procesion pour la fête de l'apa Chenouté.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091736c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091736c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52510532p",
+"title": "Rituel de procesion pour la fête de l'apa Chenouté.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510532p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52510532p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091583b",
+"title": "Schenouti. Sermons. 4ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091583b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091583b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52512042w",
+"title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512042w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52512042w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100911200",
+"title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100911200/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100911200",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525146026",
+"title": "Almanach rédigé en Égypte, par un astronome, nommé ʿAbd Allah, dans lequel on trouve, pour les années 1118 à 1221 de l'h",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525146026/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525146026",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10090945r",
+"title": "Textes liturgiques coptes",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10090945r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10090945r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52513410m",
+"title": "Fragments",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52513410m/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52513410m",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091739q",
+"title": "Papyrus d'Achmîm",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091739q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091739q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525130103",
+"title": "Papyrus d'Achmîm",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525130103/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525130103",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10090972n",
+"title": "Fragments",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10090972n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10090972n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10032025b",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032025b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10032025b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030200b",
+"title": "Cahier de notes de la main de Jean Morel d'Embrun (1511-1581)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030200b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030200b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10090481q",
+"title": "Fragments.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10090481q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10090481q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000401v",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000401v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000401v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10086511z",
+"title": "Qaṭamārus al-Baṣḫa",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10086511z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10086511z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10467821b",
+"title": "Papiers et correspondance de Jean-François Champollion le jeune (1813-1831).",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10467821b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10467821b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11002372h",
+"title": "Arabe 2250",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11002372h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11002372h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525085252",
+"title": "Fragments de documents variés.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525085252/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525085252",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10235214t",
+"title": "Manuscrits de la Bibliothèque nationale et universitaire de Strasbourg. Manuscrits arabes. Recueil de textes relatifs à ",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10235214t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10235214t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10538866x",
+"title": "Fragments de manuscrits. Supplément grec 1106 II (f. 2)",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538866x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10538866x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110042075",
+"title": "Deux professions de foi.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110042075/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110042075",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10538857z",
+"title": "Cinq fragments de papyrus. Note : Les principaux éléments de cette notice nous ont été communiqués par Mlle J. Lallemand",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538857z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10538857z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10538886r",
+"title": "Cinq fragments de papyrus. Note : Les principaux éléments de cette notice nous ont été communiqués par Mlle J. Lallemand",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538886r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10538886r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b8419218h",
+"title": "YAḤYĀ IBN ʿADĪ ABŪ ZAKARIYĀ. Douze traités apologétiques. ḤABĪB IBN ḪIDMA ABŪ RĀʾIṬA. Six traités apologétiques.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8419218h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b8419218h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110004029",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110004029/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110004029",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52501762q",
+"title": "Fragments. Fragments 1-337. Fragments 1-29",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501762q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52501762q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525017652",
+"title": "Fragments. Fragments 1-337. Fragments 259-337",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525017652/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525017652",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100872189",
+"title": "Epîtres de Paul",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100872189/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100872189",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10090666w",
+"title": "Numérisation effectuée à partir d'un document de substitution : R 113895.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10090666w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10090666w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525017618",
+"title": "Fragments. Fragments 1-337. Fragments 195-258",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525017618/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525017618",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52501766h",
+"title": "Fragments. Fragments 1-337. Fragments 60-90",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501766h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52501766h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091692p",
+"title": "[Liturgica]",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091692p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091692p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100896227",
+"title": "Numérisation effectuée à partir d'un document de substitution : R 6930.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100896227/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100896227",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100915874",
+"title": "Numérisation effectuée à partir d'un document de substitution : R 20484.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100915874/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100915874",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091676n",
+"title": "[De Virgine Maria]",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091676n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091676n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000342k",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000342k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000342k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110004241",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110004241/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110004241",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100909733",
+"title": "Fragment.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100909733/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100909733",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100910642",
+"title": "[Liturgica]",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100910642/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100910642",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10088407j",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10088407j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10088407j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110040220",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110040220/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110040220",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10089620b",
+"title": "Martyres, 1ère partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10089620b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10089620b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100909716",
+"title": "Fragments.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100909716/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100909716",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525017635",
+"title": "Fragments divers en sahidique",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525017635/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525017635",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b531191383",
+"title": "Fonds Emile Prisse d'Avennes sur l'Egypte : Iconographie. Dessins, estampes, photographies (NAF 20434-20443). \"Documents",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531191383/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b531191383",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100880395",
+"title": "كتب الابصاليات المقروه بطول السنه وما فيهم للاعياد السيدّيه وللعدري وللشهدا والقديسين وغير دلك",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100880395/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100880395",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10235213c",
+"title": "Manuscrits de la Bibliothèque nationale et universitaire de Strasbourg. Manuscrits arabes. Les Constitutions Apostolique",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10235213c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10235213c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100375717",
+"title": "بـهـجـة الـمـحـادث فى احـكـام جـمـلـة مـن الـحـوادث « Ornement (de l'esprit) du causeur, traitant des pronostics qu'on p",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100375717/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100375717",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100917403",
+"title": "Numérisation effectuée à partir d'un document de substitution : R 23265.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100917403/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100917403",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10089619z",
+"title": "Schenouté. Histoire eccésiastique.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10089619z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10089619z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091007x",
+"title": "Nouveau Testament. Evangile selon Saint Marc.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091007x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091007x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091753v",
+"title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091753v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091753v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100931019",
+"title": "Livre d'Ezechiel",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100931019/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100931019",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10090776p",
+"title": "Fragments de livres probablement liturgiques.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10090776p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10090776p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030631j",
+"title": "SÉVÈRE IBN AL-MUQAFFAʿ. Kitāb siyar al-abāʾal-baṭārika.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030631j/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030631j",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091515b",
+"title": "Recueil factice comprenant quatre manuscrits autonomes",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091515b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091515b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110003577",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110003577/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110003577",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52508806t",
+"title": "Numérisation effectuée à partir d'un document original.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508806t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52508806t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10031764v",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10031764v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10031764v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100896172",
+"title": "Schenouté. Rèles monastiques et vies des moines, 1ère partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100896172/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100896172",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100896261",
+"title": "Oeuvres de Schénouti, 3ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100896261/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100896261",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10090479w",
+"title": "Oeuvres de Schénouti, 4ème partie",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10090479w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10090479w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100911257",
+"title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100911257/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100911257",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091586p",
+"title": ". Sermons. 2ème partie",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091586p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091586p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10092464x",
+"title": "Schénouti. Sermons. 1ère partie. Pars prior (ff. 1-86).",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10092464x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10092464x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110025656",
+"title": "كتاب الفلاحة « Traité d'agriculture », par طيبغا الجزكلمشى الثمانى تمرى.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110025656/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110025656",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004576r",
+"title": "Ḫiḍr ibn ʿAbd al-Qādir al-Burlusī. Kitāb iršād al-ḥayārā fī maʿrifat istiḫrāǧ ʿīd al-Naṣārā.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004576r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004576r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100904808",
+"title": "Oeuvres de Schénouti, 4ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100904808/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100904808",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091582w",
+"title": "Schenouti. Sermons. 5ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091582w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091582w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091639b",
+"title": "Liturgie de saint Basile",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091639b/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091639b",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52505051k",
+"title": "Martyres, 2ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505051k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52505051k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10089621s",
+"title": "Martyres, 2ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10089621s/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10089621s",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10089623p",
+"title": "Numérisation effectuée à partir d'un document original.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10089623p/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10089623p",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100896244",
+"title": "Oeuvres de Schénouti, 1ère partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100896244/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100896244",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091236g",
+"title": "Lectionnaire des dimanches de Carême",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091236g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091236g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091581f",
+"title": "Schenouti. Sermons. 5ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091581f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091581f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525036962",
+"title": "Ancien Testament. Livres historiques.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525036962/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525036962",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11002359t",
+"title": "نشق الازهار فى عجائب الاقـطـار « Le Parfum des fleurs, traité des merveilles des diverses régions », par Moḥammad ibn Aḥ",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11002359t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11002359t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100917388",
+"title": "Tétraévangile",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100917388/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100917388",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52508833q",
+"title": "Tétraévangile",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508833q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52508833q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100306394",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100306394/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100306394",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000396f",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000396f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000396f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110004046",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110004046/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110004046",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100915533",
+"title": "Nouveau Testament, Actes des Apôtres, Epîtres et Apocalypse.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100915533/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100915533",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10090970r",
+"title": "Prophètes mineurs.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10090970r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10090970r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091237x",
+"title": "Ancien Testament. Livres historiques.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091237x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091237x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10092465c",
+"title": "Schénouti. Sermons. 1ère partie. Pars posterior (ff. 87-165).",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10092465c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10092465c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52501760t",
+"title": "Nouveau Testament, Actes des Apôtres, Epîtres et Apocalypse.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501760t/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52501760t",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525015157",
+"title": "Fragments. Fragments 1-337. Fragments 42-59",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525015157/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525015157",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100915857",
+"title": "Schenouti. Sermons. 2ème partie",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100915857/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100915857",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091931w",
+"title": "Schénouti. Sermons. 1ère partie. Pars posterior (ff. 87-165).",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091931w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091931w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091564z",
+"title": "Ancien Testament. Livres sapientiaux et Ancien Testament. Livres prophétiques. Ancien Testament. Livres sapientiaux et p",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091564z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091564z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100306968",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100306968/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100306968",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091584s",
+"title": "Schenouti. Sermons. 3ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091584s/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091584s",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091640q",
+"title": "Liturgies de Saint Basile et Saint Grégoire de Nazianze",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091640q/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091640q",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091672v",
+"title": "Pentateuque",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091672v/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091672v",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10089625k",
+"title": "Oeuvres de Schénouti, 2ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10089625k/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10089625k",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525020075",
+"title": "Schenouti. Sermons. 3ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525020075/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525020075",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10089618h",
+"title": "Schenouté. Règles monastiques et vies des moines, 2ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10089618h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10089618h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091752d",
+"title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091752d/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091752d",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100918878",
+"title": "Isaïe, Katameros.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100918878/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100918878",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b525020594",
+"title": "Schenouté. Règles monastiques et vies des moines, 2ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525020594/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525020594",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52504721n",
+"title": "Oeuvres de Schénouti, 2ème partie.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52504721n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52504721n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52506755c",
+"title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52506755c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52506755c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091629x",
+"title": "Psalmodie annuelle bilingue",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091629x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091629x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091514w",
+"title": "Recueil factice",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091514w/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091514w",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000367n",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000367n/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000367n",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b110024183",
+"title": "ارجوزة فى الطبّ.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110024183/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110024183",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100912908",
+"title": "Lectionnaire",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100912908/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100912908",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52507202d",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52507202d/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52507202d",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11000370x",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000370x/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11000370x",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b11004203c",
+"title": "Recueil de LII homélies de saint Ephrem, suivies du panégyrique de saint Ephrem par saint Grégoire de Nysse.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004203c/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004203c",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10030688r",
+"title": "Recueil.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10030688r/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10030688r",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10093354g",
+"title": "Bible. A.T. Apocryphes.. Le Livre d'Hénoch, les quatre Livres des Rois, le Livre de Daniel, le Livre de Tobie, le premie",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10093354g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10093354g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10528604g",
+"title": "Apocalypse de Pierre ; Histoire de la Sibylle",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10528604g/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10528604g",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b52507368z",
+"title": "Bible. A.T. Apocryphes.. Le Livre d'Hénoch, les quatre Livres des Rois, le Livre de Daniel, le Livre de Tobie, le premie",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52507368z/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52507368z",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b10091849h",
+"title": "Apocalypse de Pierre ; Histoire de la Sibylle",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091849h/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091849h",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b100375037",
+"title": "Arabe 2524",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100375037/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100375037",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+},
+{
+"library": "BnF_Gallica",
+"collection": "Coptic",
+"shelfmark": "btv1b55010398f",
+"title": "Fragments de manuscrits.",
+"tier": 1,
+"manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010398f/manifest.json",
+"viewer": "https://gallica.bnf.fr/ark:/12148/btv1b55010398f",
+"rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+}
+]
+}

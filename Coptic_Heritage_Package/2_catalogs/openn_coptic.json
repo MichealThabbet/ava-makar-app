@@ -1,0 +1,158 @@
+{
+"source": "OPenn Coptic (full harvest)",
+"manuscripts": [
+{
+"library": "OPenn",
+"collection": "UPenn_CAJS",
+"shelfmark": "CAJS_Rar_Ms_166",
+"title": "al-Muṣḥaf al-Muqaddas. / المصحف المقدس",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms166.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "UPenn_CAJS",
+"shelfmark": "CAJS_Rar_Ms_168",
+"title": "Four Gospels",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms168.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "UPenn_CAJS",
+"shelfmark": "CAJS_Rar_Ms_182",
+"title": "Martyrology of Coptic Saints",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms182.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "UPenn_CAJS",
+"shelfmark": "CAJS_Rar_Ms_189",
+"title": "Gospel of Mark in Coptic",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms189.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "UPenn_CAJS",
+"shelfmark": "CAJS_Rar_Ms_199",
+"title": "Hymns and prayers in Coptic",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms199.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "SmithCollege",
+"shelfmark": "SC_MS_0431.054.1",
+"title": "Folio from a Coptic Lectionary with Arabic annotations",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0007/html/SCMS0431_054_1.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_O_126",
+"title": "Coptic hymns and prayers",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_o_126.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_T452",
+"title": "Coptic (from an Egyptian mummy case)",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_t452.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_T453",
+"title": "Coptic (from an Egyptian mummy case)",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_t453.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_T454",
+"title": "Coptic (from an Egyptian mummy case)",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_t454.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_T455",
+"title": "Coptic (from an Egyptian mummy case)",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_t455.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_T456",
+"title": "Coptic (from an Egyptian mummy case)",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_t456.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_T457",
+"title": "Coptic (from an Egyptian mummy case)",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_t457.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_T468",
+"title": "Greek or Coptic on papyrus",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_t468.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "FreeLibraryPhila_Lewis",
+"shelfmark": "Lewis_T486",
+"title": "Coptic Gospel Lectionary",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0023/html/lewis_t486.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "UPenn_OrientalMS",
+"shelfmark": "MS_Or_396",
+"title": "Coptic-Arabic glossary",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0032/html/ms_or_396.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+},
+{
+"library": "OPenn",
+"collection": "UPenn_OrientalMS",
+"shelfmark": "MS_Or_397_-_FOLIO",
+"title": "Selections from the New Testament and Psalms in Coptic",
+"tier": 1,
+"openn": "https://openn.library.upenn.edu/Data/0032/html/ms_or_397.html",
+"rights": "Public domain. Credit: holding library via OPenn (openn.library.upenn.edu)."
+}
+]
+}

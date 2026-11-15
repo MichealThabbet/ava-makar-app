@@ -1,0 +1,137 @@
+{
+"source": "John Rylands Library, University of Manchester — IIIF manifests for its Syriac, Ethiopic and Samaritan featured manuscripts, 2026-11-13. More are on their site (JS-loaded).",
+"manuscripts": [
+{
+"library": "John_Rylands_Manchester",
+"collection": "ethiopic",
+"shelfmark": "MS-ETHIOPIC-00004",
+"title": "Deggwā (Ethiopic MS 4)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ETHIOPIC-00004",
+"pages": 383,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-ETHIOPIC-00004",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "ethiopic",
+"shelfmark": "MS-ETHIOPIC-00011",
+"title": "Dersāna Mikā'ēl (Ethiopic MS 11)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ETHIOPIC-00011",
+"pages": 292,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-ETHIOPIC-00011",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "ethiopic",
+"shelfmark": "MS-ETHIOPIC-00018",
+"title": "Gebra ḥemāmāt (Ethiopic MS 18)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ETHIOPIC-00018",
+"pages": 500,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-ETHIOPIC-00018",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "ethiopic",
+"shelfmark": "MS-ETHIOPIC-00023",
+"title": "Enoch, Job, and the Book of Kings (Ethiopic MS 23)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ETHIOPIC-00023",
+"pages": 147,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-ETHIOPIC-00023",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "ethiopic",
+"shelfmark": "MS-ETHIOPIC-00027",
+"title": "Ethiopic MS 27 (Ethiopic MS 27)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ETHIOPIC-00027",
+"pages": 558,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-ETHIOPIC-00027",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "samaritan",
+"shelfmark": "MS-SAMARITAN-00001",
+"title": "Samaritan Pentateuch (Samaritan MS 1)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SAMARITAN-00001",
+"pages": 620,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-SAMARITAN-00001",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "syriac",
+"shelfmark": "MS-SYRIAC-00004",
+"title": "Old Testament (Syriac MS 4)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SYRIAC-00004",
+"pages": 474,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-SYRIAC-00004",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "syriac",
+"shelfmark": "MS-SYRIAC-00006",
+"title": "Great Oktoechos (Syriac MS 6)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SYRIAC-00006",
+"pages": 540,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-SYRIAC-00006",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "syriac",
+"shelfmark": "MS-SYRIAC-00016",
+"title": "Bar Hebraeus, Shorter Metrical Grammar (Syriac MS 16)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SYRIAC-00016",
+"pages": 248,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-SYRIAC-00016",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "syriac",
+"shelfmark": "MS-SYRIAC-00024",
+"title": "Khamis (Syriac MS 24)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SYRIAC-00024",
+"pages": 292,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-SYRIAC-00024",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "syriac",
+"shelfmark": "MS-SYRIAC-00044",
+"title": "Composite manuscript: Astrology and divination; Bar Hebraeus, The cream of the sciences (Syriac MS 44)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SYRIAC-00044",
+"pages": 272,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-SYRIAC-00044",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+},
+{
+"library": "John_Rylands_Manchester",
+"collection": "syriac",
+"shelfmark": "MS-SYRIAC-00052",
+"title": "Composite manuscript: Amulets (Syriac MS 52)",
+"tier": 2,
+"manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SYRIAC-00052",
+"pages": 126,
+"viewer": "https://www.digitalcollections.manchester.ac.uk/view/MS-SYRIAC-00052",
+"rights": "John Rylands Library, University of Manchester — CC BY-NC 4.0 (check per item)"
+}
+]
+}

@@ -1,0 +1,305 @@
+{
+"source": "Europeana (CC) -> Chester Beatty Library, Dublin, IIIF; discovered via the name thesaurus, 2026-11-13",
+"manuscripts": [
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_823",
+"title": "Folio of two angels from a Coptic manuscript",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_823/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_823/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_818",
+"title": "Coptic ostraca",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_818/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_818/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2056",
+"title": "Coptic literary fragment",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2056/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2056/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2052",
+"title": "Coptic literary fragment",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2052/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2052/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2053",
+"title": "Coptic literary fragments",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2053/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2053/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2046",
+"title": "Coptic literary fragments",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2046/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2046/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2047",
+"title": "Coptic literary fragments",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2047/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2047/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_819",
+"title": "Canons of St. Basil",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_819/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_819/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2021",
+"title": "John 12.40-13.2; 13.2-12",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2021/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2021/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_1",
+"title": "Letter",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_1/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_1/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2",
+"title": "Letter",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_815",
+"title": "Psalter & Gospel of Matthew",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_815/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_815/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2065",
+"title": "Martyrdom of Cephalon",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2065/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2065/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2027",
+"title": "Pilate",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2027/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2027/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2022",
+"title": "Martyrdom of Cephalon",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2022/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2022/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2072",
+"title": "Papyrus fragments",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2072/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2072/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_813",
+"title": "Pauline Epistles & Gospel of John",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_813/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_813/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2030",
+"title": "Martyrdom of Hermauo",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2030/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2030/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2023",
+"title": "Genesis 27.23-25, 27-32",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2023/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2023/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2018",
+"title": "Apocalypse of Elijah",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2018/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2018/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2025",
+"title": "Lectionary",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2025/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2025/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2029",
+"title": "Martyrdom of Phoebammon",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2029/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2029/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2028",
+"title": "Martyrdom of Herai of Tamma",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2028/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2028/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2019",
+"title": "Joshua 1.1-6; 1.6-11",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2019/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2019/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2177",
+"title": "Aphrodito papyrus fragments",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2177/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2177/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_1494",
+"title": "Horsiesios' Letter 3",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_1494/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_1494/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_1495",
+"title": "Horsiesios' Letter 4",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_1495/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_1495/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2033",
+"title": "Pshoi of Jeremias",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2033/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2033/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2026",
+"title": "Fragments of a homily or exhortation from an Easter Lectionary",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2026/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2026/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+},
+{
+"library": "Chester_Beatty",
+"collection": "Coptic",
+"shelfmark": "Cpt_2034",
+"title": "Homily on the weakness of the flesh",
+"tier": 1,
+"manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_2034/manifest/",
+"viewer": "https://viewer.cbl.ie/viewer/image/Cpt_2034/",
+"rights": "http://creativecommons.org/licenses/by/4.0/"
+}
+]
+}

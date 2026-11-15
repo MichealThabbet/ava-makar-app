@@ -1,0 +1,192 @@
+{
+"source": "Wikidata global IIIF query for Coptic manuscripts, 2026-11-14 (new libraries: Penn, Columbia, WMich, Free Library Philadelphia)",
+"manuscripts": [
+{
+"library": "Internet_Archive",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, Free Library of Philadelphia, Lewis O 126",
+"shelfmark": "Lewis O 126",
+"tier": 1,
+"manifest": "https://iiif.archive.org/iiif/lewis_o_126/manifest.json",
+"viewer": "https://iiif.archive.org/iiif/lewis_o_126/manifest.json",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "Internet_Archive",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, Free Library of Philadelphia, Lewis O 29",
+"shelfmark": "Lewis O 29",
+"tier": 1,
+"manifest": "https://iiif.archive.org/iiif/lewis_o_029/manifest.json",
+"viewer": "https://iiif.archive.org/iiif/lewis_o_029/manifest.json",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, Misc Mss (Large) Box 1 Folder 24",
+"shelfmark": "9914711803503681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3r330/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p3r330/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 200",
+"shelfmark": "9937763153503681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p36d5ph97/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p36d5ph97/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 167",
+"shelfmark": "9977642240603681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p35h7c11v/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p35h7c11v/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 194",
+"shelfmark": "9977796549903681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3c24qv0h/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p3c24qv0h/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 189",
+"shelfmark": "9977796552103681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3r785v8d/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p3r785v8d/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 193",
+"shelfmark": "9977791036603681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3gt5fn4b/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p3gt5fn4b/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 199",
+"shelfmark": "9977806953803681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3v11vs23/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p3v11vs23/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 192",
+"shelfmark": "9977791349703681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3mg7g255/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p3mg7g255/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 196",
+"shelfmark": "9977791349603681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p33j3971x/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p33j3971x/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 197",
+"shelfmark": "9977791349503681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p3zs2kk6x/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p3zs2kk6x/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 195",
+"shelfmark": "9977796552003681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p37941152/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p37941152/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "University_of_Pennsylvania",
+"collection": "Coptic",
+"title": "Philadelphia, Pennsylvania, University of Pennsylvania, CAJS Rar Ms 180",
+"shelfmark": "9944235783503681",
+"tier": 1,
+"manifest": "https://colenda.library.upenn.edu/items/ark:/81431/p38911x6c/manifest",
+"viewer": "https://colenda.library.upenn.edu/items/ark:/81431/p38911x6c/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "Western_Michigan_University",
+"collection": "Coptic",
+"title": "Kalamazoo, Michigan, Western Michigan University, WMU MS 190",
+"shelfmark": "99510014661502436",
+"tier": 1,
+"manifest": "https://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222522~164272/manifest",
+"viewer": "https://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222522~164272/manifest",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "Internet_Archive",
+"collection": "Coptic",
+"title": "New York, New York, Columbia University Rare Book & Manuscript Library, MS Or 396",
+"shelfmark": "14012766",
+"tier": 1,
+"manifest": "https://iiif.archive.org/iiif/ldpd_14642706_000/manifest.json",
+"viewer": "https://iiif.archive.org/iiif/ldpd_14642706_000/manifest.json",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+},
+{
+"library": "Internet_Archive",
+"collection": "Coptic",
+"title": "New York, New York, Columbia University Rare Book & Manuscript Library, MS Or 397 - FOLIO",
+"shelfmark": "15003413",
+"tier": 1,
+"manifest": "https://iiif.archive.org/iiif/ldpd_15147176_000/manifest.json",
+"viewer": "https://iiif.archive.org/iiif/ldpd_15147176_000/manifest.json",
+"rights": "open (per Wikidata); verify per item",
+"country": "United States"
+}
+]
+}

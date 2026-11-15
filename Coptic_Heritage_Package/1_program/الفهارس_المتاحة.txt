@@ -1,0 +1,30 @@
+المكتبات المتاحة في البرنامج (اكتب رقمها عند التشغيل):
+ 1  = الفاتيكان            vatican_full.json        (2871)
+ 2  = مكتبة الكونجرس       loc_full.json            (2720)
+ 3  = كتب التراث archive   archive_org_books.json   (1147)
+ 4  = المكتبة البريطانية (ملكية عامة) british_library_pd.json (142)
+ 5  = الكل (الفاتيكان+الكونجرس+التراث+البريطانية+أكسفورد+ولكوم+مانشستر)
+ 6  = البريطانية: أرشيف خاص british_library_private.json (198)
+ 7  = أكسفورد بودليان      bodleian.json            (936)
+ 8  = مخطوطات الأناجيل     gospels_manuscripts.json (437)
+ 9  = ولكوم لندن           wellcome.json            (15)
+ 10 = جون رايلاندز مانشستر manchester.json          (12)
+ 11 = باريس القبطي         bnf_coptic.json          (303) [من جهازك]
+ 12 = اكتشاف Wikidata      wikidata_coptic_iiif.json(17)
+ 13 = جامعة بنسلفانيا      upenn_coptic.json        (20)
+ 14 = برينستون            princeton_coptic.json    (77)
+ 15 = تشستر بيتي دبلن      chester_beatty.json      (30) [من جهازك]
+ملاحظة: البرديات القبطية والروابط الجاهزة لمورجان وغيرها تُضاف تباعاً.
+ 16 = الموسوعة القبطية (كليرمونت/Atiya) claremont_cce.json (2131) [حقوق Gale 1991 - للدراسة]
+ 17 = أرشيف نجع حمادي         claremont_nha.json       (3474)
+ 18 = آثار معهد العصور القديمة claremont_aot.json       (122)
+ 19 = نشرة المعهد             claremont_bia.json       (108)
+ 20 = دارتموث (قصاصات قبطية)  dartmouth.json           (1+)
+ 21 = OPenn مفتوح (أناجيل+قطامير+ميامر) openn_coptic.json (17) [ملكية عامة]
+ 22 = بنسلفانيا رقمي (تسبحة+بصخة+إنجيل مرقس) penn_digital_coptic.json (14=3349ص)
+ 23 = الجامعة الأمريكية بالقاهرة (عريان مفتاح القبطية) auc_coptic.json (17=3280ص)
+ 24 = متحف المتروبوليتان (قطع قبطية CC0) met_coptic.json (1850 قطعة) [ملكية عامة]
+ 25 = مكتبة النمسا الوطنية فيينا (ثيئوطوكية قبطي-عربي) onb_coptic.json (1=452ص)
+ 26 = حفائر الواحة الخارجة (أرشيف مصر المسيحية المتأخرة) watson_kharga.json (453)
+ 27 = دير إبيفانيوس بطيبة (Winlock-Crum 1926) epiphanius.json (مجلدين PDF)
+ 28 = كامبريدج — برديات ميخائيليدس القبطية cambridge_coptic.json (218)

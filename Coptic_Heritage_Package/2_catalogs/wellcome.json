@@ -1,0 +1,230 @@
+{
+"source": "Wellcome Collection catalogue API (api.wellcomecollection.org), Coptic/Syriac/Ethiopic/Christian-Arabic with IIIF, 2026-11-13",
+"manuscripts": [
+{
+"library": "Wellcome",
+"collection": "Coptic",
+"shelfmark": "bzfrxh8h",
+"title": "Koptische Grammatik mit Chrestomathie, Wörterverzeichnis und Litteratur / von Georg Steindorff.",
+"language": [
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b24873196",
+"viewer": "https://wellcomecollection.org/works/bzfrxh8h",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 340
+},
+{
+"library": "Wellcome",
+"collection": "Coptic",
+"shelfmark": "hke2tbg5",
+"title": "Koptische Grammatik / von dr. M.G. Schwartze ... Herausgegeben nach des Verfassers Tode von Dr. H. Steinthal.",
+"language": [
+"German",
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b29287510",
+"viewer": "https://wellcomecollection.org/works/hke2tbg5",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 544
+},
+{
+"library": "Wellcome",
+"collection": "Coptic",
+"shelfmark": "pz5dadnu",
+"title": "The martyrdom and miracles of Saint George of Cappadocia / The Coptic texts edited with an English translation by Ernest A. Wallis Budge.",
+"language": [
+"English",
+"Coptic"
+],
+"tier": 1,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b24872982",
+"viewer": "https://wellcomecollection.org/works/pz5dadnu",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 376
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "ep4yud2e",
+"title": "Supplement to the Thesaurus syriacus of R. Payne Smith / collected and arranged by his daughter J. P. Margoliouth.",
+"language": [
+"Syriac",
+"Syriac, Modern",
+"English"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b31366211",
+"viewer": "https://wellcomecollection.org/works/ep4yud2e",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 376
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "j5zbpngc",
+"title": "Fragment of a Christian text",
+"language": [
+"Arabic"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b20298730",
+"viewer": "https://wellcomecollection.org/works/j5zbpngc",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 8
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "mgjq2sk9",
+"title": "Encyclopaedia of philosophical and natural sciences as taught in Baghdad about A.D. 817, or Book of treasures / by Job of Edessa ; Syriac text edited and translated with a critical apparatus by A. Min",
+"language": [
+"English",
+"Syriac, Modern"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b31364469",
+"viewer": "https://wellcomecollection.org/works/mgjq2sk9",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 528
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "nuh33rws",
+"title": "The book of protection : being a collection of charms, now edited for the first time from Syriac mss / with translation, introduction, and notes by Hermann Gollancz ... with 27 illustrations.",
+"language": [
+"English",
+"Syriac, Modern"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b29004160",
+"viewer": "https://wellcomecollection.org/works/nuh33rws",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 236
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "pksb86rs",
+"title": "Gymnasium syriacum. Hoc est, linguae Iesu Christo vernaculae perfecta institutio, ex Nova Testamento syro et aliis rerum syriacarum scriptoribus collecta. Novis & genuinis characteribus adornata / à M",
+"language": [
+"Syriac",
+"Syriac, Modern",
+"Latin"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b14561062",
+"viewer": "https://wellcomecollection.org/works/pksb86rs",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 305
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "ppt2bqrm",
+"title": "The chronography of Gregory Abû'l Faraj, the son of Aaron, the Hebrew physician, commonly known as Bar Hebraeus : being the first part of his political history of the world / translated from the Syria",
+"language": [
+"English",
+"Syriac, Modern"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b31365334",
+"viewer": "https://wellcomecollection.org/works/ppt2bqrm",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 676
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "rabupfrg",
+"title": "Physiologvs Syrvs, sev historia animalivm XXXII in S.S. memoratorvm, Syriace. E codice Bibliothecae Vaticanae nvnc primvm / edidit, vertit et illvstravit Olavs Gerhardvs Tychsen.",
+"language": [
+"Syriac",
+"Syriac, Modern",
+"Latin"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b28775168",
+"viewer": "https://wellcomecollection.org/works/rabupfrg",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 218
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "uxbw483z",
+"title": "Wellcome MS Ethiopian 11.",
+"language": [
+"Ethiopic"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b24390689",
+"viewer": "https://wellcomecollection.org/works/uxbw483z",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 24
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "vdnst7h8",
+"title": "Oriental wit and wisdom, or, the \"Laughable stories\" / collected by Mar Gregory John Bar-Hebraeus ; translated from the Syriac by E. A. Wallis Budge.",
+"language": [
+"English",
+"Syriac, Modern"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b30095402",
+"viewer": "https://wellcomecollection.org/works/vdnst7h8",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 286
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "vumwchz6",
+"title": "Georgii Guilielmi Kirschii Chrestomathia Syriaca cum lexico [Syriac-Latin] / Denuo edidit Georgius Henricus Bernstein.",
+"language": [
+"Latin",
+"Syriac, Modern"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b29331420",
+"viewer": "https://wellcomecollection.org/works/vumwchz6",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 854
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "xpmjvfat",
+"title": "Alphabetum Chaldaicum antiquum Estranghelo dictum vnà cum alphabeto Syriaco, oratione Dominicali, salutatione angelica, et symbolo fidei.",
+"language": [
+"Syriac",
+"Syriac, Modern",
+"Latin"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b14582302",
+"viewer": "https://wellcomecollection.org/works/xpmjvfat",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 104
+},
+{
+"library": "Wellcome",
+"collection": "Eastern_Christian",
+"shelfmark": "yeb3puar",
+"title": "The history of the Blessed Virgin Mary and The history of the likeness of Christ which the Jews of Tiberias made to mock at : the Syriac texts / edited with English translations by E. A. Wallis Budge.",
+"language": [
+"Syriac"
+],
+"tier": 2,
+"manifest": "https://iiif.wellcomecollection.org/presentation/v2/b24879526",
+"viewer": "https://wellcomecollection.org/works/yeb3puar",
+"rights": "Wellcome Collection (CC-BY / public domain; check per item)",
+"pages": 278
+}
+]
+}

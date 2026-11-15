@@ -1,0 +1,775 @@
+{
+"source": "Princeton figgy catalog search 'coptic', 2026-11-14 (77 items; titles in each manifest)",
+"manuscripts": [
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "b65cd851-ef01-45f2-b5bd-28c6616574ca",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/b65cd851-ef01-45f2-b5bd-28c6616574ca/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/b65cd851-ef01-45f2-b5bd-28c6616574ca",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "88b685ca-c21d-475c-97d3-952c5411e06c",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/88b685ca-c21d-475c-97d3-952c5411e06c/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/88b685ca-c21d-475c-97d3-952c5411e06c",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "1871fe1f-64d5-42b2-8a9d-64de2f5fac33",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/1871fe1f-64d5-42b2-8a9d-64de2f5fac33/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/1871fe1f-64d5-42b2-8a9d-64de2f5fac33",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "aa72eb0b-0946-462e-a7e5-73f0f3531d57",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/aa72eb0b-0946-462e-a7e5-73f0f3531d57/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/aa72eb0b-0946-462e-a7e5-73f0f3531d57",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "7e8941f1-233f-4668-abd1-31fa8ddf86b9",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/7e8941f1-233f-4668-abd1-31fa8ddf86b9/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/7e8941f1-233f-4668-abd1-31fa8ddf86b9",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "adf01b50-15db-4792-a89c-7ba39d7acf85",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/adf01b50-15db-4792-a89c-7ba39d7acf85/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/adf01b50-15db-4792-a89c-7ba39d7acf85",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "ed6fdba9-9994-4e95-8652-7a4ae629f4aa",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/ed6fdba9-9994-4e95-8652-7a4ae629f4aa/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/ed6fdba9-9994-4e95-8652-7a4ae629f4aa",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "7694d616-b018-4137-8769-cdc6be228ed4",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/7694d616-b018-4137-8769-cdc6be228ed4/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/7694d616-b018-4137-8769-cdc6be228ed4",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "dad83381-0648-4cfa-be6e-301f88d99231",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/dad83381-0648-4cfa-be6e-301f88d99231/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/dad83381-0648-4cfa-be6e-301f88d99231",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "9553af0c-2e84-465e-a466-1ef4a0788e74",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/9553af0c-2e84-465e-a466-1ef4a0788e74/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/9553af0c-2e84-465e-a466-1ef4a0788e74",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "3e829dbe-0d85-4651-ab95-b541ad8fbf8a",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/3e829dbe-0d85-4651-ab95-b541ad8fbf8a/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/3e829dbe-0d85-4651-ab95-b541ad8fbf8a",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "534eb106-ebe3-4b9a-be8f-594f5d87a8ae",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/534eb106-ebe3-4b9a-be8f-594f5d87a8ae/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/534eb106-ebe3-4b9a-be8f-594f5d87a8ae",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "5887a570-b783-4e0b-9e77-151e287f1613",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/5887a570-b783-4e0b-9e77-151e287f1613/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/5887a570-b783-4e0b-9e77-151e287f1613",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "5d60804a-c1e8-45af-ac7e-1fc682bce49f",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/5d60804a-c1e8-45af-ac7e-1fc682bce49f/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/5d60804a-c1e8-45af-ac7e-1fc682bce49f",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "513a4a82-3e12-4cb9-abe3-3c386e900861",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/513a4a82-3e12-4cb9-abe3-3c386e900861/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/513a4a82-3e12-4cb9-abe3-3c386e900861",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "2cf40450-a082-470d-8a82-d58783c7b526",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/2cf40450-a082-470d-8a82-d58783c7b526/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/2cf40450-a082-470d-8a82-d58783c7b526",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "505c590d-a26c-44f8-8d0d-f1ce2fb4d516",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/505c590d-a26c-44f8-8d0d-f1ce2fb4d516/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/505c590d-a26c-44f8-8d0d-f1ce2fb4d516",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "f92bdce1-732d-4b03-a36c-14901352060e",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/f92bdce1-732d-4b03-a36c-14901352060e/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/f92bdce1-732d-4b03-a36c-14901352060e",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "9dd9ce2f-971a-4cf3-aa6f-04d70bb6b63f",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/9dd9ce2f-971a-4cf3-aa6f-04d70bb6b63f/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/9dd9ce2f-971a-4cf3-aa6f-04d70bb6b63f",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "20d4029c-6144-4b1a-8d4f-1d6174d6106f",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/20d4029c-6144-4b1a-8d4f-1d6174d6106f/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/20d4029c-6144-4b1a-8d4f-1d6174d6106f",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "eab9f1e7-4aee-48a4-b535-36ce9ae524e5",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/eab9f1e7-4aee-48a4-b535-36ce9ae524e5/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/eab9f1e7-4aee-48a4-b535-36ce9ae524e5",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "0266d084-dac7-4eb1-a80e-c621120346e3",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/0266d084-dac7-4eb1-a80e-c621120346e3/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/0266d084-dac7-4eb1-a80e-c621120346e3",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "d7577ec7-9f61-49de-a2c1-c35c04e80229",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/d7577ec7-9f61-49de-a2c1-c35c04e80229/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/d7577ec7-9f61-49de-a2c1-c35c04e80229",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "cf3c0111-86ff-4448-9180-f2b933109841",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/cf3c0111-86ff-4448-9180-f2b933109841/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/cf3c0111-86ff-4448-9180-f2b933109841",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "12dd185d-cdab-4355-8f62-b62932b9f548",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/12dd185d-cdab-4355-8f62-b62932b9f548/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/12dd185d-cdab-4355-8f62-b62932b9f548",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "c8c02950-5096-442f-97a2-05920260d1a1",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/c8c02950-5096-442f-97a2-05920260d1a1/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/c8c02950-5096-442f-97a2-05920260d1a1",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "542bb340-5adb-473d-8f39-e421041b138e",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/542bb340-5adb-473d-8f39-e421041b138e/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/542bb340-5adb-473d-8f39-e421041b138e",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "fc6d2b18-b0cb-4044-a496-6e477d92c57d",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/fc6d2b18-b0cb-4044-a496-6e477d92c57d/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/fc6d2b18-b0cb-4044-a496-6e477d92c57d",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "461f699b-f326-4a86-bcf5-26b5103373d2",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/461f699b-f326-4a86-bcf5-26b5103373d2/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/461f699b-f326-4a86-bcf5-26b5103373d2",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "a517c8af-0ab3-4cd2-a0a2-71937d6c43d5",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/a517c8af-0ab3-4cd2-a0a2-71937d6c43d5/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/a517c8af-0ab3-4cd2-a0a2-71937d6c43d5",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "c0a36a66-c6aa-422a-9f4b-7da94479569a",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/c0a36a66-c6aa-422a-9f4b-7da94479569a/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/c0a36a66-c6aa-422a-9f4b-7da94479569a",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "1834bd3f-c5c0-47da-955e-76d5d0ef3a21",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/1834bd3f-c5c0-47da-955e-76d5d0ef3a21/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/1834bd3f-c5c0-47da-955e-76d5d0ef3a21",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "10548a3b-c331-4376-8cf8-ceed428fcb79",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/10548a3b-c331-4376-8cf8-ceed428fcb79/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/10548a3b-c331-4376-8cf8-ceed428fcb79",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "668386cb-ffb7-4b1c-b8ab-fa4742e23fd4",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/668386cb-ffb7-4b1c-b8ab-fa4742e23fd4/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/668386cb-ffb7-4b1c-b8ab-fa4742e23fd4",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "c1e4e559-95b2-41a2-b2c9-11f7819e0671",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/c1e4e559-95b2-41a2-b2c9-11f7819e0671/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/c1e4e559-95b2-41a2-b2c9-11f7819e0671",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "c0a70aaf-d799-4c37-a3cd-9d0745e2520b",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/c0a70aaf-d799-4c37-a3cd-9d0745e2520b/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/c0a70aaf-d799-4c37-a3cd-9d0745e2520b",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "eece2665-b588-4571-a418-e79592ee59a2",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/eece2665-b588-4571-a418-e79592ee59a2/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/eece2665-b588-4571-a418-e79592ee59a2",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "2d2af2ec-23f2-4c8f-afbe-3c9a9ad6e270",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/2d2af2ec-23f2-4c8f-afbe-3c9a9ad6e270/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/2d2af2ec-23f2-4c8f-afbe-3c9a9ad6e270",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "a2593b5a-d365-43e1-bf3a-d46440d3409c",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/a2593b5a-d365-43e1-bf3a-d46440d3409c/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/a2593b5a-d365-43e1-bf3a-d46440d3409c",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "d6e18690-da24-432c-893a-567bdfc87374",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/d6e18690-da24-432c-893a-567bdfc87374/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/d6e18690-da24-432c-893a-567bdfc87374",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "a04ce53c-a26e-4845-9293-2b085c1bfda6",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/a04ce53c-a26e-4845-9293-2b085c1bfda6/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/a04ce53c-a26e-4845-9293-2b085c1bfda6",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "078a9c99-7596-4021-a057-482f25488ff2",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/078a9c99-7596-4021-a057-482f25488ff2/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/078a9c99-7596-4021-a057-482f25488ff2",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "df18e043-11a3-4a13-912d-40e1b8f4fda9",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/df18e043-11a3-4a13-912d-40e1b8f4fda9/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/df18e043-11a3-4a13-912d-40e1b8f4fda9",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "fd7e893a-0dbd-4856-8baf-f13b33912620",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/fd7e893a-0dbd-4856-8baf-f13b33912620/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/fd7e893a-0dbd-4856-8baf-f13b33912620",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "333793e6-3f12-43c1-9bfe-d22ca83c03bc",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/333793e6-3f12-43c1-9bfe-d22ca83c03bc/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/333793e6-3f12-43c1-9bfe-d22ca83c03bc",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "0d1d081b-3988-446c-ace8-2f471997fd2c",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/0d1d081b-3988-446c-ace8-2f471997fd2c/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/0d1d081b-3988-446c-ace8-2f471997fd2c",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "fcd693c8-cfc1-457d-a844-e3a12f45d6b4",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/fcd693c8-cfc1-457d-a844-e3a12f45d6b4/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/fcd693c8-cfc1-457d-a844-e3a12f45d6b4",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "85f82f72-3932-47ef-8192-f633d89effa3",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/85f82f72-3932-47ef-8192-f633d89effa3/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/85f82f72-3932-47ef-8192-f633d89effa3",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "2f42724f-37d1-4bf0-9657-8af94a6342e3",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/2f42724f-37d1-4bf0-9657-8af94a6342e3/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/2f42724f-37d1-4bf0-9657-8af94a6342e3",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "e75f0f2e-6a86-46f5-8db5-6fd09fab49f3",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/e75f0f2e-6a86-46f5-8db5-6fd09fab49f3/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/e75f0f2e-6a86-46f5-8db5-6fd09fab49f3",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "3255143d-3bf4-4bd0-aa7f-33e6beeb86f8",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/3255143d-3bf4-4bd0-aa7f-33e6beeb86f8/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/3255143d-3bf4-4bd0-aa7f-33e6beeb86f8",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "f3d7e810-6458-49b1-b6be-4badb5e4378d",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/f3d7e810-6458-49b1-b6be-4badb5e4378d/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/f3d7e810-6458-49b1-b6be-4badb5e4378d",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "6e881d34-15f3-4b8d-8464-8b317a2667f8",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/6e881d34-15f3-4b8d-8464-8b317a2667f8/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/6e881d34-15f3-4b8d-8464-8b317a2667f8",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "1109153d-c7cf-4584-ac34-7c7a4a583f68",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/1109153d-c7cf-4584-ac34-7c7a4a583f68/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/1109153d-c7cf-4584-ac34-7c7a4a583f68",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "b8713ca2-d881-4de5-a7e5-4ef46fc5bd59",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/b8713ca2-d881-4de5-a7e5-4ef46fc5bd59/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/b8713ca2-d881-4de5-a7e5-4ef46fc5bd59",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "008e5040-2c21-45f4-ade9-c07b91b81569",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/008e5040-2c21-45f4-ade9-c07b91b81569/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/008e5040-2c21-45f4-ade9-c07b91b81569",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "d001aabd-f329-4b3f-a4df-3c683cef5466",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/d001aabd-f329-4b3f-a4df-3c683cef5466/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/d001aabd-f329-4b3f-a4df-3c683cef5466",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "11fbff6a-ef3f-45f3-8bac-dd6de47cfd2d",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/11fbff6a-ef3f-45f3-8bac-dd6de47cfd2d/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/11fbff6a-ef3f-45f3-8bac-dd6de47cfd2d",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "46f0ab1e-33c8-4f7c-94fa-f90bafa1b494",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/46f0ab1e-33c8-4f7c-94fa-f90bafa1b494/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/46f0ab1e-33c8-4f7c-94fa-f90bafa1b494",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "eed2e9e2-9e57-497d-a2a5-a7903d4eb258",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/eed2e9e2-9e57-497d-a2a5-a7903d4eb258/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/eed2e9e2-9e57-497d-a2a5-a7903d4eb258",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "36bf0da3-8870-46f4-a925-9e9bc65bba4e",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/36bf0da3-8870-46f4-a925-9e9bc65bba4e/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/36bf0da3-8870-46f4-a925-9e9bc65bba4e",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "503b8b64-fb70-4072-8a84-c3c109e0ee35",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/503b8b64-fb70-4072-8a84-c3c109e0ee35/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/503b8b64-fb70-4072-8a84-c3c109e0ee35",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "94990dc5-bb5f-4352-a4ae-8c2c8594c7ed",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/94990dc5-bb5f-4352-a4ae-8c2c8594c7ed/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/94990dc5-bb5f-4352-a4ae-8c2c8594c7ed",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "1b055c7a-e906-4fbe-b7a0-e56dcbcc6b55",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/1b055c7a-e906-4fbe-b7a0-e56dcbcc6b55/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/1b055c7a-e906-4fbe-b7a0-e56dcbcc6b55",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "b54736d1-cd2e-4c1d-9012-1d123cbc8c9f",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/b54736d1-cd2e-4c1d-9012-1d123cbc8c9f/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/b54736d1-cd2e-4c1d-9012-1d123cbc8c9f",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "7c8ccec6-5167-4c2a-b7f2-0f192cc45606",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/7c8ccec6-5167-4c2a-b7f2-0f192cc45606/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/7c8ccec6-5167-4c2a-b7f2-0f192cc45606",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "6b09585f-e2d7-4748-bdaf-d50724054e3f",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/6b09585f-e2d7-4748-bdaf-d50724054e3f/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/6b09585f-e2d7-4748-bdaf-d50724054e3f",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "309b5b94-2248-4a72-843b-9596802781db",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/309b5b94-2248-4a72-843b-9596802781db/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/309b5b94-2248-4a72-843b-9596802781db",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "5ab01e8d-496c-49b4-bb86-509a4813dbe1",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/5ab01e8d-496c-49b4-bb86-509a4813dbe1/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/5ab01e8d-496c-49b4-bb86-509a4813dbe1",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "0d72de4d-1e80-4d2b-bfcd-9f4ce4ec02ba",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/0d72de4d-1e80-4d2b-bfcd-9f4ce4ec02ba/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/0d72de4d-1e80-4d2b-bfcd-9f4ce4ec02ba",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "a62814cf-4fdc-4bfb-a5dd-0196c3a6ac0c",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/a62814cf-4fdc-4bfb-a5dd-0196c3a6ac0c/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/a62814cf-4fdc-4bfb-a5dd-0196c3a6ac0c",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "b9c330a7-6b08-4017-ad2c-bef1ec38e6d0",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/b9c330a7-6b08-4017-ad2c-bef1ec38e6d0/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/b9c330a7-6b08-4017-ad2c-bef1ec38e6d0",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "b08aa13a-5324-4d10-b686-30ff4af1bb35",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/b08aa13a-5324-4d10-b686-30ff4af1bb35/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/b08aa13a-5324-4d10-b686-30ff4af1bb35",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "c1c34642-9ec3-41fc-8be9-8ac2b7dd4f22",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/c1c34642-9ec3-41fc-8be9-8ac2b7dd4f22/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/c1c34642-9ec3-41fc-8be9-8ac2b7dd4f22",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "889a8249-9657-418e-a89c-9ca6378e27be",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/889a8249-9657-418e-a89c-9ca6378e27be/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/889a8249-9657-418e-a89c-9ca6378e27be",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "41704e31-1595-450c-9333-ad1da8ff3e8b",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/41704e31-1595-450c-9333-ad1da8ff3e8b/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/41704e31-1595-450c-9333-ad1da8ff3e8b",
+"rights": "Princeton University Library — open IIIF; verify per item"
+},
+{
+"library": "Princeton_University",
+"collection": "Coptic",
+"shelfmark": "259e4179-2f0f-41ca-8490-fba6a38d817b",
+"title": "",
+"tier": 1,
+"manifest": "https://figgy.princeton.edu/concern/scanned_resources/259e4179-2f0f-41ca-8490-fba6a38d817b/manifest",
+"viewer": "https://figgy.princeton.edu/catalog/259e4179-2f0f-41ca-8490-fba6a38d817b",
+"rights": "Princeton University Library — open IIIF; verify per item"
+}
+]
+}
