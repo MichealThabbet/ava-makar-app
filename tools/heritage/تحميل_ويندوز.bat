@@ -2,12 +2,29 @@
 chcp 65001 >nul
 set PYTHONUTF8=1
 cd /d "%~dp0"
-python -m pip install -q truststore
-set /p DRIVE=اكتب حرف الهارد الخارجي (مثلا E) ثم Enter: 
+echo ============================================================
+echo    تحميل التراث القبطي  -  دير أنبا مقار
+echo ============================================================
+python --version >nul 2>&1 || (echo Python غير مثبت: نزله من python.org وعلم Add to PATH ثم اعد التشغيل & pause & exit /b)
+python -m pip install -q truststore pillow 2>nul
 echo.
-echo المكتبات:  1 = الفاتيكان    2 = مكتبة الكونجرس    3 = كتب التراث القديمة (archive.org)    4 = المكتبة البريطانية    5 = الكل    6 = البريطانية: أرشيف خاص (198 مخطوطة)    7 = أكسفورد (Bodleian)    8 = مخطوطات الأناجيل    9 = ولكوم لندن    10 = جون رايلاندز مانشستر    11 = باريس القبطي (303)    12 = بنسلفانيا وأمريكا    13 = جامعة بنسلفانيا (20)    14 = برينستون (77)    15 = تشستر بيتي دبلن (30)
-echo  16 = الموسوعة القبطية كليرمونت (2131)   17 = نجع حمادي (3474)   18 = آثار المعهد (122)   19 = نشرة المعهد (108)   20 = دارتموث قبطي (قصاصات)   21 = OPenn مفتوح (17)   22 = بنسلفانيا رقمي (3349ص)   23 = الأمريكية بالقاهرة (17)   24 = متحف المتروبوليتان قبطي (1850 قطعة)
-set /p LIB=اختار رقم المكتبة ثم Enter: 
+set /p DRIVE=اكتب حرف الهارد الخارجي (مثلا E) ثم Enter:
+echo.
+echo المكتبات:
+echo   1 = الفاتيكان            2 = مكتبة الكونجرس        3 = كتب التراث (archive.org)
+echo   4 = البريطانية (عام)     6 = البريطانية (خاص)      7 = اكسفورد بودليان
+echo   8 = مخطوطات الاناجيل     9 = ولكوم لندن            10 = مانشستر
+echo   11 = باريس القبطي        12 = اكتشاف Wikidata      13 = بنسلفانيا (قديم)
+echo   14 = برينستون            15 = تشستر بيتي دبلن
+echo   16 = الموسوعة القبطية    17 = نجع حمادي            18 = اثار المعهد
+echo   19 = نشرة المعهد         20 = دارتموث              21 = OPenn مفتوح
+echo   22 = بنسلفانيا رقمي      23 = الامريكية بالقاهرة   24 = متحف المتروبوليتان
+echo.
+echo   5  = الكبار معا (فاتيكان+كونجرس+تراث+بريطانية+اكسفورد+ولكوم+مانشستر)
+echo   99 = حمل كل المكتبات بالترتيب (كل الكنز)
+echo.
+set /p LIB=اختار رقم المكتبة ثم Enter:
+
 set CAT=vatican_full.json
 if "%LIB%"=="2" set CAT=loc_full.json
 if "%LIB%"=="3" set CAT=archive_org_books.json
@@ -31,10 +48,21 @@ if "%LIB%"=="21" set CAT=openn_coptic.json
 if "%LIB%"=="22" set CAT=penn_digital_coptic.json
 if "%LIB%"=="23" set CAT=auc_coptic.json
 if "%LIB%"=="24" set CAT=met_coptic.json
-if "%LIB%"=="5" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
+if "%LIB%"=="5"  set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
+if "%LIB%"=="99" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json british_library_private.json bodleian.json gospels_manuscripts.json wellcome.json manchester.json bnf_coptic.json wikidata_coptic_iiif.json upenn_coptic.json princeton_coptic.json chester_beatty.json claremont_cce.json claremont_nha.json claremont_aot.json claremont_bia.json dartmouth.json openn_coptic.json penn_digital_coptic.json auc_coptic.json met_coptic.json
+
 echo.
-echo الدرجات:  1 = القبطي   2 = العربي المسيحي والسرياني والاثيوبي   3 = اليوناني   4 = الباقي    (للكتب: 1 = قبطي  2 = شرقي)
-set /p TIERS=اكتب الدرجات بينها مسافة (مثلا 1 2) ثم Enter: 
-python download_iiif.py %CAT% --out "%DRIVE%:\Coptic_Heritage" --tier %TIERS%
-if errorlevel 9009 echo Python غير مثبت: نزله من python.org وعلّم Add to PATH
+echo الدرجة (اختياري): 1 = القبطي المباشر فقط  ^|  اضغط Enter فقط لتحميل كل شيء
+set /p TIERS=اكتب الدرجات بمسافة او اضغط Enter:
+set TIERARG=
+if not "%TIERS%"=="" set TIERARG=--tier %TIERS%
+
+echo.
+echo ============================================================
+echo  جاري التحميل الى  %DRIVE%:\Coptic_Heritage
+echo  يمكنك ايقافه (Ctrl+C) واعادة تشغيله لاحقا ليكمل من نفس المكان
+echo ============================================================
+python download_iiif.py %CAT% --out "%DRIVE%:\Coptic_Heritage" %TIERARG% --pause 0.3
+echo.
+echo تم. لو توقف قبل الاكتمال شغل الملف مرة اخرى ليكمل.
 pause
