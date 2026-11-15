@@ -1,0 +1,1967 @@
+{
+"source": "Cambridge Michaelides Coptic",
+"manuscripts": [
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00113-00002",
+"title": "MS-MICH-PAP-00113-00002",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00113-00002",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00113-00003",
+"title": "MS-MICH-PAP-00113-00003",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00113-00003",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00317-00001",
+"title": "MS-MICH-PAP-00317-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00317-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00317-00002",
+"title": "MS-MICH-PAP-00317-00002",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00317-00002",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00317-00003",
+"title": "MS-MICH-PAP-00317-00003",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00317-00003",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00812",
+"title": "MS-MICH-PAP-00812",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00812",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00814-00004",
+"title": "MS-MICH-PAP-00814-00004",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00814-00004",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00814-A",
+"title": "MS-MICH-PAP-00814-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00814-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00814-B",
+"title": "MS-MICH-PAP-00814-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00814-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00814-C",
+"title": "MS-MICH-PAP-00814-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00814-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00815-AB-00001",
+"title": "MS-MICH-PAP-00815-AB-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00815-AB-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00815-AB-00002",
+"title": "MS-MICH-PAP-00815-AB-00002",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00815-AB-00002",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00818-00001",
+"title": "MS-MICH-PAP-00818-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00818-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00818-00003",
+"title": "MS-MICH-PAP-00818-00003",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00818-00003",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00819-A",
+"title": "MS-MICH-PAP-00819-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00819-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00819-B",
+"title": "MS-MICH-PAP-00819-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00819-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00820-A",
+"title": "MS-MICH-PAP-00820-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00820-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00820-B",
+"title": "MS-MICH-PAP-00820-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00820-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00822-A",
+"title": "MS-MICH-PAP-00822-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00822-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00822-B",
+"title": "MS-MICH-PAP-00822-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00822-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00822-C",
+"title": "MS-MICH-PAP-00822-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00822-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00822-D",
+"title": "MS-MICH-PAP-00822-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00822-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00822-E",
+"title": "MS-MICH-PAP-00822-E",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00822-E",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00823-A",
+"title": "MS-MICH-PAP-00823-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00823-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00823-B",
+"title": "MS-MICH-PAP-00823-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00823-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00823-C",
+"title": "MS-MICH-PAP-00823-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00823-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00823-D",
+"title": "MS-MICH-PAP-00823-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00823-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00824-A",
+"title": "MS-MICH-PAP-00824-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00824-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00824-B",
+"title": "MS-MICH-PAP-00824-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00824-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00824-C",
+"title": "MS-MICH-PAP-00824-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00824-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00824-D",
+"title": "MS-MICH-PAP-00824-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00824-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00824-E",
+"title": "MS-MICH-PAP-00824-E",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00824-E",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00825",
+"title": "MS-MICH-PAP-00825",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00825",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00826",
+"title": "MS-MICH-PAP-00826",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00826",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00827",
+"title": "MS-MICH-PAP-00827",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00827",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00830",
+"title": "MS-MICH-PAP-00830",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00830",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00831",
+"title": "MS-MICH-PAP-00831",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00831",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00832",
+"title": "MS-MICH-PAP-00832",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00832",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00833",
+"title": "MS-MICH-PAP-00833",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00833",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00834-A",
+"title": "MS-MICH-PAP-00834-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00834-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00834-B",
+"title": "MS-MICH-PAP-00834-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00834-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00834-C",
+"title": "MS-MICH-PAP-00834-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00834-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00834-D",
+"title": "MS-MICH-PAP-00834-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00834-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00834-E",
+"title": "MS-MICH-PAP-00834-E",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00834-E",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00834-F",
+"title": "MS-MICH-PAP-00834-F",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00834-F",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00837-A",
+"title": "MS-MICH-PAP-00837-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00837-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00837-B",
+"title": "MS-MICH-PAP-00837-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00837-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00837-C",
+"title": "MS-MICH-PAP-00837-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00837-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00837-D",
+"title": "MS-MICH-PAP-00837-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00837-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00838-A",
+"title": "MS-MICH-PAP-00838-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00838-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00838-B",
+"title": "MS-MICH-PAP-00838-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00838-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00838-C",
+"title": "MS-MICH-PAP-00838-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00838-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00838-D",
+"title": "MS-MICH-PAP-00838-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00838-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00838-E",
+"title": "MS-MICH-PAP-00838-E",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00838-E",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00838-F",
+"title": "MS-MICH-PAP-00838-F",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00838-F",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00856-00005",
+"title": "MS-MICH-PAP-00856-00005",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00856-00005",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00917-A-F",
+"title": "MS-MICH-PAP-00917-A-F",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00917-A-F",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00917-G",
+"title": "MS-MICH-PAP-00917-G",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00917-G",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00918",
+"title": "MS-MICH-PAP-00918",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00918",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00959",
+"title": "MS-MICH-PAP-00959",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00959",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00960",
+"title": "MS-MICH-PAP-00960",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00960",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00962",
+"title": "MS-MICH-PAP-00962",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00962",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00964",
+"title": "MS-MICH-PAP-00964",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00964",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00985",
+"title": "MS-MICH-PAP-00985",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00985",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01022",
+"title": "MS-MICH-PAP-01022",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01022",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01047-A",
+"title": "MS-MICH-PAP-01047-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01047-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01047-B",
+"title": "MS-MICH-PAP-01047-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01047-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01048-A",
+"title": "MS-MICH-PAP-01048-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01048-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01048-B",
+"title": "MS-MICH-PAP-01048-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01048-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01048-C",
+"title": "MS-MICH-PAP-01048-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01048-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01068",
+"title": "MS-MICH-PAP-01068",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01068",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01073",
+"title": "MS-MICH-PAP-01073",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01073",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01089",
+"title": "MS-MICH-PAP-01089",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01089",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01090-A-C-H",
+"title": "MS-MICH-PAP-01090-A-C-H",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01090-A-C-H",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01090-D-G-I",
+"title": "MS-MICH-PAP-01090-D-G-I",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01090-D-G-I",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01090-E-F",
+"title": "MS-MICH-PAP-01090-E-F",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01090-E-F",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01092",
+"title": "MS-MICH-PAP-01092",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01092",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01101",
+"title": "MS-MICH-PAP-01101",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01101",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01102",
+"title": "MS-MICH-PAP-01102",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01102",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01104",
+"title": "MS-MICH-PAP-01104",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01104",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01105",
+"title": "MS-MICH-PAP-01105",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01105",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01114",
+"title": "MS-MICH-PAP-01114",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01114",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01120",
+"title": "MS-MICH-PAP-01120",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01120",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01121",
+"title": "MS-MICH-PAP-01121",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01121",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01130",
+"title": "MS-MICH-PAP-01130",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01130",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01154",
+"title": "MS-MICH-PAP-01154",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01154",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01159",
+"title": "MS-MICH-PAP-01159",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01159",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01162-A",
+"title": "MS-MICH-PAP-01162-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01162-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01162-B",
+"title": "MS-MICH-PAP-01162-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01162-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01162-C",
+"title": "MS-MICH-PAP-01162-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01162-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01166",
+"title": "MS-MICH-PAP-01166",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01166",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01176",
+"title": "MS-MICH-PAP-01176",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01176",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01183",
+"title": "MS-MICH-PAP-01183",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01183",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01196",
+"title": "MS-MICH-PAP-01196",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01196",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01201",
+"title": "MS-MICH-PAP-01201",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01201",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01217",
+"title": "MS-MICH-PAP-01217",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01217",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01218",
+"title": "MS-MICH-PAP-01218",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01218",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01221",
+"title": "MS-MICH-PAP-01221",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01221",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01224",
+"title": "MS-MICH-PAP-01224",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01224",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01227",
+"title": "MS-MICH-PAP-01227",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01227",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01231",
+"title": "MS-MICH-PAP-01231",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01231",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01232",
+"title": "MS-MICH-PAP-01232",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01232",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01233",
+"title": "MS-MICH-PAP-01233",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01233",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01235",
+"title": "MS-MICH-PAP-01235",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01235",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01236",
+"title": "MS-MICH-PAP-01236",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01236",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01237-A",
+"title": "MS-MICH-PAP-01237-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01237-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01237-B",
+"title": "MS-MICH-PAP-01237-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01237-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01250",
+"title": "MS-MICH-PAP-01250",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01250",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01257",
+"title": "MS-MICH-PAP-01257",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01257",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01259",
+"title": "MS-MICH-PAP-01259",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01259",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01262",
+"title": "MS-MICH-PAP-01262",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01262",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01277",
+"title": "MS-MICH-PAP-01277",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01277",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01282-00001",
+"title": "MS-MICH-PAP-01282-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01282-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01282-00002",
+"title": "MS-MICH-PAP-01282-00002",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01282-00002",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01282-00003",
+"title": "MS-MICH-PAP-01282-00003",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01282-00003",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01282-00004",
+"title": "MS-MICH-PAP-01282-00004",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01282-00004",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-A-01065-A-B",
+"title": "MS-MICH-PAP-A-01065-A-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-A-01065-A-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-A-01169",
+"title": "MS-MICH-PAP-A-01169",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-A-01169",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-COP-01112-00001",
+"title": "MS-MICH-PAP-COP-01112-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-COP-01112-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-COP-01112-00002",
+"title": "MS-MICH-PAP-COP-01112-00002",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-COP-01112-00002",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-COP-01112-00003",
+"title": "MS-MICH-PAP-COP-01112-00003",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-COP-01112-00003",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-COP-01112-00004-00005-00007",
+"title": "MS-MICH-PAP-COP-01112-00004-00005-00007",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-COP-01112-00004-00005-00007",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-COP-01112-00006",
+"title": "MS-MICH-PAP-COP-01112-00006",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-COP-01112-00006",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00100",
+"title": "MS-MICH-PAP-Q-00100",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00100",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00102",
+"title": "MS-MICH-PAP-Q-00102",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00102",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00104-00001",
+"title": "MS-MICH-PAP-Q-00104-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00104-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00104-00002",
+"title": "MS-MICH-PAP-Q-00104-00002",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00104-00002",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00106-00001",
+"title": "MS-MICH-PAP-Q-00106-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00106-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00106-00003",
+"title": "MS-MICH-PAP-Q-00106-00003",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00106-00003",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00106-00004",
+"title": "MS-MICH-PAP-Q-00106-00004",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00106-00004",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00108",
+"title": "MS-MICH-PAP-Q-00108",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00108",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00109-00001",
+"title": "MS-MICH-PAP-Q-00109-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00109-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00109-00002",
+"title": "MS-MICH-PAP-Q-00109-00002",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00109-00002",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00110-00001",
+"title": "MS-MICH-PAP-Q-00110-00001",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00110-00001",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00110-00002",
+"title": "MS-MICH-PAP-Q-00110-00002",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00110-00002",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00110-00003",
+"title": "MS-MICH-PAP-Q-00110-00003",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00110-00003",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00110-00004",
+"title": "MS-MICH-PAP-Q-00110-00004",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00110-00004",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00111-A",
+"title": "MS-MICH-PAP-Q-00111-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00111-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00111-B",
+"title": "MS-MICH-PAP-Q-00111-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00111-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00114",
+"title": "MS-MICH-PAP-Q-00114",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00114",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00116",
+"title": "MS-MICH-PAP-Q-00116",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00116",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00117",
+"title": "MS-MICH-PAP-Q-00117",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00117",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00118",
+"title": "MS-MICH-PAP-Q-00118",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00118",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00119",
+"title": "MS-MICH-PAP-Q-00119",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00119",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00120",
+"title": "MS-MICH-PAP-Q-00120",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00120",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00121",
+"title": "MS-MICH-PAP-Q-00121",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00121",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00122",
+"title": "MS-MICH-PAP-Q-00122",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00122",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00123",
+"title": "MS-MICH-PAP-Q-00123",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00123",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00125",
+"title": "MS-MICH-PAP-Q-00125",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00125",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00126",
+"title": "MS-MICH-PAP-Q-00126",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00126",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00127",
+"title": "MS-MICH-PAP-Q-00127",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00127",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00128",
+"title": "MS-MICH-PAP-Q-00128",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00128",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00129",
+"title": "MS-MICH-PAP-Q-00129",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00129",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00130",
+"title": "MS-MICH-PAP-Q-00130",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00130",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00131",
+"title": "MS-MICH-PAP-Q-00131",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00131",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00132",
+"title": "MS-MICH-PAP-Q-00132",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00132",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00134",
+"title": "MS-MICH-PAP-Q-00134",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00134",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00135",
+"title": "MS-MICH-PAP-Q-00135",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00135",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00136",
+"title": "MS-MICH-PAP-Q-00136",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00136",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00137",
+"title": "MS-MICH-PAP-Q-00137",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00137",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00138",
+"title": "MS-MICH-PAP-Q-00138",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00138",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00139",
+"title": "MS-MICH-PAP-Q-00139",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00139",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00140",
+"title": "MS-MICH-PAP-Q-00140",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00140",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00806-A",
+"title": "MS-MICH-PAP-Q-00806-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00806-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00806-B",
+"title": "MS-MICH-PAP-Q-00806-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00806-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00806-C",
+"title": "MS-MICH-PAP-Q-00806-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00806-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00806-D",
+"title": "MS-MICH-PAP-Q-00806-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00806-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00806-E",
+"title": "MS-MICH-PAP-Q-00806-E",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00806-E",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00806-F",
+"title": "MS-MICH-PAP-Q-00806-F",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00806-F",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00807",
+"title": "MS-MICH-PAP-Q-00807",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00807",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00809-A",
+"title": "MS-MICH-PAP-Q-00809-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00809-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00809-B",
+"title": "MS-MICH-PAP-Q-00809-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00809-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00811-A",
+"title": "MS-MICH-PAP-Q-00811-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00811-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00811-B",
+"title": "MS-MICH-PAP-Q-00811-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00811-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00811-C",
+"title": "MS-MICH-PAP-Q-00811-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00811-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00811-D",
+"title": "MS-MICH-PAP-Q-00811-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00811-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00813",
+"title": "MS-MICH-PAP-Q-00813",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00813",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00817-A",
+"title": "MS-MICH-PAP-Q-00817-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00817-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00817-B",
+"title": "MS-MICH-PAP-Q-00817-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00817-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00817-C",
+"title": "MS-MICH-PAP-Q-00817-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00817-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00821-A",
+"title": "MS-MICH-PAP-Q-00821-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00821-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00821-B",
+"title": "MS-MICH-PAP-Q-00821-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00821-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00821-C",
+"title": "MS-MICH-PAP-Q-00821-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00821-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00821-D",
+"title": "MS-MICH-PAP-Q-00821-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00821-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00828-A",
+"title": "MS-MICH-PAP-Q-00828-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00828-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00828-B",
+"title": "MS-MICH-PAP-Q-00828-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00828-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00828-C",
+"title": "MS-MICH-PAP-Q-00828-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00828-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00829-A",
+"title": "MS-MICH-PAP-Q-00829-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00829-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00829-B",
+"title": "MS-MICH-PAP-Q-00829-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00829-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00829-C",
+"title": "MS-MICH-PAP-Q-00829-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00829-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00836-A",
+"title": "MS-MICH-PAP-Q-00836-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00836-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00836-B",
+"title": "MS-MICH-PAP-Q-00836-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00836-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00836-C",
+"title": "MS-MICH-PAP-Q-00836-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00836-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00836-D",
+"title": "MS-MICH-PAP-Q-00836-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00836-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00836-E",
+"title": "MS-MICH-PAP-Q-00836-E",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00836-E",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00836-F",
+"title": "MS-MICH-PAP-Q-00836-F",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00836-F",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00855-A",
+"title": "MS-MICH-PAP-Q-00855-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00855-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00855-B",
+"title": "MS-MICH-PAP-Q-00855-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00855-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00855-C",
+"title": "MS-MICH-PAP-Q-00855-C",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00855-C",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00855-D",
+"title": "MS-MICH-PAP-Q-00855-D",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00855-D",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-Q-00855-E",
+"title": "MS-MICH-PAP-Q-00855-E",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-Q-00855-E",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00280",
+"title": "MS-MICH-PAP-00280",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00280",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00389",
+"title": "MS-MICH-PAP-00389",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00389",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00446-A",
+"title": "MS-MICH-PAP-00446-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00446-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00955-A",
+"title": "MS-MICH-PAP-00955-A",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00955-A",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00955-B",
+"title": "MS-MICH-PAP-00955-B",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00955-B",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00968",
+"title": "MS-MICH-PAP-00968",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00968",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01167",
+"title": "MS-MICH-PAP-01167",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01167",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01168",
+"title": "MS-MICH-PAP-01168",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01168",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01179",
+"title": "MS-MICH-PAP-01179",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01179",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01216",
+"title": "MS-MICH-PAP-01216",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01216",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01265",
+"title": "MS-MICH-PAP-01265",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01265",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01275",
+"title": "MS-MICH-PAP-01275",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01275",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01323",
+"title": "MS-MICH-PAP-01323",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01323",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-01475",
+"title": "MS-MICH-PAP-01475",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-01475",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00922",
+"title": "MS-MICH-PAP-00922",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00922",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-X-00023",
+"title": "MS-MICH-PAP-X-00023",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-X-00023",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+},
+{
+"library": "Cambridge_CUDL",
+"collection": "Michaelides_Coptic",
+"shelfmark": "MS-MICH-PAP-00446",
+"title": "MS-MICH-PAP-00446",
+"tier": 1,
+"manifest": "https://cudl.lib.cam.ac.uk/iiif/MS-MICH-PAP-00446",
+"rights": "Cambridge University Library. Downloads CC BY-NC 4.0."
+}
+]
+}

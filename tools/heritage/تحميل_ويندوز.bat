@@ -18,7 +18,7 @@ echo   11 = باريس القبطي        12 = اكتشاف Wikidata      13 = 
 echo   14 = برينستون            15 = تشستر بيتي دبلن
 echo   16 = الموسوعة القبطية    17 = نجع حمادي            18 = اثار المعهد
 echo   19 = نشرة المعهد         20 = دارتموث              21 = OPenn مفتوح
-echo   22 = بنسلفانيا رقمي      23 = الامريكية بالقاهرة   24 = متحف المتروبوليتان   25 = النمسا فيينا   26 = حفائر الخارجة (أرشيف 453)   27 = دير إبيفانيوس (كتاب)
+echo   22 = بنسلفانيا رقمي      23 = الامريكية بالقاهرة   24 = متحف المتروبوليتان   25 = النمسا فيينا   26 = حفائر الخارجة (أرشيف 453)   27 = دير إبيفانيوس   28 = كامبريدج ميخائيليدس القبطية (218 بردية)
 echo.
 echo   5  = الكبار معا (فاتيكان+كونجرس+تراث+بريطانية+اكسفورد+ولكوم+مانشستر)
 echo   99 = حمل كل المكتبات بالترتيب (كل الكنز)
@@ -51,8 +51,9 @@ if "%LIB%"=="24" set CAT=met_coptic.json
 if "%LIB%"=="25" set CAT=onb_coptic.json
 if "%LIB%"=="26" set CAT=watson_kharga.json
 if "%LIB%"=="27" set CAT=epiphanius.json
+if "%LIB%"=="28" set CAT=cambridge_coptic.json
 if "%LIB%"=="5"  set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
-if "%LIB%"=="99" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json british_library_private.json bodleian.json gospels_manuscripts.json wellcome.json manchester.json bnf_coptic.json wikidata_coptic_iiif.json upenn_coptic.json princeton_coptic.json chester_beatty.json claremont_cce.json claremont_nha.json claremont_aot.json claremont_bia.json dartmouth.json openn_coptic.json penn_digital_coptic.json auc_coptic.json met_coptic.json onb_coptic.json watson_kharga.json epiphanius.json
+if "%LIB%"=="99" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json british_library_private.json bodleian.json gospels_manuscripts.json wellcome.json manchester.json bnf_coptic.json wikidata_coptic_iiif.json upenn_coptic.json princeton_coptic.json chester_beatty.json claremont_cce.json claremont_nha.json claremont_aot.json claremont_bia.json dartmouth.json openn_coptic.json penn_digital_coptic.json auc_coptic.json met_coptic.json onb_coptic.json watson_kharga.json epiphanius.json cambridge_coptic.json
 
 echo.
 echo الدرجة (اختياري): 1 = القبطي المباشر فقط  ^|  اضغط Enter فقط لتحميل كل شيء
