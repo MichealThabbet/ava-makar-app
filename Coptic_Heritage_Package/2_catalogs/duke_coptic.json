@@ -1,5 +1,5 @@
 {
-"source": "Duke Papyrus Archive — Coptic",
+"source": "Duke Papyrus Archive — Coptic (full scan)",
 "manuscripts": [
 {
 "library": "Duke_Papyrus",
@@ -9,6 +9,18 @@
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/75-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.232",
+"title": "P.Duk.inv.232",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/232r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/232v-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -152,6 +164,17 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.256",
+"title": "P.Duk.inv.256",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/256-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.258",
 "title": "P.Duk.inv.258",
 "tier": 1,
@@ -198,6 +221,64 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.264",
+"title": "P.Duk.inv.264",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/264-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.265",
+"title": "P.Duk.inv.265",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/265r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/265v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.266",
+"title": "P.Duk.inv.266",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/266r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/266v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.267",
+"title": "P.Duk.inv.267",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/267-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.268",
+"title": "P.Duk.inv.268",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/268r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/268v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.281",
 "title": "P.Duk.inv.281",
 "tier": 1,
@@ -216,6 +297,18 @@
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/282r-at150.gif",
 "https://library.duke.edu/papyrus/images/150dpi/282v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.283",
+"title": "P.Duk.inv.283",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/283-1of2-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/283-2of2-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -246,11 +339,70 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.435",
+"title": "P.Duk.inv.435",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/435r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/435v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.436",
+"title": "P.Duk.inv.436",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/436r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/436v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.437",
+"title": "P.Duk.inv.437",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/437r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/437v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.438",
 "title": "P.Duk.inv.438",
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/438-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.440",
+"title": "P.Duk.inv.440",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/440r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/440v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.441",
+"title": "P.Duk.inv.441",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/441-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -279,11 +431,35 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.447",
+"title": "P.Duk.inv.447",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/447r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/447v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.448",
 "title": "P.Duk.inv.448",
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/448-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.449",
+"title": "P.Duk.inv.449",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/449r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/449v-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -314,6 +490,18 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.454",
+"title": "P.Duk.inv.454",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/454r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/454v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.456",
 "title": "P.Duk.inv.456",
 "tier": 1,
@@ -336,6 +524,29 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.460",
+"title": "P.Duk.inv.460",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/460-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.462",
+"title": "P.Duk.inv.462",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/462r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/462v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.463",
 "title": "P.Duk.inv.463",
 "tier": 1,
@@ -348,11 +559,90 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.464",
+"title": "P.Duk.inv.464",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/464-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.469",
+"title": "Sale in Coptic (P.Duk.inv. 469)",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/469-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.471",
+"title": "P.Duk.inv.471",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/471r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/471v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.472",
+"title": "P.Duk.inv.472",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/472-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.474",
+"title": "P.Duk.inv.474",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/474r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/474v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.475",
+"title": "P.Duk.inv.475",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/475-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.480",
 "title": "P.Duk.inv.480",
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/480-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.484",
+"title": "P.Duk.inv.484",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/484-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -381,6 +671,17 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.493",
+"title": "P.Duk.inv.493",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/493-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.495",
 "title": "P.Duk.inv.495",
 "tier": 1,
@@ -397,6 +698,17 @@
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/496-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.501",
+"title": "P.Duk.inv.501",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/501-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -420,6 +732,17 @@
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/506-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.513",
+"title": "P.Duk.inv.513",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/513-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -471,22 +794,34 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
-"shelfmark": "P.Duk.inv.545",
-"title": "P.Duk.inv.545",
+"shelfmark": "P.Duk.inv.540",
+"title": "P.Duk.inv.540",
 "tier": 1,
 "images": [
-"https://library.duke.edu/papyrus/images/150dpi/545-at150.gif"
+"https://library.duke.edu/papyrus/images/150dpi/540r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/540v-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
-"shelfmark": "P.Duk.inv.548",
-"title": "P.Duk.inv.548",
+"shelfmark": "P.Duk.inv.541",
+"title": "P.Duk.inv.541",
 "tier": 1,
 "images": [
-"https://library.duke.edu/papyrus/images/150dpi/52v-at150.gif"
+"https://library.duke.edu/papyrus/images/150dpi/541-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.545",
+"title": "P.Duk.inv.545",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/545-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -582,6 +917,28 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.669",
+"title": "P.Duk.inv.669",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/669-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.732",
+"title": "P.Duk.inv.732",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/732-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.771",
 "title": "P.Duk.inv.771",
 "tier": 1,
@@ -639,6 +996,29 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.810",
+"title": "P.Duk.inv.810",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/810-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.812",
+"title": "P.Duk.inv.812",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/812r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/812v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.814",
 "title": "P.Duk.inv.814",
 "tier": 1,
@@ -651,11 +1031,44 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.815",
+"title": "P.Duk.inv.815",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/815-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.816",
+"title": "P.Duk.inv.816",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/816-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.817",
 "title": "P.Duk.inv.817",
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/817-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.818",
+"title": "P.Duk.inv.818",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/818-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -708,6 +1121,17 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.823",
+"title": "P.Duk.inv.823",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/823-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.824",
 "title": "P.Duk.inv.824",
 "tier": 1,
@@ -748,6 +1172,7 @@
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/829r-1of2-at150.gif",
 "https://library.duke.edu/papyrus/images/150dpi/829r-2of2-_at150.gif",
+"https://library.duke.edu/papyrus/images/72dpi/829r-2of2-_at72.gif",
 "https://library.duke.edu/papyrus/images/150dpi/829v-1of2-at150.gif",
 "https://library.duke.edu/papyrus/images/150dpi/829v-2of2-at150.gif"
 ],
@@ -788,6 +1213,18 @@
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/833r-at150.gif",
 "https://library.duke.edu/papyrus/images/150dpi/833v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.839",
+"title": "P.Duk.inv.839",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/839r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/839v-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -841,11 +1278,56 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.1052",
+"title": "P.Duk.inv.1052",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1052r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1052v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1054",
+"title": "P.Duk.inv.1054",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1054-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1055",
+"title": "P.Duk.inv.1055",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1055-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.1056",
 "title": "P.Duk.inv.1056",
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/1056-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1057",
+"title": "P.Duk.inv.1057",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1057-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -982,6 +1464,18 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.1069",
+"title": "P.Duk.inv.1069",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1069r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1069v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.1071",
 "title": "P.Duk.inv.1071",
 "tier": 1,
@@ -1000,6 +1494,87 @@
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/1072r-at150.gif",
 "https://library.duke.edu/papyrus/images/150dpi/1072v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1073",
+"title": "P.Duk.inv.1073",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1073r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1073v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1074",
+"title": "P.Duk.inv.1074",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1074-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1076",
+"title": "P.Duk.inv.1076",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1076r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1076v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1077",
+"title": "P.Duk.inv.1077",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1077-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1078",
+"title": "P.Duk.inv.1078",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1078r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1078v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1079",
+"title": "P.Duk.inv.1079",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1079-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1080",
+"title": "P.Duk.inv.1080",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1080r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1080v-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -1029,11 +1604,35 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.1083",
+"title": "P.Duk.inv.1083",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1083r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1083v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.1085",
 "title": "P.Duk.inv.1085",
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/1085-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1086",
+"title": "P.Duk.inv.1086",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1086r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1086v-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -1051,11 +1650,46 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.1088",
+"title": "P.Duk.inv.1088",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1088r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1088v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1089",
+"title": "P.Duk.inv.1089",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1089-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.1090",
 "title": "P.Duk.inv.1090",
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/1090-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1091",
+"title": "P.Duk.inv.1091",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1091r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1091v-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -1078,6 +1712,29 @@
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/1093-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1094",
+"title": "P.Duk.inv.1094",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1094r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1094v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1095",
+"title": "P.Duk.inv.1095",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1095-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -1183,6 +1840,18 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.1106",
+"title": "P.Duk.inv.1106",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1106r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1106v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.1107",
 "title": "P.Duk.inv.1107",
 "tier": 1,
@@ -1271,6 +1940,30 @@
 {
 "library": "Duke_Papyrus",
 "collection": "Coptic",
+"shelfmark": "P.Duk.inv.1117",
+"title": "P.Duk.inv.1117",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1117r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1117v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1118",
+"title": "P.Duk.inv.1118",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1118r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1118v-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
 "shelfmark": "P.Duk.inv.1119",
 "title": "P.Duk.inv.1119",
 "tier": 1,
@@ -1287,6 +1980,17 @@
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/1120-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1121",
+"title": "P.Duk.inv.1121",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1121-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
@@ -1509,6 +2213,18 @@
 "tier": 1,
 "images": [
 "https://library.duke.edu/papyrus/images/150dpi/1262-at150.gif"
+],
+"rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
+},
+{
+"library": "Duke_Papyrus",
+"collection": "Coptic",
+"shelfmark": "P.Duk.inv.1263",
+"title": "P.Duk.inv.1263",
+"tier": 1,
+"images": [
+"https://library.duke.edu/papyrus/images/150dpi/1263r-at150.gif",
+"https://library.duke.edu/papyrus/images/150dpi/1263v-at150.gif"
 ],
 "rights": "Duke University Libraries, Duke Papyrus Archive. Study/archive use."
 },
