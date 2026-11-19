@@ -17311,6 +17311,15 @@
 "Place of Origin": "Georgia"
 },
 "order": 6
+},
+{
+"library": "Bodleian",
+"collection": "Hebrew",
+"shelfmark": "MS. Huntington 12",
+"title": "Bodleian Library MS. Huntington 12 (Hebrew Bible, 1200-1225)",
+"tier": 2,
+"manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/16225045-db88-4fd0-bb01-59411909f561.json",
+"rights": "Bodleian Libraries, University of Oxford. CC BY-NC 4.0."
 }
 ]
 }
