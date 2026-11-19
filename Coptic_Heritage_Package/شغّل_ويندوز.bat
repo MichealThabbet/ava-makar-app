@@ -15,7 +15,7 @@ echo   1=الفاتيكان 2=الكونجرس 3=كتب archive 4=البريطا
 echo   7=بودليان 8=الاناجيل 9=ولكوم 10=مانشستر 11=باريس 12=Wikidata 13=بنسلفانيا
 echo   14=برينستون 15=تشستر بيتي 16=الموسوعة القبطية 17=نجع حمادي 18=اثار المعهد
 echo   19=نشرة المعهد 20=دارتموث 21=OPenn 22=بنسلفانيا رقمي 23=الامريكية بالقاهرة
-echo   24=المتروبوليتان 25=النمسا 26=حفائر الخارجة 27=دير ابيفانيوس 28=كامبريدج 29=ديوك
+echo   24=المتروبوليتان 25=النمسا 26=حفائر الخارجة 27=دير ابيفانيوس 28=كامبريدج 29=ديوك 30=برلين
 echo.
 echo   5  = الكبار معا        99 = حمل كل المكتبات (كل الكنز)
 echo.
@@ -49,8 +49,9 @@ if "%LIB%"=="26" set CAT=watson_kharga.json
 if "%LIB%"=="27" set CAT=epiphanius.json
 if "%LIB%"=="28" set CAT=cambridge_coptic.json
 if "%LIB%"=="29" set CAT=duke_coptic.json
+if "%LIB%"=="30" set CAT=berlin_coptic.json
 if "%LIB%"=="5"  set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
-if "%LIB%"=="99" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json british_library_private.json bodleian.json gospels_manuscripts.json wellcome.json manchester.json bnf_coptic.json wikidata_coptic_iiif.json upenn_coptic.json princeton_coptic.json chester_beatty.json claremont_cce.json claremont_nha.json claremont_aot.json claremont_bia.json dartmouth.json openn_coptic.json penn_digital_coptic.json auc_coptic.json met_coptic.json onb_coptic.json watson_kharga.json epiphanius.json cambridge_coptic.json duke_coptic.json
+if "%LIB%"=="99" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json british_library_private.json bodleian.json gospels_manuscripts.json wellcome.json manchester.json bnf_coptic.json wikidata_coptic_iiif.json upenn_coptic.json princeton_coptic.json chester_beatty.json claremont_cce.json claremont_nha.json claremont_aot.json claremont_bia.json dartmouth.json openn_coptic.json penn_digital_coptic.json auc_coptic.json met_coptic.json onb_coptic.json watson_kharga.json epiphanius.json cambridge_coptic.json duke_coptic.json berlin_coptic.json
 
 echo.
 echo الدرجة (اختياري): 1 = القبطي المباشر فقط  ^|  اضغط Enter فقط لتحميل كل شيء
