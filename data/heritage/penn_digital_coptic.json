@@ -1,5 +1,5 @@
 {
-"source": "Penn Digital Repository — Coptic",
+"source": "Penn Digital Repository — Coptic (broadened audit)",
 "manuscripts": [
 {
 "library": "UPenn_DigitalRepo",
@@ -140,6 +140,356 @@
 "pages": 10,
 "manifest": "https://digitalrepository.library.upenn.edu/iiif/items/4b0b1af9-809c-40ee-847e-7b6105973956/manifest",
 "rights": "University of Pennsylvania Libraries. Study/archive use; verify reuse."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Kitāb madāʼiḥ yataḍammanu madāʼiḥ li-shahr Kīhak wa-a",
+"title": "Kitāb madāʼiḥ yataḍammanu madāʼiḥ li-shahr Kīhak wa-al-aʻyād al-sayyidīyah kibār wa-ṣighār wa-madāʼiḥ al-arbaʻīn al-muqaddasah wa-al-ṣalīb",
+"tier": 1,
+"pages": 364,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/3ec8ab5e-bc1e-4e13-b88e-75e572b2e7ac/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[Martyrology of Coptic Saints]",
+"title": "[Martyrology of Coptic Saints]",
+"tier": 1,
+"pages": 68,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/1947c9de-40b9-439b-85eb-84980105e689/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[Selection of Psalms to be read on specific days of the mont",
+"title": "[Selection of Psalms to be read on specific days of the months]",
+"tier": 1,
+"pages": 100,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/bd4e5d4d-ecc6-417f-bc3f-713401a5df4b/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Kitāb al-salāmāt",
+"title": "Kitāb al-salāmāt",
+"tier": 1,
+"pages": 358,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/b1459d3a-8f1e-41fb-90b7-67d342c88c6b/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[Four Gospels]",
+"title": "[Four Gospels]",
+"tier": 1,
+"pages": 556,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/672dd809-736e-4843-806c-d5076141b982/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "al-Muṣḥaf al-Muqaddas",
+"title": "al-Muṣḥaf al-Muqaddas",
+"tier": 1,
+"pages": 718,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/e2c7365f-59ec-4eca-998d-145e18de4d9b/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Muqaddimat al-Rasāʼil Būlus",
+"title": "Muqaddimat al-Rasāʼil Būlus",
+"tier": 1,
+"pages": 406,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/feab52f1-7970-43b4-939a-1c156fa09579/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[Ethiopian liturgical manuscript]",
+"title": "[Ethiopian liturgical manuscript]",
+"tier": 1,
+"pages": 272,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/a39f8695-cb20-46f2-83d9-ceb3e332c519/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[Rasāʼil al-Qiddīs Būlus]",
+"title": "[Rasāʼil al-Qiddīs Būlus]",
+"tier": 1,
+"pages": 398,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/e6129265-1066-4e53-a0bf-c8db2dc0bd80/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Barlām wa-Yawāṣaf",
+"title": "Barlām wa-Yawāṣaf",
+"tier": 1,
+"pages": 554,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/30e70dd7-3938-4848-8ac2-2cc0bf5c571f/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "al-Kitāb al-musammá bi-al-Durr al-muntakhab li-Yūḥannā ",
+"title": "al-Kitāb al-musammá bi-al-Durr al-muntakhab li-Yūḥannā al-Dhahabī",
+"tier": 1,
+"pages": 376,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/215b6d8d-afba-41b9-a00e-86b24b84cc7a/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Diary of a trip on the Nile River, 1874-1875",
+"title": "Diary of a trip on the Nile River, 1874-1875",
+"tier": 1,
+"pages": 201,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/f13f986b-6c5e-4e3a-9a13-a4c760eb8b75/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Edith Mary Mellor travel diary, 1934-1935",
+"title": "Edith Mary Mellor travel diary, 1934-1935",
+"tier": 1,
+"pages": 147,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/73ca6d1c-4b13-4c0c-9845-7f0d35eb19e7/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Kalimāt ʻarabīyah ʻalá tartīb ḥurūf al-tahajjī",
+"title": "Kalimāt ʻarabīyah ʻalá tartīb ḥurūf al-tahajjī",
+"tier": 1,
+"pages": 428,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/2a39e79b-8b1e-4fd0-8c69-e97797ff1daf/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "al-Qāmūs al-muḥīṭ",
+"title": "al-Qāmūs al-muḥīṭ",
+"tier": 1,
+"pages": 971,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/ac183d81-a484-4f3b-ac93-e94da4bfeddf/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Muʻallaqat al-arz / 1938",
+"title": "Muʻallaqat al-arz / 1938",
+"tier": 1,
+"pages": 211,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/1c476ddb-e0df-45f9-8d3a-102d1b52cf0f/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Injīl Yūḥannā al-bashīr",
+"title": "Injīl Yūḥannā al-bashīr",
+"tier": 1,
+"pages": 168,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/bf8e4a75-fb17-43f3-bd7f-b477cf09749e/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[Niṣāb al-ṣibyān]",
+"title": "[Niṣāb al-ṣibyān]",
+"tier": 1,
+"pages": 116,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/b4b7296b-3b0b-4e9f-97c7-a8a13cd988a0/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Judeo-Arabic treatise on geomancery : manuscript",
+"title": "Judeo-Arabic treatise on geomancery : manuscript",
+"tier": 1,
+"pages": 70,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/21576b96-6e35-4f18-af07-25678ac3de5b/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[Poetry anthology in Ottoman Turkish, Persian and Arabic]",
+"title": "[Poetry anthology in Ottoman Turkish, Persian and Arabic]",
+"tier": 1,
+"pages": 168,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/9239e4f5-2e0b-4f88-9579-9e1305b9d559/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Kitāb Alghāz fī al-lughah al-ʻArabīyah",
+"title": "Kitāb Alghāz fī al-lughah al-ʻArabīyah",
+"tier": 1,
+"pages": 191,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/23f8e567-5a6e-4ca2-a88d-e36cd88df80f/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Judeo-Arabic text, 1200s?",
+"title": "Judeo-Arabic text, 1200s?",
+"tier": 1,
+"pages": 2,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/6b23ef5a-f03a-4d2a-bf9b-a09451408abf/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Dīwān, after 1950",
+"title": "Dīwān, after 1950",
+"tier": 1,
+"pages": 208,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/c24a2950-0c52-4c2c-9fda-6d15fa8b7dcd/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Kitab Fiqh al-lughah wa-asrar al-`Arabiyah",
+"title": "Kitab Fiqh al-lughah wa-asrar al-`Arabiyah",
+"tier": 1,
+"pages": 214,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/22a0bd4a-483c-4846-9dc0-f3f232b22913/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Mughnī al-labīb",
+"title": "Mughnī al-labīb",
+"tier": 1,
+"pages": 361,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/137103c6-7651-4139-8591-3f16409f6175/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[al-Nisbah ilá al-mawāḍiʻ wa-al-buldān]",
+"title": "[al-Nisbah ilá al-mawāḍiʻ wa-al-buldān]",
+"tier": 1,
+"pages": 584,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/09f623f6-0293-4d27-b945-2608ea946bfe/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Bishārat Lūqā",
+"title": "Bishārat Lūqā",
+"tier": 1,
+"pages": 264,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/7851a06a-46d8-4b73-9608-dd7abd00dd6c/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "[Gathering from Ikhtiṣār lil-maqālāt min kitāb Uqlīdis",
+"title": "[Gathering from Ikhtiṣār lil-maqālāt min kitāb Uqlīdis]",
+"tier": 1,
+"pages": 16,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/41a121aa-4ed4-4bc1-8449-e63acc8a10c3/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "al-Thānī min al-ṣiḥāḥ",
+"title": "al-Thānī min al-ṣiḥāḥ",
+"tier": 1,
+"pages": 415,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/ccdfd120-f1c0-4390-a627-d746ca924a7a/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Hādhā majmūʻ fī ʻilm al-taṣrīf",
+"title": "Hādhā majmūʻ fī ʻilm al-taṣrīf",
+"tier": 1,
+"pages": 176,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/8e72abd4-16ef-4e30-82f8-9de0d009b95c/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "al-Taṣrīḥ bi-maḍmūn al-Tawḍīḥ",
+"title": "al-Taṣrīḥ bi-maḍmūn al-Tawḍīḥ",
+"tier": 1,
+"pages": 596,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/566d05e4-295d-41b1-a36a-9793853284cd/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Treatise on amulets and practical Cabala : manuscript",
+"title": "Treatise on amulets and practical Cabala : manuscript",
+"tier": 1,
+"pages": 56,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/d1a65758-277c-4bf5-8f91-9b6c89b3278d/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Astrological tables and digest of angels",
+"title": "Astrological tables and digest of angels",
+"tier": 1,
+"pages": 68,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/1ba27e35-597f-4be3-858c-43f915085411/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "Yemenite Diwan",
+"title": "Yemenite Diwan",
+"tier": 1,
+"pages": 135,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/fb9b1ec7-6f68-4692-9f96-3fe63eafe74d/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
+},
+{
+"library": "UPenn_DigitalRepo",
+"collection": "Coptic",
+"shelfmark": "ʻAwāmil fī al-naḥw",
+"title": "ʻAwāmil fī al-naḥw",
+"tier": 1,
+"pages": 30,
+"manifest": "https://digitalrepository.library.upenn.edu/iiif/items/6e5d0b16-b6c8-4fa7-aec2-cda1d7d2aec7/manifest",
+"rights": "University of Pennsylvania Libraries. Study/archive use."
 }
 ]
 }
