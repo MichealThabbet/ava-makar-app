@@ -140,6 +140,55 @@ def download_one(item, out, width, pause, make_pdf):
     name = sm
     if item.get("title") and item["library"] != "Vatican_BAV":
         name = (sm + " - " + safe(str(item["title"]))[:60]).strip(" .")
+    zip_ok = False
+    if item.get("zip"):  # bulk full-resolution ZIP of all pages (e.g. Bodleian /derivatives/<uuid>/full.zip)
+        # Not every object has a packaged zip — probe first, and fall back to IIIF on 404.
+        try:
+            probe = urllib.request.Request(item["zip"], headers={"User-Agent": UA, "Range": "bytes=0-10"})
+            with urllib.request.urlopen(probe, timeout=60) as pr:
+                zip_ok = pr.status in (200, 206) and "zip" in (pr.headers.get("Content-Type", "").lower())
+        except Exception:
+            zip_ok = False
+    if zip_ok:
+        folder = os.path.join(out, lib, safe(item.get("collection", "")), name)
+        os.makedirs(folder, exist_ok=True)
+        dest = os.path.join(folder, sm + ".zip")
+        # resumable: continue a partial .part using an HTTP Range request
+        part = dest + ".part"
+        have = os.path.getsize(part) if os.path.exists(part) else 0
+        if os.path.exists(dest) and os.path.getsize(dest) > 1000:
+            print(f"   {sm}: zip already saved")
+            return True
+        for attempt in range(6):
+            try:
+                req = urllib.request.Request(item["zip"], headers={"User-Agent": UA})
+                if have:
+                    req.add_header("Range", f"bytes={have}-")
+                with urllib.request.urlopen(req, timeout=120) as r:
+                    cr = r.headers.get("Content-Range")
+                    total = int(cr.split("/")[-1]) if cr else (int(r.headers.get("Content-Length", 0)) or None)
+                    mode = "ab" if (have and r.status == 206) else "wb"
+                    if mode == "wb":
+                        have = 0
+                    with open(part, mode) as f:
+                        while True:
+                            chunk = r.read(1 << 20)
+                            if not chunk:
+                                break
+                            f.write(chunk)
+                            have += len(chunk)
+                            if total:
+                                print(f"\r   {sm}: {have/1e6:.0f}/{total/1e6:.0f} MB", end="", flush=True)
+                if total is None or have >= total:
+                    os.replace(part, dest)
+                    print(f"\r   {sm}: {have/1e6:.0f} MB zip saved ✓")
+                    return True
+            except Exception as e:
+                print(f"\n   retry ({e})")
+                have = os.path.getsize(part) if os.path.exists(part) else 0
+                time.sleep(min(60, 3 * 2 ** attempt))
+        print(f"\r   {sm}: incomplete, run again to resume")
+        return False
     if item.get("met_id"):  # Metropolitan Museum open-access object (public-domain images only)
         obj = json.loads(fetch(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{item['met_id']}"))
         if not obj.get("isPublicDomain"):
