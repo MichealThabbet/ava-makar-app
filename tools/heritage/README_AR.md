@@ -111,3 +111,14 @@ python download_iiif.py michigan.json --out G:/Coptic_Heritage
 ابعتلي رابط صفحة أي مخطوط قبطي من OPenn (زي .../Data/0002/html/xxx.html)
 وأضيفه للفهرس. الافتراضي يحمّل صور الويب (دقة كويسة، حجم معقول). لو عايز
 الأصل الكامل (TIFF ضخم) ضيف "master": true في عنصر الفهرس.
+
+## مورجان (محجوب عن السحابة — يُشغَّل من جهازك)
+الموقع يفتح عادي على جهازك. استخدم harvest_morgan.py:
+```
+python harvest_morgan.py --ids 77452 77431 --out G:/Coptic_Heritage
+```
+أو لو عندك صفحة بحث/مجموعة قبطية مفتوحة، انسخ رابطها:
+```
+python harvest_morgan.py --collection "https://www.themorgan.org/manuscripts/..." --out G:/Coptic_Heritage
+```
+الأرقام = الرقم اللي في رابط صفحة المخطوط (مثال 77452).
