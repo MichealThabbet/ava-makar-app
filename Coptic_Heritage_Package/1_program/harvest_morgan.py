@@ -59,6 +59,22 @@ def fetch(url, tries=4, timeout=90):
     raise last
 
 
+# Coptic-DISCRIMINATING search terms (broad but not flooded with non-Coptic Morgan items).
+# Dialects, Egyptian monasteries/places, and distinctly Coptic saints — many spellings.
+COPTIC_TERMS = [
+    "Coptic", "Coptic-Arabic", "Bohairic", "Sahidic", "Fayyumic", "Akhmimic", "Mesokemic",
+    "Hamuli", "Fayyum", "Scetis", "Wadi Natrun", "Nitria", "Kellia",
+    "White Monastery", "Atripe", "Bawit", "Esna", "Edfu", "Thebes", "Aswan",
+    "Monastery of Saint Macarius", "Dayr Anba Maqar", "Monastery of the Archangel Michael",
+    "Monastery of Apa Jeremias", "Saqqara", "Phantou", "Sopehes",
+    "Shenoute", "Shenute", "Besa", "Pachomius", "Pshoi", "Bishoi", "Macarius",
+    "Pisentius", "Pesynthius", "Mercurius", "Claudius", "Theodore the Anatolian",
+    "Apa Apollo", "Apa Phib", "Victor of Antioch", "Mena", "Menas", "Psote",
+    "Coptic papyrus", "Coptic manuscript", "Coptic gospel", "Coptic lectionary",
+    "Egypt Christian", "Egyptian monastery",
+]
+
+
 def discover_ids(url):
     """Read a Morgan collection/search HTML page and pull manuscript IDs + titles."""
     html = fetch(url).decode("utf-8", "replace")
@@ -67,6 +83,35 @@ def discover_ids(url):
     for m in re.finditer(r'/(?:collection/[^"\'/]+|manuscript)/(\d+)', html):
         ids.setdefault(m.group(1), "")
     return list(ids)
+
+
+def discover_broad(template, pause=1.0):
+    """Run a Morgan search for every Coptic term and aggregate manuscript IDs.
+    `template` is a search URL with {term} where the query goes, e.g.
+      https://www.themorgan.org/search?search_api_fulltext={term}
+    Paginates each term while new IDs keep appearing."""
+    import urllib.parse
+    allids = {}
+    for term in COPTIC_TERMS:
+        q = urllib.parse.quote(term)
+        page = 0
+        while True:
+            sep = "&" if "?" in template else "?"
+            url = template.format(term=q) + f"{sep}page={page}"
+            try:
+                found = discover_ids(url)
+            except Exception as e:
+                print(f"   ! search '{term}' p{page}: {e}"); break
+            new = [i for i in found if i not in allids]
+            for i in found:
+                allids[i] = term
+            print(f"   '{term}' p{page}: {len(found)} hits, {len(new)} new (total {len(allids)})")
+            if not new or page > 25:
+                break
+            page += 1
+            time.sleep(pause)
+        time.sleep(pause)
+    return list(allids)
 
 
 def pages_for(mid):
@@ -135,13 +180,22 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--collection", help="a Morgan collection/search page URL to read manuscript IDs from")
+    g.add_argument("--broad", action="store_true",
+                   help="search Morgan for ALL Coptic terms (dialects, monasteries, saints) and download everything found")
     g.add_argument("--ids", nargs="+", help="manuscript IDs (the numbers in the page URL)")
     g.add_argument("--ids-file", help="a text file with one manuscript ID per line")
     ap.add_argument("--out", required=True, help="destination folder, e.g. G:/Coptic_Heritage")
+    ap.add_argument("--search-template",
+                    default="https://www.themorgan.org/search?search_api_fulltext={term}",
+                    help="Morgan search URL with {term} placeholder (adjust if Morgan's search address differs)")
+    ap.add_argument("--list-only", action="store_true", help="only find and print IDs, do not download")
     ap.add_argument("--pause", type=float, default=0.5, help="seconds between pages")
     a = ap.parse_args()
 
-    if a.collection:
+    if a.broad:
+        print("Broad Coptic search across Morgan (all terms) ...")
+        ids = discover_broad(a.search_template, pause=max(a.pause, 1.0))
+    elif a.collection:
         print(f"Reading manuscript IDs from {a.collection} ...")
         ids = discover_ids(a.collection)
     elif a.ids_file:
@@ -149,6 +203,14 @@ def main():
     else:
         ids = a.ids
     ids = list(dict.fromkeys(ids))
+    if a.list_only:
+        os.makedirs(a.out, exist_ok=True)
+        p = os.path.join(a.out, "morgan_ids.txt")
+        with open(p, "w", encoding="utf-8") as f:
+            f.write("\n".join(ids))
+        print(f"{len(ids)} manuscript IDs found. Saved to {p}")
+        print("Review them, then run again without --list-only to download.")
+        return
     print(f"{len(ids)} manuscript(s) to download -> {a.out}")
     ok = 0
     for k, mid in enumerate(ids, 1):
