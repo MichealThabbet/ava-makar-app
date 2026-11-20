@@ -24,7 +24,6 @@ scholarly research only.
 
 Could you please tell me how to receive copies of these 82 manuscripts
 (download links or any method you prefer), and in what image resolution?
-If there is any requirement or small fee for researchers, please let me know.
 
 The 82 manuscripts I am requesting are listed below (HMML shelf-mark,
 monastery number, and Reading Room link).
@@ -133,5 +132,7 @@ ABMQ 00490 (Bibl. 48)  https://w3id.org/vhmml/readingRoom/view/133028
 2. ابعت لـ `hmml@hmml.org` و cc `digitalservices@hmml.org`.
 3. مردّوش في ~10 أيام؟ اتصل `+1-320-363-3334`.
 4. ردّوا بروابط/هارد؟ ابعتهالي أضيفه للبرنامج.
+
+ملاحظة: مفيش أي كلام عن رسوم أو شروط في الخطاب — بس طلب الصور.
 
 **ملاحظة:** جدول الـ82 كامل بأنواعه موجود في `docs/heritage/ABMQ_LIST.md` (مصدره تصديرك من الـ Reading Room بتاريخ 2026-11-14).
