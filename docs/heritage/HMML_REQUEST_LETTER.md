@@ -1,131 +1,137 @@
-# طلب نسخ رقمية من HMML — مجموعة دير أنبا مقار (ABMQ) — لباحث
+# طلب الـ82 مخطوطة (ABMQ) من HMML — للبحث العلمي
 
-_آخر تحديث: 2026-11-20 — المصدر: موقع hmml.org (صفحة الخدمات + صفحة عمليات مصر + فهرس المكتبات). الطالب: باحث مستقل في تاريخ الدير._
-
----
-
-## 0. الخلاصة التنفيذية (اقرأ ده الأول)
-
-- **vHMML مفهوش تحميل جماعي.** الـ Reading Room للعرض فقط (شرطهم: عرض، لا نسخ بدون إذن).
-- نسخ المخطوطات بتتجاب عن طريق **طلب رسمي لـ HMML** عبر نموذج *Manuscript Image Order Form*.
-- **موقفك كباحث:** شروط HMML بتسمح صراحةً بالحصول على الصور لـ **الاستخدام العلمي/التعليمي (scholarly or educational use)**. إنت في قلب الحالة دي.
-- **حدّان لازم تعرفهم:**
-  1. **النشر** (كتاب/مقال/موقع) محتاج إذن إضافي من الجهة المالكة (الدير)، بيتم طلبه عن طريق HMML بنموذج *Permission to Publish*. أما **الاطّلاع والدراسة** فمسموح بطلب الصور.
-  2. ممكن يكون في **رسوم** على طلب الصور (حسب العدد). ده بيتحدّد في ردّهم.
-- **المتاح الآن:** 82 مخطوطة في الـ Reading Room (كود ABMQ). الإجمالي المصوّر: **أكثر من 500 مخطوطة** قبطية/عربية (الفهرسة مستمرة). غالباً هيدّوك المتاح والمفهرَس بس في الأول.
-
-## 1. بيانات التواصل (من موقع HMML)
-
-| الغرض | الجهة |
-|---|---|
-| طلب الصور والاستفسارات | **hmml@hmml.org** |
-| الخدمات الرقمية | **digitalservices@hmml.org** |
-| تليفون | **+1-320-363-3334** |
-| مدة الرد | 7–10 أيام عمل |
-| النموذج الرسمي | Manuscript Image Order Form (على hmml.org/research/services) |
-
-> ملاحظة: الموقع بيذكر رقمين تليفون مختلفين على صفحات مختلفة (3334 و 3514). اتصل بالإيميل الأول.
+_آخر تحديث: 2026-11-20. الطالب: باحث مصري في التاريخ القبطي / من محبي وزوار دير أبو مقار._
 
 ---
 
-## 2. الخطاب (إنجليزي — ده المطلوب إرساله)
-
-> انسخ من هنا لحد نهاية الصندوق. املأ المعلومات بين الأقواس [ ].
+## الإيميل (انسخه وابعته)
 
 ```
 To:  hmml@hmml.org
 Cc:  digitalservices@hmml.org
-Subject:  Image reproduction request — Monastery of Saint Macarius collection (ABMQ) — scholarly research
+Subject:  Request for the 82 digitized manuscripts of the Monastery of St Macarius (ABMQ) — for scholarly research
 
-Dear HMML Digital Services Team,
+Dear HMML Team,
 
-I am an independent researcher working on an extended study of the history
-of the Monastery of Saint Macarius the Great (Dayr al-Qiddīs Anbā Maqār)
-in Wādī al-Naṭrūn (ancient Scetis), Egypt.
+I am an Egyptian researcher of Coptic history, with a special focus on the
+Monastery of Saint Macarius the Great (Dayr Anbā Maqār) in Wādī al-Naṭrūn,
+and I am among the lovers and visitors of this great monastery.
 
-For this research I would like to order digital reproductions of
-manuscripts from the monastery's collection (HMML shelf-mark prefix ABMQ),
-which I have consulted in the vHMML Reading Room. I am requesting the
-images for scholarly and educational use.
+While researching, I found that HMML has digitized the monastery's
+manuscripts (shelf-mark prefix ABMQ). I would like to obtain digital copies
+of the 82 manuscripts currently available in the vHMML Reading Room, for my
+scholarly research only.
 
-I would be grateful if you could advise on:
+Could you please tell me how to receive copies of these 82 manuscripts
+(download links or any method you prefer), and in what image resolution?
+If there is any requirement or small fee for researchers, please let me know.
 
-1. The procedure to order ABMQ images — ideally the full set of manuscripts
-   photographed and catalogued to date, rather than item by item. If a full
-   set is not possible, please tell me how to order in batches.
-2. The available image format and resolution (e.g. master TIFF / full-size
-   JPEG) and the delivery medium (download links, hard drive, etc.).
-3. Any fees for the order, and how they are calculated (per image / per
-   manuscript / per collection).
-4. Any form, agreement, or statement of intended use you require from me as
-   the requesting researcher.
+The 82 manuscripts I am requesting are listed below (HMML shelf-mark,
+monastery number, and Reading Room link).
 
-I understand that these images are supplied for scholarly/educational use,
-and that any future publication would require separate permission sought
-through HMML from the owning institution; I will follow that process if and
-when I reach the publication stage.
+Thank you for your great work in preserving Coptic heritage.
 
-For reference, 82 ABMQ manuscripts are presently viewable in the Reading
-Room (e.g. https://w3id.org/vhmml/readingRoom/view/133004 ), and I
-understand the photographed collection exceeds 500 manuscripts.
-
-Thank you for HMML's invaluable work in preserving this heritage. I look
-forward to your guidance on how best to proceed.
-
-With gratitude and respect,
-
+With respect and gratitude,
 [الاسم بالكامل]
-[الصفة — مثلاً: Independent researcher — history of the Monastery of St Macarius]
-[جهة الانتساب لو فيه — جامعة / مؤسسة / بدون]
-[بريد إلكتروني للتواصل]
-[تليفون / واتساب بكود الدولة]
+Egyptian researcher — Coptic history / Monastery of St Macarius
+[الإيميل]
+[تليفون / واتساب بكود الدولة +20]
+
+-------------------------------------------------------------
+The 82 requested manuscripts (ABMQ):
+
+ABMQ 00001 (Bibl. 1)   https://w3id.org/vhmml/readingRoom/view/133004
+ABMQ 00002 (Bibl. 2)   https://w3id.org/vhmml/readingRoom/view/511310
+ABMQ 00003 (Bibl. 3)   https://w3id.org/vhmml/readingRoom/view/133006
+ABMQ 00004 (Bibl. 4)   https://w3id.org/vhmml/readingRoom/view/133007
+ABMQ 00005 (Bibl. 5)   https://w3id.org/vhmml/readingRoom/view/133008
+ABMQ 00006 (Bibl. 6)   https://w3id.org/vhmml/readingRoom/view/133009
+ABMQ 00007 (Bibl. 7)   https://w3id.org/vhmml/readingRoom/view/133010
+ABMQ 00008 (Bibl. 8)   https://w3id.org/vhmml/readingRoom/view/133011
+ABMQ 00009 (Bibl. 9)   https://w3id.org/vhmml/readingRoom/view/133012
+ABMQ 00010 (Bibl. 10)  https://w3id.org/vhmml/readingRoom/view/133013
+ABMQ 00011 (Bibl. 11)  https://w3id.org/vhmml/readingRoom/view/133014
+ABMQ 00012 (Bibl. 12)  https://w3id.org/vhmml/readingRoom/view/133015
+ABMQ 00013 (Bibl. 13)  https://w3id.org/vhmml/readingRoom/view/511311
+ABMQ 00014 (Bibl. 14)  https://w3id.org/vhmml/readingRoom/view/511312
+ABMQ 00015 (Bibl. 15)  https://w3id.org/vhmml/readingRoom/view/511313
+ABMQ 00017 (Bibl. 17)  https://w3id.org/vhmml/readingRoom/view/133016
+ABMQ 00018 (Bibl. 18)  https://w3id.org/vhmml/readingRoom/view/133017
+ABMQ 00023 (Bibl. 23)  https://w3id.org/vhmml/readingRoom/view/511589
+ABMQ 00025 (Bibl. 25)  https://w3id.org/vhmml/readingRoom/view/533795
+ABMQ 00026 (Bibl. 26)  https://w3id.org/vhmml/readingRoom/view/511590
+ABMQ 00027 (Bibl. 27)  https://w3id.org/vhmml/readingRoom/view/133018
+ABMQ 00028 (Bibl. 28)  https://w3id.org/vhmml/readingRoom/view/511591
+ABMQ 00029 (Bibl. 29)  https://w3id.org/vhmml/readingRoom/view/511592
+ABMQ 00030 (Bibl. 30)  https://w3id.org/vhmml/readingRoom/view/511593
+ABMQ 00031 (Bibl. 31)  https://w3id.org/vhmml/readingRoom/view/133019
+ABMQ 00033 (Bibl. 33)  https://w3id.org/vhmml/readingRoom/view/511594
+ABMQ 00036 (Bibl. 36)  https://w3id.org/vhmml/readingRoom/view/133020
+ABMQ 00037 (Bibl. 37)  https://w3id.org/vhmml/readingRoom/view/133021
+ABMQ 00038 (Bibl. 38)  https://w3id.org/vhmml/readingRoom/view/511595
+ABMQ 00039 (Bibl. 39)  https://w3id.org/vhmml/readingRoom/view/511596
+ABMQ 00040 (Bibl. 40)  https://w3id.org/vhmml/readingRoom/view/511597
+ABMQ 00042 (Bibl. 42)  https://w3id.org/vhmml/readingRoom/view/133022
+ABMQ 00043 (Bibl. 43)  https://w3id.org/vhmml/readingRoom/view/133023
+ABMQ 00044 (Bibl. 44)  https://w3id.org/vhmml/readingRoom/view/133024
+ABMQ 00051 (Bibl. 51)  https://w3id.org/vhmml/readingRoom/view/511598
+ABMQ 00052 (Bibl. 52)  https://w3id.org/vhmml/readingRoom/view/511599
+ABMQ 00053 (Bibl. 53)  https://w3id.org/vhmml/readingRoom/view/511600
+ABMQ 00285 (Theol. 14) https://w3id.org/vhmml/readingRoom/view/789088
+ABMQ 00290 (Theol. 19) https://w3id.org/vhmml/readingRoom/view/789089
+ABMQ 00323 (Hom. 2)    https://w3id.org/vhmml/readingRoom/view/533800
+ABMQ 00357 (Hom. 36)   https://w3id.org/vhmml/readingRoom/view/789090
+ABMQ 00367 (Hag. 1)    https://w3id.org/vhmml/readingRoom/view/511601
+ABMQ 00368 (Hag. 2)    https://w3id.org/vhmml/readingRoom/view/511602
+ABMQ 00369 (Hag. 3)    https://w3id.org/vhmml/readingRoom/view/511603
+ABMQ 00370 (Hag. 4)    https://w3id.org/vhmml/readingRoom/view/511604
+ABMQ 00371 (Hag. 5)    https://w3id.org/vhmml/readingRoom/view/511605
+ABMQ 00372 (Hag. 6)    https://w3id.org/vhmml/readingRoom/view/511606
+ABMQ 00374 (Hag. 8)    https://w3id.org/vhmml/readingRoom/view/511607
+ABMQ 00375 (Hag. 9)    https://w3id.org/vhmml/readingRoom/view/511608
+ABMQ 00376 (Hag. 10)   https://w3id.org/vhmml/readingRoom/view/511609
+ABMQ 00377 (Hag. 11)   https://w3id.org/vhmml/readingRoom/view/511610
+ABMQ 00382 (Hag. 16)   https://w3id.org/vhmml/readingRoom/view/511611
+ABMQ 00386 (Hag. 20)   https://w3id.org/vhmml/readingRoom/view/511612
+ABMQ 00387 (Hag. 21)   https://w3id.org/vhmml/readingRoom/view/511613
+ABMQ 00389 (Hag. 23)   https://w3id.org/vhmml/readingRoom/view/533799
+ABMQ 00391 (Hag. 25)   https://w3id.org/vhmml/readingRoom/view/511614
+ABMQ 00392 (Hag. 26)   https://w3id.org/vhmml/readingRoom/view/511615
+ABMQ 00393 (Hag. 27)   https://w3id.org/vhmml/readingRoom/view/511616
+ABMQ 00394 (Hag. 28)   https://w3id.org/vhmml/readingRoom/view/511617
+ABMQ 00398 (Hag. 32)   https://w3id.org/vhmml/readingRoom/view/511618
+ABMQ 00399 (Hag. 33)   https://w3id.org/vhmml/readingRoom/view/511619
+ABMQ 00400 (Hag. 34)   https://w3id.org/vhmml/readingRoom/view/511620
+ABMQ 00401 (Hag. 35)   https://w3id.org/vhmml/readingRoom/view/511621
+ABMQ 00403 (Hag. 37)   https://w3id.org/vhmml/readingRoom/view/511622
+ABMQ 00404 (Hag. 38)   https://w3id.org/vhmml/readingRoom/view/511623
+ABMQ 00405 (Hag. 39)   https://w3id.org/vhmml/readingRoom/view/511624
+ABMQ 00406 (Hag. 40)   https://w3id.org/vhmml/readingRoom/view/511625
+ABMQ 00407 (Hag. 41)   https://w3id.org/vhmml/readingRoom/view/511626
+ABMQ 00409 (Hag. 43)   https://w3id.org/vhmml/readingRoom/view/511627
+ABMQ 00410 (Hag. 44)   https://w3id.org/vhmml/readingRoom/view/511628
+ABMQ 00412 (Hag. 46)   https://w3id.org/vhmml/readingRoom/view/511629
+ABMQ 00413 (Hag. 47)   https://w3id.org/vhmml/readingRoom/view/511630
+ABMQ 00414 (Hag. 48)   https://w3id.org/vhmml/readingRoom/view/533798
+ABMQ 00415 (Hag. 49)   https://w3id.org/vhmml/readingRoom/view/533797
+ABMQ 00417 (Hag. 51)   https://w3id.org/vhmml/readingRoom/view/789091
+ABMQ 00418 (Hag. 52)   https://w3id.org/vhmml/readingRoom/view/789092
+ABMQ 00428 (Hag. 62)   https://w3id.org/vhmml/readingRoom/view/533796
+ABMQ 00432 (Bibl. 45)  https://w3id.org/vhmml/readingRoom/view/133025
+ABMQ 00433 (Bibl. 46)  https://w3id.org/vhmml/readingRoom/view/133026
+ABMQ 00434 (Bibl. 47)  https://w3id.org/vhmml/readingRoom/view/133027
+ABMQ 00476 (Hag. 63)   https://w3id.org/vhmml/readingRoom/view/533801
+ABMQ 00490 (Bibl. 48)  https://w3id.org/vhmml/readingRoom/view/133028
+-------------------------------------------------------------
 ```
 
 ---
 
-## 3. نسخة عربية (للمرجعية)
+## خطوات
 
-```
-إلى: فريق الخدمات الرقمية بمعهد HMML للمخطوطات
+1. حط اسمك + إيميلك + تليفونك في آخر الخطاب.
+2. ابعت لـ `hmml@hmml.org` و cc `digitalservices@hmml.org`.
+3. مردّوش في ~10 أيام؟ اتصل `+1-320-363-3334`.
+4. ردّوا بروابط/هارد؟ ابعتهالي أضيفه للبرنامج.
 
-تحية طيبة،
-
-أنا باحث مستقل أعمل على دراسة موسّعة في تاريخ دير القديس أنبا مقار الكبير
-بوادي النطرون (الإسقيط) بمصر.
-
-أرغب — لأغراض البحث العلمي — في طلب نسخ رقمية من مخطوطات مجموعة الدير
-(كود ABMQ) التي اطّلعت عليها في الـ Reading Room.
-
-أرجو إفادتي بـ:
-١. إجراءات طلب صور ABMQ، ويُفضّل المجموعة كاملة (كل ما تم تصويره وفهرسته) بدلاً
-   من الطلب فرداً فرداً، أو الطلب على دفعات إن تعذّر ذلك.
-٢. صيغة الصور ودقتها ووسيلة التسليم (روابط تحميل / هارد / غيره).
-٣. أي رسوم على الطلب وكيفية حسابها.
-٤. أي نموذج أو إقرار باستخدام الصور مطلوب مني كباحث.
-
-وأدرك أن هذه الصور تُقدَّم للاستخدام العلمي/التعليمي، وأن النشر لاحقاً يحتاج إذناً
-منفصلاً يُطلب عبركم من الجهة المالكة، وسألتزم بذلك عند بلوغ مرحلة النشر.
-
-للعلم، يتوفر حالياً 82 مخطوطة من ABMQ في الـ Reading Room، وإجمالي المصوّر يتجاوز 500 مخطوطة.
-
-شكراً لجهودكم في حفظ هذا التراث، وفي انتظار إرشادكم.
-
-مع خالص التقدير،
-[الاسم / الصفة / جهة الانتساب / بيانات التواصل]
-```
-
----
-
-## 4. خطوات عملية بالترتيب
-
-1. املأ بياناتك في آخر الخطاب (اسم، صفة «باحث مستقل»، جهة انتساب لو فيه، إيميل، تليفون).
-2. ابعت الإيميل لـ `hmml@hmml.org` و cc `digitalservices@hmml.org` بالموضوع أعلاه.
-3. لو مردّوش خلال ~10 أيام عمل، اتصل على `+1-320-363-3334` أو ابعت تذكير.
-4. لما يردّوا بالصيغة والوسيلة والرسوم: لو بعتوا روابط تحميل أو هارد — ابعتهالي أضيف مسار التحميل للبرنامج زي ما عملنا مع Bodleian.
-5. لحد ما يوصل الرد: البرنامج **مش هيحمّل ABMQ** (محجوب من الـ cloud وممنوع السحب بدون إذن). ده مسار رسمي، مش تقني.
-
-## 5. ملاحظة أمانة
-
-- **مش هبني سحّاب آلي لـ vHMML** — ده مخالف لشروطهم. الطريق الرسمي هو الأضمن إنك تاخد الصور **بأعلى دقة** دفعة واحدة وبشكل قانوني تقدر تستند عليه في بحثك.
-- فرق مهم لازم تكون واعي له: **طلب الصور للبحث = مسموح**. **نشرها في بحثك المطبوع/المنشور = يحتاج إذن نشر منفصل** تطلبه منهم وقتها. أنا موضّحه في الخطاب عشان تبدأ صح.
-- الأرقام هنا من موقعهم ومن تصدير الـ Reading Room اللي إنت بعته (2026-11-14)، مش مخترعة.
+**ملاحظة:** جدول الـ82 كامل بأنواعه موجود في `docs/heritage/ABMQ_LIST.md` (مصدره تصديرك من الـ Reading Room بتاريخ 2026-11-14).
