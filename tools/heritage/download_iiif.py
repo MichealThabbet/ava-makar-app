@@ -369,6 +369,22 @@ def main():
     ap.add_argument("--pdf", action="store_true", help="also make one PDF per manuscript")
     ap.add_argument("--reserve", type=float, default=5.0, help="GB to keep free on the disk (default 5)")
     a = ap.parse_args()
+    # الكلمة السحرية ALL: اكتشف كل ملفات الكتالوج في فولدر البرنامج تلقائياً
+    if any(str(c).upper() == "ALL" for c in a.catalog):
+        here = os.path.dirname(os.path.abspath(__file__))
+        found = []
+        for fn in sorted(os.listdir(here)):
+            if not fn.endswith(".json"):
+                continue
+            try:
+                d = json.load(open(os.path.join(here, fn), encoding="utf-8"))
+            except Exception:
+                continue
+            lst = d.get("manuscripts") if isinstance(d, dict) else (d if isinstance(d, list) else None)
+            if isinstance(lst, list) and lst and isinstance(lst[0], dict) and "shelfmark" in lst[0]:
+                found.append(os.path.join(here, fn))
+        a.catalog = [c for c in a.catalog if str(c).upper() != "ALL"] + found
+        print(f"ALL: اكتُشف {len(found)} كتالوج تلقائياً")
     items = []
     for ci, path in enumerate(a.catalog):
         data = json.load(open(path, encoding="utf-8"))

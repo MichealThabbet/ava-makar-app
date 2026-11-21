@@ -56,7 +56,7 @@ if "%LIB%"=="29" set CAT=duke_coptic.json
 if "%LIB%"=="30" set CAT=berlin_coptic.json
 if "%LIB%"=="31" set CAT=coptic_printed_books.json
 if "%LIB%"=="5"  set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
-if "%LIB%"=="99" set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json british_library_private.json bodleian.json gospels_manuscripts.json wellcome.json manchester.json bnf_coptic.json wikidata_coptic_iiif.json upenn_coptic.json princeton_coptic.json chester_beatty.json claremont_cce.json claremont_nha.json claremont_aot.json claremont_bia.json dartmouth.json openn_coptic.json penn_digital_coptic.json auc_coptic.json met_coptic.json onb_coptic.json watson_kharga.json epiphanius.json cambridge_coptic.json duke_coptic.json berlin_coptic.json coptic_printed_books.json
+if "%LIB%"=="99" set CAT=ALL
 
 echo.
 echo الدرجة (اختياري): 1 = القبطي المباشر فقط  ^|  اضغط Enter فقط لتحميل كل شيء
