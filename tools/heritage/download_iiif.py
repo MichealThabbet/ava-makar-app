@@ -372,17 +372,25 @@ def main():
     # الكلمة السحرية ALL: اكتشف كل ملفات الكتالوج في فولدر البرنامج تلقائياً
     if any(str(c).upper() == "ALL" for c in a.catalog):
         here = os.path.dirname(os.path.abspath(__file__))
-        found = []
-        for fn in sorted(os.listdir(here)):
-            if not fn.endswith(".json"):
-                continue
-            try:
-                d = json.load(open(os.path.join(here, fn), encoding="utf-8"))
-            except Exception:
-                continue
-            lst = d.get("manuscripts") if isinstance(d, dict) else (d if isinstance(d, list) else None)
-            if isinstance(lst, list) and lst and isinstance(lst[0], dict) and "shelfmark" in lst[0]:
-                found.append(os.path.join(here, fn))
+        # ابحث في: فولدر البرنامج، و 2_catalogs المجاور (حتى لو جوه الحزمة)، وفولدر التشغيل
+        dirs, seen = [], set()
+        for d0 in (here, os.path.join(here, "2_catalogs"),
+                   os.path.join(os.path.dirname(here), "2_catalogs"), os.getcwd()):
+            d0 = os.path.abspath(d0)
+            if os.path.isdir(d0) and d0 not in seen:
+                seen.add(d0); dirs.append(d0)
+        found, names = [], set()
+        for d0 in dirs:
+            for fn in sorted(os.listdir(d0)):
+                if not fn.endswith(".json") or fn in names:
+                    continue
+                try:
+                    d = json.load(open(os.path.join(d0, fn), encoding="utf-8"))
+                except Exception:
+                    continue
+                lst = d.get("manuscripts") if isinstance(d, dict) else (d if isinstance(d, list) else None)
+                if isinstance(lst, list) and lst and isinstance(lst[0], dict) and "shelfmark" in lst[0]:
+                    found.append(os.path.join(d0, fn)); names.add(fn)
         a.catalog = [c for c in a.catalog if str(c).upper() != "ALL"] + found
         print(f"ALL: اكتُشف {len(found)} كتالوج تلقائياً")
     items = []
