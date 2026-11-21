@@ -13,6 +13,32 @@
    "pages": 0,
    "rights": "BnF Gallica",
    "note": "Gallica يحجب السحابة؛ يُحمَّل من جهاز المالك"
+  },
+  {
+   "library": "BnF Gallica",
+   "collection": "Syriac",
+   "shelfmark": "Syriaque_341_vol1",
+   "title": "Syriaque 341 — Bible, Ancien Testament (BnF)",
+   "language": "Syriac",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100904931/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100904931",
+   "pages": 0,
+   "rights": "BnF Gallica",
+   "note": "يُحمَّل من جهاز المالك (Gallica يحجب السحابة)"
+  },
+  {
+   "library": "BnF Gallica",
+   "collection": "Syriac",
+   "shelfmark": "Syriaque_341_vol2",
+   "title": "Syriaque 341 — Bible, Ancien Testament (BnF) جزء 2",
+   "language": "Syriac",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527102b/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10527102b",
+   "pages": 0,
+   "rights": "BnF Gallica",
+   "note": "يُحمَّل من جهاز المالك"
   }
  ]
 }
