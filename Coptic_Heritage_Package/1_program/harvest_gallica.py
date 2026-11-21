@@ -31,6 +31,19 @@ QUERIES = {
         'dc.type all "manuscrit" and gallica all "arabe chrétien"',
         'dc.type all "manuscrit" and gallica all "arménien"',
         'dc.type all "manuscrit" and gallica all "géorgien"'],
+    # اليوناني واللاتيني: فلتر مسيحي (كتابي/طقسي) لاستبعاد الكلاسيكي العلماني
+    3: ['dc.type all "manuscrit" and gallica all "grec" and gallica all "évangiles"',
+        'dc.type all "manuscrit" and gallica all "grec" and gallica all "psautier"',
+        'dc.type all "manuscrit" and gallica all "grec" and gallica all "bible"',
+        'dc.type all "manuscrit" and gallica all "grec" and gallica all "liturgie"',
+        'dc.type all "manuscrit" and gallica all "grec" and gallica all "homélies"',
+        'dc.type all "manuscrit" and gallica all "grec" and gallica all "évangéliaire"',
+        'dc.type all "manuscrit" and gallica all "latin" and gallica all "évangiles"',
+        'dc.type all "manuscrit" and gallica all "latin" and gallica all "psautier"',
+        'dc.type all "manuscrit" and gallica all "latin" and gallica all "bible"',
+        'dc.type all "manuscrit" and gallica all "latin" and gallica all "missel"',
+        'dc.type all "manuscrit" and gallica all "latin" and gallica all "bréviaire"',
+        'dc.type all "manuscrit" and gallica all "latin" and gallica all "évangéliaire"'],
 }
 NS = {"srw": "http://www.loc.gov/zing/srw/", "dc": "http://purl.org/dc/elements/1.1/"}
 
