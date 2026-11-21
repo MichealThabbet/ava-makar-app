@@ -1,0 +1,17 @@
+{
+ "source": "Biblioteca Medicea Laurenziana (Florence) via Internet Culturale ContentDM — Oriental Christian mss",
+ "manuscripts": [
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Syriac",
+   "shelfmark": "Plut.1.56",
+   "title": "Rabbula Gospels — Syriac illuminated Gospels, 586 AD (Plut.1.56)",
+   "language": "Syriac",
+   "tier": 1,
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:176256/manifest.json",
+   "pages": 598,
+   "rights": "Pubblico",
+   "note": "إنجيل رابولا — كنز عالمي"
+  }
+ ]
+}
