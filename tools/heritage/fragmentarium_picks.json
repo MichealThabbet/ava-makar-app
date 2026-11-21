@@ -1,0 +1,17 @@
+{
+ "source": "Fragmentarium — قصاصات ذات صلة بالتراث المصري/الشرقي (منتقاة، مش كل الغربي)",
+ "manuscripts": [
+  {
+   "library": "Fragmentarium",
+   "collection": "Egyptian/Eastern relevant",
+   "shelfmark": "F-wxxp_Gent_HS0147",
+   "title": "Hymn to St Mary of Egypt (Gent HS.0147, Latin, 12th c.)",
+   "language": "Latin",
+   "tier": 2,
+   "manifest": "https://fragmentarium.ms/metadata/iiif/F-wxxp/manifest.json",
+   "pages": 2,
+   "rights": "CC0 / Public Domain",
+   "note": "قصاصة مريم المصرية — قديسة مصرية"
+  }
+ ]
+}
