@@ -1,0 +1,18 @@
+{
+ "source": "BnF Gallica — مخطوطات يختارها المالك بنفسه (تُحمَّل من جهازه لأن Gallica يحجب السحابة)",
+ "manuscripts": [
+  {
+   "library": "BnF Gallica",
+   "collection": "Owner picks",
+   "shelfmark": "btv1b52517984k",
+   "title": "BnF Gallica — اختيار المالك (العنوان يُجلب وقت التحميل)",
+   "language": "(يُحدَّد من المخطوط)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52517984k/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52517984k",
+   "pages": 0,
+   "rights": "BnF Gallica",
+   "note": "Gallica يحجب السحابة؛ يُحمَّل من جهاز المالك"
+  }
+ ]
+}
