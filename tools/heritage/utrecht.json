@@ -190,6 +190,116 @@
    "pages": 244,
    "tier": 1,
    "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-18766",
+   "title": "Pamflet UB 579",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-18766",
+   "pages": 10,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-18772",
+   "title": "Pamflet UB 615",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-18772",
+   "pages": 15,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-189893",
+   "title": "ODA 7767",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-189893",
+   "pages": 335,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-189894",
+   "title": "ODA 7744",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-189894",
+   "pages": 258,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-191075",
+   "title": "Rariora oct 498",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-191075",
+   "pages": 402,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-19303",
+   "title": "Pamflet UB 672",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-19303",
+   "pages": 69,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-19306",
+   "title": "Pamflet UB 682",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-19306",
+   "pages": 6,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-203589",
+   "title": "Hs. fr. 6.3; 106 F 11 (Rariora); 106 F 12 (Rariora)",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-203589",
+   "pages": 16,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-203590",
+   "title": "G fol 282 (Rariora)",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-203590",
+   "pages": 4,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-204492",
+   "title": "ODL 1338 dl 1",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-204492",
+   "pages": 228,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-204494",
+   "title": "ODL 1338 dl 3",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-204494",
+   "pages": 33,
+   "tier": 1,
+   "rights": "Utrecht University Library"
   }
  ]
 }
