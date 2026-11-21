@@ -12,6 +12,18 @@
    "pages": 2,
    "rights": "CC0 / Public Domain",
    "note": "قصاصة مريم المصرية — قديسة مصرية"
+  },
+  {
+   "library": "Patriarchal Library, Alexandria",
+   "collection": "Greek (Egypt)",
+   "shelfmark": "F-lixc_Alexandria_Cod56",
+   "title": "Gospel of John — Alexandria Patriarchal Library Cod.56 (Greek, 9th c.)",
+   "language": "Greek",
+   "tier": 1,
+   "manifest": "https://fragmentarium.ms/metadata/iiif/F-lixc/manifest.json",
+   "pages": 14,
+   "rights": "CC BY 4.0",
+   "note": "المكتبة البطريركية بالإسكندرية — تراث مصري"
   }
  ]
 }
