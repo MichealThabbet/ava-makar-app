@@ -1,0 +1,17 @@
+{
+ "source": "Universiteitsbibliotheek Utrecht — Coptic/Greek/Egyptian manuscripts (IIIF v3)",
+ "manuscripts": [
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "Hs_10_D_1",
+   "title": "Collection of Demotic, Greek and Coptic manuscripts (Hs 10 D 1)",
+   "language": "Demotic/Greek/Coptic",
+   "tier": 1,
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-355004",
+   "pages": 26,
+   "rights": "Utrecht University Library",
+   "note": "200 ق.م – 800 م"
+  }
+ ]
+}
