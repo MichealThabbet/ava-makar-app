@@ -1,17 +1,195 @@
 {
- "source": "Universiteitsbibliotheek Utrecht — Coptic/Greek/Egyptian manuscripts (IIIF v3)",
+ "source": "Utrecht UL — Coptic/Greek/Egyptian Christian mss (filtered from 25,711 digitized items)",
  "manuscripts": [
   {
    "library": "Universiteitsbibliotheek Utrecht",
    "collection": "Oriental/Egyptian",
-   "shelfmark": "Hs_10_D_1",
-   "title": "Collection of Demotic, Greek and Coptic manuscripts (Hs 10 D 1)",
-   "language": "Demotic/Greek/Coptic",
+   "shelfmark": "20.500.14918-10090",
+   "title": "Diss Utrecht 1818-19 dl 4",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10090",
+   "pages": 198,
    "tier": 1,
-   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-355004",
-   "pages": 26,
-   "rights": "Utrecht University Library",
-   "note": "200 ق.م – 800 م"
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10095",
+   "title": "H qu 200 dl 6",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10095",
+   "pages": 90,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10096",
+   "title": "H qu 200 dl 7",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10096",
+   "pages": 98,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10123",
+   "title": "F qu 170 dl 3",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10123",
+   "pages": 29,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10124",
+   "title": "F qu 170 dl 4",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10124",
+   "pages": 69,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10125",
+   "title": "F qu 170 dl 10",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10125",
+   "pages": 46,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10126",
+   "title": "F qu 170 dl 11",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10126",
+   "pages": 31,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10127",
+   "title": "F qu 170 dl 12",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10127",
+   "pages": 31,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10157",
+   "title": "F oct 119 (Rariora) dl 1",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10157",
+   "pages": 123,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-10159",
+   "title": "E qu 84 dl 3",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-10159",
+   "pages": 15,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-12205",
+   "title": "Gunning 1 K 62",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-12205",
+   "pages": 112,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-12812",
+   "title": "S qu 362 dl 8",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-12812",
+   "pages": 7,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-12898",
+   "title": "Kaart *Moll* 500",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-12898",
+   "pages": 1,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-13828",
+   "title": "E qu 210 dl 2; E qu 265 dl 2",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-13828",
+   "pages": 236,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-13830",
+   "title": "S oct 863 dl 2; H oct 178 (Rariora) dl 3",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-13830",
+   "pages": 61,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-14666",
+   "title": "Pamflet UB 549",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-14666",
+   "pages": 59,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-14750",
+   "title": "H qu 175 dl 3",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-14750",
+   "pages": 9,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-17095",
+   "title": "Pamflet UB 535",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-17095",
+   "pages": 101,
+   "tier": 1,
+   "rights": "Utrecht University Library"
+  },
+  {
+   "library": "Universiteitsbibliotheek Utrecht",
+   "collection": "Oriental/Egyptian",
+   "shelfmark": "20.500.14918-179086",
+   "title": "LBKUN: RAR BR BOUWK ALG WER FREA FOL",
+   "manifest": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-179086",
+   "pages": 244,
+   "tier": 1,
+   "rights": "Utrecht University Library"
   }
  ]
 }
