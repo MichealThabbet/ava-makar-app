@@ -28,7 +28,9 @@ QUERIES = {
     1: ['dc.type all "manuscrit" and gallica all "copte"'],
     2: ['dc.type all "manuscrit" and gallica all "syriaque"',
         'dc.type all "manuscrit" and gallica all "éthiopien"',
-        'dc.type all "manuscrit" and gallica all "arabe chrétien"'],
+        'dc.type all "manuscrit" and gallica all "arabe chrétien"',
+        'dc.type all "manuscrit" and gallica all "arménien"',
+        'dc.type all "manuscrit" and gallica all "géorgien"'],
 }
 NS = {"srw": "http://www.loc.gov/zing/srw/", "dc": "http://purl.org/dc/elements/1.1/"}
 
