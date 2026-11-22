@@ -75,10 +75,20 @@ def run(seeds):
     print(f"\nخلص. {len(zoom)} رابط صورة في {OUT}")
     print("دلوقتي:  dezoomify-rs -l morgan_zoomify.txt D:\\claude\\morgan_out")
 
+# نقاط بداية افتراضية لو شغّلت السكربت من غير روابط — يزحف منهم لكل الموقع
+DEFAULT_SEEDS = [
+    "https://www.themorgan.org/manuscripts",
+    "https://www.themorgan.org/manuscript",
+    "https://www.themorgan.org/collection",
+    "https://www.themorgan.org/manuscripts/coptic",
+    "http://corsair.themorgan.org",
+    "https://corsair.themorgan.org",
+    "https://host.themorgan.org",
+]
+
 if __name__ == "__main__":
     a = [x for x in sys.argv[1:] if not x.startswith("--")]
     if not a:
-        print("حط صفحة بداية واحدة أو أكتر، مثلاً:")
-        print('  python harvest_morgan.py "https://www.themorgan.org/manuscripts" "http://corsair.themorgan.org"')
-        sys.exit(1)
+        print("مفيش روابط → بستخدم نقاط البداية الافتراضية وأزحف منها لكل الموقع.")
+        a = DEFAULT_SEEDS
     run(a)
