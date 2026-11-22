@@ -1,17 +1,205 @@
 {
- "source": "Biblioteca Medicea Laurenziana (Florence) via Internet Culturale ContentDM — Oriental Christian mss",
+ "source": "Biblioteca Medicea Laurenziana (Florence) via OAI — Oriental Christian mss (cleaned/deduped)",
  "manuscripts": [
   {
    "library": "Biblioteca Medicea Laurenziana, Florence",
-   "collection": "Syriac",
-   "shelfmark": "Plut.1.56",
-   "title": "Rabbula Gospels — Syriac illuminated Gospels, 586 AD (Plut.1.56)",
-   "language": "Syriac",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_10026",
+   "title": "Psalterium Graecolatinum",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:10026/manifest.json",
+   "pages": 0,
    "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_35647",
+   "title": "Preces, hymni, et psalmi, quae dicuntur in ecclesia Graeca . Eychai, ymnoi kai psalmoi, a legontai en te Ellenike ekklesia",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:35647/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_51063",
+   "title": "Homiliae diversorum . Omiliai diaphoron . Seu potius. Sermonarius Graecorum a die VIII septembris ad XXIX augusti",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:51063/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_92658",
+   "title": "Homiliae incerti auctoris . Omiliai anonimou . Titulus restituendus. Pars lectionarii, sive officii divini Graecorum. Procli archiep. CP. in",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:92658/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_102062",
+   "title": "Psalterium Chaldaeum . Psalterium Arab. [...] versus finem quaedam desunt",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:102062/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_126807",
+   "title": "Sermones sacri . Logoi theioi . Titulus corrigendus. Lectionarium Graecorum, et Gregorii Nysseni in S. Stephanum oratio mutila",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:126807/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_127628",
+   "title": "Psalterium Armenum . Psalterium Armenum",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:127628/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_138319",
+   "title": "Theodoreti Curatio Graecarum adfectionum . Theodoritou Therapeutike Ellenikon pathematon . Ac praeterea. Historiae ecclesiasticae libri V ac",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:138319/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_176256",
+   "title": "Evangelia characteribus Syriacis exarata . Codex Evangeliorum Syriacus, antiquissimus literis capitalibus scriptus sine punctis vocalibus An",
    "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:176256/manifest.json",
-   "pages": 598,
-   "rights": "Pubblico",
-   "note": "إنجيل رابولا — كنز عالمي"
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_185732",
+   "title": "Theodoreti interpretatio in Ezechielem . Theodoritou ermeneia eis ton propheten Iezekiel . Addas etiam. In Danielem, et curationem Graecarum",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:185732/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_258650",
+   "title": "Evangelia quatuor, Marcus, Matthaeus, Lucas, et Ioannes . Evangelia literis, ac lingua Armena",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:258650/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_298604",
+   "title": "Theodoreti Curatio Graecarum adfectionum . Theodoritou Ellenikon pathematon therapeutike",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:298604/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_315294",
+   "title": "Martyria diversorum martyrum . Athleseis Diaphoron martyron . Scilicet. Vitae, ac martyria nonnullorum sanctorum, ac praecipue eorum, quorum",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:315294/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_332737",
+   "title": "Evangelia characteribus Syriacis exarata . Codex Evangeliorum Syriacus optimus characteribus antiquis sine punctis vocalibus scriptus anno A",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:332737/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_338520",
+   "title": "Missale in idiomate Armeno scriptum anno Dom. 1353 ab archiepiscopo Armeno Ord. Praedicatorum . Missale Armenum ex Lat. traductum ab episcop",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:338520/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_343494",
+   "title": "Psalterium characteribus Syriacis exaratum . Psalterium Syriacum",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:343494/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_315941",
+   "title": "Preces quae toto anno dicuntur in ecclesia Graeca . Euchai ai legontai en te Ellenike ekklesia en to olo eniauto . Quibus adde.",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:315941/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_367174",
+   "title": "Georgii Diaconi Oratio . Georgiou Diakonou Logos . Scilicet. Georgii Diaconi Metochitae orationes tres de caussis dissidiorum Graecos inter,",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:367174/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_381442",
+   "title": "Evangelia characteribus Syriacis exarata . Codex evangeliorum Syriacus magnae antiquitatis, quippe iisdem fere literis, quibus prior h. e. c",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:381442/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
+  },
+  {
+   "library": "Biblioteca Medicea Laurenziana, Florence",
+   "collection": "Oriental Christian",
+   "shelfmark": "plutei_1134084",
+   "title": "Commeatus peregrinantis . Ta ephodia tou apodemountos . Adde Ioannis Damasceni medici arabis De evacuantibus medicamentis, Galeni De succeda",
+   "manifest": "https://cdm21059.contentdm.oclc.org/iiif/plutei:1134084/manifest.json",
+   "pages": 0,
+   "tier": 1,
+   "rights": "CC BY-NC-SA"
   }
  ]
 }
