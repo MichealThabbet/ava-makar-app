@@ -55,8 +55,8 @@ SOURCES = [
     # ── IIIF Collections (بعضها Cloudflare، بعضها لأ — المتصفح بيعدّي الكل) ──
     {"name": "bodleian", "type": "iiif_coll", "library": "Bodleian Library, Oxford",
      "endpoint": "https://iiif.bodleian.ox.ac.uk/iiif/collection/top.json"},
-    {"name": "sinai_ucla", "type": "iiif_coll", "library": "St Catherine's Sinai (UCLA)",
-     "endpoint": "https://iiif.library.ucla.edu/collections/sinai"},
+    {"name": "sinai_ucla", "type": "blacklight", "library": "St Catherine's Sinai (UCLA)",
+     "endpoint": "https://sinaimanuscripts.library.ucla.edu/catalog.json", "q": ""},
     {"name": "vatican", "type": "iiif_coll", "library": "Biblioteca Apostolica Vaticana",
      "endpoint": "https://digi.vatlib.it/iiif/collection"},
     {"name": "wellcome", "type": "iiif_coll", "library": "Wellcome Collection",
@@ -64,7 +64,7 @@ SOURCES = [
 
     # ── Blacklight catalog.json ──
     {"name": "princeton_figgy", "type": "blacklight", "library": "Princeton (Figgy)",
-     "endpoint": "https://figgy.princeton.edu/catalog.json", "q": "coptic"},
+     "endpoint": "https://catalog.princeton.edu/catalog.json", "q": "coptic manuscript"},
 ]
 
 SRC = {s["name"]: s for s in SOURCES}
@@ -85,14 +85,29 @@ def get_text(page, url, needle_any):
     return page.content()
 
 def get_json(page, url):
-    """بيجيب JSON عبر fetch من جوّه المتصفح (بياخد كوكيز Cloudflare)."""
-    page.goto("about:blank")
+    """بيجيب JSON من رد التنقّل نفسه (مفيش CORS). لو فيه حماية بيستنّاها."""
     try:
-        return page.evaluate(
-            """async (u) => { const r = await fetch(u, {credentials:'include'});
-                 return await r.text(); }""", url)
+        resp = page.goto(url, wait_until="domcontentloaded", timeout=90000)
     except Exception as e:
-        print("   fetch err:", repr(e)[:80]); return ""
+        print("   goto err:", repr(e)[:80]); return ""
+    for _ in range(25):
+        try:
+            body = page.evaluate("() => document.body ? document.body.innerText : ''")
+        except Exception:
+            body = ""
+        if body and ("{" in body[:200] or "[" in body[:200]) and "just a moment" not in body.lower():
+            return body
+        # ساعات الرد مش HTML، جرّب من الـresponse مباشرة
+        try:
+            if resp:
+                t = resp.text()
+                if t and ("{" in t[:200] or "[" in t[:200]):
+                    return t
+        except Exception:
+            pass
+        time.sleep(1.2)
+    print("   تحذير: الرد مش JSON (حماية/رابط غلط). أول 120 حرف:", (body or "")[:120])
+    return body or ""
 
 # ───────────────────────── الحفظ (resumable) ─────────────────────────
 def load_raw(name):
@@ -168,6 +183,9 @@ def _collect_iiif(page, url, lib, state, seen, depth=0):
 def harvest_iiif_coll(page, s, state):
     seen = {r["id"] for r in state["records"]}
     _collect_iiif(page, s["endpoint"], s["library"], state, seen)
+    if not state["records"]:
+        print(f"   {s['name']}: طلّع صفر — يا الرابط غلط يا الـcollection فاضية. "
+              f"جرّب تفتح {s['endpoint']} في المتصفح وتشوف.")
     state["done"] = True; save_raw(state)
 
 def harvest_blacklight(page, s, state):
@@ -180,26 +198,31 @@ def harvest_blacklight(page, s, state):
             j = json.loads(raw)
         except Exception:
             break
-        data = j.get("data", [])
+        data = j.get("data") or j.get("response", {}).get("docs") or []
         if not data:
-            break
+            print(f"   {s['name']}: صفحة {pageno} مفيش داتا — بوقف."); break
         for d in data:
-            a = d.get("attributes", {})
+            a = d.get("attributes", d)  # بعض كتالوجات Blacklight مفيهاش attributes
             iid = d.get("id", "")
             if iid in seen:
                 continue
             seen.add(iid)
-            t = a.get("title", {})
-            t = (t.get("attributes", {}) or {}).get("value", "") if isinstance(t, dict) else str(t)
-            man = (a.get("manifest", {}) or {})
-            man = (man.get("attributes", {}) or {}).get("value", "") if isinstance(man, dict) else ""
-            state["records"].append({"id": iid, "title": re.sub(r"\s+"," ",str(t))[:200],
-                                     "library": s["library"], "manifest": man})
+            def val(x):
+                if isinstance(x, dict):
+                    return (x.get("attributes", {}) or {}).get("value", x.get("value", ""))
+                return x
+            t = val(a.get("title", "")) or val(a.get("title_display", ""))
+            man = val(a.get("manifest", "")) or val(a.get("manifest_url", ""))
+            state["records"].append({"id": iid, "title": re.sub(r"\s+"," ",str(t or ""))[:200],
+                                     "library": s["library"], "manifest": man or ""})
         save_raw(state)
         print(f"   {s['name']}: صفحة {pageno} خام={len(state['records'])}")
-        total = (j.get("meta", {}).get("pages", {}) or {}).get("total_count")
+        total = (j.get("meta", {}).get("pages", {}) or {}).get("total_count") \
+                or j.get("response", {}).get("numFound")
         pageno += 1
-        if total and len(state["records"]) >= total:
+        if total and len(state["records"]) >= int(total):
+            break
+        if pageno > 500:
             break
     state["done"] = True; save_raw(state)
 
