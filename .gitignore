@@ -3,3 +3,9 @@ build/
 .packages
 __pycache__/
 .pytest_cache/
+
+# heritage harvest intermediates (regenerable, large)
+tools/heritage/raw/
+tools/heritage/filtered/
+tools/heritage/morgan_profile/
+tools/heritage/morgan_zoomify.txt
