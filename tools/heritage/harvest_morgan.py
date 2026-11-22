@@ -70,8 +70,18 @@ def run(seeds):
     first_page = True
     with sync_playwright() as pw:
         # سياق دائم → كوكيز الحماية تتحفظ وما تتطلبش كل صفحة
-        ctx = pw.chromium.launch_persistent_context(
-            os.path.join(HERE, "morgan_profile"), headless=False)
+        # Chrome الحقيقي + إخفاء علامة الأتمتة عشان نعدّي "Checking your browser"
+        kw = dict(headless=False,
+                  args=["--disable-blink-features=AutomationControlled"],
+                  ignore_default_args=["--enable-automation"])
+        try:
+            ctx = pw.chromium.launch_persistent_context(
+                os.path.join(HERE, "morgan_profile"), channel="chrome", **kw)
+        except Exception:
+            ctx = pw.chromium.launch_persistent_context(
+                os.path.join(HERE, "morgan_profile"), **kw)
+        # نشيل navigator.webdriver قبل أي صفحة
+        ctx.add_init_script("Object.defineProperty(navigator,'webdriver',{get:()=>undefined})")
         pg = ctx.pages[0] if ctx.pages else ctx.new_page()
         b = ctx
         while queue and len(seen_pg) < MAX:
