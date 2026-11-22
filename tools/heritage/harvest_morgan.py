@@ -45,19 +45,43 @@ def links_in(html, cur):
             out.append(full.split("#")[0])
     return out
 
+# نصوص صفحة الحماية (Cloudflare وغيره)
+CHALLENGE = re.compile(r"just a moment|verify you are human|checking your browser|"
+                       r"cf-challenge|needs to review the security|attention required|"
+                       r"enable javascript and cookies", re.I)
+
+def wait_pass(pg, first=False):
+    """يستنّى لحد ما صفحة الحماية تعدّي. أول مرة: بإيدك في النافذة. بعدها: أوتوماتيك."""
+    waited = 0
+    limit = 300 if first else 40   # أول مرة 5 دقايق تعدّي بإيدك، بعدها 40 ثانية
+    while waited < limit:
+        html = pg.content()
+        if not CHALLENGE.search(html):
+            return html
+        if first and waited == 0:
+            print("  ⚠ صفحة حماية — عدّي التأكيد في النافذة بإيدك. السكربت هيكمّل لوحده بعدها.")
+        time.sleep(2); waited += 2
+    return pg.content()
+
 def run(seeds):
     from playwright.sync_api import sync_playwright
     zoom, seen_pg, found = [], set(), set()
     queue = [s for s in seeds if host_ok(s)]
+    first_page = True
     with sync_playwright() as pw:
-        b = pw.chromium.launch(headless=False); pg = b.new_page()
+        # سياق دائم → كوكيز الحماية تتحفظ وما تتطلبش كل صفحة
+        ctx = pw.chromium.launch_persistent_context(
+            os.path.join(HERE, "morgan_profile"), headless=False)
+        pg = ctx.pages[0] if ctx.pages else ctx.new_page()
+        b = ctx
         while queue and len(seen_pg) < MAX:
             u = queue.pop(0)
             if u in seen_pg: continue
             seen_pg.add(u)
             try:
                 pg.goto(u, wait_until="domcontentloaded", timeout=90000); time.sleep(1.0)
-                html = pg.content()
+                html = wait_pass(pg, first=first_page)
+                first_page = False
             except Exception as e:
                 print("  خطأ:", repr(e)[:50]); continue
             for z in find_zoomify(html):
