@@ -63,47 +63,100 @@ def wait_pass(pg, first=False):
         time.sleep(2); waited += 2
     return pg.content()
 
+# روابط الصور اللي العارض بيطلبها بالـJavaScript (مش موجودة في كود الصفحة)
+IMG_REQ = re.compile(r"ImageProperties\.xml|/TileGroup\d+/|zoomify|/iiif/|info\.json|\.dzi\b|_files/\d+/|"
+                     r"/tiles?/|\.(?:jpe?g|tiff?|jp2|png)(?:\?|$)", re.I)
+SKIP_IMG = re.compile(r"logo|icon|sprite|favicon|banner|header|footer|social|thumb(?:nail)?s?/|/styles/|"
+                      r"google|facebook|twitter|doubleclick|analytics|cloudflare", re.I)
+# صفحات تستاهل نزورها: صفحات مخطوطات/سجلات بس، مش أخبار وفعاليات ومحل
+FOLLOW = re.compile(r"/manuscript/|/manuscripts?(?:/|$|\?)|/collection/[^/?#]+/\d+|/collection/[^/?#]+/?$|"
+                    r"corsair\.themorgan\.org/.*(?:record|vwebv|holding|bib)", re.I)
+NOFOLLOW = re.compile(r"/(?:events?|exhibitions?|programs?|calendar|news|press|shop|store|visit|membership|"
+                      r"support|donate|about|education|blog|stories|search|login|user|cart)(?:/|$|\?)", re.I)
+
+def zoom_base(u):
+    if "ImageProperties.xml" in u:
+        return u.split("?")[0]
+    if re.search(r"/TileGroup\d+/", u):
+        return re.split(r"/TileGroup\d+/", u)[0].rstrip("/") + "/ImageProperties.xml"
+    return None
+
+def open_ctx(pw):
+    kw = dict(headless=os.environ.get("MORGAN_HEADLESS") == "1",   # للاختبار بس
+              args=["--disable-blink-features=AutomationControlled"],
+              ignore_default_args=["--enable-automation"])
+    try:
+        ctx = pw.chromium.launch_persistent_context(os.path.join(HERE, "morgan_profile"), channel="chrome", **kw)
+    except Exception:
+        ctx = pw.chromium.launch_persistent_context(os.path.join(HERE, "morgan_profile"), **kw)
+    ctx.add_init_script("Object.defineProperty(navigator,'webdriver',{get:()=>undefined})")
+    return ctx
+
+def probe(url):
+    """يفتح صفحة واحدة ويسجّل كل طلبات المتصفح — عشان نعرف نمط روابط الصور عند مورجان."""
+    from playwright.sync_api import sync_playwright
+    reqs = []
+    with sync_playwright() as pw:
+        ctx = open_ctx(pw)
+        ctx.on("request", lambda r: reqs.append(f"{r.resource_type}\t{r.url}"))
+        pg = ctx.pages[0] if ctx.pages else ctx.new_page()
+        pg.goto(url, wait_until="domcontentloaded", timeout=90000)
+        wait_pass(pg, first=True)
+        print("  الصفحة فتحت. لو فيه صورة مخطوط، اضغط عليها أو على زرار التكبير (zoom) دلوقتي...")
+        for _ in range(6):
+            pg.mouse.wheel(0, 1500); time.sleep(5)
+        pg.screenshot(path=os.path.join(HERE, "morgan_probe.png"), full_page=True)
+        open(os.path.join(HERE, "morgan_probe.html"), "w", encoding="utf-8").write(pg.content())
+        open(os.path.join(HERE, "morgan_probe_requests.txt"), "w", encoding="utf-8").write("\n".join(reqs))
+        ctx.close()
+    imgs = [r for r in reqs if IMG_REQ.search(r) and not SKIP_IMG.search(r)]
+    print(f"\nاتسجل {len(reqs)} طلب، منهم {len(imgs)} شكلهم صور. أمثلة:")
+    for r in imgs[:15]:
+        print("   ", r[:160])
+    print("\nابعت الـ3 ملفات: morgan_probe_requests.txt و morgan_probe.html و morgan_probe.png")
+
 def run(seeds):
     from playwright.sync_api import sync_playwright
     zoom, seen_pg, found = [], set(), set()
     queue = [s for s in seeds if host_ok(s)]
+    queued = set(queue)
     first_page = True
+    other_imgs = []
     with sync_playwright() as pw:
-        # سياق دائم → كوكيز الحماية تتحفظ وما تتطلبش كل صفحة
-        # Chrome الحقيقي + إخفاء علامة الأتمتة عشان نعدّي "Checking your browser"
-        kw = dict(headless=False,
-                  args=["--disable-blink-features=AutomationControlled"],
-                  ignore_default_args=["--enable-automation"])
-        try:
-            ctx = pw.chromium.launch_persistent_context(
-                os.path.join(HERE, "morgan_profile"), channel="chrome", **kw)
-        except Exception:
-            ctx = pw.chromium.launch_persistent_context(
-                os.path.join(HERE, "morgan_profile"), **kw)
-        # نشيل navigator.webdriver قبل أي صفحة
-        ctx.add_init_script("Object.defineProperty(navigator,'webdriver',{get:()=>undefined})")
+        # سياق دائم (الكوكيز تتحفظ) + Chrome الحقيقي + إخفاء علامة الأتمتة
+        ctx = open_ctx(pw)
+        page_imgs = []
+        ctx.on("request", lambda r: page_imgs.append(r.url) if IMG_REQ.search(r.url) and not SKIP_IMG.search(r.url) else None)
         pg = ctx.pages[0] if ctx.pages else ctx.new_page()
         b = ctx
         while queue and len(seen_pg) < MAX:
             u = queue.pop(0)
             if u in seen_pg: continue
             seen_pg.add(u)
+            page_imgs.clear()
             try:
                 pg.goto(u, wait_until="domcontentloaded", timeout=90000); time.sleep(1.0)
                 html = wait_pass(pg, first=first_page)
                 first_page = False
+                time.sleep(3)   # نسيب العارض يطلب الصور
             except Exception as e:
                 print("  خطأ:", repr(e)[:50]); continue
-            for z in find_zoomify(html):
+            # الصور من الكود + من طلبات المتصفح
+            cands = find_zoomify(html) + [zb for zb in (zoom_base(x) for x in page_imgs) if zb]
+            for z in cands:
                 if z not in found:
                     found.add(z); zoom.append(z)
-            # زوّد صفحات المخطوطات للطابور
+            for x in page_imgs:
+                if not zoom_base(x) and x not in other_imgs:
+                    other_imgs.append(x)
+            # زوّد صفحات المخطوطات بس للطابور
             for l in links_in(html, u):
-                if l not in seen_pg and re.search(r"manuscript|object|collection|record|coptic|detail|work", l, re.I):
-                    queue.append(l)
+                if l not in queued and FOLLOW.search(l) and not NOFOLLOW.search(l):
+                    queued.add(l); queue.append(l)
             if len(seen_pg) % 10 == 0 or not queue:
                 open(OUT, "w", encoding="utf-8").write("\n".join(zoom))
-                print(f"  صفحات={len(seen_pg)}  طابور={len(queue)}  صور={len(zoom)}")
+                open(os.path.join(HERE, "morgan_other_images.txt"), "w", encoding="utf-8").write("\n".join(other_imgs))
+                print(f"  صفحات={len(seen_pg)}  طابور={len(queue)}  Zoomify={len(zoom)}  صور تانية={len(other_imgs)}")
         b.close()
     open(OUT, "w", encoding="utf-8").write("\n".join(zoom))
     print(f"\nخلص. {len(zoom)} رابط صورة في {OUT}")
@@ -122,6 +175,11 @@ DEFAULT_SEEDS = [
 
 if __name__ == "__main__":
     a = [x for x in sys.argv[1:] if not x.startswith("--")]
+    if "--probe" in sys.argv:
+        if not a:
+            print('حط رابط صفحة مخطوط واحدة:  python harvest_morgan.py --probe "https://www.themorgan.org/manuscript/..."')
+            sys.exit(1)
+        probe(a[0]); sys.exit(0)
     if not a:
         print("مفيش روابط → بستخدم نقاط البداية الافتراضية وأزحف منها لكل الموقع.")
         a = DEFAULT_SEEDS
