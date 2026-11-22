@@ -54,7 +54,7 @@ SOURCES = [
 
     # ── IIIF Collections (بعضها Cloudflare، بعضها لأ — المتصفح بيعدّي الكل) ──
     {"name": "bodleian", "type": "iiif_coll", "library": "Bodleian Library, Oxford",
-     "endpoint": "https://iiif.bodleian.ox.ac.uk/iiif/collection/top.json"},
+     "endpoint": "https://iiif.bodleian.ox.ac.uk/iiif/collection/all"},
     {"name": "sinai_ucla", "type": "blacklight", "library": "St Catherine's Sinai (UCLA)",
      "endpoint": "https://sinaimanuscripts.library.ucla.edu/catalog.json", "q": ""},
     {"name": "vatican", "type": "iiif_coll", "library": "Biblioteca Apostolica Vaticana",
