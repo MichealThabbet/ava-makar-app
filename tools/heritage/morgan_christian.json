@@ -36588,9 +36588,9 @@
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.109",
    "shelfmark": "MS M.110",
-   "title": "(title not in harvest catalog)",
+   "title": "(leaves catalogued under Morgan record MS M.109, bibId 77048)",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36629,13 +36629,14 @@
    ],
    "meta": {},
    "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/77048"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.109",
    "shelfmark": "MS M.111",
-   "title": "(title not in harvest catalog)",
+   "title": "(leaves catalogued under Morgan record MS M.109, bibId 77048)",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36687,7 +36688,8 @@
    ],
    "meta": {},
    "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/77048"
   },
   {
    "library": "Morgan",
