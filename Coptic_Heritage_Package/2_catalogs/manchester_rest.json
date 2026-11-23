@@ -1,0 +1,2725 @@
+{
+ "source": "Manchester Digital Collections full sitemap (robots allows all) 2026-11-23 — manuscripts + early printing (incunabula/blockbooks); Hebrew/Islamic/Asian and modern archives excluded",
+ "manuscripts": [
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-16394",
+   "title": "Opera / Giannantonio Campano",
+   "date": "",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 616,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-16394",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-03074",
+   "title": "Rationale divinorum officiorum",
+   "date": "6 October 1459",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 340,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-03074",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-03103",
+   "title": "Apocalypse",
+   "date": "1450-1452",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 112,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-03103",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18977",
+   "title": "[Trionfi]",
+   "date": "1473",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 260,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18977",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-10197",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "1474",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 364,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-10197",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-03383-00001",
+   "title": "Catholicon",
+   "date": "1460",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 398,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-03383-00001",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-03383-00002",
+   "title": "Catholicon",
+   "date": "1460",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 384,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-03383-00002",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-BOOK-COVER",
+   "shelfmark": "MS-BOOK-COVER-00009",
+   "title": "Christ with St Peter & St Paul",
+   "date": "19th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-BOOK-COVER-00009",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-BOOK-COVER",
+   "shelfmark": "MS-BOOK-COVER-00007",
+   "title": "French Diptych",
+   "date": "14th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 3,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-BOOK-COVER-00007",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-BOOK-COVER",
+   "shelfmark": "MS-BOOK-COVER-00006",
+   "title": "Ivory Nativity",
+   "date": "6th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 2,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-BOOK-COVER-00006",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-BOOK-COVER",
+   "shelfmark": "MS-BOOK-COVER-00003",
+   "title": "Crucifixion panel",
+   "date": "13th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 5,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-BOOK-COVER-00003",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-BOOK-COVER",
+   "shelfmark": "MS-BOOK-COVER-00001",
+   "title": "Crucifixion panel",
+   "date": "13th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 5,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-BOOK-COVER-00001",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-BOOK-COVER",
+   "shelfmark": "MS-BOOK-COVER-00017",
+   "title": "Trier Bindings",
+   "date": "10th century-13th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 4,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-BOOK-COVER-00017",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-15146",
+   "title": "Mons perfectionis. Otherwyſe called in Englyſſh/ The hylle of perfectyon",
+   "date": "1497",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 64,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-15146",
+   "meta": {
+    "Language": "English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-GERMAN",
+   "shelfmark": "MS-GERMAN-00003",
+   "title": "Sammlung Alchymistischer Schriften",
+   "date": "18th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 362,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GERMAN-00003",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-GERMAN",
+   "shelfmark": "MS-GERMAN-00001",
+   "title": "Alchemica",
+   "date": "",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 52,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GERMAN-00001",
+   "meta": {
+    "Language": "German, Middle High (ca.1050-1500)"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-09375",
+   "title": "Historie von Joseph, Daniel, Judith und Esther",
+   "date": "1462",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 132,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-09375",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-09380",
+   "title": "[N]el mezo del camin di nostra uita mi ritrouai per una selua oscura chela diricta uia era smarrita",
+   "date": "18 July 1472",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 456,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-09380",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-09383",
+   "title": "La Commedia (Comm. Jacopo della Lana). Ed. Cristoforo Berardi da Pesaro. Venice: Vindelinus de Spira, 1477.",
+   "date": "1477",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 760,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-09383",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-GERMAN",
+   "shelfmark": "MS-GERMAN-00011",
+   "title": "Büchlein von der Liebe Gottes, etc.",
+   "date": "the second half of the fifteenth century.",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 534,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-GERMAN-00011",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARMENIAN",
+   "shelfmark": "MS-ARMENIAN-00003",
+   "title": "Romance of Alexander",
+   "date": "Armenian Era 933 (1544 CE)",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 386,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARMENIAN-00003",
+   "meta": {
+    "Language": "Armenian; Armenian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU-R",
+   "shelfmark": "PR-INCU-R-04985",
+   "title": "Here begynneth a litil boke the whiche traytied and reherced many gode thinges necessaries for the infirmite [and] grete sekenesse called pestilence the whiche often times enfecteth vs / made by the most expert Doctour in phisike Bisshop of Arusiens in the realme of Denemark &c.",
+   "date": "1483",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 46,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-R-04985",
+   "meta": {
+    "Language": "English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-09464",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "1475",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 372,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-09464",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-09402",
+   "title": "Biblia pauperum",
+   "date": "1462",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 50,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-09402",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-17679",
+   "title": "Mirabilia Romae",
+   "date": "1475",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 200,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-17679",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-17684",
+   "title": "Speculum humanae salvationis",
+   "date": "1474-1475",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 146,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-17684",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-10123",
+   "title": "Ars moriendi",
+   "date": "1465",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 78,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-10123",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-10525",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "1472",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 396,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-10525",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-09502",
+   "title": "Conuiuio diDante Alighieri fiorentino",
+   "date": "20 September 1490",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 196,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-09502",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU-R",
+   "shelfmark": "PR-INCU-R-64486",
+   "title": "Danthe alighieri fiorentino",
+   "date": "11 October 1497",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 632,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-R-64486",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU-R",
+   "shelfmark": "PR-INCU-R-64485",
+   "title": "Comento di Christophoro Landino fiorentino sopra la comedia di Danthe Alighieri poeta fiorentino",
+   "date": "3 March 1491",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 628,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-R-64485",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU-R",
+   "shelfmark": "PR-INCU-R-64484",
+   "title": "Comento di Christophforo Landino fiorentino sopra la Comedia di Danthe Alighieri poeta fiorentino",
+   "date": "31 May 1487",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 643,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-R-64484",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18520",
+   "title": "[Canzoniere e trionfi]",
+   "date": "1477",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 372,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18520",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18509",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "1473",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 276,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18509",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-09403-00002",
+   "title": "Antichrist und Die fünfzehn Zeichen",
+   "date": "1482",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 35,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-09403-00002",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-09403-00001",
+   "title": "Antichrist und Die fünfzehn Zeichen",
+   "date": "between 1465 and 1470",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 61,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-09403-00001",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00113",
+   "title": "Chaucer's Canterbury Tales and other works",
+   "date": "Second half 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 398,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00113",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00105",
+   "title": "Brut Chronicle (1413 Continuation)",
+   "date": "End 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 286,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00105",
+   "meta": {
+    "Language": "Middle English; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00103",
+   "title": "Brut Chronicle (1346 Continuation)",
+   "date": "Mid 14th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 276,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00103",
+   "meta": {
+    "Language": "Middle English; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00104",
+   "title": "Tomlynson Brut Chronicle (1415 Continuation)",
+   "date": "End 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 274,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00104",
+   "meta": {
+    "Language": "Middle English; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00102",
+   "title": "Marlborough Brut Chronicle (1377 Continuation)",
+   "date": "Mid 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 214,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00102",
+   "meta": {
+    "Language": "Middle English; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-11079",
+   "title": "[Iacopo di messer Poggio a Lorenzo di Piero de Cosimo de Medici sopra el Triomphio della fama di messer Franceshco [sic] Petrarcha].",
+   "date": "",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 264,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-11079",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-11042",
+   "title": "Consolatio peccatorum, seu Processus Belial",
+   "date": "1464",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 194,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-11042",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-23026",
+   "title": "Romanus pontifex (1486 March 27)",
+   "date": "1486",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-23026",
+   "meta": {
+    "Language": "English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU-R",
+   "shelfmark": "PR-INCU-R-96504",
+   "title": "Qui comi[n]cia la vita e costumi dello excelle[n]te Poeta vulgari Dante alighieri di Firenze honore e gloria delidioma Fiorentino Scripto e composto per lo famosissimo homo missier giouani Bocchacio da certaldo. scripto de la origene vita. Studii e costumi del clarissimo huomo Dante alleghieri Poeta",
+   "date": "1477",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 764,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-R-96504",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU-R",
+   "shelfmark": "PR-INCU-R-96503",
+   "title": "Proemio : Comento di christophoro Landino fiorentino sopra la comedia di Danthe alighieri poeta fiorentino",
+   "date": "23 March 1484",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 535,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-R-96503",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-23031",
+   "title": "Pastoris aeterni (1478 July 11)",
+   "date": "1478",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-23031",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-23030",
+   "title": "Vater vnser der du pist in den himel[e]n Geheyligt werd dein nam Zu kum dein reich",
+   "date": "1480",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-23030",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-16119-00002",
+   "title": "Biblia pauperum",
+   "date": "between 1460 and 1463",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 91,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-16119-00002",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-16119-00001",
+   "title": "Apocalypse",
+   "date": "between 1463 and 1467",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 62,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-16119-00001",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-17265",
+   "title": "[Grammatica rhythmica (cum commento)]",
+   "date": "1466",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 42,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17265",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-17280",
+   "title": "La Commedia (Comm. Cristophorus Landinus).",
+   "date": "1481",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 746,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17280",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00079",
+   "title": "Later Version Wycliffe New Testament",
+   "date": "Beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 498,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00079",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00077",
+   "title": "Later Version Wycliffe New Testament",
+   "date": "End 14th/beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 548,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00077",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00078",
+   "title": "Later Version Wycliffe New Testament",
+   "date": "Beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 362,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00078",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00075",
+   "title": "Later Version Wycliffe New Testament",
+   "date": "End 14th/beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 406,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00075",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00076",
+   "title": "Later Version Wycliffe New Testament",
+   "date": "Beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 388,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00076",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00063",
+   "title": "Canterbury Tales",
+   "date": "2nd half 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 24,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00063",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00050",
+   "title": "Pricke of Conscience; Guy of Warwick, Speculum",
+   "date": "the end of the 14th Century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 250,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00050",
+   "meta": {
+    "Language": "Middle English with several verses in Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00051",
+   "title": "Pricke of Conscience; Richard of Maidstone's commentary on Psalms",
+   "date": "Beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 288,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00051",
+   "meta": {
+    "Language": "Middle English with several verses in Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-06640",
+   "title": "Danthe alegieri fiorentino",
+   "date": "29 November 1493",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 642,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-06640",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00094",
+   "title": "Meditations on the Life of Christ and other 15th-century manuscripts",
+   "date": "15th Century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 346,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00094",
+   "meta": {
+    "Language": "Middle English; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00091",
+   "title": "Later Version Wycliffe Bible",
+   "date": "1st half 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 548,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00091",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00092",
+   "title": "Apocalypse with commentary",
+   "date": "End 14th/beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 106,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00092",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00090",
+   "title": "Pricke of Conscience; Wycliffe commentary on the Lord's Prayer",
+   "date": "end 14th Century/ beginning of 15th Century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 152,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00090",
+   "meta": {
+    "Language": "Middle English and Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00082",
+   "title": "Later Version Wycliffe Old Testament",
+   "date": "1st half 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 496,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00082",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00083",
+   "title": "Later Version Wycliffe Parablis of Solomon",
+   "date": "End 14th/beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 326,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00083",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00080",
+   "title": "Later Version Wycliffe New Testament",
+   "date": "Mid 15th century [1444?]",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 652,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00080",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00081",
+   "title": "Earlier Version Wycliffe New Testament",
+   "date": "Beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 348,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00081",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00088",
+   "title": "Later Version Wycliffe Psalms",
+   "date": "2nd half 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 175,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00088",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00089",
+   "title": "Wycliffe Old Testament",
+   "date": "Beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 188,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00089",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00086",
+   "title": "Wycliffe Treatises",
+   "date": "End 14th/beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 262,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00086",
+   "meta": {
+    "Language": "Middle English; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00087",
+   "title": "The Pore Caitif",
+   "date": "End 14th/beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 262,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00087",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00084",
+   "title": "Later Version Wycliffe Acts of the Apostles",
+   "date": "End 14th/beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 258,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00084",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00085",
+   "title": "Wycliffe Treatises",
+   "date": "End 14th/beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 182,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00085",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-01310",
+   "title": "On Urines",
+   "date": "Early-16th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 46,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-01310",
+   "meta": {
+    "Language": "English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-23122",
+   "title": "William Caxton's advertisement for his edition of the Sarum Ordinal",
+   "date": "1477",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-23122",
+   "meta": {
+    "Language": "English, Middle (1100-1500); Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00002",
+   "title": "The Fall of Princes",
+   "date": "Mid-15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 381,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00002",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00003",
+   "title": "Wycliffe Gospels",
+   "date": "Beginning 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 432,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00003",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00001",
+   "title": "Siege of Troy",
+   "date": "Mid-15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 360,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00001",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00809",
+   "title": "Kitāb shudhūr al-dhahab",
+   "date": "mid-14th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 150,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00809",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00829",
+   "title": "Kitāb al-Manṭiq",
+   "date": "18th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 444,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00829",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-09410",
+   "title": "Ars memorandi",
+   "date": "between 1465 and 1470",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 90,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-09410",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00347-00198",
+   "title": "Letter from Martin Luther to Gerhard Vilskamp",
+   "date": "1 January 1528",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 3,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00347-00198",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-03069-00002",
+   "title": "Gutenberg Bible",
+   "date": "1454-1455",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 667,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-03069-00002",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-03069-00001",
+   "title": "Gutenberg Bible",
+   "date": "1454-1455",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 681,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-03069-00001",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-10002",
+   "title": "[The Canterbury tales].",
+   "date": "Between 1491 and 1492",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 678,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-10002",
+   "meta": {
+    "Language": "English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-10001",
+   "title": "Here in thys boke afore ar contenyt the bokys of haukyng and huntyng with other plesuris dyuerse as in the boke apperis and also of cootarmuris a nobull werke.",
+   "date": "1486",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 186,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-10001",
+   "meta": {
+    "Language": "English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-09404",
+   "title": "Antichrist und Die fünfzehn Zeichen",
+   "date": "between 1465 and 1470?",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 40,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-09404",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00288",
+   "title": "Littleton, Tenures and other pieces in English, French and Latin",
+   "date": "End 15th/beginning 16th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 382,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00288",
+   "meta": {
+    "Language": "English; French; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00206",
+   "title": "Brut Chronicle (1326 Continuation)",
+   "date": "Second half 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 220,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00206",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00202",
+   "title": "Robert Hassall - Commonplace Book",
+   "date": "16th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 170,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00202",
+   "meta": {
+    "Language": "English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00676",
+   "title": "Composite manuscript containing a treatise on music and an astrological work.",
+   "date": "",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 46,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00676",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00615",
+   "title": "al-Mufākhirah",
+   "date": "17th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 94,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00615",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-03965",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "1473",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 388,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-03965",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-LATIN",
+   "shelfmark": "MS-LATIN-00136",
+   "title": " (Latin MS 136)",
+   "date": "Early 15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 828,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00136",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18163",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 508,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18163",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18162",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "1471",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 410,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18162",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-07495",
+   "title": "Dantis Aligerii poetae florentini Inferni capitulum primum incipit",
+   "date": "1472",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 198,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-07495",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00780",
+   "title": "Galen's on the Usefulness of the Parts of the Body",
+   "date": "late 17th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 640,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00780",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00738",
+   "title": "Thamarat fī aḥkām al-nujūm",
+   "date": "2nd half of the 18th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 194,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00738",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU-R",
+   "shelfmark": "PR-INCU-R-20724",
+   "title": "Danthe alegieri fiorentino",
+   "date": "29 November 1493",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 640,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-R-20724",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-LATIN",
+   "shelfmark": "MS-LATIN-00002",
+   "title": "Exultet Roll",
+   "date": "Early 11th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 4,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00002",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-LATIN",
+   "shelfmark": "MS-LATIN-00005",
+   "title": "Jewelled binding",
+   "date": "12th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00005",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-LATIN",
+   "shelfmark": "MS-LATIN-00052",
+   "title": "Jewelled binding",
+   "date": "16th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00052",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00413",
+   "title": "Mirror of the Life of Christ",
+   "date": "Early-15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 138,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00413",
+   "meta": {
+    "Language": "Middle English; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00412",
+   "title": "Pore Caitif",
+   "date": "15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 199,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00412",
+   "meta": {
+    "Language": "Middle English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-SPANISH",
+   "shelfmark": "MS-SPANISH-00009",
+   "title": "Esteban de Garibay y Zamalloa, Tomo 1 Part 1 Libros I-VI.",
+   "date": "18th century.",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 1034,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SPANISH-00009",
+   "meta": {
+    "Language": "Spanish"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-SPANISH",
+   "shelfmark": "MS-SPANISH-00007",
+   "title": "Vocabulario Español-Indiano.",
+   "date": "",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 1228,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-SPANISH-00007",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-LATIN",
+   "shelfmark": "MS-LATIN-00091",
+   "title": "Vita S. Columbani",
+   "date": "9th or 10th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 96,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00091",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-19561",
+   "title": "La Commedia (Comm. Martin Paolo Nidobeato).",
+   "date": "1477-1478",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 510,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-19561",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18313",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "1482",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 296,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18313",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18321",
+   "title": "Incominciano le cantiche de la Comedia di Dante Alleghieri firentino. Cantica prima delo Inferno",
+   "date": "12 April 1477",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 474,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18321",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18302",
+   "title": "[Canzoniere]",
+   "date": "1486",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 240,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18302",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-15365-00002",
+   "title": "Biblia Latina (36-line Bible)",
+   "date": "not after 1461",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 892,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-15365-00002",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-15365-00001",
+   "title": "Biblia Latina (36-line Bible)",
+   "date": "not after 1461",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 912,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-15365-00001",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-13490",
+   "title": "[Canzoniere]",
+   "date": "1481",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 170,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-13490",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-19691",
+   "title": "Pagina prima. Sulpitii Verulani oratoris presta[n]tissimi opus insigne grammaticum feliciter incipit.",
+   "date": "1494",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 152,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-19691",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18437",
+   "title": "[Iacopo di messer Poggio a Lorenzo di Piero de Cosimo de Medici sopra el Triomphio della fama di messer Francescho Petrarcha].",
+   "date": "1476",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 142,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18437",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU-R",
+   "shelfmark": "PR-INCU-R-01803",
+   "title": "Proemio : Comento di christophoro Landino fiorentino sopra la comedia di Danthe alighieri poeta fiorentino",
+   "date": "23 March 1484",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 556,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-R-01803",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-18443",
+   "title": "Proemio : Comento di christophoro Landino fiorentino sopra la comedia di Danthe alighieri poeta fiorentino",
+   "date": "23 March 1484",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 560,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-18443",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-FRENCH",
+   "shelfmark": "MS-FRENCH-00066",
+   "title": "Roman de la Rose",
+   "date": "",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 342,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-FRENCH-00066",
+   "meta": {
+    "Language": "Middle French"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-FRENCH",
+   "shelfmark": "MS-FRENCH-00063",
+   "title": "Valerius Maximus",
+   "date": "",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 884,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-FRENCH-00063",
+   "meta": {
+    "Language": "French; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-FRENCH",
+   "shelfmark": "MS-FRENCH-00064",
+   "title": "Chronicon Angliae",
+   "date": "",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 126,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-FRENCH-00064",
+   "meta": {
+    "Language": "French"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-05121",
+   "title": "Comento di christophoro Landino fiorentino sopra la comedia di Danthe alighieri poeta fiorentino",
+   "date": "18 November 1491",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 668,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-05121",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-FRENCH",
+   "shelfmark": "MS-FRENCH-00005",
+   "title": "Bible Historiée",
+   "date": "to mid- 14th century.",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 104,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-FRENCH-00005",
+   "meta": {
+    "Language": "French, Old"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-FRENCH",
+   "shelfmark": "MS-FRENCH-00002",
+   "title": "Oeuvres",
+   "date": "",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 508,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-FRENCH-00002",
+   "meta": {
+    "Language": "French"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-03266-00001",
+   "title": "Johann Mentelin's advertisement for an edition of Augustinus 'Epistolae' and eight other books",
+   "date": "approximately 1471",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-03266-00001",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-17152",
+   "title": "Dantis Aligerii poetae Florentini Inferni capitulum primum incipit",
+   "date": "1478",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 218,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17152",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-03472",
+   "title": "[Canzoniere e Trionfi].",
+   "date": "1470",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 382,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-03472",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-LATIN",
+   "shelfmark": "MS-LATIN-00509",
+   "title": "Lancastrae Comitatus Palatinus",
+   "date": "c.1602-1604",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 2,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00509",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-15411",
+   "title": "Vitas patrum.",
+   "date": "1495",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 750,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-15411",
+   "meta": {
+    "Language": "English"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-17238",
+   "title": "Biblia pauperum",
+   "date": "1465",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 58,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-17238",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-17237",
+   "title": "Canticum canticorum",
+   "date": "1465",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 54,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-17237",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-17256",
+   "title": "Speculum humanae salvationis",
+   "date": "1471",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 144,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-17256",
+   "meta": {
+    "Language": "Dutch"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-17261",
+   "title": "Chiromantia",
+   "date": "1480",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 82,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-17261",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00100",
+   "title": "Al-ṭibb al-rūḥānī",
+   "date": "18th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 240,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00100",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00109",
+   "title": "Iʿlām al-Nās bima waqaʿa li-l-Baramikat min banī al-ʿAbās",
+   "date": "1153 AH (1740 CE)",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 340,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00109",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-16120",
+   "title": "Ars moriendi 'Quamvis secundum philosophum tertio Ethicorum'",
+   "date": "between 1480 and 1485",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 46,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-16120",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-17250-00001",
+   "title": "Indulgence (1454-1455)",
+   "date": "1454",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 1,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17250-00001",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-17250-00002",
+   "title": "Indulgence (1454-1455)",
+   "date": "1454",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 8,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17250-00002",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-19182",
+   "title": "Comento di christophoro Landino fiorentino sopra la comedia di Danthe alighieri poeta fiorentino",
+   "date": "18 November 1491",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 664,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-19182",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ENGLISH",
+   "shelfmark": "MS-ENGLISH-00895",
+   "title": "Process of The Passion; The Gospel of Nicodemus",
+   "date": "15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 254,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00895",
+   "meta": {
+    "Language": "English; Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-09784",
+   "title": "Psalter (Mainz Psalter)",
+   "date": "14 August 1457",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 310,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-09784",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00232",
+   "title": "Nūr al-anwār fī sharḥ al-manār",
+   "date": "1224 AH (1809 CE)",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 436,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00232",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-15019-00002",
+   "title": "Ackermann aus Böhmen (Death and the ploughman)",
+   "date": "about 1463",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 2,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-15019-00002",
+   "meta": {
+    "Language": "German"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-15019-00001",
+   "title": "Biblia pauperum",
+   "date": "1462",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 46,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-15019-00001",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ITALIAN",
+   "shelfmark": "MS-ITALIAN-00063",
+   "title": "Manuscript containing illustrations of strange beasts and men, women and children.",
+   "date": "18th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 120,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ITALIAN-00063",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ITALIAN",
+   "shelfmark": "MS-ITALIAN-00048",
+   "title": "La Commedia",
+   "date": "16th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 422,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ITALIAN-00048",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ITALIAN",
+   "shelfmark": "MS-ITALIAN-00049",
+   "title": "La Commedia",
+   "date": "15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 534,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ITALIAN-00049",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ITALIAN",
+   "shelfmark": "MS-ITALIAN-00001",
+   "title": "Il Canzoniere di Petrarca e Le Rime di Dante",
+   "date": "14th century, late",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 372,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ITALIAN-00001",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ITALIAN",
+   "shelfmark": "MS-ITALIAN-00002",
+   "title": "La Commedia",
+   "date": "15th century",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 234,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ITALIAN-00002",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-07295",
+   "title": "Comincia la Comedia di dante alleghieri di fiorenze nella q[ua]le tracta delle pene et punitioni de uitii et demeriti et premii delle uirtu: Capitolo primo della p[ri]ma parte de questo libro loquale sechiama inferno: nel quale lautore fa prohemio ad tucto eltractato del libro",
+   "date": "11 April 1472",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 516,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-07295",
+   "meta": {
+    "Language": "Italian"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-19252",
+   "title": "[Trionfi].",
+   "date": "1478",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 406,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-19252",
+   "meta": {
+    "Language": ""
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-17249-00001",
+   "title": "The Annunciation",
+   "date": "between 1435 and 1450",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 2,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-17249-00001",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-XYLO",
+   "shelfmark": "PR-XYLO-17249-00002",
+   "title": "Saint Christopher",
+   "date": "between 1435 and 1450",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 3,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-XYLO-17249-00002",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "PR-INCU",
+   "shelfmark": "PR-INCU-08571",
+   "title": "Clementinae constitutiones",
+   "date": "25 June 1460",
+   "tier": 3,
+   "order": 0,
+   "priority": 0,
+   "pages": 120,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-08571",
+   "meta": {
+    "Language": "Latin"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00097",
+   "title": "A work on calligraphy",
+   "date": "908 AH (1502 CE)",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 112,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00097",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00060",
+   "title": "Kalīlah wa-Dimnah",
+   "date": "1240 AH (1824 CE)",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 208,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00060",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  },
+  {
+   "library": "John Rylands (Manchester)",
+   "collection": "MS-ARABIC",
+   "shelfmark": "MS-ARABIC-00005",
+   "title": "Dīwān al-Mutanabbī",
+   "date": "1047 AH (1637 CE)",
+   "tier": 2,
+   "order": 0,
+   "priority": 0,
+   "pages": 276,
+   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00005",
+   "meta": {
+    "Language": "Arabic"
+   },
+   "note": "not content-filtered; sort after download",
+   "rights": "University of Manchester, check terms per item"
+  }
+ ]
+}
