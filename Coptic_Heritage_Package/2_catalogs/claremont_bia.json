@@ -1,977 +1,1085 @@
 {
-"source": "Claremont ContentDM bia 2026-11-14",
-"manuscripts": [
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Number_2_1272",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Number 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1272/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Number_4_1286",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Number 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1286/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Number_5_75",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Number 5",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:75/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_I_Issu_1246",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume I, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1246/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_I_Issu_1259",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume I, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1259/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_I_Issu_114",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume I, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:114/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_II_Iss_895",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume II, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:895/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_II_Iss_612",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume II, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:612/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_II_Iss_1325",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume II, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1325/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_II_Iss_127",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume II, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:127/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_III_Is_908",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume III, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:908/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_III_Is_625",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume III, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:625/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_III_Is_1338",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume III, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1338/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_III_Is_101",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume III, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:101/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IV_Iss_638",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume IV, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:638/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IV_Iss_1351",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume IV, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1351/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IV_Iss_2204",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume IV, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2204/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IX_Iss_994",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume IX, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:994/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IX_Iss_717",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume IX, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:717/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IX_Iss_1445",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume IX, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1445/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IX_Iss_320",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume IX, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:320/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_V_Issu_942",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume V, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:942/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_V_Issu_652",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume V, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:652/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_V_Issu_1385",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume V, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1385/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_V_Issu_140",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume V, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:140/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VI_Iss_955",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VI, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:955/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VI_Iss_678",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VI, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:678/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VI_Iss_1398",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VI, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1398/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VII_Is_968",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VII, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:968/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VII_Is_1415",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VII, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1415/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VII_Is_168",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VII, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:168/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VIII_I_981",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VIII, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:981/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VIII_I_704",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VIII, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:704/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VIII_I_1432",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VIII, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1432/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VIII_I_189",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume VIII, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:189/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_X_Issu_1007",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume X, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1007/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_X_Issu_206",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume X, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:206/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XI_Iss_1020",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XI, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1020/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XI_Iss_743",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XI, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:743/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XI_Iss_1463",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XI, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1463/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XI_Iss_223",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XI, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:223/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XII_Is_1033",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XII, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1033/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XII_Is_760",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XII, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:760/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XII_Is_1476",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XII, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1476/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XII_Is_240",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XII, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:240/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIII_I_1046",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIII, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1046/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIII_I_777",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIII, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:777/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIII_I_1497",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIII, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1497/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIII_I_261",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIII, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:261/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIV_Is_798",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIV, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:798/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIV_Is_1518",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIV, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1518/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIV_Is_282",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIV, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:282/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIX_Is_1164",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIX, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1164/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIX_Is_1619",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIX, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1619/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIX_Is_421",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIX, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:421/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XV_Iss_1088",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XV, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1088/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XV_Iss_819",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XV, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:819/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XV_Iss_1539",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XV, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1539/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XV_Iss_303",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XV, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:303/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVI_Is_1105",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVI, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1105/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVI_Is_2083",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVI, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2083/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVI_Is_1556",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVI, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1556/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVII_I_1126",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVII, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1126/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVII_I_861",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVII, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:861/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVII_I_1577",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVII, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1577/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVII_I_362",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVII, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:362/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVIII__1147",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVIII, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1147/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVIII__882",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVIII, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:882/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVIII__1598",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVIII, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1598/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVIII__383",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVIII, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:383/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX_Iss_1181",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1181/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX_Iss_514",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:514/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX_Iss_1636",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1636/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX_Iss_400",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:400/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX11_I_1670",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX11, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1670/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXI_Is_1198",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXI, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1198/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXI_Is_531",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXI, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:531/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXI_Is_1653",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXI, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1653/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXI_Is_438",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXI, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:438/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXII_I_1215",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXII, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1215/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXII_I_565",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXII, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:565/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXII_I_455",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXII, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:455/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIII__1232",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIII, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1232/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIII__582",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIII, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:582/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIII__1687",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIII, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1687/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIII__472",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIII, Issue 4",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:472/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIV_I_1312",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIV, Issue 1",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1312/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIV_I_599",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIV, Issue 2",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:599/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIV_I_1704",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIV, Issue 3",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1704/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIX_S_2148",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIX, Summer 2001",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2148/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIX_S_2096",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIX, Summer 2002",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2096/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIX_W_2273",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIX, Winter 2002",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2273/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXVI_S_2247",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXVI, Summer 1999",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2247/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXVI_W_2062",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXVI, Winter 1999",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2062/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXVII__2178",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXVII, Summer 2000",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2178/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXVIII_2010",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXVIII, Winter 2001",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2010/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXX_Su_2109",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXX, Summer 2003",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2109/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXX_Wi_2122",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXX, Winter 2003",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2122/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXI_S_2191",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXI, Summer 2004",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2191/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXI_W_2260",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXI, Winter 2004",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2260/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXII__2135",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXII, Winter 2005",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2135/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXIII_2217",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXIII, Summer 2006",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2217/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXIII_2023",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXIII, Winter 2006",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2023/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXIV__1997",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXIV, Summer 2007",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1997/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXV_W_2161",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXV, Winter 2007",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2161/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXV_W_1984",
-"title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXV, Winter 2008",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1984/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "The_Institute_for_Antiquity_and_Christianity_Bulletin_February_1973_Nu_2359",
-"title": "The Institute for Antiquity and Christianity Bulletin, February 1973, Number 6",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2359/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Bulletin_IAC",
-"shelfmark": "The_Institute_for_Antiquity_and_Christianity_Report_1972_-_80_1948",
-"title": "The Institute for Antiquity and Christianity Report 1972 - 80",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1948/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-}
-]
+ "source": "Claremont ContentDM bia 2026-11-14",
+ "manuscripts": [
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Number_2_1272",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Number 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1272/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Number_4_1286",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Number 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1286/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 13
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Number_5_75",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Number 5",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:75/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 13
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_I_Issu_1246",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume I, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1246/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_I_Issu_1259",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume I, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1259/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_I_Issu_114",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume I, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:114/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_II_Iss_895",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume II, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:895/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_II_Iss_612",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume II, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:612/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_II_Iss_1325",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume II, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1325/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_II_Iss_127",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume II, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:127/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_III_Is_908",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume III, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:908/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_III_Is_625",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume III, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:625/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_III_Is_1338",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume III, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1338/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_III_Is_101",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume III, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:101/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IV_Iss_638",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume IV, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:638/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IV_Iss_1351",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume IV, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1351/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IV_Iss_2204",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume IV, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2204/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IX_Iss_994",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume IX, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:994/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IX_Iss_717",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume IX, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:717/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IX_Iss_1445",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume IX, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1445/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_IX_Iss_320",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume IX, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:320/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_V_Issu_942",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume V, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:942/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_V_Issu_652",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume V, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:652/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_V_Issu_1385",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume V, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1385/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_V_Issu_140",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume V, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:140/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VI_Iss_955",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VI, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:955/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VI_Iss_678",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VI, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:678/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VI_Iss_1398",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VI, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1398/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VII_Is_968",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VII, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:968/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VII_Is_1415",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VII, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1415/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VII_Is_168",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VII, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:168/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 14
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VIII_I_981",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VIII, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:981/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VIII_I_704",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VIII, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:704/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VIII_I_1432",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VIII, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1432/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_VIII_I_189",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume VIII, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:189/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_X_Issu_1007",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume X, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1007/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_X_Issu_206",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume X, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:206/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XI_Iss_1020",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XI, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1020/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XI_Iss_743",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XI, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:743/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XI_Iss_1463",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XI, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1463/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XI_Iss_223",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XI, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:223/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XII_Is_1033",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XII, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1033/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XII_Is_760",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XII, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:760/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XII_Is_1476",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XII, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1476/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XII_Is_240",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XII, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:240/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIII_I_1046",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIII, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1046/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIII_I_777",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIII, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:777/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIII_I_1497",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIII, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1497/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIII_I_261",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIII, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:261/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIV_Is_798",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIV, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:798/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIV_Is_1518",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIV, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1518/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIV_Is_282",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIV, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:282/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIX_Is_1164",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIX, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1164/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIX_Is_1619",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIX, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1619/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XIX_Is_421",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XIX, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:421/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XV_Iss_1088",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XV, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1088/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XV_Iss_819",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XV, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:819/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XV_Iss_1539",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XV, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1539/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XV_Iss_303",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XV, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:303/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVI_Is_1105",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVI, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1105/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVI_Is_2083",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVI, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2083/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVI_Is_1556",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVI, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1556/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVII_I_1126",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVII, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1126/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVII_I_861",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVII, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:861/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVII_I_1577",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVII, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1577/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVII_I_362",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVII, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:362/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVIII__1147",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVIII, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1147/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVIII__882",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVIII, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:882/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVIII__1598",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVIII, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1598/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XVIII__383",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XVIII, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:383/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX_Iss_1181",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1181/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX_Iss_514",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:514/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 20
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX_Iss_1636",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1636/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX_Iss_400",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:400/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XX11_I_1670",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XX11, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1670/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXI_Is_1198",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXI, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1198/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXI_Is_531",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXI, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:531/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXI_Is_1653",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXI, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1653/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXI_Is_438",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXI, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:438/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXII_I_1215",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXII, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1215/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXII_I_565",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXII, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:565/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXII_I_455",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXII, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:455/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIII__1232",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIII, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1232/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIII__582",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIII, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:582/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIII__1687",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIII, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1687/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIII__472",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIII, Issue 4",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:472/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIV_I_1312",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIV, Issue 1",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1312/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIV_I_599",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIV, Issue 2",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:599/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIV_I_1704",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIV, Issue 3",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1704/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIX_S_2148",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIX, Summer 2001",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2148/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIX_S_2096",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIX, Summer 2002",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2096/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXIX_W_2273",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXIX, Winter 2002",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2273/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXVI_S_2247",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXVI, Summer 1999",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2247/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXVI_W_2062",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXVI, Winter 1999",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2062/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXVII__2178",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXVII, Summer 2000",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2178/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 16
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXVIII_2010",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXVIII, Winter 2001",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2010/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXX_Su_2109",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXX, Summer 2003",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2109/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXX_Wi_2122",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXX, Winter 2003",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2122/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXI_S_2191",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXI, Summer 2004",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2191/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXI_W_2260",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXI, Winter 2004",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2260/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXII__2135",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXII, Winter 2005",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2135/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXIII_2217",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXIII, Summer 2006",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2217/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXIII_2023",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXIII, Winter 2006",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2023/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXIV__1997",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXIV, Summer 2007",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1997/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXV_W_2161",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXV, Winter 2007",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2161/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "Bulletin_of_the_Institute_for_Antiquity_and_Christianity_Volume_XXXV_W_1984",
+   "title": "Bulletin of the Institute for Antiquity and Christianity, Volume XXXV, Winter 2008",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1984/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 12
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "The_Institute_for_Antiquity_and_Christianity_Bulletin_February_1973_Nu_2359",
+   "title": "The Institute for Antiquity and Christianity Bulletin, February 1973, Number 6",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:2359/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 40
+  },
+  {
+   "library": "Claremont",
+   "collection": "Bulletin_IAC",
+   "shelfmark": "The_Institute_for_Antiquity_and_Christianity_Report_1972_-_80_1948",
+   "title": "The Institute for Antiquity and Christianity Report 1972 - 80",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/bia:1948/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 21
+  }
+ ]
 }

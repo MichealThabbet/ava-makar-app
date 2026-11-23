@@ -1,2598 +1,2817 @@
 {
-"source": "Berlin Papyrus DB — Coptic",
-"manuscripts": [
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00399",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00399_S1_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00647",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00647_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00709",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00709_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_00709_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00710",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00710_S1_F001.jpg",
-"https://berlpap.smb.museum/Original/P_00710_S2_F001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00740",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00740_S1_F001.jpg",
-"https://berlpap.smb.museum/Original/P_00740_S2_F001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00747",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00747_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_00747_S2_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00876",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00876_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_00876_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00907",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00907_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00912",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00912_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_00912_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00923",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00923_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_00971",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_00971_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_01020",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_01020_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_01020_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_01086",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_01086_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_01086_S1_002.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_01774",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_01774_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_01774_S2_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_02514",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_02514_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_02514_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03138",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03138_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03191",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03191_R_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03194",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03194_R_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03210",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03210_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_03210_S2_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03212",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03212_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_03212_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03218",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03218_R_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03222",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03222_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03225",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03225_R_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03242",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03242_R_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_03291",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_03291_R_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_04925",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_04925_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_04925_S1_002.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_04959",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_04959_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_04959_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_04970",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_04970_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_04970_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_04973",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_04973_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_04973_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_04974",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_04974_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05133",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05133_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_05133_S2_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05538",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05538_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_05538_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05540",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05540_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05540_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05541",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05541_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_05541_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05542",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05542_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_05542_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05553",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05553_R_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05562",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05562_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05562_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05568",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05568_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_05568_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05681",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05681_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05681_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05683",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05683_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05683_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05685",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05685_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05685_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05690",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05690_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05690_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05702",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05702_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05702_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05727",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05727_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05727_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05730",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05730_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_05730_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05731",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05731_Rv_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_05731_Rv_V_001.jpg",
-"https://berlpap.smb.museum/Original/P_05732_Rv_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_05732_Rv_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05733",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05733_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_05733_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05734",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05734_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_05734_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05736",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05736_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_05736_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05761",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05761_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_05780",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_05780_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_07644",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_07644_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_07644_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_07818",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_07818_R_A001.jpg",
-"https://berlpap.smb.museum/Original/P_07818_V_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_07999",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_07999_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_07999_S2_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_07999_S3_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08093",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08093_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08093_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08097",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08097_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08097_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08099",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08099_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_08099_S2_A001.jpg",
-"https://berlpap.smb.museum/Original/P_08115_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_08115_S2_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08100",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08100_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08100_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08104",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08104_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08104_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08116",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08116_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08116_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08118",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08118_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08118_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08124",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08124_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_08124_S2_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08125",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08125_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_08125_S2_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08127",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08127_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08127_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08129",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08129_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08129_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08260",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08260_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08260_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08270",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08270_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_08270_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08295",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08295_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08295_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08671",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08671_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08671_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08710",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08710_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08710_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08764",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08764_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08764_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08771",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08771_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08771_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08772",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08772_S1_A001.jpg",
-"https://berlpap.smb.museum/Original/P_08772_S2_A001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08773",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08773_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08773_S2_4_002.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08775",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08775_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08775_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08776",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08776_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08776_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08777",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08777_S1_3_001.jpg",
-"https://berlpap.smb.museum/Original/P_08777_S2_3_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08778",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08778_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08778_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08779",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08779_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_08779_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08780",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08780_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_08780_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_08994",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_08994_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_08994_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09011",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09011_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_09011_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09018",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09018_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09036",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09036_R_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09037",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09037_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09037_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09041",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09041_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09041_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09042",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09042_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09042_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09045",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09045_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09046",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09046_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09052",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09052_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09052_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09053",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09053_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09053_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09054",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09054_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09054_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09057",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09057_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09060",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09060_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09060_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09062",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09062_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09062_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09063",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09063_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09063_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09065",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09065_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_09065_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09071",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09071_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09071_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09096",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09096_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_09096_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09097",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09097_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09097_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09098",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09098_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_09098_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09108",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09108_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_09108_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09533",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09533_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09538",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09538_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_09538_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09539",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09539_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_09539_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09540",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09540_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_09540_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_09963",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_09963_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_09963_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10513",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10513_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_10513_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10514",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10514_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10514_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10515",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10515_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10515_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10582",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10582_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_10582_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10585",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10585_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10585_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10591",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10591_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10591_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10592",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10592_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10592_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10593",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10593_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10593_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10594",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10594_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10594_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10595",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10595_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10595_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10596",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10596_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10596_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_10597",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_10597_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_10597_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11046",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11046_R_3_001.jpg",
-"https://berlpap.smb.museum/Original/P_11046_V_3_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11346",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11346_R_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11347",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11347_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_11347_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11348",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11348_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11737",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11737_V_2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11845",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11845_R_3_001.jpg",
-"https://berlpap.smb.museum/Original/P_11845_V_3_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11914",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11914_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_11914_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11926",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11926_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_11926_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11927",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11927_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_11927_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11933",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11933_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_11933_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11940",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11940_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_11940_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11945",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11945_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_11945_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11947",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11947_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_11947_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11948",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11948_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_11948_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11949",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11949_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_11949_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11951",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11951_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_11951_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11959",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11959_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_11959_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_11966",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_11966_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_11966_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_12361",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_12361_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_12361_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_12488",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_12488_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_12488_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_12494",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_12494_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_12494_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_12509",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_12509_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_12509_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_12723",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_12723_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_13397",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_13397_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_13397_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_13398",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_13398_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_13398_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_13916",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_13916_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_13916_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_14700",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_14700_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_14700_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_14763",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_14763_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_14763_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_14772",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_14772_S1_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15750",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15750_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_15750_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15869",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15869_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_15869_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15870",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15870_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15870_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15871",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15871_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15871_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15872",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15872_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15872_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15873",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15873_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15873_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15880",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15880_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_15880_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15888",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15888_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15898",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15898_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15898_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15903",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15903_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15909",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15909_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15909_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15919",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15919_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15919_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15922",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15922_R_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15929",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15929_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15929_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15930",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15930_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15930_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15935",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15935_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15935_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15936",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15936_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15936_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15937",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15937_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15937_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15938",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15938_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15938_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15961",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15961_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15961_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15968",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15968_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15968_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15969",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15969_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15969_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15970",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15970_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15970_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15971",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15971_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15971_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15972",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15972_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15972_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15973",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15973_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15973_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15974",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15974_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_15974_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15976",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15976_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15976_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15977",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15977_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15977_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15978",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15978_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_15978_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15979",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15979_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_15979_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_15980",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_15980_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_15980_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_18218",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_18218_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_18218_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_18219",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_18219_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_18219_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_18226",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_18226_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_19840",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_19840_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_19840_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20905",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20905_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20906",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20906_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20907",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20907_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20907_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20913",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20913_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20913_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20914",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20914_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20914_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20918",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20918_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20918_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20919",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20919_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20919_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20920",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20920_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20920_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20925",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20925_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20931",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20931_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20931_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20932",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20932_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20933",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20933_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20933_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20934",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20934_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20934_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20939",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20939_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20939_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20942",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20942_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20943",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20943_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20944",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20944_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20959",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20959_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_20959_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20960",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20960_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_20960_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20962",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20962_R_001.jpg",
-"https://berlpap.smb.museum/Original/P_20962_V_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20964",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20964_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20964_S1_4_002.jpg",
-"https://berlpap.smb.museum/Original/P_20964_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20967",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20967_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20969",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20969_S1_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20982",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20982_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_20982_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20983",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20983_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_20983_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20984",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20984_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_20984_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20985",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20985_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_20985_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20987",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20987_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20987_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20988",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20988_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20988_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20989",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20989_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20989_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20990",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20990_S1_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_20990_S2_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_20994",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_20994_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_20994_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_21315",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_21315_S1_001.jpg",
-"https://berlpap.smb.museum/Original/P_21315_S2_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_21324",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_21324_R_3_001.jpg",
-"https://berlpap.smb.museum/Original/P_21324_V_3_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-},
-{
-"library": "Berlin_Papyrus",
-"collection": "Coptic",
-"shelfmark": "P_21808",
-"title": "Record | Berlin Papyrus Database",
-"tier": 1,
-"images": [
-"https://berlpap.smb.museum/Original/P_21808_R_4_001.jpg",
-"https://berlpap.smb.museum/Original/P_21808_V_4_001.jpg"
-],
-"rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use."
-}
-]
+ "source": "Berlin Papyrus DB — Coptic",
+ "manuscripts": [
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00399",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00399_S1_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00647",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00647_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00709",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00709_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_00709_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00710",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00710_S1_F001.jpg",
+    "https://berlpap.smb.museum/Original/P_00710_S2_F001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00740",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00740_S1_F001.jpg",
+    "https://berlpap.smb.museum/Original/P_00740_S2_F001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00747",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00747_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_00747_S2_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00876",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00876_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_00876_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00907",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00907_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00912",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00912_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_00912_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00923",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00923_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_00971",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_00971_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_01020",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_01020_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_01020_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_01086",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_01086_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_01086_S1_002.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_01774",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_01774_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_01774_S2_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_02514",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_02514_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_02514_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03138",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03138_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03191",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03191_R_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03194",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03194_R_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03210",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03210_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_03210_S2_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03212",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03212_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_03212_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03218",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03218_R_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03222",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03222_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03225",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03225_R_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03242",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03242_R_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_03291",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_03291_R_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_04925",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_04925_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_04925_S1_002.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_04959",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_04959_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_04959_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_04970",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_04970_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_04970_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_04973",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_04973_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_04973_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_04974",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_04974_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05133",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05133_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_05133_S2_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05538",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05538_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05538_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05540",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05540_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05540_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05541",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05541_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05541_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05542",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05542_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05542_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05553",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05553_R_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05562",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05562_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05562_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05568",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05568_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05568_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05681",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05681_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05681_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05683",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05683_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05683_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05685",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05685_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05685_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05690",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05690_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05690_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05702",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05702_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05702_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05727",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05727_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05727_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05730",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05730_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05730_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05731",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05731_Rv_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05731_Rv_V_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05732_Rv_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05732_Rv_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 4
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05733",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05733_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05733_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05734",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05734_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05734_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05736",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05736_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_05736_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05761",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05761_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_05780",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_05780_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_07644",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_07644_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_07644_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_07818",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_07818_R_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_07818_V_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_07999",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_07999_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_07999_S2_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_07999_S3_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 3
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08093",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08093_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08093_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08097",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08097_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08097_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08099",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08099_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_08099_S2_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_08115_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_08115_S2_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 4
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08100",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08100_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08100_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08104",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08104_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08104_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08116",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08116_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08116_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08118",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08118_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08118_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08124",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08124_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_08124_S2_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08125",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08125_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_08125_S2_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08127",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08127_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08127_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08129",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08129_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08129_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08260",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08260_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08260_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08270",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08270_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08270_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08295",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08295_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08295_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08671",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08671_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08671_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08710",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08710_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08710_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08764",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08764_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08764_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08771",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08771_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08771_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08772",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08772_S1_A001.jpg",
+    "https://berlpap.smb.museum/Original/P_08772_S2_A001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08773",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08773_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08773_S2_4_002.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08775",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08775_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08775_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08776",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08776_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08776_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08777",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08777_S1_3_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08777_S2_3_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08778",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08778_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08778_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08779",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08779_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08779_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08780",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08780_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08780_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_08994",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_08994_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_08994_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09011",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09011_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09011_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09018",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09018_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09036",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09036_R_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09037",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09037_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09037_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09041",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09041_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09041_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09042",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09042_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09042_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09045",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09045_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09046",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09046_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09052",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09052_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09052_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09053",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09053_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09053_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09054",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09054_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09054_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09057",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09057_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09060",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09060_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09060_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09062",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09062_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09062_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09063",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09063_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09063_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09065",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09065_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09065_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09071",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09071_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09071_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09096",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09096_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09096_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09097",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09097_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09097_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09098",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09098_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09098_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09108",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09108_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09108_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09533",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09533_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09538",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09538_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09538_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09539",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09539_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09539_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09540",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09540_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09540_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_09963",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_09963_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_09963_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10513",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10513_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10513_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10514",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10514_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10514_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10515",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10515_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10515_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10582",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10582_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10582_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10585",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10585_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10585_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10591",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10591_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10591_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10592",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10592_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10592_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10593",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10593_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10593_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10594",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10594_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10594_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10595",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10595_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10595_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10596",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10596_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10596_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_10597",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_10597_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_10597_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11046",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11046_R_3_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11046_V_3_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11346",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11346_R_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11347",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11347_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11347_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11348",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11348_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11737",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11737_V_2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11845",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11845_R_3_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11845_V_3_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11914",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11914_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11914_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11926",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11926_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11926_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11927",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11927_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11927_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11933",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11933_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11933_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11940",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11940_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11940_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11945",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11945_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11945_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11947",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11947_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11947_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11948",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11948_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11948_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11949",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11949_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11949_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11951",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11951_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11951_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11959",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11959_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11959_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_11966",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_11966_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_11966_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_12361",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_12361_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_12361_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_12488",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_12488_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_12488_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_12494",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_12494_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_12494_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_12509",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_12509_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_12509_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_12723",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_12723_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_13397",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_13397_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_13397_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_13398",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_13398_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_13398_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_13916",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_13916_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_13916_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_14700",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_14700_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_14700_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_14763",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_14763_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_14763_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_14772",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_14772_S1_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15750",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15750_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15750_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15869",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15869_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15869_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15870",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15870_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15870_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15871",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15871_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15871_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15872",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15872_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15872_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15873",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15873_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15873_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15880",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15880_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15880_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15888",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15888_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15898",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15898_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15898_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15903",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15903_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15909",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15909_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15909_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15919",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15919_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15919_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15922",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15922_R_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15929",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15929_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15929_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15930",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15930_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15930_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15935",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15935_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15935_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15936",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15936_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15936_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15937",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15937_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15937_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15938",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15938_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15938_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15961",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15961_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15961_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15968",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15968_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15968_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15969",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15969_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15969_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15970",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15970_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15970_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15971",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15971_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15971_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15972",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15972_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15972_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15973",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15973_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15973_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15974",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15974_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15974_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15976",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15976_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15976_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15977",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15977_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15977_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15978",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15978_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15978_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15979",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15979_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15979_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_15980",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_15980_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_15980_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_18218",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_18218_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_18218_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_18219",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_18219_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_18219_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_18226",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_18226_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_19840",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_19840_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_19840_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20905",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20905_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20906",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20906_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20907",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20907_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20907_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20913",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20913_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20913_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20914",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20914_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20914_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20918",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20918_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20918_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20919",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20919_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20919_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20920",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20920_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20920_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20925",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20925_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20931",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20931_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20931_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20932",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20932_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20933",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20933_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20933_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20934",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20934_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20934_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20939",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20939_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20939_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20942",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20942_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20943",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20943_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20944",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20944_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20959",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20959_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20959_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20960",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20960_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20960_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20962",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20962_R_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20962_V_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20964",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20964_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20964_S1_4_002.jpg",
+    "https://berlpap.smb.museum/Original/P_20964_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 3
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20967",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20967_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20969",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20969_S1_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 1
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20982",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20982_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20982_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20983",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20983_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20983_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20984",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20984_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20984_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20985",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20985_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20985_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20987",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20987_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20987_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20988",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20988_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20988_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20989",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20989_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20989_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20990",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20990_S1_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20990_S2_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_20994",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_20994_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_20994_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_21315",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_21315_S1_001.jpg",
+    "https://berlpap.smb.museum/Original/P_21315_S2_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_21324",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_21324_R_3_001.jpg",
+    "https://berlpap.smb.museum/Original/P_21324_V_3_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  },
+  {
+   "library": "Berlin_Papyrus",
+   "collection": "Coptic",
+   "shelfmark": "P_21808",
+   "title": "Record | Berlin Papyrus Database",
+   "tier": 1,
+   "images": [
+    "https://berlpap.smb.museum/Original/P_21808_R_4_001.jpg",
+    "https://berlpap.smb.museum/Original/P_21808_V_4_001.jpg"
+   ],
+   "rights": "Berliner Papyrusdatenbank, Staatliche Museen zu Berlin. Study/archive use.",
+   "pages": 2
+  }
+ ]
 }

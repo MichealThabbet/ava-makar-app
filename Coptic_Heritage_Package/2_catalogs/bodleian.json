@@ -17864,7 +17864,8 @@
    "tier": 2,
    "manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/16225045-db88-4fd0-bb01-59411909f561.json",
    "rights": "Bodleian Libraries, University of Oxford. CC BY-NC 4.0.",
-   "zip": "https://digital.bodleian.ox.ac.uk/derivatives/16225045-db88-4fd0-bb01-59411909f561/full.zip"
+   "zip": "https://digital.bodleian.ox.ac.uk/derivatives/16225045-db88-4fd0-bb01-59411909f561/full.zip",
+   "pages": 434
   }
  ]
 }

@@ -1,1103 +1,1225 @@
 {
-"source": "Claremont ContentDM aot 2026-11-14",
-"manuscripts": [
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Arrowhead_709",
-"title": "Arrowhead",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:709/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Axe_head_681",
-"title": "Axe head",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:681/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_693",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:693/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_699",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:699/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_629",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:629/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_626",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:626/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_638",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:638/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_639",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:639/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_635",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:635/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_634",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:634/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_632",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:632/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_666",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:666/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_625",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:625/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_633",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:633/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bottle_642",
-"title": "Bottle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:642/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_684",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:684/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_704",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:704/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_669",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:669/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_696",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:696/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_648",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:648/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_675",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:675/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_653",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:653/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_656",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:656/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_652",
-"title": "Bowl",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:652/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Bowl_triple_668",
-"title": "Bowl, triple",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:668/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Clay_object_711",
-"title": "Clay object",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:711/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Clay_object_509",
-"title": "Clay object",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:509/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_189",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:189/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_188",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:188/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_156",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:156/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_155",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:155/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_152",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:152/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_150",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:150/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_147",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:147/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_146",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:146/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_145",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:145/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_191",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:191/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_187",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:187/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_180",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:180/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_177",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:177/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_190",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:190/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_176",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:176/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_175",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:175/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_174",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:174/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_173",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:173/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_172",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:172/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_171",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:171/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_170",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:170/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_169",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:169/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_168",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:168/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_167",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:167/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_166",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:166/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_165",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:165/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_164",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:164/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_163",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:163/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_162",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:162/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_161",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:161/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_160",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:160/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_159",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:159/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_158",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:158/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_157",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:157/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Coin_151",
-"title": "Coin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:151/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Cook_pot_665",
-"title": "Cook pot",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:665/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Decanter_702",
-"title": "Decanter",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:702/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Dipper_682",
-"title": "Dipper",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:682/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jar_631",
-"title": "Jar",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:631/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jar_688",
-"title": "Jar",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:688/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jar_pyxis_with_lid_678",
-"title": "Jar, pyxis with lid",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:678/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jar_pyxis_with_lid_663",
-"title": "Jar, pyxis with lid",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:663/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_673",
-"title": "Jug",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:673/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_654",
-"title": "Jug",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:654/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_657",
-"title": "Jug",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:657/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_708",
-"title": "Jug",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:708/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_670",
-"title": "Jug",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:670/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_690",
-"title": "Jug",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:690/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_beaked_697",
-"title": "Jug, beaked",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:697/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_beaked_686",
-"title": "Jug, beaked",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:686/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Jug_spouted_659",
-"title": "Jug, spouted",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:659/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_662",
-"title": "Juglet",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:662/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_674",
-"title": "Juglet",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:674/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_685",
-"title": "Juglet",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:685/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_641",
-"title": "Juglet",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:641/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_651",
-"title": "Juglet",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:651/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_649",
-"title": "Juglet",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:649/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_beaked_701",
-"title": "Juglet, beaked",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:701/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_beaked_677",
-"title": "Juglet, beaked",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:677/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_dipper_707",
-"title": "Juglet, dipper",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:707/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_dipper_647",
-"title": "Juglet, dipper",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:647/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Juglet_dipper_689",
-"title": "Juglet, dipper",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:689/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Krater_655",
-"title": "Krater",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:655/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_658",
-"title": "Lamp",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:658/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_692",
-"title": "Lamp",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:692/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_695",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:695/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_637",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:637/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_636",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:636/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_703",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:703/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_645",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:645/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_664",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:664/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_672",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:672/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_622",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:622/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_680",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:680/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_627",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:627/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_621",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:621/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Lamp_molded_687",
-"title": "Lamp, molded",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:687/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Nail_or_pin_679",
-"title": "Nail or pin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:679/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Nail_or_pin_694",
-"title": "Nail or pin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:694/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Nail_or_pin_700",
-"title": "Nail or pin",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:700/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Needle_671",
-"title": "Needle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:671/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Needle_705",
-"title": "Needle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:705/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Needle_706",
-"title": "Needle",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:706/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Pitcher_710",
-"title": "Pitcher",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:710/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Rhyton_661",
-"title": "Rhyton",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:661/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Spearhead_650",
-"title": "Spearhead",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:650/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Stirring_rod_623",
-"title": "Stirring rod",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:623/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Tweezers_660",
-"title": "Tweezers",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:660/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Vase_640",
-"title": "Vase",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:640/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Vial_unguentarium_613",
-"title": "Vial, unguentarium",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:613/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Vial_unguentarium_630",
-"title": "Vial, unguentarium",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:630/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Vial_unguentarium_628",
-"title": "Vial, unguentarium",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:628/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Vial_unguentarium_624",
-"title": "Vial, unguentarium",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:624/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Vial_unguentarium_643",
-"title": "Vial, unguentarium",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:643/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-},
-{
-"library": "Claremont",
-"collection": "Antiquities_IAC",
-"shelfmark": "Vial_unguentarium_644",
-"title": "Vial, unguentarium",
-"tier": 1,
-"manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:644/manifest.json",
-"rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms."
-}
-]
+ "source": "Claremont ContentDM aot 2026-11-14",
+ "manuscripts": [
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Arrowhead_709",
+   "title": "Arrowhead",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:709/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Axe_head_681",
+   "title": "Axe head",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:681/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_693",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:693/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_699",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:699/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_629",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:629/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_626",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:626/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_638",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:638/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_639",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:639/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_635",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:635/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_634",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:634/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_632",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:632/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_666",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:666/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_625",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:625/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_633",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:633/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bottle_642",
+   "title": "Bottle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:642/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_684",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:684/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_704",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:704/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_669",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:669/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_696",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:696/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 3
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_648",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:648/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_675",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:675/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_653",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:653/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_656",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:656/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_652",
+   "title": "Bowl",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:652/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Bowl_triple_668",
+   "title": "Bowl, triple",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:668/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Clay_object_711",
+   "title": "Clay object",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:711/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Clay_object_509",
+   "title": "Clay object",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:509/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_189",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:189/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_188",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:188/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_156",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:156/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_155",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:155/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_152",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:152/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_150",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:150/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_147",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:147/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_146",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:146/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_145",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:145/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_191",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:191/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_187",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:187/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_180",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:180/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_177",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:177/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_190",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:190/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_176",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:176/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_175",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:175/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_174",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:174/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_173",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:173/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_172",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:172/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_171",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:171/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_170",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:170/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_169",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:169/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_168",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:168/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_167",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:167/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_166",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:166/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_165",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:165/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_164",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:164/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_163",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:163/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_162",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:162/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_161",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:161/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_160",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:160/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_159",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:159/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_158",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:158/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_157",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:157/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Coin_151",
+   "title": "Coin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:151/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Cook_pot_665",
+   "title": "Cook pot",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:665/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Decanter_702",
+   "title": "Decanter",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:702/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Dipper_682",
+   "title": "Dipper",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:682/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jar_631",
+   "title": "Jar",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:631/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jar_688",
+   "title": "Jar",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:688/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jar_pyxis_with_lid_678",
+   "title": "Jar, pyxis with lid",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:678/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jar_pyxis_with_lid_663",
+   "title": "Jar, pyxis with lid",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:663/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 3
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_673",
+   "title": "Jug",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:673/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_654",
+   "title": "Jug",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:654/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_657",
+   "title": "Jug",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:657/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_708",
+   "title": "Jug",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:708/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_670",
+   "title": "Jug",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:670/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_690",
+   "title": "Jug",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:690/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_beaked_697",
+   "title": "Jug, beaked",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:697/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_beaked_686",
+   "title": "Jug, beaked",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:686/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Jug_spouted_659",
+   "title": "Jug, spouted",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:659/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_662",
+   "title": "Juglet",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:662/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_674",
+   "title": "Juglet",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:674/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_685",
+   "title": "Juglet",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:685/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_641",
+   "title": "Juglet",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:641/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_651",
+   "title": "Juglet",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:651/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_649",
+   "title": "Juglet",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:649/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_beaked_701",
+   "title": "Juglet, beaked",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:701/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_beaked_677",
+   "title": "Juglet, beaked",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:677/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_dipper_707",
+   "title": "Juglet, dipper",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:707/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_dipper_647",
+   "title": "Juglet, dipper",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:647/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Juglet_dipper_689",
+   "title": "Juglet, dipper",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:689/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Krater_655",
+   "title": "Krater",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:655/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_658",
+   "title": "Lamp",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:658/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_692",
+   "title": "Lamp",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:692/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_695",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:695/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_637",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:637/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_636",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:636/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_703",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:703/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_645",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:645/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 7
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_664",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:664/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_672",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:672/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_622",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:622/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 7
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_680",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:680/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_627",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:627/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_621",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:621/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Lamp_molded_687",
+   "title": "Lamp, molded",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:687/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 6
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Nail_or_pin_679",
+   "title": "Nail or pin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:679/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Nail_or_pin_694",
+   "title": "Nail or pin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:694/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Nail_or_pin_700",
+   "title": "Nail or pin",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:700/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Needle_671",
+   "title": "Needle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:671/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Needle_705",
+   "title": "Needle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:705/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Needle_706",
+   "title": "Needle",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:706/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Pitcher_710",
+   "title": "Pitcher",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:710/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Rhyton_661",
+   "title": "Rhyton",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:661/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Spearhead_650",
+   "title": "Spearhead",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:650/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Stirring_rod_623",
+   "title": "Stirring rod",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:623/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 2
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Tweezers_660",
+   "title": "Tweezers",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:660/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Vase_640",
+   "title": "Vase",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:640/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Vial_unguentarium_613",
+   "title": "Vial, unguentarium",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:613/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Vial_unguentarium_630",
+   "title": "Vial, unguentarium",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:630/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 4
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Vial_unguentarium_628",
+   "title": "Vial, unguentarium",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:628/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Vial_unguentarium_624",
+   "title": "Vial, unguentarium",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:624/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Vial_unguentarium_643",
+   "title": "Vial, unguentarium",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:643/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  },
+  {
+   "library": "Claremont",
+   "collection": "Antiquities_IAC",
+   "shelfmark": "Vial_unguentarium_644",
+   "title": "Vial, unguentarium",
+   "tier": 1,
+   "manifest": "https://cdm15831.contentdm.oclc.org/iiif/aot:644/manifest.json",
+   "rights": "The Claremont Colleges Library, Institute for Antiquity and Christianity. Study/archive use; verify reuse terms.",
+   "pages": 5
+  }
+ ]
 }

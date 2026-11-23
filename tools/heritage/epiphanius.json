@@ -1,27 +1,29 @@
 {
-"source": "Monastery of Epiphanius (archive.org)",
-"manuscripts": [
-{
-"library": "archive_org",
-"collection": "Coptic_monasticism",
-"shelfmark": "Monastery_of_Epiphanius_vol1",
-"title": "The Monastery of Epiphanius at Thebes (vol1, Winlock & Crum 1926)",
-"tier": 1,
-"file_url": "https://archive.org/download/monasteryofepiph01winl/monasteryofepiph01winl.pdf",
-"file_name": "monasteryofepiph01winl.pdf",
-"size": 34892901,
-"rights": "Public domain (1926). archive.org."
-},
-{
-"library": "archive_org",
-"collection": "Coptic_monasticism",
-"shelfmark": "Monastery_of_Epiphanius_vol2",
-"title": "The Monastery of Epiphanius at Thebes (vol2, Winlock & Crum 1926)",
-"tier": 1,
-"file_url": "https://archive.org/download/monasteryofepiph02winl/monasteryofepiph02winl.pdf",
-"file_name": "monasteryofepiph02winl.pdf",
-"size": 34191651,
-"rights": "Public domain (1926). archive.org."
-}
-]
+ "source": "Monastery of Epiphanius (archive.org)",
+ "manuscripts": [
+  {
+   "library": "archive_org",
+   "collection": "Coptic_monasticism",
+   "shelfmark": "Monastery_of_Epiphanius_vol1",
+   "title": "The Monastery of Epiphanius at Thebes (vol1, Winlock & Crum 1926)",
+   "tier": 1,
+   "file_url": "https://archive.org/download/monasteryofepiph01winl/monasteryofepiph01winl.pdf",
+   "file_name": "monasteryofepiph01winl.pdf",
+   "size": 34892901,
+   "rights": "Public domain (1926). archive.org.",
+   "pages": 458
+  },
+  {
+   "library": "archive_org",
+   "collection": "Coptic_monasticism",
+   "shelfmark": "Monastery_of_Epiphanius_vol2",
+   "title": "The Monastery of Epiphanius at Thebes (vol2, Winlock & Crum 1926)",
+   "tier": 1,
+   "file_url": "https://archive.org/download/monasteryofepiph02winl/monasteryofepiph02winl.pdf",
+   "file_name": "monasteryofepiph02winl.pdf",
+   "size": 34191651,
+   "rights": "Public domain (1926). archive.org.",
+   "pages": 484
+  }
+ ]
 }
