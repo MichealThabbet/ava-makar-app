@@ -36515,9 +36515,9 @@
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.1043",
-   "title": "(title not in harvest catalog)",
+   "title": "Apocalypse",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36528,15 +36528,21 @@
     "https://ica.themorgan.org/zoom/images/1/m1043.002r.zif",
     "https://ica.themorgan.org/zoom/images/1/m1043.002v.zif"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.1043.1-2"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.1043.1-2",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/145136"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.1069",
-   "title": "(title not in harvest catalog)",
+   "title": "Isaiah and Resurrected Christ",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36545,15 +36551,21 @@
     "https://ica.themorgan.org/icaimages/1/m1069.001.jpg",
     "https://ica.themorgan.org/icaimages/1/m1069.002.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.1069.1-2"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.1069.1-2",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/77482"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.1071",
-   "title": "(title not in harvest catalog)",
+   "title": "Apocalypse",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36564,9 +36576,15 @@
     "https://ica.themorgan.org/zoom/images/1/m1071.002r.zif",
     "https://ica.themorgan.org/zoom/images/1/m1071.002v.zif"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.1071.1-2"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.1071.1-2",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/76822"
   },
   {
    "library": "Morgan",
@@ -36673,9 +36691,9 @@
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.1145",
-   "title": "(title not in harvest catalog)",
+   "title": "Crucifixion; Last Judgment",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36684,15 +36702,21 @@
     "https://ica.themorgan.org/icaimages/1/m1145.1.001r.jpg",
     "https://ica.themorgan.org/icaimages/1/m1145.2.001r.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.1145.1-2"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.1145.1-2",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/276504"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.207",
-   "title": "(title not in harvest catalog)",
+   "title": "Roman du Saint Graal / Merlin",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36714,15 +36738,21 @@
     "https://ica.themorgan.org/icaimages/2/m207.145v.jpg",
     "https://ica.themorgan.org/icaimages/2/m207.153r.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.207-208"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.207-208",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/77100"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.208",
-   "title": "(title not in harvest catalog)",
+   "title": "Roman du Saint Graal / Merlin",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36746,9 +36776,15 @@
     "https://ica.themorgan.org/icaimages/2/m208.331v.jpg",
     "https://ica.themorgan.org/icaimages/2/m208.343v.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.207-208"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.207-208",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/77100"
   },
   {
    "library": "Morgan",
@@ -36905,9 +36941,9 @@
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.558",
-   "title": "(title not in harvest catalog)",
+   "title": "Psalter / Initial H with the Adoration of the Magi, cutting from a 15th-century Italian choir book / Initial with the three persons of the Trinity, cutting from a 15th century Italian choir book / Initial C with a three-headed Trinity, cutting from a 15th century Italian choir book",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36919,15 +36955,25 @@
     "https://ica.themorgan.org/icaimages/5/m558.4.jpg",
     "https://ica.themorgan.org/icaimages/5/m558.5.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "italian, latin",
+    "catalog_shelfmarks": [
+     "MS M.558.1",
+     "MS M.558.2",
+     "MS M.558.3",
+     "MS M.558.4",
+     "MS M.558.5"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.558.1, MS M.558.2, MS M.558.3, MS M.558.4, MS M.558.5",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/108916"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.654",
-   "title": "(title not in harvest catalog)",
+   "title": "Gospel lectionary single leaves",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36938,9 +36984,15 @@
     "https://ica.themorgan.org/icaimages/6/m654.3.jpg",
     "https://ica.themorgan.org/icaimages/6/m654.4.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.654.1-4"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.654.1-4",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/119034"
   },
   {
    "library": "Morgan",
@@ -37127,9 +37179,9 @@
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.789",
-   "title": "(title not in harvest catalog)",
+   "title": "Gospel Book",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -37142,15 +37194,21 @@
     "https://ica.themorgan.org/icaimages/7/m789.003r.jpg",
     "https://ica.themorgan.org/icaimages/7/m789.003v.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.789.1-3"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.789.1-3",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/144691"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.870",
-   "title": "(title not in harvest catalog)",
+   "title": "Antiphonary",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -37160,15 +37218,21 @@
     "https://ica.themorgan.org/icaimages/8/m870.2.jpg",
     "https://ica.themorgan.org/icaimages/8/m870.3.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.870.1-3"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.870.1-3",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/159307"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "matched by shelfmark",
    "shelfmark": "MS M.884",
-   "title": "(title not in harvest catalog)",
+   "title": "Missal",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -37177,9 +37241,15 @@
     "https://ica.themorgan.org/icaimages/8/m884.1.jpg",
     "https://ica.themorgan.org/icaimages/8/m884.2.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "Language": "latin",
+    "catalog_shelfmarks": [
+     "MS M.884.2"
+    ]
+   },
+   "note": "images from owner lists; catalog shelfmark MS M.884.2",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/159499"
   }
  ]
 }
