@@ -52,6 +52,33 @@ def fetch(url, tries=5, timeout=90):
     raise last
 
 
+_ZIF_WARNED = False
+
+
+def zif_to_jpg(zif_path, jpg_path, quality=95):
+    """A .zif (Zoomify single file) is a tiled BigTIFF pyramid; level 0 is the full resolution.
+    Needs:  pip install tifffile imagecodecs pillow
+    Returns True when the JPEG was written; otherwise keeps the .zif and returns False."""
+    global _ZIF_WARNED
+    try:
+        import tifffile
+        from PIL import Image
+    except ImportError:
+        if not _ZIF_WARNED:
+            print("\n   ! .zif kept as is. To get full-resolution JPEGs run:  pip install tifffile imagecodecs pillow")
+            _ZIF_WARNED = True
+        return False
+    try:
+        with tifffile.TiffFile(zif_path) as t:
+            arr = t.pages[0].asarray()
+        Image.fromarray(arr).save(jpg_path + ".part", "JPEG", quality=quality)
+        os.replace(jpg_path + ".part", jpg_path)
+        return True
+    except Exception as e:
+        print(f"\n   ! could not convert {os.path.basename(zif_path)}: {e} (kept .zif)")
+        return False
+
+
 def canvases(manifest):
     """Yield (label, image-service-or-url) for IIIF Presentation 2 and 3."""
     if "sequences" in manifest:  # v2
@@ -236,17 +263,24 @@ def download_one(item, out, width, pause, make_pdf):
             f.write(f"pages: {len(urls)}\n")
         done = 0
         for n, u in enumerate(urls, 1):
-            ext = os.path.splitext(u)[1] or ".jpg"
+            ext = os.path.splitext(u.split("?")[0])[1].lower() or ".jpg"
             dest = os.path.join(folder, f"{n:04d}{ext}")
-            if os.path.exists(dest) and os.path.getsize(dest) > 500:
+            jpg_from_zif = os.path.join(folder, f"{n:04d}.jpg") if ext == ".zif" else None
+            if jpg_from_zif and os.path.exists(jpg_from_zif) and os.path.getsize(jpg_from_zif) > 500:
                 done += 1; continue
-            try:
-                data = fetch(u, timeout=300)
-            except Exception as e:
-                print(f"   ! image {n} failed: {e}"); continue
-            with open(dest + ".part", "wb") as f:
-                f.write(data)
-            os.replace(dest + ".part", dest)
+            if os.path.exists(dest) and os.path.getsize(dest) > 500 and not jpg_from_zif:
+                done += 1; continue
+            if not (os.path.exists(dest) and os.path.getsize(dest) > 500):
+                try:
+                    data = fetch(u, timeout=300)
+                except Exception as e:
+                    print(f"   ! image {n} failed: {e}"); continue
+                with open(dest + ".part", "wb") as f:
+                    f.write(data)
+                os.replace(dest + ".part", dest)
+            if jpg_from_zif:   # Zoomify single file (e.g. Morgan): keep the full-resolution level as JPEG
+                if zif_to_jpg(dest, jpg_from_zif):
+                    os.remove(dest)
             done += 1
             print(f"\r   {sm}: {done}/{len(urls)} images", end="", flush=True)
             time.sleep(pause)

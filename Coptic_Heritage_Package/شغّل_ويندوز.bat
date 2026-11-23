@@ -3,10 +3,10 @@ chcp 65001 >nul
 set PYTHONUTF8=1
 set BASE=%~dp0
 echo ============================================================
-echo    تحميل التراث القبطي  -  دير أنبا مقار   (33 مكتبة + قسم كتب - 985 سيناء + الكنز)
+echo    تحميل التراث القبطي  -  دير أنبا مقار   (41 فهرس - ييل ومورجان والفاتيكان وبودليان كاملين)
 echo ============================================================
 python --version >nul 2>&1 || (echo Python غير مثبت: نزله من python.org وعلم Add to PATH ثم اعد التشغيل & pause & exit /b)
-python -m pip install -q truststore pillow 2>nul
+python -m pip install -q truststore pillow tifffile imagecodecs 2>nul
 echo.
 set /p DRIVE=اكتب حرف الهارد الخارجي (مثلا E) ثم Enter:
 echo.
@@ -16,6 +16,8 @@ echo   7=بودليان 8=الاناجيل 9=ولكوم 10=مانشستر 11=ب�
 echo   14=برينستون 15=تشستر بيتي 16=الموسوعة القبطية 17=نجع حمادي 18=اثار المعهد
 echo   19=نشرة المعهد 20=دارتموث 21=OPenn 22=بنسلفانيا رقمي 23=الامريكية بالقاهرة
 echo   24=المتروبوليتان 25=النمسا 26=حفائر الخارجة 27=دير ابيفانيوس 28=كامبريدج 29=ديوك 30=برلين 31=كتب مطبوعة 32=BnF مسيحي 33=سيناء(985)
+echo   34=الفاتيكان الباقي(26778) 35=بودليان الكامل(5684) 36=مانشستر الجديد(159) 37=ييل القبطي(1031) 38=مورجان المسيحي(649)
+echo   39=لورنتسيانا(818) 40=Fragmentarium 41=اوترخت 42=BnF مختارات
 echo.
 echo   5  = الكبار معا        99 = حمل كل المكتبات (كل الكنز)
 echo.
@@ -51,6 +53,17 @@ if "%LIB%"=="28" set CAT=cambridge_coptic.json
 if "%LIB%"=="29" set CAT=duke_coptic.json
 if "%LIB%"=="30" set CAT=berlin_coptic.json
 if "%LIB%"=="31" set CAT=coptic_printed_books.json
+if "%LIB%"=="32" set CAT=bnf_christian.json
+if "%LIB%"=="33" set CAT=sinai_ucla.json
+if "%LIB%"=="34" set CAT=vatican_rest.json
+if "%LIB%"=="35" set CAT=bodleian_rest.json
+if "%LIB%"=="36" set CAT=manchester_rest.json
+if "%LIB%"=="37" set CAT=yale_coptic.json
+if "%LIB%"=="38" set CAT=morgan_christian.json
+if "%LIB%"=="39" set CAT=laurenziana.json
+if "%LIB%"=="40" set CAT=fragmentarium.json
+if "%LIB%"=="41" set CAT=utrecht.json
+if "%LIB%"=="42" set CAT=gallica_owner_picks.json
 if "%LIB%"=="5"  set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
 if "%LIB%"=="99" set CAT=ALL
 
