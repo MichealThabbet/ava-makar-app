@@ -36791,9 +36791,9 @@
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.209",
    "shelfmark": "MS M.210",
-   "title": "(title not in harvest catalog)",
+   "title": "Breviary",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36808,15 +36808,19 @@
     "https://ica.themorgan.org/icaimages/2/m210.246r.jpg",
     "https://ica.themorgan.org/icaimages/2/m210.249r.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "77301",
+    "catalog_record": "MS M.209"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.209",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/77301"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.322",
    "shelfmark": "MS M.323",
-   "title": "(title not in harvest catalog)",
+   "title": "Bible historiale",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36866,15 +36870,19 @@
     "https://ica.themorgan.org/icaimages/3/m323.281v.jpg",
     "https://ica.themorgan.org/icaimages/3/m323.282r.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "77227",
+    "catalog_record": "MS M.322"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.322",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/77227"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.391",
    "shelfmark": "MS M.392",
-   "title": "(title not in harvest catalog)",
+   "title": "Bible",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36897,15 +36905,19 @@
     "https://ica.themorgan.org/icaimages/3/m392.286v.jpg",
     "https://ica.themorgan.org/icaimages/3/m392.300v.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "112321",
+    "catalog_record": "MS M.391"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.391",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/112321"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.391",
    "shelfmark": "MS M.393",
-   "title": "(title not in harvest catalog)",
+   "title": "Bible",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36919,15 +36931,19 @@
     "https://ica.themorgan.org/icaimages/3/m393.392v.jpg",
     "https://ica.themorgan.org/icaimages/3/m393.397v.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "112321",
+    "catalog_record": "MS M.391"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.391",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/112321"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.464",
    "shelfmark": "MS M.465",
-   "title": "(title not in harvest catalog)",
+   "title": "Bible",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -36938,9 +36954,13 @@
     "https://ica.themorgan.org/icaimages/4/m465.003v.jpg",
     "https://ica.themorgan.org/icaimages/4/m465.004r.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "144004",
+    "catalog_record": "MS M.464"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.464",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/144004"
   },
   {
    "library": "Morgan",
@@ -36999,9 +37019,9 @@
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.672",
    "shelfmark": "MS M.673",
-   "title": "(title not in harvest catalog)",
+   "title": "Golden legend (M.672-675, vol. II)",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -37044,15 +37064,19 @@
     "https://ica.themorgan.org/icaimages/6/m673.258v.jpg",
     "https://ica.themorgan.org/icaimages/6/m673.265v.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "135969",
+    "catalog_record": "MS M.672"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.672",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/135969"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.672",
    "shelfmark": "MS M.674",
-   "title": "(title not in harvest catalog)",
+   "title": "Golden legend (M.672-675)",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -37099,15 +37123,19 @@
     "https://ica.themorgan.org/icaimages/6/m674.396r.jpg",
     "https://ica.themorgan.org/icaimages/6/m674.398r.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "135969",
+    "catalog_record": "MS M.672"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.672",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/135969"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.672",
    "shelfmark": "MS M.675",
-   "title": "(title not in harvest catalog)",
+   "title": "Golden legend (M.672-675, vol. IV)",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -37150,15 +37178,19 @@
     "https://ica.themorgan.org/icaimages/6/m675.145r.jpg",
     "https://ica.themorgan.org/icaimages/6/m675.146v.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "135969",
+    "catalog_record": "MS M.672"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.672",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/135969"
   },
   {
    "library": "Morgan",
-   "collection": "not in harvest catalog",
+   "collection": "catalogued under MS M.719",
    "shelfmark": "MS M.720",
-   "title": "(title not in harvest catalog)",
+   "title": "New Testament illustrations",
    "tier": 2,
    "order": 0,
    "priority": 0,
@@ -37176,9 +37208,13 @@
     "https://ica.themorgan.org/icaimages/7/m720.005v.jpg",
     "https://ica.themorgan.org/icaimages/7/m720.006r.jpg"
    ],
-   "meta": {},
-   "note": "in owner christian image lists, missing from catalog table",
-   "rights": "The Morgan Library & Museum — research use"
+   "meta": {
+    "bib_id": "130700",
+    "catalog_record": "MS M.719"
+   },
+   "note": "in owner christian image lists, missing from catalog table | title from owner full inventory (morgan_all_leaves.csv): leaves listed under MS M.719",
+   "rights": "The Morgan Library & Museum — research use",
+   "viewer": "https://ica.themorgan.org/manuscript/130700"
   },
   {
    "library": "Morgan",
