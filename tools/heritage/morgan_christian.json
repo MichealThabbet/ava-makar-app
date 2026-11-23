@@ -5337,8 +5337,9 @@
    "tier": 2,
    "order": 0,
    "priority": 0,
-   "pages": 1,
+   "pages": 2,
    "images": [
+    "https://host.themorgan.org/zoom/images/manuscripts/186978v-0001.zif",
     "https://ica.themorgan.org/zoom/images/1/186978v_0001.zif"
    ],
    "viewer": "https://ica.themorgan.org/manuscript/186978",
@@ -5346,7 +5347,7 @@
     "Language": "latin",
     "bib_id": "186978"
    },
-   "note": "image quality: zif (full resolution); harvested by owner (Morgan robots allows visitors; Anthropic crawlers barred — download on owner PC)",
+   "note": "image quality: zif (full resolution); harvested by owner (Morgan robots allows visitors; Anthropic crawlers barred — download on owner PC) | + 1 full-resolution zif (186978v-0001) identified from owner probe",
    "rights": "The Morgan Library & Museum — research use"
   },
   {
