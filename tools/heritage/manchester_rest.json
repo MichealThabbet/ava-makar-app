@@ -2451,23 +2451,6 @@
   },
   {
    "library": "John Rylands (Manchester)",
-   "collection": "MS-ARABIC",
-   "shelfmark": "MS-ARABIC-00232",
-   "title": "Nūr al-anwār fī sharḥ al-manār",
-   "date": "1224 AH (1809 CE)",
-   "tier": 2,
-   "order": 0,
-   "priority": 0,
-   "pages": 436,
-   "manifest": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-ARABIC-00232",
-   "meta": {
-    "Language": "Arabic"
-   },
-   "note": "not content-filtered; sort after download",
-   "rights": "University of Manchester, check terms per item"
-  },
-  {
-   "library": "John Rylands (Manchester)",
    "collection": "PR-INCU",
    "shelfmark": "PR-INCU-15019-00002",
    "title": "Ackermann aus Böhmen (Death and the ploughman)",
