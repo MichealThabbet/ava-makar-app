@@ -18,6 +18,7 @@ echo   19=نشرة المعهد 20=دارتموث 21=OPenn 22=بنسلفانيا
 echo   24=المتروبوليتان 25=النمسا 26=حفائر الخارجة 27=دير ابيفانيوس 28=كامبريدج 29=ديوك 30=برلين 31=كتب مطبوعة 32=BnF مسيحي 33=سيناء(985)
 echo   34=الفاتيكان الباقي(26778) 35=بودليان الكامل(5684) 36=مانشستر الجديد(159) 37=ييل القبطي(1031) 38=مورجان المسيحي(649)
 echo   39=لورنتسيانا(818) 40=Fragmentarium 41=اوترخت 42=BnF مختارات 43=الحامولي القبطي كامل-Hyvernat(48)
+echo   44=الدير الابيض-مخطوطات(195) 45=الدير الابيض-فهارس ونشرات مطبوعة(25)
 echo.
 echo   5  = الكبار معا        99 = حمل كل المكتبات (كل الكنز)
 echo.
@@ -65,6 +66,8 @@ if "%LIB%"=="40" set CAT=fragmentarium.json
 if "%LIB%"=="41" set CAT=utrecht.json
 if "%LIB%"=="42" set CAT=gallica_owner_picks.json
 if "%LIB%"=="43" set CAT=morgan_hyvernat_coptic.json
+if "%LIB%"=="44" set CAT=white_monastery_mss.json
+if "%LIB%"=="45" set CAT=white_monastery_books.json
 if "%LIB%"=="5"  set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
 if "%LIB%"=="99" set CAT=ALL
 
