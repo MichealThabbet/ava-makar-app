@@ -70,3 +70,9 @@
 ## هوستات محتاجة إضافة للبيئة
 
 cmcl.it، www.cmcl.it، alinsuciu.com، www.bnnonline.it، www.internetculturale.it، collections.louvre.fr، www.numistral.fr، nlr.ru، data.rijksmuseum.nl، apps.lib.umich.edu، dn790008.ca.archive.org (وغيره من سيرفرات ملفات archive).
+
+## CMCL (2026-11-24، بعد ما الهوست اتضاف)
+
+- **قاعدة بيانات CMCL:** للمشتركين بس (دخول بـIP أو بكلمة سر). علشان كده العدد الحقيقي لمخطوطات الدير في كل مكتبة لسه ماطلعش منها.
+- **النشرات المجانية:** اتضاف منها 14 PDF لاختيار 45، والمجموع بقى 39. اتنين تانيين (cc0397a، cirapoc_0107) بيرجعوا 404.
+- **ملاحظة:** www.cmcl.it شغال، لكن cmcl.it من غير www بيرجع 000.

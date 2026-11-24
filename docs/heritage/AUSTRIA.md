@@ -141,3 +141,16 @@
 | مكتبات برّه (MDZ ميونخ 32، Bodleian 19، Heidelberg 16، nbn 14، UCLA 4، WLB 3، UPenn 2، KHM 1، Yale 1) | 92 | |
 
 هوستات للإضافة: resolver.obvsg.at، permalink.obvsg.at، digi.landesbibliothek.at، www.scriptoria.at، www.manuscriptorium.com، kulturpool.at، landesarchiv.ktn.gv.at، sammlungenonline.albertina.at، 217.116.179.6 (Rein). الـONB لازم من جهاز المالك.
+
+## اختبار الهوستات بعد ما المالك ضافهم (2026-11-24)
+
+| الهوست | النتيجة |
+|--|--|
+| www.scriptoria.at | شغال. ملف PDF هايليجنكرويتس بيرجع application/pdf، يعني اختيار 47 جاهز لـ144 مخطوطة |
+| resolver.obvsg.at | شغال، لكنه بيحوّل على unipub.uni-graz.at (جراتس) وdiglib.uibk.ac.at (إنسبروك) |
+| unipub.uni-graz.at | السيرفر بيقطع الاتصال (000) مع إنه في الهوستات المسموحة. يتجرب من جهاز المالك |
+| diglib.uibk.ac.at | لسه مش مضاف (الموجود digi.ub.uibk.ac.at، وده هوست تاني) |
+| permalink.obvsg.at (ONB) | بيحوّل على كتالوج Primo. الـONB لسه محتاج جهاز المالك |
+| kulturpool.at، sammlungenonline.albertina.at | الموقع بيفتح (200). لسه ماتسحبوش |
+| digi.landesbibliothek.at، www.manuscriptorium.com، landesarchiv.ktn.gv.at | 000: السيرفر رافض أو واقع |
+| 217.116.179.6 (Rein) | 403. مايتضافش لأنه رقم IP |
