@@ -130,6 +130,19 @@
    "manifest": "https://quod.lib.umich.edu/cgi/i/image/api/manifest/sclshenute:HD-299-300-01-02",
    "note": "White Monastery (Sohag) leaves, ca. 700-900; public domain per UM. IDs found via web search (10 of ~40 images); site blocks Anthropic crawler + Cloudflare — download from owner PC",
    "rights": "Public domain (University of Michigan Library, Special Collections)"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Shenute, a White Monastery Codex (Mich. Ms. 158)",
+   "shelfmark": "White Monastery YZ-279-280-03-04",
+   "title": "Shenoute of Atripe — YZ 279/280 (US-MU 158.16a) — Canon 9 «God who alone is true»",
+   "tier": 1,
+   "order": 0,
+   "priority": 2,
+   "pages": 0,
+   "manifest": "https://quod.lib.umich.edu/cgi/i/image/api/manifest/sclshenute:YZ-279-280-03-04",
+   "note": "White Monastery (Sohag) leaves, ca. 700-900; public domain per UM. IDs found via web search (10 of ~40 images); site blocks Anthropic crawler + Cloudflare — download from owner PC",
+   "rights": "Public domain (University of Michigan Library, Special Collections)"
   }
  ]
 }
