@@ -1,0 +1,93 @@
+{
+ "source": "Met Museum Christian manuscripts/leaves found via archive.org mirror (Met search API 410), verified on Met object API, not in met_coptic.json; incl. 3 Coptic codices from Dayr al-Suryan (447105-7, Islamic Art dept). 2026-11-24",
+ "manuscripts": [
+  {
+   "library": "Met_Museum",
+   "collection": "Medieval_Art",
+   "shelfmark": "Met_32830",
+   "title": "Initial P with the Martyrdom of Saint Peter Martyr (Manuscript cutting from a Dominican antiphonary, second half 13th century, Italian)",
+   "tier": 2,
+   "met_id": 32830,
+   "pages": 2,
+   "viewer": "https://www.metmuseum.org/art/collection/search/32830",
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art."
+  },
+  {
+   "library": "Met_Museum",
+   "collection": "Medieval_Art",
+   "shelfmark": "Met_32831",
+   "title": "Initial S with Saint Peter Liberated from Prison (Manuscript cutting from an antiphonary, first half 14th century, Italian)",
+   "tier": 2,
+   "met_id": 32831,
+   "pages": 2,
+   "viewer": "https://www.metmuseum.org/art/collection/search/32831",
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art."
+  },
+  {
+   "library": "Met_Museum",
+   "collection": "Medieval_Art",
+   "shelfmark": "Met_32832",
+   "title": "Initial A with the Battle of the Maccabees (Manuscript cutting from an antiphonary, ca. 1360–70, Italian)",
+   "tier": 2,
+   "met_id": 32832,
+   "pages": 2,
+   "viewer": "https://www.metmuseum.org/art/collection/search/32832",
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art."
+  },
+  {
+   "library": "Met_Museum",
+   "collection": "European_Sculpture_and_Decorative_Arts",
+   "shelfmark": "Met_238581",
+   "title": "Hours of Francis I (Manuscript, 1539–40, )",
+   "tier": 2,
+   "met_id": 238581,
+   "pages": 21,
+   "viewer": "https://www.metmuseum.org/art/collection/search/238581",
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art."
+  },
+  {
+   "library": "Met_Museum",
+   "collection": "Islamic_Art",
+   "shelfmark": "Met_446861",
+   "title": "Armenian Gospel with Silver Cover (Illustrated manuscript and cover, manuscript: 13th century; cover: dated 1691, )",
+   "tier": 1,
+   "met_id": 446861,
+   "pages": 20,
+   "viewer": "https://www.metmuseum.org/art/collection/search/446861",
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art."
+  },
+  {
+   "library": "Met_Museum",
+   "collection": "Islamic_Art",
+   "shelfmark": "Met_447107",
+   "title": "Manuscript (Non-illustrated manuscript, 11th–12th century, )",
+   "tier": 1,
+   "met_id": 447107,
+   "pages": 2,
+   "viewer": "https://www.metmuseum.org/art/collection/search/447107",
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art."
+  },
+  {
+   "library": "Met_Museum",
+   "collection": "Islamic_Art",
+   "shelfmark": "Met_447105",
+   "title": "Copto-Arabic Book of Prayers (Non-Illustrated manuscript, 17th–18th century, )",
+   "tier": 1,
+   "met_id": 447105,
+   "pages": 7,
+   "viewer": "https://www.metmuseum.org/art/collection/search/447105",
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art."
+  },
+  {
+   "library": "Met_Museum",
+   "collection": "Islamic_Art",
+   "shelfmark": "Met_447106",
+   "title": "Coptic Liturgical Codex (Illustrated manuscript, 17th–18th century, )",
+   "tier": 1,
+   "met_id": 447106,
+   "pages": 23,
+   "viewer": "https://www.metmuseum.org/art/collection/search/447106",
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art."
+  }
+ ]
+}
