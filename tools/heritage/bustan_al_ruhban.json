@@ -3524,6 +3524,42 @@
    "viewer": "https://www.loc.gov/item/00279391214-ms/",
    "rights": "Provided by the Library of Congress",
    "note": "Bustan al-Ruhban corpus (Paradise + Mimars)"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_Ethiopic",
+   "shelfmark": "BnF Éthiopien d'Abbadie 247",
+   "title": "BnF Éthiopien d'Abbadie 247 — Filkesyus (Mashafa Manakosat) (Ge'ez)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100878765/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100878765"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_Ethiopic",
+   "shelfmark": "BnF Éthiopien 34",
+   "title": "BnF Éthiopien 34 — Apophthegmata Patrum (Ge'ez)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10092938c/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10092938c"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_Ethiopic",
+   "shelfmark": "BnF Éthiopien 125",
+   "title": "BnF Éthiopien 125 — Apophthegmata of John Colobus (Ge'ez)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10093193x/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10093193x"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_Ethiopic",
+   "shelfmark": "BnF Éthiopien 157",
+   "title": "BnF Éthiopien 157 — Filkesyus (Mashafa Manakosat) (Ge'ez)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10093661p/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10093661p"
   }
  ]
 }

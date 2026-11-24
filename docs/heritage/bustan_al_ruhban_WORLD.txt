@@ -76,6 +76,29 @@
 [رابط فقط] Paterikon (Church Slavonic) | Paterik (None) | Leiden University Libraries | http://hdl.handle.net/1887.1/item:1595495
 [رابط فقط] Paterikon (Church Slavonic) Paterik handwritten, littera uncialis () | Leiden University Libraries (Netherlands) | https://www.europeana.eu/item/598/9939757137802711_item_1595495?utm_source=api&utm_medium=api&utm_campaign=api2demo
 ==========================================================================================
+## حبشي (جعزي) + سرياني إضافي من Beta maṣāḥǝft وFihrist (GitHub): 20
+==========================================================================================
+[رابط فقط] C3–IV-250 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 0105DD Ethio-SPaRe | https://betamasaheft.eu/manuscripts/ESdd048/main
+[رابط فقط] C3-IV-47 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 0174MAKM Ethio-SPaRe | https://betamasaheft.eu/manuscripts/ESmakm014/main
+[في البرنامج (54)] BnF Éthiopien d'Abbadie 247 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 0303BNF Manuscrits orientaux | https://gallica.bnf.fr/ark:/12148/btv1b100878765
+[رابط فقط] BnF Éthiopien 153 — Apophthegmata-related (Ge'ez) | 0303BNF Manuscrits orientaux | https://betamasaheft.eu/manuscripts/BNFet153/main
+[في البرنامج (54)] BnF Éthiopien 34 — Apophthegmata Patrum (Ge'ez) | 0303BNF Manuscrits orientaux | https://gallica.bnf.fr/ark:/12148/btv1b10092938c
+[رابط فقط] BnF Éthiopien 76 — Apophthegmata-related (Ge'ez) | 0303BNF Manuscrits orientaux | https://betamasaheft.eu/manuscripts/BNFet76/main
+[في البرنامج (54)] BnF Éthiopien 125 — Apophthegmata of John Colobus (Ge'ez) | 0303BNF Manuscrits orientaux | https://gallica.bnf.fr/ark:/12148/btv1b10093193x
+[في البرنامج (54)] BnF Éthiopien 157 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 0303BNF Manuscrits orientaux | https://gallica.bnf.fr/ark:/12148/btv1b10093661p
+[رابط فقط] Ṭānāsee 53 — Apophthegmata-related (Ge'ez) | 0357Kebran  | https://betamasaheft.eu/manuscripts/Tanasee53/main
+[رابط فقط] IV Orlov 3 — Apophthegmata-related (Ge'ez) | 0301IV  | https://betamasaheft.eu/manuscripts/IVorlov3/main
+[رابط فقط] RNB SPbDA B II 19 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 0508RNB  | https://betamasaheft.eu/manuscripts/RNBspbdaBII19/main
+[رابط فقط] BL Additional 16197 — Apophthegmata-related (Ge'ez) | 00001BL Additional | https://betamasaheft.eu/manuscripts/BLadd16197/main
+[رابط فقط] BL Oriental 759 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 00001BL Oriental | https://betamasaheft.eu/manuscripts/BLorient759/main
+[رابط فقط] BL Oriental 761 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 00001BL Oriental | https://betamasaheft.eu/manuscripts/BLorient761/main
+[رابط فقط] BL Oriental 760 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 00001BL Oriental | https://betamasaheft.eu/manuscripts/BLorient760/main
+[رابط فقط] O Etiop. 7 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 0356Upp O Etiop. | https://betamasaheft.eu/manuscripts/UppEt7/main
+[رابط فقط] G-IV-686 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 1031AzwaManBer  | https://betamasaheft.eu/manuscripts/AZW022/main
+[رابط فقط] UNESCO 1-30 — Filkesyus (Mashafa Manakosat) (Ge'ez) | 0353EOCP UNESCO | https://betamasaheft.eu/manuscripts/EMIP02775/main
+[رابط فقط] Aeth. 17 — Zena Abaw ዜና አበው (Ge'ez) | 0003BAV Aethiopici | https://betamasaheft.eu/manuscripts/BAVet17/main
+[رابط فقط] Cambridge UL Add. 2019 — Paradise of the Fathers (Syriac) | Cambridge University Library (Fihrist) | https://www.fihrist.org.uk/catalog/manuscript_16337
+==========================================================================================
 ## يوناني: 65 مخطوطة
 ==========================================================================================
 [في البرنامج] Greek Manuscripts 1608. Gerontikon.   00271070160-ms  | loc_full.json | https://www.loc.gov/item/00271070160-ms/
