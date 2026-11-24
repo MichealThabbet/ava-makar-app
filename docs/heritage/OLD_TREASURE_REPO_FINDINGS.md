@@ -51,3 +51,11 @@
 تجارب التحميل من السحابة:
 - ميتشيجان: عنصر 8725 نزل.
 - أوترخت: مخطوطة نزلت.
+
+## الـReleases (7)، اتفحصت 2026-11-24
+
+| الـrelease | المحتوى | القرار |
+|--|--|--|
+| hmml-coptic-open-images و hmml-coptic-open-images-2 | 1,488 ملف ZIP، فيهم 1,923 صورة أصلية (3.7 GB). موزعين على 11 سجل HMML: 25000، 25003، 25009، 24997، AARB-00027، AARB-00042، AARB-00044، AARB-00273، HMML-00651، HMML-00652، HMML-00653 | **جديد.** مفيش HMML في البرنامج، فعملت `حمل_HMML_القبطي.bat`. التنزيل بـ`gh release download` لأن المستودع خاص |
+| vat-copt-9-images و vat-copt-9-recovery-copy | 51 ملف ZIP (1 GB)، صور عرض لـVat.copt.9 | **مكرر.** Vat.copt.9 موجود في vatican_full.json بـ1,020 صفحة، وجودته الأصلية أعلى |
+| coptic-treasure-final-abf63b6، coptic-treasure-final-cd5a83f، complete-source-of-truth-v1 | مفيهمش ملفات (0 assets)، نص وصف بس. الحزمة اللي حجمها 777 MB متسجلة إنها «محفوظة محلياً» | مفيش حاجة تتحمل منهم |

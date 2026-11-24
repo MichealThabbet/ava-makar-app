@@ -1,0 +1,25 @@
+HMML Coptic open images — GitHub Releases (old-treasure-recovery-, private repo)
+tags: hmml-coptic-open-images (1000 zip) + hmml-coptic-open-images-2 (488 zip) = 1,488 zip / 1,923 images / 3.7 GB
+
+## 25000 record 829783: 428 zip
+   viewer: https://www.vhmml.org/readingRoom/view/829783
+## 25003 record 829786: 381 zip
+   viewer: https://www.vhmml.org/readingRoom/view/829786
+## 25009 record 829792: 303 zip
+   viewer: https://www.vhmml.org/readingRoom/view/829792
+## AARB-00027 record 511853: 119 zip
+   viewer: https://www.vhmml.org/readingRoom/view/511853
+## AARB-00042 record 534401: 1 zip
+   viewer: https://www.vhmml.org/readingRoom/view/534401
+## AARB-00044 record 510571: 2 zip
+   viewer: https://www.vhmml.org/readingRoom/view/510571
+## AARB-00273 record 511688: 42 zip
+   viewer: https://www.vhmml.org/readingRoom/view/511688
+## HMML-00651 record 501318: 2 zip
+   viewer: https://www.vhmml.org/readingRoom/view/501318
+## HMML-00652 record 501319: 8 zip
+   viewer: https://www.vhmml.org/readingRoom/view/501319
+## HMML-00653 record 501320: 3 zip
+   viewer: https://www.vhmml.org/readingRoom/view/501320
+## 24997 record 829780: 199 zip
+   viewer: https://www.vhmml.org/readingRoom/view/829780
