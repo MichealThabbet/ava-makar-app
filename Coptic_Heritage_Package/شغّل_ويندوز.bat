@@ -20,6 +20,7 @@ echo   34=الفاتيكان الباقي(26778) 35=بودليان الكامل(
 echo   39=لورنتسيانا(818) 40=Fragmentarium 41=اوترخت 42=BnF مختارات 43=الحامولي القبطي كامل-Hyvernat(48)
 echo   44=الدير الابيض-مخطوطات(195) 45=الدير الابيض-فهارس ونشرات مطبوعة(25)
 echo   46=النمسا manuscripta(1286) 47=النمسا PDF(294) 48=النمسا شذرات Fragmentarium(133)
+echo   49=اوترخت الباقي(1204) 50=ميتشيجان معارض قبطي ويوناني(136) 51=بولندا KPBC تورون(196)
 echo.
 echo   5  = الكبار معا        99 = حمل كل المكتبات (كل الكنز)
 echo.
@@ -72,6 +73,9 @@ if "%LIB%"=="45" set CAT=white_monastery_books.json
 if "%LIB%"=="46" set CAT=austria_manuscripta_iiif.json
 if "%LIB%"=="47" set CAT=austria_pdfs.json
 if "%LIB%"=="48" set CAT=austria_fragmentarium.json
+if "%LIB%"=="49" set CAT=utrecht_rest.json
+if "%LIB%"=="50" set CAT=umich_exhibits.json
+if "%LIB%"=="51" set CAT=kpbc_christian.json
 if "%LIB%"=="5"  set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
 if "%LIB%"=="99" set CAT=ALL
 
