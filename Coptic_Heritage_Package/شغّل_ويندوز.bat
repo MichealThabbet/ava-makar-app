@@ -19,6 +19,7 @@ echo   24=المتروبوليتان 25=النمسا 26=حفائر الخارج�
 echo   34=الفاتيكان الباقي(26778) 35=بودليان الكامل(5684) 36=مانشستر الجديد(159) 37=ييل القبطي(1031) 38=مورجان المسيحي(649)
 echo   39=لورنتسيانا(818) 40=Fragmentarium 41=اوترخت 42=BnF مختارات 43=الحامولي القبطي كامل-Hyvernat(48)
 echo   44=الدير الابيض-مخطوطات(195) 45=الدير الابيض-فهارس ونشرات مطبوعة(25)
+echo   46=النمسا manuscripta(1286) 47=النمسا PDF(294) 48=النمسا شذرات Fragmentarium(133)
 echo.
 echo   5  = الكبار معا        99 = حمل كل المكتبات (كل الكنز)
 echo.
@@ -68,6 +69,9 @@ if "%LIB%"=="42" set CAT=gallica_owner_picks.json
 if "%LIB%"=="43" set CAT=morgan_hyvernat_coptic.json
 if "%LIB%"=="44" set CAT=white_monastery_mss.json
 if "%LIB%"=="45" set CAT=white_monastery_books.json
+if "%LIB%"=="46" set CAT=austria_manuscripta_iiif.json
+if "%LIB%"=="47" set CAT=austria_pdfs.json
+if "%LIB%"=="48" set CAT=austria_fragmentarium.json
 if "%LIB%"=="5"  set CAT=vatican_full.json loc_full.json archive_org_books.json british_library_pd.json bodleian.json wellcome.json manchester.json
 if "%LIB%"=="99" set CAT=ALL
 
