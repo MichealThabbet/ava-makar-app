@@ -1,0 +1,65 @@
+بستان الرهبان (أقوال الآباء / Apophthegmata Patrum / Paradise of the Fathers / Vitas Patrum / Gerontikon / Paterikon) - الموجود في البرنامج
+
+austria_manuscripta_iiif.json | مخطوط | Cod. 1596 (645, L 73) | VITAS PATRUM (ÜBERSETZUNG DES JOHANNES VON SPEYER). THOMAS PEUNTNER (deutsch) · Papier · 213 Bl. · Melk, Mitte | 438 | https://manuscripta.at/?ID=41236
+austria_manuscripta_iiif.json | مخطوط | Cod. 704 | VITAS PATRUM · Pergament · I, 170, I* Bl. · 12. Jh. | 357 | https://manuscripta.at/?ID=911
+bodleian_rest.json | مخطوط | MS. Laud Misc. 346 [6675d975] | Vitas patrum (part 2) | 526 | https://iiif.bodleian.ox.ac.uk/iiif/manifest/6675d975-493f-4ce7-9755-19e867ba6ef3.json
+bodleian_rest.json | مخطوط | MS. Laud Misc. 83 | Vitas Patrum | 336 | https://iiif.bodleian.ox.ac.uk/iiif/manifest/9b43d6f3-3d9e-45fc-a7f2-83d487a0d3cf.json
+claremont_cce.json | مخطوط | Apophthegmata_Patrum_174 | Apophthegmata Patrum | 1 | https://cdm15831.contentdm.oclc.org/iiif/cce:174/manifest.json
+laurenziana.json | مخطوط | plutei_391044 | Cassiani vita Patrum | 0 | https://cdm21059.contentdm.oclc.org/iiif/plutei:391044/manifest.json
+loc_full.json | مخطوط | 00271070160-ms | Greek Manuscripts 1608. Gerontikon. | 136 | https://www.loc.gov/item/00271070160-ms/
+loc_full.json | مخطوط | 00271070238-ms | Greek Manuscripts 1629. Gerontikon. | 327 | https://www.loc.gov/item/00271070238-ms/
+loc_full.json | مخطوط | 0027107086a-jo | Arabic 24.Paterikon. 1567 A.D. 314 f. Pa. 43 ft. | 320 | https://www.loc.gov/item/0027107086a-jo/
+loc_full.json | مخطوط | 00271071541-jo | Arabic 146.Paterikon. 1426 A.D. 442 f. Pa. 47 ft. | 433 | https://www.loc.gov/item/00271071541-jo/
+loc_full.json | مخطوط | 00271072545-jo | Georgian 36. Paterikon, Lives of Saints.13th/14th cent. 313 f. Pa. 51 ft. | 320 | https://www.loc.gov/item/00271072545-jo/
+loc_full.json | مخطوط | 00271072703-jo | Georgian 51. Paterikon. 12th cent. 389 f. Pa. 51 ft. | 392 | https://www.loc.gov/item/00271072703-jo/
+loc_full.json | مخطوط | 00279381506-ms | Greek Manuscripts 448. Paterikon. | 346 | https://www.loc.gov/item/00279381506-ms/
+loc_full.json | مخطوط | 00279381518-ms | Greek Manuscripts 447. Apophthegmata. | 120 | https://www.loc.gov/item/00279381518-ms/
+loc_full.json | مخطوط | 00279381555-ms | Greek Manuscripts 444. Apophthegmata. | 196 | https://www.loc.gov/item/00279381555-ms/
+loc_full.json | مخطوط | 00279381567-ms | Greek Manuscripts 449. Paterikon. | 366 | https://www.loc.gov/item/00279381567-ms/
+loc_full.json | مخطوط | 00279381579-ms | Greek Manuscripts 450. Gerontikon. | 156 | https://www.loc.gov/item/00279381579-ms/
+loc_full.json | مخطوط | 00279381580-ms | Greek Manuscripts 451. Paterikon. | 459 | https://www.loc.gov/item/00279381580-ms/
+loc_full.json | مخطوط | 00279381592-ms | Greek Manuscripts 452. Paterikon. | 477 | https://www.loc.gov/item/00279381592-ms/
+loc_full.json | مخطوط | 00279381609-ms | Greek Manuscripts 453. Paterikon. | 130 | https://www.loc.gov/item/00279381609-ms/
+loc_full.json | مخطوط | 00279381646-ms | Greek Manuscripts 458. Paterikon. | 392 | https://www.loc.gov/item/00279381646-ms/
+loc_full.json | مخطوط | 00279382274-ms | Greek Manuscripts 469. Apophthegmata. | 160 | https://www.loc.gov/item/00279382274-ms/
+loc_full.json | مخطوط | 00279382973-ms | Greek Manuscripts 1763. Apophthegmata. | 385 | https://www.loc.gov/item/00279382973-ms/
+loc_full.json | مخطوط | 00279386590-ms | Syriac Manuscripts 46. Apophthegmata, etc.. | 112 | https://www.loc.gov/item/00279386590-ms/
+loc_full.json | مخطوط | 00279388409-ms | Georgian Manuscripts 8. Apophthegmata. | 154 | https://www.loc.gov/item/00279388409-ms/
+loc_full.json | مخطوط | 0027939009A-ms | Arabic Manuscripts 497. Apophthegmata. | 191 | https://www.loc.gov/item/0027939009A-ms/
+loc_full.json | مخطوط | 00279390106-ms | Arabic Manuscripts 496. Apophthegmata. | 174 | https://www.loc.gov/item/00279390106-ms/
+loc_full.json | مخطوط | 00279390143-ms | Arabic Manuscripts 506. Paradise of the Fathers. | 181 | https://www.loc.gov/item/00279390143-ms/
+loc_full.json | مخطوط | 00279390362-ms | Arabic Manuscripts 547. Paradise of the Fathers and Patristica. | 108 | https://www.loc.gov/item/00279390362-ms/
+loc_full.json | مخطوط | 00279390374-ms | Arabic Manuscripts 546. Paradise of the Fathers. | 244 | https://www.loc.gov/item/00279390374-ms/
+loc_full.json | مخطوط | 00279390428-ms | Arabic Manuscripts 554. Paradise of the Fathers. | 318 | https://www.loc.gov/item/00279390428-ms/
+loc_full.json | مخطوط | 00279390441-ms | Arabic Manuscripts 552. Paradise of the Fathers. | 265 | https://www.loc.gov/item/00279390441-ms/
+loc_full.json | مخطوط | 00279390453-ms | Arabic Manuscripts 551. Paradise of the Fathers. | 146 | https://www.loc.gov/item/00279390453-ms/
+loc_full.json | مخطوط | 00279390489-ms | Arabic Manuscripts 563. Paradise of the Fathers. | 307 | https://www.loc.gov/item/00279390489-ms/
+loc_full.json | مخطوط | 00279390490-ms | Arabic Manuscripts 561. Paradise of the Fathers. | 591 | https://www.loc.gov/item/00279390490-ms/
+loc_full.json | مخطوط | 00279390507-ms | Arabic Manuscripts 559. Paradise of the Fathers. | 273 | https://www.loc.gov/item/00279390507-ms/
+loc_full.json | مخطوط | 00279390520-ms | Arabic Manuscripts 557. Paradise of the Fathers. | 319 | https://www.loc.gov/item/00279390520-ms/
+loc_full.json | مخطوط | 00279390556-ms | Arabic Manuscripts 573. Paradise of the Fathers. | 140 | https://www.loc.gov/item/00279390556-ms/
+loc_full.json | مخطوط | 00279390568-ms | Arabic Manuscripts 572. Paradise of the Fathers. | 181 | https://www.loc.gov/item/00279390568-ms/
+loc_full.json | مخطوط | 0027939057A-ms | Arabic Manuscripts 571. Paradise of the Fathers. | 226 | https://www.loc.gov/item/0027939057A-ms/
+loc_full.json | مخطوط | 00279390593-ms | Arabic Manuscripts 565. Paradise of the Fathers. | 482 | https://www.loc.gov/item/00279390593-ms/
+loc_full.json | مخطوط | 00279391020-ms | Arabic Manuscripts 444. Paradise of the Fathers - Life of St. Anthony. | 368 | https://www.loc.gov/item/00279391020-ms/
+loc_full.json | مخطوط | 00279391044-ms | Arabic Manuscripts 442. Saffronius: Paradise of the Fathers. | 320 | https://www.loc.gov/item/00279391044-ms/
+loc_full.json | مخطوط | 00279391135-ms | Arabic Manuscripts 467. Paradise of the Fathers. | 254 | https://www.loc.gov/item/00279391135-ms/
+loc_full.json | مخطوط | 00279391329-ms | Arabic Manuscripts 492. Paradise of the Fathers. | 283 | https://www.loc.gov/item/00279391329-ms/
+loc_full.json | مخطوط | 00279392024-jo | Panagios Taphos 137. Paterikon. 14th cent. 341 f. Pa. 48 ft. | 358 | https://www.loc.gov/item/00279392024-jo/
+loc_full.json | مخطوط | 00279393193-jo | Hagios Sabas 151. Gerontikon. 16th cent. 515 f. Pa. 76 ft. | 525 | https://www.loc.gov/item/00279393193-jo/
+loc_full.json | مخطوط | 00279394008-jo | Hagios Sabas 180. Gerontikon. 10th cent. 293 f. Pg. 44 ft. | 297 | https://www.loc.gov/item/00279394008-jo/
+loc_full.json | مخطوط | 00279394860-jo | Hagios Sabas 78. Paterikon. 12th cent. 127 f. Pg. 18 ft. | 131 | https://www.loc.gov/item/00279394860-jo/
+loc_full.json | مخطوط | 00279395177-jo | Photios 24. Paterikon. 17th cent. 324 f. Pa. 24 ft. | 329 | https://www.loc.gov/item/00279395177-jo/
+loc_full.json | مخطوط | 00279397307-jo | Hagios Sabas 574. Paterikon. 1770 A.D. 223 f. Pa. 26 ft. | 227 | https://www.loc.gov/item/00279397307-jo/
+loc_full.json | مخطوط | 00279397496-jo | Hagios Sabas 633. Paterikon. 14th cent. 243 f. Pa. 24 ft. | 246 | https://www.loc.gov/item/00279397496-jo/
+loc_full.json | مخطوط | 00279397587-jo | Hagios Sabas 675. Paterikon. 13th cent. 215 f. Pg. 18 ft. | 219 | https://www.loc.gov/item/00279397587-jo/
+manchester_rest.json | مخطوط | PR-INCU-15411 | Vitas patrum. | 750 | https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-15411
+morgan_christian.json | مخطوط | MS M.626 | Vitae patrum | 271 | https://ica.themorgan.org/manuscript/122665
+penn_ia_christian.json | مخطوط | lewis_e_081 | Epistola ad Iheronimum (Letter to Jerome); Vitae patrum (Lives of the Fathers) (1423, lat) | 336 | https://archive.org/details/lewis_e_081
+penn_ia_christian.json | مخطوط | lewis_e_082 | Vitae patrum (Lives of the Fathers) (1464, lat) | 276 | https://archive.org/details/lewis_e_082
+penn_ia_christian.json | مخطوط | ms3_1141f | Palladius: historia lausiaca, etc. (1326, grc) | 276 | https://archive.org/details/ms3_1141f
+utrecht_rest.json | مخطوط | Hs 5 E 19 | Vitae patrum, libri V-VI. | 310 | https://objects.library.uu.nl/reader/20.500.14918-337649
+archive_org_books.json | مطبوع | IA41548904_0081 | Die Syntax der koptischen Apophthegmata patrum Aegyptiorum | 94 | https://archive.org/details/IA41548904_0081
+archive_org_books.json | مطبوع | MN41886ucmf_5 | De Historia Lausiaca quaenam sit hujus ad monachorum aegyptiorum historiam scribendam utilitas [microform] : a | 35 | https://archive.org/details/MN41886ucmf_5
+archive_org_books.json | مطبوع | bub_gb_42xRoqT7XvsC | Sancti patris Macarii Aegyptii Opuscula nonnulla et apophthegmata. Io. Georgius Pritius collegit, reuidit, lat | 372 | https://archive.org/details/bub_gb_42xRoqT7XvsC
+archive_org_books.json | مطبوع | dehistorialausia00am | De historia Lausiaca quaenam sit hujus ad monachorum Aegyptiorum historaim scribendam utilitas. Adjecta sunt q | 138 | https://archive.org/details/dehistorialausia00am
