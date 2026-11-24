@@ -3560,6 +3560,150 @@
    "tier": 1,
    "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10093661p/manifest.json",
    "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10093661p"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Bustan_Vatican",
+   "shelfmark": "Vat.ar.460",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.460/manifest.json",
+   "pages": 184,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.460",
+   "note": "بستان الرهبان مفتاح باب فردوس الله، ق13 (Graf)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Bustan_Vatican",
+   "shelfmark": "Vat.sir.206",
+   "tier": 2,
+   "order": 9,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.sir.206/manifest.json",
+   "pages": 119,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.sir.206",
+   "note": "بستان الرهبان كرشوني، 1705، 313 باب",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Bustan_Vatican",
+   "shelfmark": "Vat.ar.77",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.77/manifest.json",
+   "pages": 460,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.77",
+   "note": "بستان موسكوس + أقوال الآباء ff.168-360، 1684",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Bustan_Vatican",
+   "shelfmark": "Vat.ar.85",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.85/manifest.json",
+   "pages": 259,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.85",
+   "note": "كتاب الرياض وبستان الآباء الرهبان (فردوس عنانيشوع)، ق15",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Bustan_Vatican",
+   "shelfmark": "Vat.gr.1827",
+   "tier": 3,
+   "order": 15,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1827/manifest.json",
+   "pages": 301,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.gr.1827",
+   "note": "Apophthegmata في الطبقة الممحوة، ق10",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_BnF",
+   "shelfmark": "BnF Arabe 278",
+   "title": "بستان الرهبان، 1294 — 40 حكاية قبطية الأصل (Graf)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004677k/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004677k",
+   "note": "بستان الرهبان، 1294 — 40 حكاية قبطية الأصل (Graf)"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_BnF",
+   "shelfmark": "BnF Arabe 279",
+   "title": "فردوس النعيم، ق14 — نفس مجموعة الأربعين",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004215p/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004215p",
+   "note": "فردوس النعيم، ق14 — نفس مجموعة الأربعين"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_BnF",
+   "shelfmark": "BnF Arabe 280",
+   "title": "1605 — نفس مجموعة الأربعين",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004339p/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004339p",
+   "note": "1605 — نفس مجموعة الأربعين"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_BnF",
+   "shelfmark": "BnF Arabe 4703",
+   "title": "بستان موسكوس (فرحات)، دمشق 1799",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10031711f/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10031711f",
+   "note": "بستان موسكوس (فرحات)، دمشق 1799"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_BnF",
+   "shelfmark": "BnF Arabe 253",
+   "title": "ترجمة عربية لمجموعة عنانيشوع، ق14 (Sauget)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004785g/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004785g",
+   "note": "ترجمة عربية لمجموعة عنانيشوع، ق14 (Sauget)"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_BnF",
+   "shelfmark": "BnF Syriaque 239",
+   "title": "كتاب الفردوس أعني بستان الرهبان، كرشوني 1493",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53110247b/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b53110247b",
+   "note": "كتاب الفردوس أعني بستان الرهبان، كرشوني 1493"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Bustan_BnF",
+   "shelfmark": "BnF Arabe 2120",
+   "title": "Paradise of the Fathers (Europeana)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11002309r/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11002309r",
+   "note": "Paradise of the Fathers (Europeana)"
+  },
+  {
+   "library": "Heidelberg_BAV",
+   "collection": "Bustan_Vatican",
+   "shelfmark": "Pal.lat.844",
+   "title": "Vitae patrum, c.1430",
+   "tier": 2,
+   "manifest": "https://digi.ub.uni-heidelberg.de/diglit/iiif/bav_pal_lat_844/manifest.json",
+   "viewer": "https://digi.ub.uni-heidelberg.de/diglit/bav_pal_lat_844"
   }
  ]
 }
