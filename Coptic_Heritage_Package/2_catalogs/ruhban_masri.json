@@ -2727,7 +2727,7 @@
    "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.64",
    "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
    "rights": "Images Copyright Biblioteca Apostolica Vaticana",
-   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+   "title": "أقوال الأنبا أنطونيوس بالقبطي — من دير أنبا مقار"
   },
   {
    "library": "Vatican_BAV",
@@ -2798,6 +2798,48 @@
    "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
    "rights": "Images Copyright Biblioteca Apostolica Vaticana",
    "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.175",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.175/manifest.json",
+   "pages": 670,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.175",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "من فردوس الآباء"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.398",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.398/manifest.json",
+   "pages": 197,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.398",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "رسائل الأنبا أنطونيوس العشرون لرهبانه + قوانينه وأقواله + أسئلة الرهبان (Mai)، ومختصر بلاديوس"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.85",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.85/manifest.json",
+   "pages": 259,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.85",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بستان الآباء الرهبان: فيلوكسينوس وبرصنوفيوس وإيرونيموس وبلاديوس — من مصر (أسماني)"
   }
  ]
 }
