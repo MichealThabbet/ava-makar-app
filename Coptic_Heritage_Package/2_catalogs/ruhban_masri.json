@@ -1,0 +1,2803 @@
+{
+ "source": "الرهبان المصريون — كل ما يخص الرهبنة (بستان الرهبان، أقوال الآباء، سير الرهبان، النسكيات) في مخطوطات عربية وقبطية فقط. 2026-11-24: فهارس de Slane (BnF) وMai (الفاتيكان) المطبوعة + Gallica + DigiVatLib + فهارس البرنامج + سيناء UCLA.",
+ "manuscripts": [
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 147",
+   "title": "عظات منها لأنبا شنودة الأرشمندريت",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110044197/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110044197"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 151",
+   "title": "عظات منها عن بيسنتيوس",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004614r/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004614r"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 157",
+   "title": "رسالة لوكيوس لإيفاغريوس + نسكيات",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004630s/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004630s"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 176",
+   "title": "كتاب نسكي «عون على الهموم»",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004030h/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004030h"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 193",
+   "title": "بستان المتوحد وتعزية المنفرد — سمعان بن كليل، راهب دير أبو يحنس (القصير) بشيهيت",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004206q/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004206q"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 194",
+   "title": "نفس الكتاب — سمعان بن كليل، دير يحنس القصير",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004408c/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004408c"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 251",
+   "title": "مجموع قوانين جمعه القس مقاره، دير يحنس القصير بشيهيت",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004373n/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004373n"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 253",
+   "title": "أقوال الآباء القديسين مرتبة أبجدياً (Apophthegmata alphabetica)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004785g/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004785g"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 257",
+   "title": "سيرة أنطونيوس (أثناسيوس) + سيرة أفرام + سيرة مقاريوس المصري (سرابيون)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004019q/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004019q"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 259",
+   "title": "سيرة مقاريوس أبو رهبان شيهيت (سرابيون) + أبابيوس من شيهيت",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110043671/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110043671"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 260",
+   "title": "سيرة مرقس الترمقي + أنبا سرابيون المتوحد",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004786x/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004786x"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 261",
+   "title": "سيرة باخوميوس وتلميذه تادرس",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004787c/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004787c"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 265",
+   "title": "سيرة زوسيما (ومريم المصرية)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004621t/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004621t"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 278",
+   "title": "بستان الرهبان — 40 حكاية، 1294 م",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004677k/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004677k"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 279",
+   "title": "فردوس النعيم — نفس الأربعين حكاية، ق14",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004215p/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004215p"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 280",
+   "title": "الأربعين حكاية + خبر يوساب راهب شيهيت، 1605",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004339p/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004339p"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 283",
+   "title": "أخبار وأقوال رهبان مأخوذة من «الفردوس»",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004666q/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004666q"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 284",
+   "title": "سيرة تكلا هيمانوت أبو الرهبان",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004599x/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004599x"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_BnF_Arabe",
+   "shelfmark": "BnF Arabe 320",
+   "title": "وثائق رئيس دير السريان بوادي النطرون 1636",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004217k/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11004217k"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.77",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.77/manifest.json",
+   "pages": 460,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.77",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "فردوس الرهبان (موسكوس/صفرونيوس) + أنسطاسيوس السينائي + وصايا إشعياء الإسقيطي، 1684"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.80",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.80/manifest.json",
+   "pages": 293,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.80",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "سيرة وأقوال القديس سمعان مترجمة من القبطي للعربي"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.87",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.87/manifest.json",
+   "pages": 220,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.87",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "«رياضة المتوحد وتعزية الراهب» — سمعان بن كليل، دير يحنس بشيهيت"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.93",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.93/manifest.json",
+   "pages": 203,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.93",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "نسكيات إيفاغريوس + رسالة الأب لوكيوس"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.460",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.460/manifest.json",
+   "pages": 184,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.460",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "مختصر سير الرهبان: أنطونيوس، أرسانيوس، مقاريوس، باخوميوس، زوسيما، دانيال الإسقيطي… من «بستان الرهبان»"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.ar.563",
+   "tier": 2,
+   "order": 6,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.ar.563/manifest.json",
+   "pages": 231,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.ar.563",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "عظات نسكية، ق14"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_Vatican",
+   "shelfmark": "Vat.sir.206",
+   "tier": 2,
+   "order": 9,
+   "priority": 0,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.sir.206/manifest.json",
+   "pages": 119,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.sir.206",
+   "note": "",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بستان الرهبان، كرشوني 1705"
+  },
+  {
+   "library": "AUC_Cairo",
+   "collection": "Ruhban_auc_coptic",
+   "shelfmark": "Saint_Anthony_of_Egypt_manuscripts_1832",
+   "title": "Saint Anthony of Egypt manuscripts",
+   "tier": 1,
+   "pages": 368,
+   "manifest": "https://digitalcollections.aucegypt.edu/iiif/info/p15795coll4/1832/manifest.json",
+   "rights": "American University in Cairo, Rare Books & Special Collections. Study/archive use; verify reuse."
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b110043743",
+   "title": "Collection canonique copte compilée par Macaire, moine du monastère de Saint-Jean-le-Nain.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110043743/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b110043743",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b52510870k",
+   "title": "Schenouti. Sermons. 4ème partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510870k/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52510870k",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10091736c",
+   "title": "Rituel de procesion pour la fête de l'apa Chenouté.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091736c/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091736c",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b52510532p",
+   "title": "Rituel de procesion pour la fête de l'apa Chenouté.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510532p/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52510532p",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10091583b",
+   "title": "Schenouti. Sermons. 4ème partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091583b/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091583b",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b52512042w",
+   "title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512042w/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52512042w",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b100911200",
+   "title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100911200/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100911200",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10089619z",
+   "title": "Schenouté. Histoire eccésiastique.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10089619z/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10089619z",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10091753v",
+   "title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091753v/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091753v",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b100896172",
+   "title": "Schenouté. Rèles monastiques et vies des moines, 1ère partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100896172/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100896172",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b100911257",
+   "title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100911257/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100911257",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10091582w",
+   "title": "Schenouti. Sermons. 5ème partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091582w/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091582w",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10091581f",
+   "title": "Schenouti. Sermons. 5ème partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091581f/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091581f",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b100915857",
+   "title": "Schenouti. Sermons. 2ème partie",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100915857/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b100915857",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10091584s",
+   "title": "Schenouti. Sermons. 3ème partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091584s/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091584s",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b525020075",
+   "title": "Schenouti. Sermons. 3ème partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525020075/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525020075",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10089618h",
+   "title": "Schenouté. Règles monastiques et vies des moines, 2ème partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10089618h/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10089618h",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b10091752d",
+   "title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091752d/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10091752d",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b525020594",
+   "title": "Schenouté. Règles monastiques et vies des moines, 2ème partie.",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525020594/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b525020594",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bnf_coptic",
+   "shelfmark": "btv1b52506755c",
+   "title": "Sujets divers. Schenouti. Fragmenta varii argumenti",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52506755c/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b52506755c",
+   "rights": "Source gallica.bnf.fr / BnF. http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "CMB10-4",
+   "title": "CMB 10-4 — Collection of the lives of the Fathers of the Desert. Coptic Museum  Bustan al-Ruhban corpus",
+   "tier": 1,
+   "viewer": "https://archive.org/details/CMB10-4",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/CMB10-4/CMB_10-4.pdf",
+   "file_name": "CMB_10-4.pdf",
+   "size": 6957497,
+   "pages": null,
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "COP28-9",
+   "title": "COP 28-9 — The Book of the Garden of the Hermit and the Consolation of the Solitary. Coptic Orthodox Patriarchate . Old and New Testament Lectionary .  Bustan al-Ruhban corpus",
+   "tier": 1,
+   "viewer": "https://archive.org/details/COP28-9",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/COP28-9/COP_28-9.pdf",
+   "file_name": "COP_28-9.pdf",
+   "size": 10183580,
+   "pages": null,
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "COP28-8",
+   "title": "COP 28-8 — The Book of the Garden of the Hermit and the Consolation of the Solitary. Coptic Orthodox Patriarchate . New and Old Testament Lectionary .  Bustan al-Ruhban corpus",
+   "tier": 1,
+   "viewer": "https://archive.org/details/COP28-8",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/COP28-8/COP_28-8.pdf",
+   "file_name": "COP_28-8.pdf",
+   "size": 18685550,
+   "pages": null,
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "COP28-10",
+   "title": "COP 28-10 — Coptic Orthodox Patriarchate . New Testament Lectionary. The Book of the Garden of the Hermit and the Consolation of the Solitary.  Bustan al-Ruhban corpus",
+   "tier": 1,
+   "viewer": "https://archive.org/details/COP28-10",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/COP28-10/COP_28-10.pdf",
+   "file_name": "COP_28-10.pdf",
+   "size": 30203162,
+   "pages": null,
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390143-ms",
+   "title": "Arabic Manuscripts 506. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 181,
+   "loc_json": "https://www.loc.gov/item/00279390143-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390143-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1t73mt3",
+   "title": "Arabic Manuscripts 506. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t73mt3/manifest",
+   "pages": 364,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390325-ms",
+   "title": "Arabic Manuscripts 536. Paradise and Lives of SS. Anthony and Pachomius.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1277",
+   "tier": 2,
+   "order": 1,
+   "pages": 411,
+   "loc_json": "https://www.loc.gov/item/00279390325-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390325-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1zw34gm",
+   "title": "Arabic Manuscripts 536. Paradise and Lives of SS. Anthony and Pachomius.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zw34gm/manifest",
+   "pages": 818,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390362-ms",
+   "title": "Arabic Manuscripts 547. Paradise of the Fathers and Patristica.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1100",
+   "tier": 2,
+   "order": 1,
+   "pages": 108,
+   "loc_json": "https://www.loc.gov/item/00279390362-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390362-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1hq5hkh",
+   "title": "Arabic Manuscripts 547. Paradise of the Fathers and Patristica.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1hq5hkh/manifest",
+   "pages": 222,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390374-ms",
+   "title": "Arabic Manuscripts 546. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 244,
+   "loc_json": "https://www.loc.gov/item/00279390374-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390374-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1ht4brb",
+   "title": "Arabic Manuscripts 546. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ht4brb/manifest",
+   "pages": 492,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390428-ms",
+   "title": "Arabic Manuscripts 554. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 318,
+   "loc_json": "https://www.loc.gov/item/00279390428-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390428-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1xs7d4m",
+   "title": "Arabic Manuscripts 554. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xs7d4m/manifest",
+   "pages": 637,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390441-ms",
+   "title": "Arabic Manuscripts 552. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1000",
+   "tier": 2,
+   "order": 1,
+   "pages": 265,
+   "loc_json": "https://www.loc.gov/item/00279390441-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390441-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390453-ms",
+   "title": "Arabic Manuscripts 551. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1069",
+   "tier": 2,
+   "order": 1,
+   "pages": 146,
+   "loc_json": "https://www.loc.gov/item/00279390453-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390453-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390489-ms",
+   "title": "Arabic Manuscripts 563. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1257",
+   "tier": 2,
+   "order": 1,
+   "pages": 307,
+   "loc_json": "https://www.loc.gov/item/00279390489-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390489-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1cz4rtb",
+   "title": "Arabic Manuscripts 563. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cz4rtb/manifest",
+   "pages": 616,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390490-ms",
+   "title": "Arabic Manuscripts 561. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 591,
+   "loc_json": "https://www.loc.gov/item/00279390490-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390490-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1892vb2",
+   "title": "Arabic Manuscripts 561. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1892vb2/manifest",
+   "pages": 1161,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390507-ms",
+   "title": "Arabic Manuscripts 559. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 273,
+   "loc_json": "https://www.loc.gov/item/00279390507-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390507-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1g74zfk",
+   "title": "Arabic Manuscripts 559. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1g74zfk/manifest",
+   "pages": 548,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390520-ms",
+   "title": "Arabic Manuscripts 557. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 319,
+   "loc_json": "https://www.loc.gov/item/00279390520-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390520-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z12532x9",
+   "title": "Arabic Manuscripts 557. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz12532x9/manifest",
+   "pages": 644,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390556-ms",
+   "title": "Arabic Manuscripts 573. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1791",
+   "tier": 2,
+   "order": 1,
+   "pages": 140,
+   "loc_json": "https://www.loc.gov/item/00279390556-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390556-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1w39jsb",
+   "title": "Arabic Manuscripts 573. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w39jsb/manifest",
+   "pages": 297,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390568-ms",
+   "title": "Arabic Manuscripts 572. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1100",
+   "tier": 2,
+   "order": 1,
+   "pages": 181,
+   "loc_json": "https://www.loc.gov/item/00279390568-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390568-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "0027939057A-ms",
+   "title": "Arabic Manuscripts 571. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1100",
+   "tier": 2,
+   "order": 1,
+   "pages": 226,
+   "loc_json": "https://www.loc.gov/item/0027939057A-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/0027939057A-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1jm3vdx",
+   "title": "Arabic Manuscripts 571. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jm3vdx/manifest",
+   "pages": 453,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390593-ms",
+   "title": "Arabic Manuscripts 565. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1622",
+   "tier": 2,
+   "order": 1,
+   "pages": 482,
+   "loc_json": "https://www.loc.gov/item/00279390593-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390593-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1km0wfz",
+   "title": "Arabic Manuscripts 565. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1km0wfz/manifest",
+   "pages": 968,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279391020-ms",
+   "title": "Arabic Manuscripts 444. Paradise of the Fathers - Life of St. Anthony.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1218",
+   "tier": 2,
+   "order": 1,
+   "pages": 368,
+   "loc_json": "https://www.loc.gov/item/00279391020-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391020-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279391044-ms",
+   "title": "Arabic Manuscripts 442. Saffronius: Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 320,
+   "loc_json": "https://www.loc.gov/item/00279391044-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391044-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1qv5574",
+   "title": "Arabic Manuscripts 442. Saffronius: Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1qv5574/manifest",
+   "pages": 644,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279391135-ms",
+   "title": "Arabic Manuscripts 467. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 254,
+   "loc_json": "https://www.loc.gov/item/00279391135-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391135-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1cg17sq",
+   "title": "Arabic Manuscripts 467. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cg17sq/manifest",
+   "pages": 512,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279391251-ms",
+   "title": "Arabic Manuscripts 483. Spiritual Paradise and Mimars.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1177",
+   "tier": 2,
+   "order": 1,
+   "pages": 284,
+   "loc_json": "https://www.loc.gov/item/00279391251-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391251-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z16d6xc8",
+   "title": "Arabic Manuscripts 483. Spiritual Paradise and Mimars.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16d6xc8/manifest",
+   "pages": 566,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279391287-ms",
+   "title": "Arabic Manuscripts 480. Spiritual Paradise and Mimars.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1190",
+   "tier": 2,
+   "order": 1,
+   "pages": 144,
+   "loc_json": "https://www.loc.gov/item/00279391287-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391287-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279391329-ms",
+   "title": "Arabic Manuscripts 492. Paradise of the Fathers.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 283,
+   "loc_json": "https://www.loc.gov/item/00279391329-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391329-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z12n65mg",
+   "title": "Arabic Manuscripts 492. Paradise of the Fathers.  Bustan al-Ruhban corpus — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz12n65mg/manifest",
+   "pages": 567,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "0027107086a-jo",
+   "title": "Arabic 24.Paterikon. 1567 A.D. 314 f. Pa. 43 ft.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1567",
+   "tier": 2,
+   "order": 2,
+   "pages": 320,
+   "loc_json": "https://www.loc.gov/item/0027107086a-jo/?fo=json",
+   "viewer": "https://www.loc.gov/item/0027107086a-jo/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00271071541-jo",
+   "title": "Arabic 146.Paterikon. 1426 A.D. 442 f. Pa. 47 ft.  Bustan al-Ruhban corpus",
+   "language": [
+    "arabic"
+   ],
+   "date": "1426",
+   "tier": 2,
+   "order": 2,
+   "pages": 433,
+   "loc_json": "https://www.loc.gov/item/00271071541-jo/?fo=json",
+   "viewer": "https://www.loc.gov/item/00271071541-jo/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279390477-ms",
+   "title": "Arabic Manuscripts 548. Paradise, Enconium to St. Catherine and Varia.  Bustan al-Ruhban corpus (Paradise + Mimars)",
+   "language": [
+    "arabic"
+   ],
+   "date": "1306",
+   "tier": 2,
+   "order": 1,
+   "pages": 165,
+   "loc_json": "https://www.loc.gov/item/00279390477-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390477-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus (Paradise + Mimars)"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1126wx1",
+   "title": "Arabic Manuscripts 548. Paradise, Enconium to St. Catherine and Varia.  Bustan al-Ruhban corpus (Paradise + Mimars) — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1126wx1/manifest",
+   "pages": 400,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279391202-ms",
+   "title": "Arabic Manuscripts 476. Paradise, Mimars, Lives & Epistles.  Bustan al-Ruhban corpus (Paradise + Mimars)",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 203,
+   "loc_json": "https://www.loc.gov/item/00279391202-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391202-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus (Paradise + Mimars)"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1b57p5w",
+   "title": "Arabic Manuscripts 476. Paradise, Mimars, Lives & Epistles.  Bustan al-Ruhban corpus (Paradise + Mimars) — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1b57p5w/manifest",
+   "pages": 408,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "00279391214-ms",
+   "title": "Arabic Manuscripts 477. Mimars and Paradise.  Bustan al-Ruhban corpus (Paradise + Mimars)",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 178,
+   "loc_json": "https://www.loc.gov/item/00279391214-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391214-ms/",
+   "rights": "Provided by the Library of Congress",
+   "note": "Bustan al-Ruhban corpus (Paradise + Mimars)"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1w39dw1",
+   "title": "Arabic Manuscripts 477. Mimars and Paradise.  Bustan al-Ruhban corpus (Paradise + Mimars) — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w39dw1/manifest",
+   "pages": 366,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "BnF Arabe 4703",
+   "title": "بستان موسكوس (فرحات)، دمشق 1799  بستان موسكوس (فرحات)، دمشق 1799",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10031711f/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b10031711f",
+   "note": "بستان موسكوس (فرحات)، دمشق 1799"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "BnF Syriaque 239",
+   "title": "كتاب الفردوس أعني بستان الرهبان، كرشوني 1493  كتاب الفردوس أعني بستان الرهبان، كرشوني 1493",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53110247b/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b53110247b",
+   "note": "كتاب الفردوس أعني بستان الرهبان، كرشوني 1493"
+  },
+  {
+   "library": "BnF_Gallica",
+   "collection": "Ruhban_bustan_al_ruhban",
+   "shelfmark": "BnF Arabe 2120",
+   "title": "Paradise of the Fathers (Europeana)  Paradise of the Fathers (Europeana)",
+   "tier": 1,
+   "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11002309r/manifest.json",
+   "viewer": "https://gallica.bnf.fr/ark:/12148/btv1b11002309r",
+   "note": "Paradise of the Fathers (Europeana)"
+  },
+  {
+   "library": "Chester_Beatty",
+   "collection": "Ruhban_chester_beatty",
+   "shelfmark": "Cpt_1494",
+   "title": "Horsiesios' Letter 3",
+   "tier": 1,
+   "manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_1494/manifest/",
+   "viewer": "https://viewer.cbl.ie/viewer/image/Cpt_1494/",
+   "rights": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "library": "Chester_Beatty",
+   "collection": "Ruhban_chester_beatty",
+   "shelfmark": "Cpt_1495",
+   "title": "Horsiesios' Letter 4",
+   "tier": 1,
+   "manifest": "https://viewer.cbl.ie/viewer/api/v1/records/Cpt_1495/manifest/",
+   "viewer": "https://viewer.cbl.ie/viewer/image/Cpt_1495/",
+   "rights": "http://creativecommons.org/licenses/by/4.0/",
+   "pages": 1
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_cpart_byu",
+   "shelfmark": "CCP9-7",
+   "title": "CCP 9-7 — Order of Friars Minor. Novena commemorating the miracles of St. Anthony of Padua. Coptic Catholic Patriarchate",
+   "tier": 1,
+   "viewer": "https://archive.org/details/CCP9-7",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/CCP9-7/CCP%209-7.pdf",
+   "file_name": "CCP_9-7.pdf",
+   "size": 56939145,
+   "pages": null
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_cpart_byu",
+   "shelfmark": "CMB10-8",
+   "title": "CMB 10-8 — Kitab siyar al-aba'al-batarikay [The book of the lives of the fathers patriarchs (Parts 1 and 2)]. Coptic Museum",
+   "tier": 1,
+   "viewer": "https://archive.org/details/CMB10-8",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/CMB10-8/CMB_10-8.pdf",
+   "file_name": "CMB_10-8.pdf",
+   "size": 31201729,
+   "pages": null
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_cpart_byu",
+   "shelfmark": "COP7-3",
+   "title": "COP 7 3 — From the compositions of Bishop Gregory, John Chrysostom, Arsenius, and the book of Psalms. Coptic Orthodox Patriarchate",
+   "tier": 1,
+   "viewer": "https://archive.org/details/COP7-3",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/COP7-3/COP_7-3.pdf",
+   "file_name": "COP_7-3.pdf",
+   "size": 15088887,
+   "pages": null
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_cpart_byu",
+   "shelfmark": "CMB2-4",
+   "title": "CMB 2-4 — The book of Eustathius the monk. Coptic Museum",
+   "tier": 1,
+   "viewer": "https://archive.org/details/CMB2-4",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/CMB2-4/CMB_2-4.pdf",
+   "file_name": "CMB_2-4.pdf",
+   "size": 34183722,
+   "pages": null
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_cpart_byu",
+   "shelfmark": "COP8-8",
+   "title": "COP 8 8 — Ecclesiasticus. The book of Jesus, the son of Sirach; eleven questions and answers concerning Christology and othe religious topics; an exhortation compiled from the sayings of the sages. Co",
+   "tier": 1,
+   "viewer": "https://archive.org/details/COP8-8",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/COP8-8/COP_8-8.pdf",
+   "file_name": "COP_8-8.pdf",
+   "size": 24026198,
+   "pages": null
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_cpart_byu",
+   "shelfmark": "CMB10-9",
+   "title": "CMB 10-9 — Kitab siyar al-aba'al-batarikah [The book of the lives of the fathers patriarchs (Parts 3 and 4)]. Coptic Museum",
+   "tier": 1,
+   "viewer": "https://archive.org/details/CMB10-9",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/CMB10-9/CMB_10-9.pdf",
+   "file_name": "CMB_10-9.pdf",
+   "size": 29002534,
+   "pages": null
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_cpart_byu",
+   "shelfmark": "CMA7-9",
+   "title": "CMA 7-9 — A controversial discussion that took place between the monk, al-Sim'ani, and three individuals from the Muslims. Coptic Museum",
+   "tier": 1,
+   "viewer": "https://archive.org/details/CMA7-9",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/CMA7-9/CMA_7-9.pdf",
+   "file_name": "CMA_7-9.pdf",
+   "size": 5983046,
+   "pages": null
+  },
+  {
+   "library": "BYU_CPART_archive.org",
+   "collection": "Ruhban_cpart_byu",
+   "shelfmark": "CMB2-7",
+   "title": "CMB 2-7 — Kitab al-Shaykh al-Ruhani [The book of the Spiritual Elder]. Coptic Museum",
+   "tier": 1,
+   "viewer": "https://archive.org/details/CMB2-7",
+   "rights": "BYU Center for the Preservation of Ancient Religious Texts (CPART) via archive.org",
+   "file_url": "https://archive.org/download/CMB2-7/CMB_2-7.pdf",
+   "file_name": "CMB_2-7.pdf",
+   "size": 12009252,
+   "pages": null
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "2021667295",
+   "title": "Letters, Pedagogical Teachings, and Sayings of Saint Anthony of Egypt.",
+   "language": [
+    "arabic",
+    "english"
+   ],
+   "date": "1770-01-01",
+   "tier": 1,
+   "order": 0,
+   "pages": 368,
+   "loc_json": "https://www.loc.gov/item/2021667295/?fo=json",
+   "viewer": "https://www.loc.gov/item/2021667295/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279384015-ms",
+   "title": "Arabic Manuscripts 308. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1266",
+   "tier": 2,
+   "order": 1,
+   "pages": 433,
+   "loc_json": "https://www.loc.gov/item/00279384015-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279384015-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1v7136c",
+   "title": "Arabic Manuscripts 308. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v7136c/manifest",
+   "pages": 862,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279384040-ms",
+   "title": "Arabic Manuscripts 311. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1000",
+   "tier": 2,
+   "order": 1,
+   "pages": 318,
+   "loc_json": "https://www.loc.gov/item/00279384040-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279384040-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1b86xkt",
+   "title": "Arabic Manuscripts 311. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1b86xkt/manifest",
+   "pages": 634,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279384052-ms",
+   "title": "Arabic Manuscripts 312. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1000",
+   "tier": 2,
+   "order": 1,
+   "pages": 52,
+   "loc_json": "https://www.loc.gov/item/00279384052-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279384052-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1hx2h18",
+   "title": "Arabic Manuscripts 312. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1hx2h18/manifest",
+   "pages": 104,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279384398-ms",
+   "title": "Arabic Manuscripts 153. Martyrdoms and Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1151",
+   "tier": 2,
+   "order": 1,
+   "pages": 242,
+   "loc_json": "https://www.loc.gov/item/00279384398-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279384398-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1r79jjb",
+   "title": "Arabic Manuscripts 153. Martyrdoms and Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1r79jjb/manifest",
+   "pages": 474,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279384696-ms",
+   "title": "Arabic Manuscripts 274. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 573,
+   "loc_json": "https://www.loc.gov/item/00279384696-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279384696-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1gx5w5f",
+   "title": "Arabic Manuscripts 274. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gx5w5f/manifest",
+   "pages": 1136,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385305-ms",
+   "title": "Arabic Manuscripts 316. Mimars, Canon and Prayers.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1100",
+   "tier": 2,
+   "order": 1,
+   "pages": 274,
+   "loc_json": "https://www.loc.gov/item/00279385305-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385305-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1sr0j5g",
+   "title": "Arabic Manuscripts 316. Mimars, Canon and Prayers. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1sr0j5g/manifest",
+   "pages": 546,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385366-ms",
+   "title": "Arabic Manuscripts 331. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1227",
+   "tier": 2,
+   "order": 1,
+   "pages": 216,
+   "loc_json": "https://www.loc.gov/item/00279385366-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385366-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z10v9h5c",
+   "title": "Arabic Manuscripts 331. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10v9h5c/manifest",
+   "pages": 430,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385378-ms",
+   "title": "Arabic Manuscripts 350. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 273,
+   "loc_json": "https://www.loc.gov/item/00279385378-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385378-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z18p7j67",
+   "title": "Arabic Manuscripts 350. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18p7j67/manifest",
+   "pages": 548,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385391-ms",
+   "title": "Arabic Manuscripts 344. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 219,
+   "loc_json": "https://www.loc.gov/item/00279385391-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385391-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1mk7xks",
+   "title": "Arabic Manuscripts 344. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mk7xks/manifest",
+   "pages": 441,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385408-ms",
+   "title": "Arabic Manuscripts 343. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1612",
+   "tier": 2,
+   "order": 1,
+   "pages": 172,
+   "loc_json": "https://www.loc.gov/item/00279385408-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385408-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "0027938541A-ms",
+   "title": "Arabic Manuscripts 338. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 165,
+   "loc_json": "https://www.loc.gov/item/0027938541A-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/0027938541A-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1fx8v3z",
+   "title": "Arabic Manuscripts 338. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1fx8v3z/manifest",
+   "pages": 334,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385421-ms",
+   "title": "Arabic Manuscripts 332. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "0900",
+   "tier": 2,
+   "order": 1,
+   "pages": 396,
+   "loc_json": "https://www.loc.gov/item/00279385421-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385421-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1kp9krc",
+   "title": "Arabic Manuscripts 332. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kp9krc/manifest",
+   "pages": 794,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385433-ms",
+   "title": "Arabic Manuscripts 351. Mimars and Varia.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1635",
+   "tier": 2,
+   "order": 1,
+   "pages": 377,
+   "loc_json": "https://www.loc.gov/item/00279385433-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385433-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z18065z8",
+   "title": "Arabic Manuscripts 351. Mimars and Varia. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18065z8/manifest",
+   "pages": 766,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385445-ms",
+   "title": "Arabic Manuscripts 352. Mimars and Lives of Saints.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 344,
+   "loc_json": "https://www.loc.gov/item/00279385445-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385445-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z14b44n8",
+   "title": "Arabic Manuscripts 352. Mimars and Lives of Saints. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14b44n8/manifest",
+   "pages": 686,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385457-ms",
+   "title": "Arabic Manuscripts 353. Mimars and Varia.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1100",
+   "tier": 2,
+   "order": 1,
+   "pages": 419,
+   "loc_json": "https://www.loc.gov/item/00279385457-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385457-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1c26f6b",
+   "title": "Arabic Manuscripts 353. Mimars and Varia. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c26f6b/manifest",
+   "pages": 839,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279385470-ms",
+   "title": "Arabic Manuscripts 358. Mimars of St. Macarius.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1100",
+   "tier": 2,
+   "order": 1,
+   "pages": 287,
+   "loc_json": "https://www.loc.gov/item/00279385470-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279385470-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1xh1hbh",
+   "title": "Arabic Manuscripts 358. Mimars of St. Macarius. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xh1hbh/manifest",
+   "pages": 571,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "0027938975A-ms",
+   "title": "Arabic Manuscripts 385. St. Nicon the Hermit: Pandectes.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1224",
+   "tier": 2,
+   "order": 1,
+   "pages": 460,
+   "loc_json": "https://www.loc.gov/item/0027938975A-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/0027938975A-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1v14496",
+   "title": "Arabic Manuscripts 385. St. Nicon the Hermit: Pandectes. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v14496/manifest",
+   "pages": 916,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279389797-ms",
+   "title": "Arabic Manuscripts 369. Mimars and Varia.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1313",
+   "tier": 2,
+   "order": 1,
+   "pages": 218,
+   "loc_json": "https://www.loc.gov/item/00279389797-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279389797-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279389803-ms",
+   "title": "Arabic Manuscripts 368. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1260",
+   "tier": 2,
+   "order": 1,
+   "pages": 295,
+   "loc_json": "https://www.loc.gov/item/00279389803-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279389803-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z12c02c2",
+   "title": "Arabic Manuscripts 368. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz12c02c2/manifest",
+   "pages": 588,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279389815-ms",
+   "title": "Arabic Manuscripts 386. St. Nicon the Hermit: Pandectes.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 355,
+   "loc_json": "https://www.loc.gov/item/00279389815-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279389815-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279389827-ms",
+   "title": "Arabic Manuscripts 387. St. Nicon the Hermit: Pandectes.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 442,
+   "loc_json": "https://www.loc.gov/item/00279389827-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279389827-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1c54q6x",
+   "title": "Arabic Manuscripts 387. St. Nicon the Hermit: Pandectes. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c54q6x/manifest",
+   "pages": 880,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "0027939009A-ms",
+   "title": "Arabic Manuscripts 497. Apophthegmata.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1000",
+   "tier": 2,
+   "order": 1,
+   "pages": 191,
+   "loc_json": "https://www.loc.gov/item/0027939009A-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/0027939009A-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1bk2x0s",
+   "title": "Arabic Manuscripts 497. Apophthegmata. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bk2x0s/manifest",
+   "pages": 380,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390106-ms",
+   "title": "Arabic Manuscripts 496. Apophthegmata.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1239",
+   "tier": 2,
+   "order": 1,
+   "pages": 174,
+   "loc_json": "https://www.loc.gov/item/00279390106-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390106-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1j39wv8",
+   "title": "Arabic Manuscripts 496. Apophthegmata. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1j39wv8/manifest",
+   "pages": 350,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390131-ms",
+   "title": "Arabic Manuscripts 505. Mimars and Lives of Saints.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 346,
+   "loc_json": "https://www.loc.gov/item/00279390131-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390131-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1ng688s",
+   "title": "Arabic Manuscripts 505. Mimars and Lives of Saints. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ng688s/manifest",
+   "pages": 694,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390398-ms",
+   "title": "Arabic Manuscripts 541. Life of St. Pachomius.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 110,
+   "loc_json": "https://www.loc.gov/item/00279390398-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390398-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1v42csn",
+   "title": "Arabic Manuscripts 541. Life of St. Pachomius. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v42csn/manifest",
+   "pages": 222,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390878-ms",
+   "title": "Arabic Manuscripts 435. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1142",
+   "tier": 2,
+   "order": 1,
+   "pages": 258,
+   "loc_json": "https://www.loc.gov/item/00279390878-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390878-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1zk6kz9",
+   "title": "Arabic Manuscripts 435. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zk6kz9/manifest",
+   "pages": 516,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "0027939088A-ms",
+   "title": "Arabic Manuscripts 434. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1137",
+   "tier": 2,
+   "order": 1,
+   "pages": 255,
+   "loc_json": "https://www.loc.gov/item/0027939088A-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/0027939088A-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z13b73gf",
+   "title": "Arabic Manuscripts 434. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz13b73gf/manifest",
+   "pages": 514,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390891-ms",
+   "title": "Arabic Manuscripts 431. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "0900",
+   "tier": 2,
+   "order": 1,
+   "pages": 332,
+   "loc_json": "https://www.loc.gov/item/00279390891-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390891-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1p28qb0",
+   "title": "Arabic Manuscripts 431. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1p28qb0/manifest",
+   "pages": 659,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390908-ms",
+   "title": "Arabic Manuscripts 428. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "0900",
+   "tier": 2,
+   "order": 1,
+   "pages": 353,
+   "loc_json": "https://www.loc.gov/item/00279390908-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390908-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z13j4xnj",
+   "title": "Arabic Manuscripts 428. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz13j4xnj/manifest",
+   "pages": 702,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390933-ms",
+   "title": "Arabic Manuscripts 436. Mimars and Lives of Saints.",
+   "language": [
+    "arabic"
+   ],
+   "date": "0900",
+   "tier": 2,
+   "order": 1,
+   "pages": 390,
+   "loc_json": "https://www.loc.gov/item/00279390933-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390933-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390957-ms",
+   "title": "Arabic Manuscripts 438. Mimars and Lives of Saints.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 452,
+   "loc_json": "https://www.loc.gov/item/00279390957-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390957-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1j97zm8",
+   "title": "Arabic Manuscripts 438. Mimars and Lives of Saints. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1j97zm8/manifest",
+   "pages": 905,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390982-ms",
+   "title": "Arabic Manuscripts 441. Mimars, Lives of Saints and Varia.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1196",
+   "tier": 2,
+   "order": 1,
+   "pages": 329,
+   "loc_json": "https://www.loc.gov/item/00279390982-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390982-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1x93fkh",
+   "title": "Arabic Manuscripts 441. Mimars, Lives of Saints and Varia. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x93fkh/manifest",
+   "pages": 658,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279390994-ms",
+   "title": "Arabic Manuscripts 447. Mimars, Lives of Saints, etc.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 246,
+   "loc_json": "https://www.loc.gov/item/00279390994-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279390994-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z11r884x",
+   "title": "Arabic Manuscripts 447. Mimars, Lives of Saints, etc. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz11r884x/manifest",
+   "pages": 496,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391007-ms",
+   "title": "Arabic Manuscripts 446. Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 234,
+   "loc_json": "https://www.loc.gov/item/00279391007-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391007-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1dn58h3",
+   "title": "Arabic Manuscripts 446. Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dn58h3/manifest",
+   "pages": 464,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391019-ms",
+   "title": "Arabic Manuscripts 445. Mimars, Lives, Canons, etc.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1233",
+   "tier": 2,
+   "order": 1,
+   "pages": 467,
+   "loc_json": "https://www.loc.gov/item/00279391019-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391019-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1h720g0",
+   "title": "Arabic Manuscripts 445. Mimars, Lives, Canons, etc. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1h720g0/manifest",
+   "pages": 932,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391032-ms",
+   "title": "Arabic Manuscripts 443. Mimars, Martydoms and Lives of Saints.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1278",
+   "tier": 2,
+   "order": 1,
+   "pages": 316,
+   "loc_json": "https://www.loc.gov/item/00279391032-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391032-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1jd617t",
+   "title": "Arabic Manuscripts 443. Mimars, Martydoms and Lives of Saints. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jd617t/manifest",
+   "pages": 632,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391056-ms",
+   "title": "Arabic Manuscripts 448. Mimars, Lives of Saints, etc.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 329,
+   "loc_json": "https://www.loc.gov/item/00279391056-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391056-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391093-ms",
+   "title": "Arabic Manuscripts 455. Mimars, Lives of Saints and Old Testament.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1100",
+   "tier": 2,
+   "order": 1,
+   "pages": 411,
+   "loc_json": "https://www.loc.gov/item/00279391093-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391093-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z18w4hqg",
+   "title": "Arabic Manuscripts 455. Mimars, Lives of Saints and Old Testament. — تصوير ملون UCLA",
+   "language": "Arabic|Latin",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18w4hqg/manifest",
+   "pages": 812,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391111-ms",
+   "title": "Arabic Manuscripts 471. Lives of Saints and Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 197,
+   "loc_json": "https://www.loc.gov/item/00279391111-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391111-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z17q0h5r",
+   "title": "Arabic Manuscripts 471. Lives of Saints and Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17q0h5r/manifest",
+   "pages": 394,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391123-ms",
+   "title": "Arabic Manuscripts 469. Lives of Saints and Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 120,
+   "loc_json": "https://www.loc.gov/item/00279391123-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391123-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1fn29g7",
+   "title": "Arabic Manuscripts 469. Lives of Saints and Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1fn29g7/manifest",
+   "pages": 242,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391184-ms",
+   "title": "Arabic Manuscripts 474. Mimars and Patristica.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 331,
+   "loc_json": "https://www.loc.gov/item/00279391184-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391184-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z14j1zq1",
+   "title": "Arabic Manuscripts 474. Mimars and Patristica. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14j1zq1/manifest",
+   "pages": 668,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391196-ms",
+   "title": "Arabic Manuscripts 475. Martydoms, Lives of Saints and Mimars.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 278,
+   "loc_json": "https://www.loc.gov/item/00279391196-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391196-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z10s1703",
+   "title": "Arabic Manuscripts 475. Martydoms, Lives of Saints and Mimars. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10s1703/manifest",
+   "pages": 553,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391226-ms",
+   "title": "Arabic Manuscripts 478. Mimars and Commentary.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 247,
+   "loc_json": "https://www.loc.gov/item/00279391226-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391226-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "St Catherine's Monastery, Sinai (UCLA/EMEL)",
+   "collection": "Ruhban_Sinai_UCLA_color",
+   "shelfmark": "z1kh2mvr",
+   "title": "Arabic Manuscripts 478. Mimars and Commentary. — تصوير ملون UCLA",
+   "language": "Arabic",
+   "tier": 1,
+   "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kh2mvr/manifest",
+   "pages": 492,
+   "rights": "St Catherine's Monastery / UCLA (CC BY-NC 4.0)"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00279391263-ms",
+   "title": "Arabic Manuscripts. 482. Mimars and Lives of Saints.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1200",
+   "tier": 2,
+   "order": 1,
+   "pages": 303,
+   "loc_json": "https://www.loc.gov/item/00279391263-ms/?fo=json",
+   "viewer": "https://www.loc.gov/item/00279391263-ms/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00271070937-jo",
+   "title": "Arabic 31.Sermons and Letter of Isaac the Syrian. 14th cent. ? 160 f. Pa. 23 ft.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1300",
+   "tier": 2,
+   "order": 2,
+   "pages": 165,
+   "loc_json": "https://www.loc.gov/item/00271070937-jo/?fo=json",
+   "viewer": "https://www.loc.gov/item/00271070937-jo/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "LoC",
+   "collection": "Ruhban_loc_full",
+   "shelfmark": "00271071127-jo",
+   "title": "Arabic 56.Monastic Rules. 1825 A.D. 154 f. Pa. 20 ft.",
+   "language": [
+    "arabic"
+   ],
+   "date": "1825",
+   "tier": 2,
+   "order": 2,
+   "pages": 158,
+   "loc_json": "https://www.loc.gov/item/00271071127-jo/?fo=json",
+   "viewer": "https://www.loc.gov/item/00271071127-jo/",
+   "rights": "Provided by the Library of Congress"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Ruhban_umich_exhibits",
+   "shelfmark": "8849 Mich. Ms. 158.13",
+   "title": "Mich. Ms. 158.13Shenoute of Atripe (ca. 348-465). Acephalos work A6: 3-4. Parchment. First leaf of a two-leaf fragment (bifolium). Recto. White Monastery, Sohag (Egypt). Fragments of the same manuscri",
+   "tier": 1,
+   "images": [
+    "https://apps.lib.umich.edu/online-exhibits/files/original/d18b00df9909ac5fdcc8cb070e17c98e.jpg"
+   ],
+   "pages": 1,
+   "viewer": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/coptic-manuscripts/item/8849",
+   "rights": "University of Michigan Library online exhibits"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Ruhban_umich_exhibits",
+   "shelfmark": "8850 Mich. Ms. 158.13",
+   "title": "Mich. Ms. 158.13Shenoute of Atripe (ca. 348-465). Acephalos work A6: 3-4. Parchment. First leaf of a two-leaf fragment (bifolium). Verso. White Monastery, Sohag (Egypt). Fragments of the same manuscri",
+   "tier": 1,
+   "images": [
+    "https://apps.lib.umich.edu/online-exhibits/files/original/20fbdf8ada65ae70d3d579f29d7f435e.jpg"
+   ],
+   "pages": 1,
+   "viewer": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/coptic-manuscripts/item/8850",
+   "rights": "University of Michigan Library online exhibits"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Ruhban_umich_exhibits",
+   "shelfmark": "8852 Mich. Ms. 158.17",
+   "title": "Mich. Ms. 158.17Shenoute of Atripe (ca. 348-465). Canon 4, Why, O Lord: 233-4. Parchment. First leaf of a two-leaf fragment (bifolium). Recto. White Monastery, Sohag (Egypt). Fragments of the same man",
+   "tier": 1,
+   "images": [
+    "https://apps.lib.umich.edu/online-exhibits/files/original/653b5e65ab09ac83f570515ed085a6ac.jpg"
+   ],
+   "pages": 1,
+   "viewer": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/coptic-manuscripts/item/8852",
+   "rights": "University of Michigan Library online exhibits"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Ruhban_umich_exhibits",
+   "shelfmark": "8854 Mich. Ms. 158.17",
+   "title": "Mich. Ms. 158.17Shenoute of Atripe (ca. 348-465). Canon 4, Why, O Lord. Parchment. First leaf of a two-leaf fragment (bifolium). Verso. White Monastery, Sohag (Egypt). Fragments of the same manuscript",
+   "tier": 1,
+   "images": [
+    "https://apps.lib.umich.edu/online-exhibits/files/original/30e7a724311c98ad41d5fd0193d5ad21.jpg"
+   ],
+   "pages": 1,
+   "viewer": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/coptic-manuscripts/item/8854",
+   "rights": "University of Michigan Library online exhibits"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Ruhban_umich_exhibits",
+   "shelfmark": "8856 Mich. Ms. 158.18",
+   "title": "Mich. Ms. 158.18Shenoute of Atripe (ca. 348-465). Canon 9, God Who Alone is True: 233-4. Parchment. Recto. White Monastery, Sohag (Egypt). Fragments of the same manuscript are kept in Cairo. ca. 7th-8",
+   "tier": 1,
+   "images": [
+    "https://apps.lib.umich.edu/online-exhibits/files/original/549e72b530375451a39658b285d744a4.jpg"
+   ],
+   "pages": 1,
+   "viewer": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/coptic-manuscripts/item/8856",
+   "rights": "University of Michigan Library online exhibits"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Ruhban_umich_exhibits",
+   "shelfmark": "8858 Mich. Ms. 158.18",
+   "title": "Mich. Ms. 158.18Shenoute of Atripe (ca. 348-465). Canon 9, God Who Alone is True: 233-4. Parchment. Verso. White Monastery, Sohag (Egypt). Fragments of the same manuscript are kept in Cairo. ca. 7th-8",
+   "tier": 1,
+   "images": [
+    "https://apps.lib.umich.edu/online-exhibits/files/original/d770bb155d32dafec18b265bec7e19cb.jpg"
+   ],
+   "pages": 1,
+   "viewer": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/coptic-manuscripts/item/8858",
+   "rights": "University of Michigan Library online exhibits"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Ruhban_umich_exhibits",
+   "shelfmark": "8860 Mich. Ms. 158.14",
+   "title": "Mich. Ms. 158.14Shenoute of Atripe (ca. 348-465). Canon 7. Acephalos work A13: 79: i.1-ii.32. Is Ecclesiastes Not Wise: 80: i.2-ii.33. Parchment. Recto. White Monastery, Sohag (Egypt). Fragments of th",
+   "tier": 1,
+   "images": [
+    "https://apps.lib.umich.edu/online-exhibits/files/original/c27b96abb45fb3456d1a150f04aac360.jpg"
+   ],
+   "pages": 1,
+   "viewer": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/coptic-manuscripts/item/8860",
+   "rights": "University of Michigan Library online exhibits"
+  },
+  {
+   "library": "University of Michigan",
+   "collection": "Ruhban_umich_exhibits",
+   "shelfmark": "8862 Mich. Ms. 158.14",
+   "title": "Mich. Ms. 158.14Shenoute of Atripe (ca. 348-465). Canon 7. Acephalos work A13: 79: i.1-ii.32. Is Ecclesiastes Not Wise: 80: i.2-ii.33. Parchment. Verso. White Monastery, Sohag (Egypt). Fragments of th",
+   "tier": 1,
+   "images": [
+    "https://apps.lib.umich.edu/online-exhibits/files/original/982e43f0c448e6d8a1c1fd601ec3e3b9.jpg"
+   ],
+   "pages": 1,
+   "viewer": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/coptic-manuscripts/item/8862",
+   "rights": "University of Michigan Library online exhibits"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.57",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.57/manifest.json",
+   "pages": 573,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.57",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.58",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.58/manifest.json",
+   "pages": 406,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.58",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.59",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.59/manifest.json",
+   "pages": 174,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.59",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.60",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.60/manifest.json",
+   "pages": 265,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.60",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.61",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.61/manifest.json",
+   "pages": 462,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.61",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.62",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.62/manifest.json",
+   "pages": 600,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.62",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.63",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.63/manifest.json",
+   "pages": 213,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.63",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.64",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.64/manifest.json",
+   "pages": 384,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.64",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.65",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.65/manifest.json",
+   "pages": 254,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.65",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.66",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.66/manifest.json",
+   "pages": 649,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.66",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.67",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.67/manifest.json",
+   "pages": 276,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.67",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.68",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.68/manifest.json",
+   "pages": 410,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.68",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  },
+  {
+   "library": "Vatican_BAV",
+   "collection": "Ruhban_vatican_full",
+   "shelfmark": "Vat.copt.69",
+   "tier": 1,
+   "order": 0,
+   "priority": 1,
+   "manifest": "https://digi.vatlib.it/iiif/MSS_Vat.copt.69/manifest.json",
+   "pages": 482,
+   "viewer": "https://digi.vatlib.it/view/MSS_Vat.copt.69",
+   "note": "provenance Dayr Anba Maqar per Buzi 2019 (verify)",
+   "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+   "title": "بحيري من دير أنبا مقار (نقله أسماني للفاتيكان 1715) — سير وميامر آباء/قديسين (Hyvernat)"
+  }
+ ]
+}
